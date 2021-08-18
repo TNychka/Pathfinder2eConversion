@@ -1,0 +1,293 @@
+watermark (
+Version 0.16
+)
+title (
+Pathfinder's Guide to Eberron 
+)
+head(
+## Bugbears ((+Bugbears))
+Dhakaani bugbears are known as Guul’dar, “strong folk,” and are celebrated for their strength and courage. Though they appear slow, they are capable of great bursts of strength or speed when necessary. Many yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha. Others instead find themselves at peace in small isolated clans, moving in flow with the nature around them.
+)
+Bugbears are storybook monsters in the tales and nightmares of many peoples. Stories speak of bugbears as great, hairy beasts that lurk in the shadows - waiting silently to spring their ambush. That if you stay off the beaten path or wander too far from your parents, a bugbear will reach out of the shadows and silently strangle you. If you leave the protection of your town at night, bugbears will drag you to their den to devour you alive. If a bugbear cuts off your head, your soul will never reach dolurrh.
+
+These terrible stories of bugbears flowered from seeds of truth. Most bugbears rely on stealth and strength to attack, using great bursts of energy to end fights before the enemy is even aware they are there. Most bugbears even prefer to work at night, aiding their natural stealth despite their great size. While there are stories of bugbear mercenaries taking heads of enemy leaders during the last war, bugbears are no more likely to eat people indiscriminately than humans are. As for the bugbears of the forests, many follow the peace and flow of nature rather than the violence of war. There are many a story of stoic bugbear rangers or druids guiding lost troops through impossible terrain to safety during the war.
+
+Now, as the nation of Darguun forms out of the ashes of the last war, the Guul'dar once again have an increasing presence in the civilized parts of the continent of Khorvaire.
+## You might...
+- Present an air of indolence the hides the vicious ferocity you display in battle.
+- Use your great strength, long limbs, and endurance to perform feats of athletics that few others are capable of.
+- Move slowly and in time with the world around you, listening and waiting until the time is right to expend your energy.
+|
+## Others Probably...
+- Walk and talk cautiously around you, in fear of invoking your ire.
+- Look to use your might to their advantage, assuming that you are easily outsmarted.
+- Underestimate your silent step - assuming that your great mass could not possibly move as quietly as the stories say.
+
+## Physical Description...
+These stealthy and strong goblinoid creatures can thrive in the mayhem of battle and move slowly with the world around them - conserving great reserves of energy until needed. Standing between 6 to 8 feet tall and 250 to 300lbs, bugbears outsize most humanoids that they meet. Bugbears are typically extremely muscular, able to lift and move great weights with their long limbs. They are covered in thick short yellowish fur and share the same pointed ears as their goblinoid cousins. Using their long limbs bugbears can wield weapons with greater reach than most.
+
+Despite their great size, Bugbears show an uncanny ability to sneak up on the unsuspecting. They can use their quiet step and darkvision to move quietly through the night. Unnoticed if they so desire.
+
+Bugbears reach physical adulthood around the age of 16, and they can live up to 80 years. However, given that most strive for glory in battle or perform dangerous manual labour, death by old age is relatively uncommon among Bugbears.
+
+## Society...
+The goblinoid society of Darguun is "bound together both by the philosophy of muut and atcha and by the spiritual connection of the Uul Dhakaan. Their lives are shaped by a relentless martial culture and a rigid caste system."[1] 
+=
+right(
+## Hit Points
+10
+## Size
+Medium
+## Speed
+20 feet
+## Ability Boosts
+Strength
+Free
+
+## Languages
+Common
+Goblin
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from Gnomish, Dwarvish, Elvish and any other languages to which you have access (such as the languages prevalent in your region).
+## Traits
+Goblin
+Humanoid
+## Darkvision
+You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
+)
+"Muut is typically translated as 'duty,' though it can also be seen as 'the honor of the empire'— something everyone must work to maintain. Muut is what is expected of you, what you owe to your comrades. Dhakaani don’t expect thanks for doing something that has to be done; rather, they are disgusted by those who shirk their responsibilities. The closest dar equivalent to “thank you” is ta muut, which simply means, 'You do your duty.'
+
+By contrast, atcha refers to 'personal honor' or 'glory,' an opportunity to exceed what is required of you. No dar is content to simply do what is expected; the quest for atcha is a powerful driving force that urges dar to chase their full potential. In battle, the exhortation paatcha means, 'This is a chance to gain honor!'"[2] 
+
+However, not all bugbears are part of the Dhakaani, and many of these bugbears are integrated with the cultures around them. Some may have adopted the human cultures of the cities in which they were born or the druidic customs of their isolated clans in the forests of the world.
+
+note(
+See Exploring Eberron (p. 96) for more information on Dhakaani Society.
+)
+## Alignment and Religion...
+The Alignment and Religion of an individual bugbear depends on the culture in which they were raised. For the bugbears of the Dhakaani empire, their alignment is driven to a lawful behaviour as fits their spiritual connection to the empire.
+
+"The general mindset of the dar is ill-suited to the abstract concept of faith, whether in higher powers or the world itself. They believe in the past. They believe in their leaders. But they don’t believe that there are cosmic powers or prophecies that control fate."[3]
+
+## Names...
+Goblinoid names often feature drawn-out vowel sounds (represented by doubled letters), as seen in the names of both their ancient empire (Dhakaan) and their newborn country (Darguun). Goblins, hobgoblins, and bugbears use the same names and naming conventions, despite their tribal differences.[4]
+
+### Sample Names
+**Male Names:** Aruget, Chetiin, Daavn, Dabrak, Dagii, Drevduul, Duulan, Fenic, Gudruun, Haluun, Haruuc, Jhazaal, Kallaad, Krakuul, Krootad, Mazaan, Munta, Nasaar, Rakari, Reksiit, Tariic, Taruuzh, Thuun, Vanii, Vanon, Wuudaraj
+
+**Female Names:** Aaspar, Aguus, Belaluur, Denaal, Draraar, Duusha, Ekhaas, Eluun, Graal, Gaduul, Hashak, Jheluum, Kelaal, Mulaan, Nasree, Raleen, Razu, Rekseen, Senen, Shedroor, Tajiin, Tuneer, Valii, Wuun
+=
+# Bugbear Heritages
+Bugbears have less variation in their physical stature than goblins, but there are still a few distinct heritages that present in bugbears. Choose one of the following bugbear heritages at 1st level.
+
+## Ghaal Guul'dar
+You are bigger than most bugbears, and you use that to your advantage. You are trained in Athletics (or another skill if you were already trained in Athletics). In addition, you gain the Assurance general skill feat in the Athletics skill.
+
+## Khesh Guul'dar
+Your stealth is uncanny, your step light, and your muddy yellow fur seems to blend with the natural world more than most bugbears. You are trained in Stealth (or another skill if you were already trained in Stealth). In addition, you gain the Terrain Stalker feat.
+
+## Thradaask Guul'Dar
+You have resilience and an unshakable spirit that can keep you standing through wounds that would be fatal to others. You gain the Diehard general feat and gain a +1 circumstance bonus to all Recovery Checks.
+  
+# Ancestry Feats
+At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Bugbear, you select from among the following ancestry feats.
+
+#### 1st Level
+item(
+# Bugbear Lore
+## Feat 1
+-
+; Bugbear 
+You've studied bugbear traditions and survival tactics. You become trained in Athletics and Survival. For each of these skills in which you were already trained, you become trained in a skill of your choice. You also become trained in Bugbear Lore.
+)
+item(
+# Bugbear Weapon Familiarity
+## Feat 1
+-
+; Bugbear 
+You are trained with the composite longbows, composite shortbows, longbows, shortbows, flails, and war flails.
+
+In addition, you gain access to all uncommon goblin weapons. For the purpose of determining your proficiency, martial goblin weapons are simple weapons and advanced goblin weapons are martial weapons. 
+)
+|
+item(
+# Bully
+## Feat 1
+-
+; Bugbear 
+Your long limbs and great strength provide you an advantage in physical contests on the battlefield. Whenever you use an Athletics skill with the attack trait on a creature smaller than you, you gain a +1 circumstance bonus.
+)
+item(
+# Courage
+## Feat 1
+-
+; Bugbear 
+Your courage on the battlefield is unmatched. You gain a +1 circumstance bonus to saves against effects with the fear trait, and a +2 circumstance bonus to your Will DC against Intimidate skill actions, such as Demoralize.
+)
+item(
+# Heavy Blows
+## Feat 1
+-
+; Bugbear 
+Your long limbs give extra strength to your blows. Your fist unarmed attacks no longer have the nonlethal trait and gain the shove weapon trait.
+)
+item(
+# Stalker
+## Feat 1
+-
+; Bugbear 
+Stealth is an important tool in your arsenal. You can move 5 feet farther when you take the Sneak action, up to your Speed. In addition, as long as you continue to use Sneak actions and succeed at your Stealth check, you don't become observed if you don't have cover or greater cover and aren't concealed at the end of the Sneak action, as long as you have cover or greater cover or are concealed at the end of your turn. 
+)
+item(
+# Storybook Monster
+## Feat 1
+-
+; Bugbear 
+You use bugbears' reputation to your advantage. Against any of the common ancestries of Eberron, you gain a +2 circumstance bonus to intimidation checks.
+)
+item(
+# Vigorous Health
+## Feat 1
+-
+; Bugbear 
+Your physique is robust and can withstand blood loss startlingly well. Whenever you would gain the drained condition, you can attempt a DC 17 flat check. On a success, you don’t gain the drained condition.
+)
+=
+#### 5th Level
+item(
+# Bugbear Endurance :r:
+## Feat 5
+-
+; Bugbear 
+**Frequency** once per hour
+
+**Trigger**  You would be reduced to 0 Hit Points but not immediately killed.
+-
+You stand through wounds that would drop most mortals. Make a DC 10 flat check. On a success you avoid being knocked out and remain at 1 Hit Point, and your wounded condition increases by 1.
+)
+item(
+# Steadfast
+## Feat 5
+-
+; Bugbear 
+**Prerequisite** Courage
+-
+When you gain the fleeing condition, its value is reduced by 1 (to a minimum of 1). In addition, you may choose to Delay your turn even if you have the fleeing condition - standing resolute in the face of fear.
+)
+item(
+# Sturdy Stance
+## Feat 5
+-
+; Bugbear
+You use your natural mass to resist effects that would move you against your will. Gain a +1 circumstance bonus to DCs to resist Athletics checks with the attack trait.
+)
+item(
+# Tyrant
+## Feat 5
+-
+; Bugbear
+
+**Prerequisite** Bully
+-
+You're able to control the battlefield by throwing your muscle around. The effects of Bully apply to any creature at most one size larger than you. If your check is a critical failure, it is a failure instead.
+)
+item(
+# Unarmed Reach
+## Feat 5
+-
+; Bugbear 
+You have an extraordinarily long reach - and practice using it. With a combination of lunges and arcing swings you can deliver blows at a distance on the battlefield. Your unarmed attacks gain the reach trait. In addition, you can make any Athletics skill check with the attack trait as if it had the Reach trait.
+)
+item(
+# Work horse
+## Feat 5
+-
+; Bugbear 
+You can use your mass and strength to carry more than most humanoids for longer durations. You gain the Hefty Hauler skill feat. In addition, when you have the encumbered condition, the speed penalty is reduced by 5.
+)
+|
+#### 9th Level
+item(
+# Bugbear fortitude
+## Feat 9
+-
+; Bugbear 
+Your hardiness lets you withstand more punishment than most before going down. Increase your maximum Hit Points by your level. When you have the dying condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
+
+If you also have the Toughness feat, the Hit Points gained from it and this feat are cumulative, and the DC of your recovery checks is equal to 6 + your dying value.
+
+If you also have Bugbear Endurance, the flat check DC is reduced by 1.
+)
+item(
+# Heavy Hauler
+## Feat 9
+-
+; Bugbear 
+**Prerequisite** Work Horse
+-
+You do not suffer any penalties from the Encumbered condition. You still cannot carry bulk greater than 10 plus your strength modifier.
+)
+item(
+# Stand by the Strong :r:
+## Feat 9
+-
+; Bugbear, Auditory, Emotion, Mental
+**Frequency** once per day
+
+**Trigger** An ally within 30 feet of you makes a saving throw against an effect with the fear trait.
+-
+You can use your reaction with a shout to reinforce your ally's courage in battle. If you ally can hear you, your ally gains a +2 circumstance bonus to their save.
+
+**Special** You can use your reaction after you know the result of the check.
+)
+=
+item(
+# Unstoppable
+## Feat 9
+-
+; Bugbear 
+Walking speed penalties can't reduce your Speed below 10 feet. In addition when you use the Escape action, critical failures and successes are one step better.
+)
+#### 13th Level
+item(
+# Flexible Might
+## Feat 13
+-
+; Bugbear 
+Your long limbs and great strength are impossible for enemies to control. When you are Grabbed or Restrained, you may continue to use actions with the manipulate and attack trait. 
+)
+item(
+# Martial Reach
+## Feat 13
+-
+; Bugbear 
+You have an extraordinarily long reach and practice using it on the battlefield. When wielding any Melee weapon with which you are at least trained, it gains the Reach trait. If it already has the reach trait, the trait stacks.
+)
+item(
+# Silent Stalker
+## Feat 13
+**Prerequisite** Stalker
+-
+; Bugbear 
+You can move up to your Speed when you use the Sneak action, and you no longer need to have cover or greater cover or be concealed to Hide or Sneak.
+)
+#### 17th Level
+item(
+# Bugbear Juggernaut :f:
+## Feat 17
+-
+**Prerequisite** Bugbear Endurance
+
+**Trigger** You use Bugbear Endurance
+-
+; Bugbear 
+You refuse to fall no matter how many blows land. Bugbear Endurance gains the following levels of success based on the flat check.
+
+**Critical Success** As in success, but this activation of Bugbear Endurance doesn't count against its frequency.
+
+**Success** As in Bugbear Endurance, but your wounded condition does not increase. 
+)
+=
+[1] Exploring Eberron - Keith Baker pg 109
+[2] Exploring Eberron - Keith Baker pg 99
+[3] Exploring Eberron - Keith Baker pg 109
+[4] Eberron Rising from the Last War - Keith Baker pg 25

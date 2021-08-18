@@ -1,0 +1,1590 @@
+watermark (
+Version 0.18.2
+)
+title (
+Pathfinders' Guide to Eberron 
+)
+head(
+## Dragonmarks ((Dragonmarks))
+With a flash from the Dragonmark of a Dennith heir, the swing of a blade is deflected at the last moment. As a peace negotiation comes to a close, the glow of a Mark of Detection stops a hidden blade from ending it in war. Dragonmarks are powers that the heirs of twelve houses use to empower their skillset and specialize in their fields.
+-
+)
+    Dragonmarks are arcane symbols that have appeared on seven of Khorvaire's common races. They are more intricate than a birthmark but more distinct than a tattoo. Scholars still aren't sure as to the origins of Dragonmarks, yet their effect on the world is undeniable. 
+    Of the thirteen true dragonmarks that once existed, twelve families of dragonmarks remain. With the power of marks, these powerful bloodlines have formed houses that control large pieces of the economy of Khorvaire. Though the houses are bound by the laws of the Korth Edict, in the wake of the last war the boundaries of these laws are being tested. Though you bear a mark, it is up to you to decide how you relate to these powerful dragonmarked dynasties.
+
+##### Table 2-1: Dragonmarked Houses ((+Dragonmarked Houses))
+
+Dragonmark | House | Ancestry | Guild Specialties
+--- | :---: | :---: | :---: 
+Detection | Medani | Half-elf | Bodyguards, investigation, risk management
+Finding | Tharashk | Human, half-orc | Bounty hunting, investigation, prospecting
+Handling | Vadalis | Human | Animal training and breeding
+Healing | Jorasco | Halfling | Healing
+Hospitality | Ghallanda | Halfling | Food, lodging, urban information
+Making | Cannith | Human | Manufacturing
+Passage | Orien | Human | Land transportation
+Scribing | Sivis | Gnome| Communication, translation, verification
+Sentinel | Deneith | Human | Bodyguards, mercenaries
+Shadow | Phiarlan, Thuranni | Elf | Entertainment, espionage, assassination
+Storm | Lyrandar | Half-elf | Air and sea transportation
+Warding | Kundarak | Dwarf | Banking, storage, prisons
+Aberrant | Tarkanan | Any | Assassination, thievery, crime
+/
+
+## Dragonmark Focus Spells ((+Dragonmark Focus Spells))
+    Dragonmarks are unique in that they provide arcane specialization, but only one specific area. Since it is possible to have focus points from multiple sources, any source that provides focus points with the Dragonmark trait cannot be combined with any focus point sources that do not have the Dragonmark trait. The reverse is also true. Dragonmark focus points should effectively be considered a unique pool, with a proficiency rank for spell attack rolls and spell DCs.  All Dragonmark focus spells are considered to be of the Arcane tradition.
+    Generally, Dragonmarks follow all the rules for focus spells, including heightening, refocusing, and multiple point sources. It costs 1 Dragonmark Focus Point to cast a Dragonmark focus spell. You refill your Dragonmark focus pool during your daily preparations, and you can regain 1 Dragonmark Focus Point by spending 10 minutes using the Refocus activity to recharge the powers of your Dragonmark. Dragonmark Focus spells are automatically heightened to half your level rounded up unless otherwise noted  - such as by limitations of the power of your mark.
+    Dragonmark Focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats can give you more Dragonmark focus spells and increase the size of your Dragonmark focus pool, though your Dragonmark focus pool can never hold more than 3 Dragonmark Focus Points. Dragonmark focus spells follow all rules for focus spells which appear on page 300 of the Core Rule book, but may not be combined with any feats that do not have the dragonmark trait.
+=  
+## Dragonmark Traits ((+Dragonmark Traits))
+    **Aberrant Mark:** This mark is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait.
+    **Dragonmark:** You may only pick feats with this trait if you have the dragonmarked heritage trait. Items and Spells with this trait are powered by your dragonmark and require that you have the dragonmark trait to interact with them.
+    **Dragonmarked Heritage** When you select your heritage as one of the dragonmarked bloodlines, you gain this trait. This does not necessarily mean you have a dragonmark, only that you have the potential to develop and use one.
+    **Mark of Detection:** This mark is unique to the Mark of Detection Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Mark of Detection trait.
+    **Mark of Finding:** This mark is unique to the Mark of Finding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Finding trait.
+    **Mark of Handling:** This mark is unique to the Mark of Handling Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Handling trait.
+    **Mark of Healing:** This mark is unique to the Mark of Healing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Healing trait.
+    **Mark of Hospitality:** This mark is unique to the Mark of Hospitality Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Hospitality trait.
+    **Mark of Making:** This mark is unique to the Mark of Detection Making. You may only select feats and cast spells with this Trait if you possess the Mark of Making trait.
+    **Mark of Passage:** This mark is unique to the Mark of Passage. You may only select feats and cast spells with this Trait if you possess the Mark of Passage trait.
+    **Mark of Scribing:** This mark is unique to the Mark of Scribing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Scribing trait.
+    **Mark of Sentinel:** This mark is unique to the Mark of Sentinel Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Sentinel trait.
+    **Mark of Shadow:** This mark is unique to the Mark of Shadow Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Shadow trait.
+    **Mark of Storm:** This mark is unique to the Mark of Storm Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Storm trait.
+    **Mark of Warding:** This mark is unique to the Mark of Warding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Warding trait.
+
+=
+## Dragonmarked Heritage Feats ((+Dragonmarked Heritage Feats))
+If you have the dragonmarked heritage trait, you may additionally pick from any of the following feats as Ancestry feats.
+
+right(
+# Manifesting a Dragonmark
+Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. 
+  
+Children are not born with their marks. Rather, a dragonmark most often appears in response to a stressful situation in which the powers of the mark could prove useful. A Jorasco heir feels her dragonmark flare to life as her best friend lies dying. A Medani scion instinctively realizes the meal he is about to eat is poisoned, and in an instant of burning pain, the mark appears. However, this is not exclusively the case. Sometimes marks will appear later in life, or even never manifest.
+  
+If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities. Though most marks start as least marks, some will manifest a lesser mark or even greater mark without explanation. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If you do not meet the prerequisites or level of the dragonmarked feat, it gains the Rare trait instead of Uncommon.
+)
+
+#### 1st Level
+item(
+# Least Mark
+## Feat 1
+-
+; Uncommon, Dragonmark
+You gain a Dragonmark focus pool of 1. You become trained in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are Dragonmark automatically heightened to half your level rounded up, to a maximum of 3. 
+)
+#### 5th Level
+item(
+# Lesser Mark
+## Feat 5
+-
+; Uncommon, Dragonmark
+**Prerequisites:** Least Mark
+-
+Your dragonmark grows along with your powers. You become Expert Proficiency in Dragonmark attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, to a maximum of 6.
+)
+#### 9th Level
+item(
+# Lesser Dragonmarked Reserve
+## Feat 9
+-
+; Uncommon, Dragonmark
+**Prerequisites:** Lesser Mark
+-
+The depth of the reserves of your power increases. You gain an additional dragonmark focus spell and an additional dragonmark focus spell point. 
+)
+#### 13th Level
+item(
+# Greater Mark
+## Feat 13
+-
+; Uncommon, Dragonmark
+**Prerequisites:** Lesser Mark
+-
+You become Master Proficiency in Dragonmark attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, to a maximum of 8. You gain an additional dragonmark focus spell, but do not gain an additional focus point.
+)
+#### 17th Level
+item(
+# Siberys Mark
+## Feat 17
+-
+; Uncommon, Dragonmark
+**Prerequisites:** Greater Mark
+-
+You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as an extremely valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional dragonmark focus spell and focus point.
+)
+
+=
+## General Feats
+The following feats are available to all dragonmarked heritages. When you gain a general feat, you may additionally select from among one of the following feats.
+
+#### 3rd Level
+item(
+# Test of Siberys
+## Feat 3
+-
+; Unique, General, Dragonmark
+**Prerequisites** You do not have a Dragonmark
+-
+The Test of Siberys is a rite of passage undertaken by the adolescent children of the dragonmarked houses. It is rumoured to induce the kind of extreme stress needed for dragonmarks to manifest. The test varies from house to house and is based both on the powers of the mark and the traditions of the family. Outsiders, even those of dragonmarked houses, know little of what goes on in a particular house’s test. Though a person can fail the test and still manifest a mark at a later age, this is rare. As a rule, it is assumed that those who fail will never develop a dragonmark.
+
+If you choose the Test of Siberys, your character should undergo the test associated with their mark. _If_ you succeed, gain the Least Mark ancestry feat.
+)
+note(
+If a character takes this general feat at a higher level, such as 7th, you can consider allowing them to manifest any dragonmark of a lower level. However, the stakes associated with manifesting a higher level mark should increase accordingly.
+)
+=
+
+head(
+# Mark of Detection ((Dragonmarked Heritages))
+The Mark of Detection is an inquisitive's dream. It sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues others might miss. By actively drawing on its powers, the bearer can detect poisons and study the energies of magic.
+)
+-
+The Mark of Detection manifests on the Khoravar of Eberron. Khoravar are half-elves by lineage, but use the pathfinder rules of half-elves as a heritage of the human ancestry. When you pick the human ancestry, you may pick this heritage. By picking this heritage at first level, you gain access to all of the mark of detection ancestry feats and the potential of manifesting a dragonmark.
+
+## Mark of Detection [Half-Elf Heritage] ((+Mark of Detection))
+At least one of your parents is a half-elf descendant of a mark of detection bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the dragonmarked heritage trait, mark of detection trait, and low-light vision. In addition, you can pick elf, half-elf, human, dragonmark, and mark of detection feats whenever you gain an ancestry feat.
+
+## Mark of Detection Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of detection focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+### Additional Focus Spells
+You may select also select from among the following focus spells. If you do so they lose the class trait if they have it, and gain the Dragonmark and Mark of Detection traits.
+Level | Spell
+--- | :---
+2 | Light of Revelation
+4 | Glimpse the Truth
+4 | Know the Enemy
+
+item (
+# Deductive Intuition
+## Focus 1
+-
+; Concentration, Divination, Dragonmark, Mark of Detection
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to better uncover secrets. When you Cast the Spell, you can Recall Knowledge, Seek, or Sense Motive. You gain a +1 status bonus to the skill or perception used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Discern Secrets.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+|
+item (
+# Detect Danger
+## Focus 2
+-
+; Dragonmark, Concentration, Mark of Detection, Divination, Prediction
+**Cast** :aaa: somatic
+
+**Range** touch; **Targets** 1 creature
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to forewarn your target of impending danger. When you Cast the Spell, the target gains a +1 status bonus to initiative rolls and isn't flat-footed against undetected creatures. This bonus remains as long as you Sustain the Spell. The target is temporarily immune to Detect Danger for 1 hour.
+-
+**Heightened (3rd)**  You do not need to sustain Detect Danger.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is sustained up to 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+=
+item(
+# Dragonmarked Detector
+## Focus 2
+-
+; Concentration, Dragonmark, Mark of Detection
+**Cast** see replicated spell
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per daily preparation - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Detector, you can choose one of the following spells to cast with the Cast a Spell activity using the normal number of actions for the spell. The spell you select can be anything of the cast level of Dragonmarked Detector lower from the following table. These spells are automatically heightened to the cast level of Dragonmarked Detector.
+
+A spell cast by Dragonmarked Detector doesn’t require physical material components, but it always requires a somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Detect Poison, See Invisibility
+3 | Object Reading
+4 | Clairvoyance
+5 | Discern Lies 
+6 | Detect Scrying
+7 | True Seeing
+8 | Retrocognition 
+9 | Unrelenting Observation
+-
+**Heightened (3rd)** You may cast Dragonmarked Detector up to twice per daily preparation. Only one of these casts may be from the heightened level 4 or above.
+
+**Heightened (6th)** You may cast Dragonmarked Detector up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
+
+**Heightened (7th)** You may cast Dragonmarked Detector up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
+
+**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Detector.
+)
+  
+item(
+# Cantrip of Detection
+## Cantrip 2
+-
+; Cantrip, Dragonmark, Mark of Detection, Divination
+**Cast** see replicated spell
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast the Cantrip of Detection, you can choose one of the following spells to cast with the Cast a Spell activity using the normal number of actions for the spell. Detect Magic, or Read Aura. These cantrips are automatically heightened to the level of this spell. Cantrip of Detection gains the traits of the cast cantrip.
+
+A spell cast by Cantrip of Detection doesn’t require physical material components, but it always requires a somatic component.
+)
+
+
+=
+head(
+# Mark of Finding ((+Mark of Finding))
+The Mark of Finding sharpens the senses, guiding the hunter to prey. Alone among the dragonmarks, the Mark of Finding is carried by two races: humans and half-orcs. It first appeared in the Shadow Marches, where clan hunters used it to find their prey.
+)
+
+The Mark of Finding manifests on the half-orcs of Eberron. When you pick the human ancestry, you may pick this heritage. By picking this heritage at first level you gain access to all of the mark of finding ancestry feats and the potential of manifesting a dragonmark.
+
+## Mark of Finding [Half-Orc Heritage]
+; Uncommon, orc, half-orc, human, dragonmarked heritage, mark of finding
+At least one of your parents is a half-orc descendant of the mark of finding bloodline, whether or not they manifested a mark. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait, the half-orc trait, the dragonmarked heritage trait, and low-light vision. In addition, you can pick orc, half-orc, human, dragonmark, and mark of finding feats whenever you gain an ancestry feat.
+
+## Mark of Finding Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of finding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+item (
+# Hunter's Intuition
+## Focus 1
+-
+; Concentration, Dragonmark, Mark of Finding, Divination
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to better locate objects. When you Cast the Spell, you can Recall Knowledge (Survival), Identify Magic, Seek, Sense Direction, Subsist, or Track. You gain a +1 status bonus to the skill or Perception used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Discern Location.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item (
+# Eyes of the finder
+## Focus 2
+-
+; Concentration, Dragonmark, Mark of Finding, Divination
+**Cast** :aaa: somatic
+
+**Duration** sustained up to 1 minute
+-
+While this spell is sustained, you gain the ability to see through solid objects to a range of 30 feet. Within that range, you have darkvision if you don’t already have it. This special sight lasts for 1 minute. During that time, you perceive objects as ghostly, transparent images. The spell can see through most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt. You then become immune to the eyes of the finder for 24 hours.
+-
+**Heightened (3rd)** You can see through twice the thickness of materials. Any amount of lead still blocks your vision.
+
+**Heightened (5th)** You do not need to sustain Eyes of the Finder.
+
+**Heightened (6th)** You become immune to Eyes of the Finder for only 1 hour after the spell ends.
+
+**Heightened (7th)** The duration becomes 10 minutes.
+
+**Heightened (9th)** You do not become immune to Eyes of the Finder after the spell ends.
+)
+|
+item(
+# Dragonmarked Hunter
+## Focus 2
+-
+; Concentration, Dragonmark, Mark of Finding, Divination
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Hunter, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Expeditious Excavation, Status
+3 | Locate
+4 | Wanderer's Guide
+5 | Countless Eyes
+6 | Scrying
+7 | True Seeing
+8 | Discern Location
+9 | Unrelenting Observation
+-
+**Heightened (5th)** You may cast Dragonmarked Hunter up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+)
+item(
+# Cantrip of Finding
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Finding, Divination
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast the Cantrip of Finding, you can choose one of the following spells to immediately take effect. Guidance, or Know Direction.
+)
+=
+head(
+# Mark of Handling ((+Mark of Handling))
+The Mark of Handling gives its bearer a primal connection to beasts and the natural world, granting the power to calm and coax. This extends beyond purely natural animals; the mark allows its bearer to guide a hippogriff as easily as a horse.
+)
+The Mark of Handling is a Human Heritage. By picking this Heritage at first level you gain access to all of the Mark of Handling ancestry feats.
+
+## Mark of Handling [Human Heritage]
+At least one of your parents is a human descendant of the Mark of Handling bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Handling feats whenever you gain an ancestry feat.
+
+## Mark of Handling Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of handling focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+item (
+# Primal Connection
+## Focus 1
+-
+; Concentration, Dragonmark, Mark of Handling, Enchantment
+**Cast** :aa: somatic
+
+**Range** 30 feet; **Target** up to 1 animal
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to better interact with animals. When you Cast the Spell, you can Recall Knowledge (Nature), or Command an Animal. You gain a +1 status bonus to the skill used for the roll. If you target an animal, it gains a +1 status bonus to all skill checks that it makes. This bonus remains as long as you Sustain the Spell. 
+-
+**Heightened (3rd)** You do not need to sustain Handle Animals.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item (
+# Animal Friendship
+## Focus 1
+-
+; Dragonmark, Mark of Handling, Incapacitation, Enchantment
+**Cast** :aa: somatic
+
+**Range** 30 feet; **Targets** 1 living creature with the Animal or Beast trait
+
+**Duration** sustained up to 1 minute
+-
+You call upon your dragonmark's power to calm animal emotions and aid your interactions with animals. When you Cast the Spell, unwilling targets must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.
+
+You can Dismiss the spell. If you use hostile actions against the target, the spell ends. If the spell is sustained for the full duration, the target's attitude remains what it currently is and does not change back to what it was as the spell ends.
+
+**Critical Success** The target's Attitude towards you decreases by one step.
+
+**Success** The target's Attitude towards you is unchanged.
+
+**Failure** The target's Attitude towards you increases by one step.
+
+**Critical Failure** The target's Attitude towards you increases by two steps, to a minimum of friendly.
+
+-
+
+**Heightened (3rd)** If the target fails its save, its Attitude increases to a minimum of indifferent. If the critically fails its save, its Attitude increases to a minimum of friendly.
+
+**Heightened (4th)** You may target up to 2 living creatures with the Animal trait.
+
+**Heightened (6th)** You may target up to 4 living creatures with the Animal trait.
+
+**Heightened (7th)** The duration is reduced to 18 seconds after which the effects remain and the spell ends.
+
+**Heightened (8th)** You may target any living creatures with the Animal trait in range.
+)
+|
+item(
+# Dragonmarked Handler
+## Focus 2
+-
+; Concentration, Dragonmark, Mark of Handling, Enchantment
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Handler, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Friendfetch, Pet Cache
+3 | Animal Messenger, Speak with Animals
+4 | Animal Vision
+5 | Aromatic Lure
+6 | Dominate (Animal or Beast trait targets only)
+7 | Entrancing Eyes (Animal or Beast trait targets only)
+8 | Power Word Stun (Animal or Beast trait targets only)
+9 | Nature's Enmity
+-
+**Heightened (5th)** You may cast Dragonmarked Handler up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+
+**Heightened (9th)** The spells you cast are no longer restricted by Animal or Beast trait restrictions.
+)
+item(
+# Cantrip of the Handler
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Handling, Enchantment
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast the Cantrip of the Handler, you can choose one of the following spells to immediately take effect. Daze, or Tanglefoot.
+)
+=
+head(
+# Mark of Healing ((+Mark of Healing))
+A halfling with the Mark of Healing can save a life with a touch, restoring vitality and the will to live. When dealing with mundane medicine, the mark helps its bearer sense the nature of maladies, aiding them in finding a cure. When equipped with dragonshard focus items, the mark can even draw the dead back from the depths of Dolurrh.
+)
+The Mark of Healing is a Halfling Heritage. By picking this Heritage at first level you gain access to all of the Mark of Healing ancestry feats.
+
+## Mark of Healing [Halfling Heritage]
+At least one of your parents is a halfling descendant of the Mark of Healing bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick halfling, dragonmark, and Mark of Healing feats whenever you gain an ancestry feat.
+
+## Mark of Healing Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of healing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+item (
+# Healer's intuition
+## Focus 1
+-
+; Concentration, Dragonmark, Mark of Healing, Necromancy
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to better mend wounds. When you Cast the Spell, you can Recall Knowledge (Medicine), Administer First Aid, Battle Medicine, Treat Disease, Treat Poison, or Treat Wounds. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Healer's hand.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item (
+# Healing Word
+## Focus 1
+-
+; Dragonmark, Mark of Healing, Necromancy
+**Cast** :a: somatic
+
+**Range** 30 feet; **Targets** 1 living creature
+-
+You call upon your dragonmark's power to heal the wounded. Your hands become infused with positive energy, healing a living creature. If you use lay on hands on a willing living target, you restore 4 Hit Points.
+-
+**Heightened (+1)** The amount of healing increases by 4. 
+)
+|
+item(
+# Dragonmarked Healer
+## Focus 2
+-
+; Concentration, Dragonmark, Mark of Healing, Necromancy
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Healer, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Soothe, Endure
+3 | Heal, Restoration
+4 | Remove Disease
+5 | Remove Curse
+6 | Breath of Life (May cast Dragonmarked Healer as a reaction if replicating this spell)
+7 | Field of Life
+8 | Regenerate
+10 | Revival 
+-
+**Heightened (5th)** You may cast Dragonmarked Healer up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+)
+item(
+# Guidance of the Healer
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Healing, Necromancy
+**Cast** :aaa: somatic
+
+**Range** touch; **Targets** 1 creature
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can assist a creature in resisting maladies and wounds. The creature gains a +1 status bonus to any healing it receives. If the creature is making a saving throw against a persistent effect, poison, or a disease, it gains a +1 status bonus to its save (and this spell counts for assisted recovery against persistent effects).
+-
+**Heightened (+1)** The status bonus to healing received increases by 1
+
+**Heightened (5th)** The status bonus to saves increases to +2
+
+**Heightened (9th)** The status bonus to saves increases to +3
+)
+TODO Stabilize cantrip
+=
+head(
+# Mark of Hospitality ((+Mark of Hospitality))
+They may not always have gold, but a halfling with the Mark of Hospitality is sure to be rich in friends. The magic of the mark allows the bearer to keep a place clean, and to heat, chill, and season food. But it also helps the bearer connect with others.
+)
+The Mark of Hospitality is a Halfling Heritage. By picking this Heritage at first level you gain access to all of the Mark of Hospitality ancestry feats.
+
+## Mark of Hospitality [Halfling Heritage]
+At least one of your parents is a halfling descendant of the Mark of Hospitality bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick halfling, dragonmark, and Mark of Hospitality feats whenever you gain an ancestry feat.
+## Mark of Hospitality Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of hospitality focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+
+item (
+# Innkeeper's Magic
+## Focus 1
+-
+; Concentration, Dragonmark, Mark of Hospitality, Enchantment
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to better interact with others. When you Cast the Spell, you can Recall Knowledge (Society), Gather Information, Make an Impression, or Request. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Homely Touch.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item(
+# Kindle Friendship
+## Focus 1
+-
+; Dragonmark, Mark of Hospitality, Emotion, Enchantment, Mental, Verbal
+**Cast** :aa: somatic
+
+**Range** touch; **Targets** 1 living creature
+-
+With a warm handshake and a gentle smile, the powers of your dragonmark help others open themselves to you. If the creature is unwilling, they may make a will save.
+
+**Critical Success** As a success, and the creature is immune to all future uses of Kindle Friendship from you.
+
+**Success** No change in attitude.
+
+**Failure** The creature's attitude towards you increases by one step, and the creature is immune to all future uses of Kindle Friendship from you.
+)
+|
+item(
+# Dragonmarked Homemaker
+## Focus 2
+-
+; Concentration, Dragonmark, Mark of Hospitality, Enchantment
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Homemaker, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+1 | Soothe
+2 | Sleep, Charm
+3 | Calm Emotions, Create Food
+4 | Cozy Cabin, Enhance Victuals
+5 | Enthral
+6 | Suggestion
+7 | Magnificent Mansion
+8 | Moment of Renewal
+9 | Resplendent Mansion
+-
+**Heightened (5th)** You may cast Dragonmarked Homemaker up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+
+**Heightened (9th)** Spells at a heightened level of 3 or lower do not count against the frequency of Dragonmarked Homemaker.
+)
+item(
+# Homely Touch
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Hospitality, Enchantment
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Homely Touch, you can choose one of the following spells to immediately take effect. Mage Hand, or Prestidigitation.
+)
+=
+head(
+# Mark of Making ((+Mark of Making))
+The Mark of Making guides its bearer through any act of creation. The bearer of the mark can mend broken things with a touch, and always has a minor magic item they’ve been working on. A crafter will get the most out of the mark, but anyone can find a use for an enchanted blade.
+)
+The Mark of Making is a Human Heritage. By picking this Heritage at first level you gain access to all of the Mark of Making ancestry feats.
+
+## Mark of Making [Human Heritage]
+At least one of your parents is a Human descendant of the Mark of Making bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Making feats whenever you gain an ancestry feat.
+## Mark of Making Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of making focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+item (
+# Maker's Gift
+## Focus 1
+-
+; Concentration, Dragonmark, Mark of Making, Conjuration
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to drive your creative crafting powers. When you Cast the Spell, you can Repair, or Craft. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Crafter's inspiration.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item(
+# Construction Savant
+## Focus 5
+-
+; Uncommon, Concentration, Dragonmark, Mark of Making, Conjuration
+**Cast** 8 hours material, somatic, verbal
+
+**Frequency** The strain of using your dragonmark to craft an item in a quarter of the time is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+You begin to craft an item as if using the crafting activity, but with the empowering effects of your dragonmark guiding you, your efficiency is increased exponentially. 
+You can begin the Crafting activity, and cast Construction Savant as part of your workday. When the 8 hours of Construction Savant have elapsed, you may immediately make the Crafting check to complete the item. On a success, you can finish the item, bypassing any remaining time to its completion as if you had completed the prerequisite days of work. On a failure, you may continue on the item again the next day without any penalty. You may use Construction Savant on the final day of the crafting activity, however, you may still only attempt one crafting check whether or not you used Construction Savant. On the final day, use the effects of the Crafting Activity success levels including failure and critical failure. Once the item is completed, it follows the rules of the crafting activity to reduce cost.
+)
+|
+item(
+# Dragonmarked Construction
+## Focus 2
+-
+; Concentration, Conjuration, Dragonmark, Mark of Making
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Construction, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+1 | Mending, Temporary Tool
+2 | Summon Construct
+3 | Dismantle
+4 | Shrink Item
+6 | Creation
+7 | Fabricate*
+10 | Remake
+.* New spell
+-
+**Heightened (5th)** You may cast Dragonmarked Construction up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+
+**Heightened (8th)** You may cast Dragonmarked Construction up to twice per 24 hours.
+
+**Heightened (9th)** Spells at a heightened level of 3 or lower do not count against the frequency of Dragonmarked Construction.
+)
+item(
+# Cantrip of the Crafter
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Crafting, Conjuration
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Crafter, you can choose one of the following spells to immediately take effect. Read Aura or Sigil.
+)
+=
+head(
+# Mark of Passage ((+Mark of Passage))
+The Mark of Passage governs motion, allowing its bearer to move with uncanny speed. The bearer of the mark can even slip through space in the blink of an eye.
+)
+The Mark of Passage is a Human Heritage. By picking this Heritage at first level you gain access to all of the Mark of Passage ancestry feats.
+
+## Mark of Passage [Human Heritage]
+At least one of your parents is a Human descendant of the Mark of Passage bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Passage feats whenever you gain an ancestry feat.
+## Mark of Passage Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of passage focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+item (
+# Courier's Speed
+## Focus 1
+-
+;Concentration, Dragonmark, Mark of Passage, Abjuration
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to enable swift travel. When you Cast the Spell, you can make a check with the Move trait, or Piloting check on a land vehicle. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Swift Passage.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item(
+# Dimension Step
+## Focus 2
+-
+; Uncommon, Dragonmark, Mark of Passage, Conjuration
+**Cast** :a: somatic
+
+**Range** 10 feet
+-
+You instantly transfer yourself from your current location to another spot within range. You always arrive at exactly the spot desired, whether by simply visualizing the area or by stating direction and distance. You can bring along any objects you are touching as the spell is cast, so long as you are not encumbered. You cannot bring along other creatures.
+
+If this spell would put you in a place that is already occupied or is not empty, the spell fails.
+-
+**Heightened (+1)** the distance increases by 10 feet
+)
+|
+item(
+# Dragonmarked Mobility
+## Focus 2
+-
+; Concentration, Conjuration, Dragonmark, Mark of Passage
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Mobility, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Fleet Step, Longstrider
+3 | Safe Passage
+4 | Haste
+5 | Freedom of Movement, Dimension Door
+6 | Return Beacon
+7 | Teleport
+8 | Ethereal Jaunt
+-
+**Heightened (5th)** You may cast Dragonmarked Mobility up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+)
+item(
+# Cantrip of the Courier
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Passage, Conjuration
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Courier, you can choose one of the following spells to immediately take effect. Know Direction, or Light.
+)
+=
+head(
+# Mark of Scribing ((+Mark of Scribing))
+The Mark of Scribing deals with communication—both the written and spoken word. A gnome who bears the mark can feel words as though they are living creatures, struggling to make their meaning known. The mark provides a range of gifts. It translates languages, but it also allows its bearer to communicate with others at a distance.
+)
+The Mark of Scribing is a Gnome Heritage. By picking this Heritage at first level you gain access to all of the Mark of Scribing ancestry feats.
+
+## Mark of Scribing [Gnome Heritage]
+At least one of your parents is a Gnome descendant of the Mark of Scribing bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Scribing feats whenever you gain an ancestry feat.
+## Mark of Scribing Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of scribing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+### Additional Focus Spells
+Focus Spell | Source
+--- | :---
+Redact | Gods & Magic
+
+### New Focus Spells
+item (
+# Scribe's Insight
+## Focus 1
+-
+; Concentration, Dragonmark, Mark of Scribing, Illusion
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to transcribe ease. When you Cast the Spell, you can Borrow an Arcane Spell, Create Forgery, Decipher Writing, Learn a Spell, or Recall Knowledge (Lore). You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Scribe's Intuition.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item(
+# Relay
+## Focus 1
+-
+; Dragonmark, Mental, Linguistic, Mark of Scribing, Illusion
+**Cast** :aaa: somatic, material
+
+**Range** touch; **Targets** one mundane item
+-
+You enchant magical items to relay your messages. At any time after you have enchanted the items, you may choose to send a message to the item. If the item is attended, the creature currently in possession of the item receives your spoken word - up to 25 words. The creature can then respond immediately with a message of 25 words or fewer. Once the item has been used in this way, it may not be used again for 24 hours. When you cast this spell again, for each new item you must choose a previous item to lose its enchantment.
+-
+**Heightened (+2)** you may enchant one additional item.
+
+**Heightened (5th)** the item may transmit again after only 1 hour has passed.
+
+**Heightened (8th)** the item may transmit again after only 1 minute has passed.
+)
+|
+item(
+# Dragonmarked Scribe
+## Focus 2
+-
+; Concentration, Illusion, Dragonmark, Mark of Scribing
+**Cast** see replicated spell and somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Scribe, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Imprint Message, Message Rune
+3 | Comprehend Language
+4 | Secret Page, Forgotten Lines
+5 | Sending
+6 | Hypercognition
+7 | Telepathic Bond
+9 | Mind Blank
+-
+**Heightened (5th)** You may cast Dragonmarked Scribe up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+)
+item(
+# Cantrip of the Messenger
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Scribing, Illusion
+**Cast** :aaa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Messenger, you can choose one of the following spells to immediately take effect: Message or Sigil.
+)
+=
+head(
+# Mark of Sentinel ((+Mark of Sentinel))
+The Mark of Sentinel warns and protects. It heightens senses and reflexes, allowing an heir to respond to threats with uncanny speed. It can shield its bearer from harm. Whether on the battlefield or the ballroom, someone who carries the Mark of Sentinel is prepared for danger.
+)
+The Mark of Sentinel is a Human Heritage. By picking this Heritage at first level you gain access to all of the Mark of Passage ancestry feats.
+
+## Mark of Sentinel [Human Heritage]
+At least one of your parents is a Human descendant of the Mark of Sentinel bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Sentinel feats whenever you gain an ancestry feat.
+
+## Mark of Sentinel Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of sentinel focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+### Additional Focus Spells
+Focus Spell | Source
+--- | :---
+
+
+### New Focus Spells
+item (
+# Sentinel's Intuition
+## Focus 1
+-
+;Abjuration, concentration, Dragonmark, Mark of Sentinel
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to heighten your awareness of danger. When you Cast the Spell, you can disarm, grapple, shove, trip, or roll initiative. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Sentinel's Intuition.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+
+item(
+# TODO
+)
+|
+item(
+# Dragonmarked Sentinel
+## Focus 2
+-
+; Concentration, Abjuration, Dragonmark, Mark of Sentinel
+**Cast** see replicated spell and somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Sentinel, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Mage Armor, Sanctuary
+3 | Resist Energy
+4 | Fire Shield
+5 | Rebounding Barrier
+6 | Scintillating Safeguard
+7 | Wall of Force
+8 | Spell Turning
+10 | Foresight
+-
+**Heightened (5th)** You may cast Dragonmarked Scribe up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+)
+item(
+# Cantrip of the Sentinel
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Sentinel, Abjuration
+**Cast** :aa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Sentinel, you can choose one of the following spells to immediately take effect. Forbidding Ward, or Shield.
+)
+=
+head(
+# Mark of Shadow ((+Mark of Shadow))
+The Mark of Shadow lets an elf weave illusions, crafting magic to distract or delight. It also allows its bearer to sculpt shadows, making it easy to avoid detection.
+)
+The Mark of Shadow is an Elf Heritage. By picking this Heritage at first level you gain access to all of the Mark of Passage ancestry feats.
+
+## Mark of Shadow [Human Heritage]
+At least one of your parents is an Elf descendant of the Mark of Shadow bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick elf, dragonmark, and Mark of Shadow feats whenever you gain an ancestry feat.
+
+## Mark of Shadow Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of shadow focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+### Additional Focus Spells
+Focus Spell | Source
+--- | :---
+
+### New Focus Spells
+item (
+# Shadow's veil
+## Focus 1
+-
+; Concentration, Dragonmark, Mark of Shadow, Illusion
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to weave illusions. When you Cast the Spell, you can Perform, Hide, Sneak, or initiative (stealth). You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Shadow's veil.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+
+item(
+# TODO
+)
+|
+item(
+# Dragonmarked Shadow
+## Focus 2
+-
+; Concentration, Abjuration, Dragonmark, Mark of Sentinel
+**Cast** see replicated spell and somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Shadow, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Pass Without Trace, Penumbral Shroud
+3 | Darkness, Invisibility
+4 | Hypnotic Pattern
+5 | Illusory Scene
+6 | Blanket of Stars
+7 | Mislead
+8 | Project Image
+9 | Disappearance
+-
+**Heightened (5th)** You may cast Dragonmarked Scribe up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+)
+item(
+# Cantrip of the Shadow
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Shadow, Illusion
+**Cast** :aa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Shadow, you can choose one of the following spells to immediately take effect. Dancing Lights, or Ghost Sound.
+)
+=
+head(
+# Mark of Storm ((+Mark of Storm))
+Wind and water welcome the half-elves who carry the Mark of Storm, and some learn to call on the power of the storm itself.
+)
+The Mark of Storm is a Half-Elf Heritage. By picking this Heritage at first level you gain access to all of the Mark of Storm ancestry feats.
+
+## Mark of Storm [Half-Elf (Human) Heritage]
+At least one of your parents is a half-elf descendant of a Mark of Storm bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the Dragonmarked trait, the Mark of Storm trait, and low-light vision. In addition, you can pick elf, half-elf, human, Dragonmark, and Mark of Storm feats whenever you gain an ancestry feat.
+
+## Mark of Storm Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of storm focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+### Additional Focus Spells
+Focus Spell | Source
+--- | :---
+
+### New Focus Spells
+item (
+# Windwright's Intuition
+## Focus 1
+-
+;Concentration, Dragonmark, Mark of Storm, Enchantment
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to ward off attacks. When you Cast the Spell, you can make an acrobatics check with the Move trait, or Piloting check on a sea or air vehicle. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+-
+**Heightened (3rd)** You do not need to sustain Windwright's Intuition.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item(
+# TODO
+)
+|
+item(
+# Dragonmarked Stormbringer
+## Focus 2
+-
+; Concentration, Conjuration, Dragonmark, Mark of Storm
+**Cast** see replicated spell and somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Stormbringer, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Gust of Wind, Personal Rain Cloud
+3 | Obscuring Mist
+4 | Wall of Wind
+5 | Air Walk, Solid Fog
+6 | Fly, Control Water
+7 | Lightning Storm
+8 | Wind Walk
+9 | Punishing Winds
+-
+**Heightened (5th)** You may cast Dragonmarked Stormbringer up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+)
+item(
+# Cantrip of the Storm
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Storm, Conjuration
+**Cast** :aa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Storm, you can choose one of the following spells to immediately take effect. Electric Arc, or Know Direction.
+)
+=
+head(
+# Mark of Warding ((+Mark of Warding))
+The Mark of Warding helps its bearers protect things of value. Using the mark, a dwarf can weave wards with mystic force. It also provides its bearer with an intuitive understanding of locks used to protect and seal.
+)
+The Mark of Warding is a Dwarf Heritage. By picking this Heritage at first level you gain access to all of the Mark of Warding ancestry feats.
+
+## Mark of Warding [Dwarf Heritage]
+At least one of your parents is a Dwarf descendant of the Mark of Warding bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick Dwarf, dragonmark, and Mark of Warding feats whenever you gain an ancestry feat.
+
+## Mark of Warding Focus Spells
+If you manifest a mark, you will begin to gain access to the following mark of warding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+/
+### Additional Focus Spells
+Focus Spell | Source
+--- | :---
+
+### New Focus Spells
+item (
+# Warder's Intuition
+## Focus 1
+-
+; Concentration, Dragonmark, Mark of Warding, Abjuration
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+You call upon your dragonmark's power to ward off attacks. When you Cast the Spell, you can Disable a Device, or Pick a Lock, Seek to Detect a Hazard or Search. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell. If you craft an object with a stealth DC, the DC is increased by 1.
+-
+**Heightened (3rd)** You do not need to sustain Mark of Warding.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+item(
+# Guard and Seal
+## Focus 2
+-
+; Concentration, Dragonmark, Mark of Warding, Abjuration
+**Cast** :aaa: somatic
+
+**Range** touch; **Targets** 1 object of light bulk or less 
+
+**Duration** until the next time you make your daily preparations
+-
+You draw upon your powers of warding to guard the presence of an item. Once the spell has been cast, you can choose to make the item come under the effects of Invisible Item. In addition, if the target is magical you can choose to also have it appear as entirely non-magical.
+
+If a caster uses detect magic or read aura of an equal or higher level than this spell, the GM can roll a secret counteract check for them to see the presence of this ward.
+-
+**Heightened (3rd)** You may target 1 object of 1 bulk or less.
+
+**Heightened (4th)** The object is additionally warded as if was behind running water and a thin sheet of lead to any magical effects that would attempt to locate it.
+
+**Heightened (6th)** You can target 1 object of 3 bulk or less. You can target a creature instead of an object. When you do, you can conceal the auras of all magic items it has.
+
+**Heightened (8th)** The duration becomes permanent after the first 24 hours until the object moves more than 15 feet from its starting location. You may target up to 10 items at once in this way. You can dismiss this spell.
+)
+|
+item(
+# Dragonmarked Warder
+## Focus 2
+-
+; Concentration, Abjuration, Dragonmark, Mark of Warding
+**Cast** see replicated spell and somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate a spell. When you cast Dragonmarked Warder, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+**Heightened Level** | **Spell**
+--- | :---
+2 | Alarm, Lock, Tether
+3 | Knock, Magical Fetters
+4 | Circle of Protection, Glyph of Warding
+5 | Dimensional Anchor, Private Sanctum
+6 | Wall of Stone
+7 | Dimensional Lock
+8 | Force Cage
+9 | Disappearance
+-
+**Heightened (5th)** You may cast Dragonmarked Warder up to twice per 24 hours. Only one of these casts may be from the heightened level 6 or above.
+)
+item(
+# Cantrip of the Guard
+## Cantrip 2
+-
+; Cantrip, Concentration, Dragonmark, Mark of Warding, Abjuration
+**Cast** :aa: somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** until the start of your next turn
+-
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Storm, you can choose one of the following spells to immediately take effect. Forbidding Ward, or Sigil.
+)
+=
+head(
+# Aberrant Mark ((+Aberrant Mark))
+The twelve dragonmarks are predictable, and their powers are generally constructive. But there is another kind of dragonmark, which is dangerous to both the bearer and the people around them. Aberrant dragonmarks can appear on members of any race, at any age, regardless of bloodline. No two aberrant dragonmarks are exactly alike—even if they grant the same power, they manifest in different ways.
+)
+
+Aberrant Mark is a versatile Heritage, which can only be applied to the following ancestries: Dwarf, Elf, Gnome, Human, Half-Elf, Half-Orc, or Halfling. By picking this Heritage at first level you gain access to all of the Mark of Aberrant Mark ancestry feats.
+
+right(
+# Unique Marks
+Aberrant marks are unique in that no two marks are the same, though they might produce similar effects. See the notes on Building a Spell list for how you might work with your GM to customize your mark.
+)
+
+## Aberrant Mark [Uncommon Versatile (Dragonmarked Ancestries) Heritage]
+Aberrant marks often appear when people from different dragonmarked families produce a child, and for this reason, such unions are forbidden by the Twelve. However, Aberrant marks can appear at any time on any ancestry that has not already manifested a dragonmark. You gain the dragonmarked heritage, and the Aberrant Mark traits, in addition to the traits from your ancestry. If you are a half-elf or half-orc, you gain those respective traits as well. In addition, you can pick from your original ancestry, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat.
+
+right(
+# The Dangers of the Aberrant
+During the war of the mark, the dragonmarked houses united to exterminate those with aberrant marks, significantly reducing their numbers. Survivors of the war had marks that had much weaker powers. 
+
+Although aberrant marks are no longer hunted by the houses as during the War of the Mark, the fear of the aberrant marks persists. Since the Day of Mourning, the number of aberrant dragonmarks has begun to increase which has begun to cause some alarm in the Twelve. If a player character manifests a powerful mark and catches the attention of the Twelve, they may find themselves targeted for removal once again.
+)
+
+## Aberrant Mark Focus Spells
+If you manifest a mark, you will begin to gain access to the following aberrant mark focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well. 
+/
+
+### Additional Focus Spells
+Focus Spell | Source
+--- | :---
+
+
+item (
+# Disrupt
+## Focus 1
+-
+;Concentration, Dragonmark, Aberrant Mark
+**Cast** :aa: somatic
+
+**Duration** sustained up to 10 minutes
+-
+
+-
+**Heightened (3rd)** You do not need to sustain Disrupt.
+
+**Heightened (5th)** The bonus increases to +2.
+
+**Heightened (7th)** The duration is 1 hour.
+
+**Heightened (9th)** The bonus increases to +3.
+)
+
+Aberrant Whispers
+|
+item(
+# Corrupted Replicatation
+## Focus 2
+-
+; Concentration, Dragonmark, Aberrant Mark
+**Cast** see replicated spell and somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+With a concentrated effort to unleash the power of your mark, you can recreate the effects of a spell. When you cast Corrupted Replication, you can choose one of the following spells to immediately take effect. The spell you select can be anything of the level of this spell or lower from the following table.
+
+**Heightened Level** | **Spell**
+--- | :---
+2 | Acidic Burst
+3 | Slough Skin
+4 | Stinking Cloud
+5 | Rusting Grasp
+6 | Acid Storm
+7 | Abyssal Plague
+8 | Eclipse Burst
+9 | Volcanic Eruption
+10 | Storm of Vengeance
+. The above table is themed around acid and storms
+)
+note(
+## Building a spell list
+While Aberrant marks are chaotic and destructive, they tend to follow a theme. Some ideas of potential themes are Acid, Plagues, Curses, Fire, Ice, Mental Assaults, or Blood Bending. When building your Corrupted Replication, you should pick spells that follow a general format - even if it might be suboptimal. Part of the balance of dragonmarks is that they don't always provide the strongest effect that they can at their level.
+
+When building the Heightened Level list, spells should be placed at the heightened level one higher than their base spell level ie. Acid Storm, a 5th level spell should be placed at Heightened Level 6. Only rarely should the spell be placed at its actual level. You get one spell per level. Start with spells from the following list.
+
+**Heightened Level** | **Spell**
+--- | :---
+2 | Acidic Burst, Agitate, Burning hands, Charm, Chilling Spray, Fear, Grease, Grim Tendrils, Noxious Vapors, Phantom Pain
+3 | Animated Assault, Blood Vendetta, Feast of Ashes, Flaming Sphere, Ghoulish Cravings, Harm, Slough Skin
+4 | Agonizing Despair, Blindness, Cup of Dust, Curse of Lost Time, Faerie Fire, Hypnotic Pattern, Lightning Bolt, Paralyze, Paranoia, Stinking Cloud, Sudden Blight, Vampiric Touch
+5 | Chroma Leach, Confusion, Countless Eyes, Enervation, Phantasmal Killer, Rusting Grasp, Weapon Storm
+6 | Acid Storm, Black Tentacles, Blister, Cloudkill, Cone of Cold, Crushing Despair, Impaling Spike
+7 | Abyssal Plague, Disintegrate, Feeblemind, Flesh to Stone, Phantasmal Calamity, Vampiric Exsanguination
+8 | Eclipse Burst, Fiery Body, Mask of Terror, Warp Mind
+9 | "All is One, One is All", Earthquake, Finger of Death, Possession, Volcanic Eruption
+10 | Massacre, Meteor Swarm, Power Word Kill, Storm of Vengeance
+)
+
+item(
+# Aberrant Cantrip
+## Cantrip 2
+-
+; Concentration, Dragonmark, Aberrant Mark
+**Cast** see replicated spell and somatic
+
+**Range** see replicated spell; **Targets** see replicated spell
+
+**Duration** see replicated spell
+-
+With a more controlled release of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Aberrant Cantrip, you can choose one of the following spells to immediately take effect. Chill Touch, or Electric Arc.
+)
+
+item(
+# Wrath of Kyber
+## Focus 10
+-
+;Concentration, Dragonmark, Aberrant Mark
+**Cast** :aa: somatic
+
+**Range** 1,000 feet; **Area** 60-foot burst
+
+**Saving Throw** basic Reflex
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - whether or not you have focus points to cast it with.
+-
+Drawing on the violent powers of your mark, you may bring down destructive potential not seen since the days of the War of the Mark. You may cast Cataclysm.
+)
+=
+head(
+# Archetypes ((Archetypes))
+)
+## Dragonmarked Scion ((+Dragonmarked Scion))
+Through intense dedication and focus, a dragonmarked scion trains to master their mark. With time and effort, this can result in the development of their mark to greater heights.
+
+#### 2nd Level
+item(
+# Dragonmarked Scion Dedication
+## Feat 2
+-
+; Archetype, Dedication, Dragonmark
+**Prerequisites** A Dragonmark
+-
+You train to empower your mark and the reserves of power that you can draw on. You can select an additional dragonmarked focus spell to cast. In addition, if you spend a week of downtime retraining, you can switch your known dragonmark focus spells for different dragonmark focus spells that you have access to. Your house provides this retraining free of charge.
+)
+item(
+# Dragonmarked Flexibility
+## Feat 4
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication
+-
+Pick another dragonmark focus spell from your list. This spell can be up to the maximum level you can currently cast.
+
+**Special** you may pick this feat multiple times, each time picking a different focus spell.
+)
+item(
+# Lesser Dragonmarked Scion
+## Feat 6
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication, Least Mark
+-
+You have trained to develop your talents and your dragonmark. You gain the Lesser Dragonmark feat.
+
+**Special** Since this manifests a physical change in the powers and size of your dragonmark, you may not retrain out of this feat.
+)
+item(
+# Dragonmarked Reserves
+## Feat 8
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication
+-
+The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1.
+)
+item(
+# Greater Dragonmarked Scion
+## Feat 14
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication, Lesser Mark
+-
+You have trained to develop your talents and your dragonmark. You gain the Greater Dragonmark feat.
+
+**Special** Since this manifests a physical change in the powers and size of your dragonmark, you may not retrain out of this feat.
+)
+
+item(
+# Dragonmarked Deep Reserves
+## Feat 16
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication, Dragonmarked Reserves
+-
+The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1.
+
+)
+item(
+# Siberys Dragonmarked Scion
+## Feat 18
+-
+; Rare, Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication, Greater Mark
+-
+You have maximized your capabilities as a dragonmarked heir, and with an extrodinary amount of training you have manifested a Siberys dragonmark. You gain the Siberys Dragonmark feat.
+
+**Special** Since this manifests a physical change in the powers and size of your dragonmark, you may not retrain out of this feat.
+)
+=
+head(
+# Dragonmark Focus Items ((Dragonmark Focus Items))
+)
+## Dragonmark focus items
+Much of the influence of the dragonmarked houses is based on a simple principle: it’s easier to amplify an existing magical effect, such as that of a dragonmark, than to create the same effect from nothing. Taken on their own, the powers granted by dragonmarks aren’t overwhelmingly powerful. However, over the course of centuries, House Cannith and the Twelve have developed items that focus and enhance the powers of the mark to produce powerful, reliable effects. In many cases—such as the storm spires of House Lyrandar and the creation forges of House Cannith—the Arcane Congress has been unable to duplicate the effects of these powerful focus items for non-dragonmarked creatures. Other items have since been reproduced in forms that anyone can use, but an item that requires the user to possess a specific dragonmark is always easier to create and less expensive than one that produces the same effect for anyone, giving the dragonmarked houses an important advantage.
+
+Dragonmark focus items are rarely sold in stores. They can only be created using proprietary tools, and are produced exclusively by House Cannith and the Twelve for use by trusted agents of the dragonmarked houses. So while many Medani inquisitives wear Medi spectacles, they acquired them through service to the house, not by purchasing them with gold. While a dragonmark focus item usually has the same general appearance as the item whose effects it duplicates, it bears the image of the required mark somewhere on the item and often carries the sigil of the associated house. Siberys dragonshards are a vital component of focus items, most including a shard in some form. With that said, a focus item’s design can differ from the usual magic item’s form—the serpentine mirror has a similar effect to a crystal ball, but it’s a flat mirror as opposed to an orb.
+
+The following items are Dragonmark focus items. They function identically to the duplicated item, however, their level is reduced by 1. The price, but no other statistics are similarly reduced to the new level. All these items gain the Invested, and Dragonmark trait. You may only invest in the item if you have the requisite dragonmark.
+
+The dragonmarked houses form the foundation of Khorvaire’s magical economy, and they’re the source of many of the magic items you can buy in the Five Nations. 90% of potions of healing are either made by House Jorasco or produced according to their specifications. If you have two +1 shortswords produced by a Cannith forge, they’ll be essentially identical, while an Aereni shortsword would be lovingly crafted by a particular artisan. In dealing with house products, consider whether the item is military or civilian. During the war, a large portion of House Cannith’s manufactured goods were designed for military use. If you buy a cloak of protection from a Cannith dealer in Sharn, is it an elegant model made for a noble to wear to the Tain Gala, or is it a Brelish Bear cloak, originally issued to an elite commando? If an item is essentially a tool of war, then it may have actually been used in the war; if so, which nation was it made for? Is it legitimate surplus? Was it likely sold by a retired soldier, or salvaged from a battlefield? Military gear is often more functional than decorative. It may bear the markings of a particular nation, and it may show signs of use. On the other hand, civilian products need to lure in customers. Consider a potion of healing. The potions Jorasco sold to the Brelish army were known as “coppers” because of the coppery taste of the fluid, and the potency is marked for accurate administration; a Brelish soldier might call a superior potion of healing a “copper-3.” By contrast, a civilian potion of healing could be called something like “Vivacity,” with a shiny label and available in a variety of flavours. You might find a barker in a part of town where the people are wealthy enough to buy such a product. “Feeling worn down? Perhaps you’ve had a little fall? Get back on your feet with a shot of Vivacity!”
+- EE 226
+
+Dragonmark Focus Item | Duplicated Item | Dragonmark
+--- | :--- | :---
+Cannith's marvellous miniatures | Feather Token | Making
+Cloak of passage | Cape of the Mountebank | Passage
+Cloak of shadows | Cloak of Elvenkind | Shadow
+Ghallan jug | Decanter of Endless Water | Hospitality
+Deni shield | Force Shield/Spellguard Shield | Sentinel
+Eyes of the Dragonne | Eyes of the Eagle | Finding
+Ori boots | Boots of Speed | Passage
+Ori horseshoes | Horseshoes of Speed | Passage
+Serpentine mirror | Crystal Ball | Shadow
+Storm's embrace | Snapleaf | Storm
+Warding brooch | Brooch of Shielding | Warding
+Wind stones | Sending Stone | Scribing
+
+**TODO
+- limit ritual spells to dragonmarks?
+**
+item(
+# Channeling Wand
+## Item 3+
+-
+; Uncommon, Invested, Magical, Dragonmark
+A channelling wand is a short metal wand tipped with a Siberys dragonshard. Each wand is tied to a specific dragonmark, such as the Mark of Healing or the Mark of Making, and you can only attune to it if you possess that dragonmark.
+**Activation** :aa: (Cast a Spell); **Frequency** Once per day, plus overcharge; **Effect** you can cast the selected focus spell of your house at the indicated level.
+-
+ **Type** 1st-level focus spell; **Level** 3; **Price** 60 gp
+ **Type** 2nd-level focus spell; **Level** 5; **Price** 160 gp
+ **Type** 3rd-level focus spell; **Level** 7; **Price** 360 gp
+ **Type** 4th-level focus spell; **Level** 9; **Price** 700 gp
+ **Type** 5th-level focus spell; **Level** 11; **Price** 1,500 gp
+ **Type** 6th-level focus spell; **Level** 13; **Price** 3,000 gp
+ **Type** 7th-level focus spell; **Level** 15; **Price** 6,500 gp
+ **Type** 8th-level focus spell; **Level** 17; **Price** 15,000 gp
+ **Type** 9th-level focus spell; **Level** 19; **Price** 40,000 gp
+-
+**Craft Requirements** Supply a listed-level casting of the spell
+)
+
+item(
+# Dragonmark Channel
+## Item 2
+-
+; Uncommon, Invested, Magical, Dragonmark
+**Usage** held in 1 hand; **Bulk** -
+
+**Price** 20 gp
+-
+This brooch is embedded with a small Siberys dragonshard, usually depicting the crest of its dragonmarked house. Each dragonmark channel is tied to a specific dragonmark, such as the Mark of Healing or the Mark of Making, and you can only attune to it if you possess that dragonmark
+**Activation** :aaa: Interact; **Frequency** Once per day; **Effect** you can cast one of the dragonmark focus spells that you know at 1st level.
+-
+**Craft Requirements** at least 20 sp of siberys shards  
+)
+item(
+# Dragonmark Reservoir
+## Item 8
+-
+; Uncommon, Invested, Magical, Dragonmark
+**Usage** held in 1 hand; **Bulk** -
+
+**Price** 700 gp
+-
+Dragonmark reservoirs are always embedded with a Siberys dragonshard, but come in many forms, most commonly an amulet or bracelet bearing the design of the house crest. Each reservoir is tied to a specific dragonmark, such as the Mark of Healing or the Mark of Making, and you can only attune to it if you possess that dragonmark.
+**Activation** :aa: Interact; **Frequency** Once per day; **Effect** your dragonmark focus pool restores one point, as if you had completed the refocus activity.
+-
+**Craft Requirements** at least 90 gp of siberys shards 
+)
+item(
+# Kundar chains
+## Item 4+
+-
+; Uncommon, Magical, Mark of Warding, Dragonmark
+**Hands** 2; **Usage** held in 2 hands; **Bulk** L
+-
+These special manacles can restrain even the most difficult of captives. They are applied and function as manacles, however, the manacles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.
+-
+**Type** Kundar chains (Average); **Level** 4; **Price** 75 gp;
+These function as Manacles (Average) in addition to their extradimensional restrictions.
+-
+**Type** Kundar chains (Good); **Level** 10; **Price** 820 gp;
+These function as Manacles (Good) in addition to their extradimensional restrictions.
+-
+**Type** Kundar chains (Superior); **Level** 18; **Price** 18,600 gp;
+These function as Manacles (Superior) in addition to their extradimensional restrictions.
+)
+=
+head(
+# Spells ((Spells))
+)
+item(
+# Fabricate
+## Spell 5
+-
+; Uncommon, Conjuration
+**Cast** :aa: material, somatic, verbal
+
+**Range** 0 feet; **Target** up to 10 cubic feet of material
+
+**Duration** until your next daily preparations.
+-
+You can convert raw material of one type into a batch of products equal to the original value of the material. Creatures or magic items cannot be created or transmuted by the fabricate spell. The items made by this spell cannot be greater than twice the level of the cast spell but can be intricate or detailed if you are familiar with the type of item you are constructing. If you work with any minerals, the target and heightened effects are reduced to 1 cubic foot instead of 10 cubic feet.
+
+Objects manufactured in this way are obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. When the spell ends, the item returns to the original raw material.
+-
+**Heightened (+1)** The volume you can affect increases by 10 feet cubic feet.
+)

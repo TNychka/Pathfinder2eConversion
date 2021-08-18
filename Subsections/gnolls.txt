@@ -1,0 +1,395 @@
+watermark (
+Version 0.16
+)
+title (
+Pathfinder's Guide to Eberron 
+)
+head(
+## Gnolls ((+Gnolls))
+Powerfully-built humanoids that resemble hyenas, gnolls are cunning warriors and hunters. Their frightening visage and efficient tactics have given them an ill-starred reputation.
+-
+)
+Formed from both War and the Wild, gnolls were recruited and bred by both Rak Tulkhesh and the Wild Heart. As foot soldiers of the overlords, they fought against orcs and other early humanoids, as well as battling the gnoll clans of other overlords. Even after the overlords were defeated and bound by the Silver Flame, gnolls continued to be their pawns.
+
+Then, centuries ago, two gnolls from rival clans faced one another on a battlefield soaked in the blood of their kin—then questioned the path that had led them there. The two urged others to deny the voice that called for endless war, to refuse to chase death in the service of a fiend. Two became four, then eight, until entire clans heeded the call. Clan leaders dragged their idols to the place now known as Znir—a word that simply means “stone”—and there, they shattered the images of the fiends they once served. Together, the gathered hunters, shamans, and warriors swore an oath: They might be many clans, but from this day forward, they would be one pack. They would allow no one—not chib, god, or demon—to hold dominion over them. [6]
+
+## You might...
+- Always try to work smarter, not harder.
+- Be very physically demonstrative—often hugging, punching, or licking your friends.
+- Chew through scraps and bones others would throw away.
+
+## Others Probably...
+- Are intimidated by your size, teeth, and eerie laugh.
+- Assume that you are dishonourable or worse.
+- Respect the brutal efficiency of your hunting style.
+|
+## Physical Description...
+A typical gnoll stands over seven feet in height, but this is belied by their hunched posture. Males and females are similar in appearance, and other species have difficulty telling them apart. Gnolls have thick fur over their bodies; depending on clan, this can be uniform in colour or broken up with spots or stripes. Their eyes are yellow or green and gleam with reflected light. While these are common traits, the fiendish heritage of gnolls sometimes manifests itself in its appearance. An unusual gnoll could have glowing red eyes, fur with stripes that glow like flames, or other unusual traits. Typically these don’t grant special abilities, though you could attribute a class ability or feat to such a mutation. [6]
+
+## Society...
+The Znir gnolls include a dozen different clans, each of which holds distinct traditions. Once the clans were devoted to different faces of the overlords, but when they shattered their statues, each clan chose one of the moons. All gnolls skillfully hunt and fight, but the Barrakas are known to be the finest trackers of the Pact; the Aryth, the deadliest archers; the Olarune, the strongest warriors and most forceful in the vanguard. Typically, mercenary units are comprised of gnolls of a single clan, assigned based on the nature of the task that lies ahead, and contracts are usually negotiated for a period based on cycles of the clan’s moon.
+
+The clans maintain distinct territories within the Znir region, but all gnolls are welcome around the hearth of any clan; the Znir take pains to crush any tension that arises between the clans. Shamans and leaders from each clan maintain a council at the Znir, around the broken idols. Here they mediate disputes, assign contracts to clans, and allocate funds and equipment. The Eyre clan has honed their skills as smiths and tanners, and they craft much of the equipment used by the Znir gnolls—though there is still a strong tradition of scavenging among the Znir, and warriors often claim trophies from fallen foes. [6]
+=
+## Alignment and Religion...
+Gnolls have very strong pack instincts, and an unsentimental, matter-of-fact approach to life, and prioritize results over methods.[7] They instinctively work together in combat and think nothing of placing themselves in harm’s way to protect their kin. If a gnoll character adopts a group of adventurers as their temporary pack, these things apply to the other characters—but the gnoll will be surprised and angry if their non-gnoll packmates don’t show them the same respect. This means the typical gnoll trends towards a Lawful alignment, but good and evil depend on the current terms of their contract. [8]
+
+## Names...
+Newborn Gnolls are given a root name, typically that of a bone, plant, or animal (though never Hyena, as this is considered narcissistic and arrogant). As a gnoll reaches certain milestones in life, they add descriptors to their name. Root names are often passed down through families, while descriptors are chosen to fit the gnoll's personality, usually in raucous ceremonies. [7]
+
+### Sample Names
+Baobab, Jackal, Onyx Elephant in Shadows, Red Thorn, Unbent Iron Reed, White Acacia, Wistful Tooth, Woodpecker
+
+  
+# Gnoll Statistics
+Gnolls gameplay statistics, heritages, and additional feats are provided by the Pathfinder 2e Mwangi Expanse book. The following Heritages and feats should be considered an additional pool to pick from in addition to the Pathfinder 2e information already provided.
+  
+# Gnoll Heritages
+You can select once of the following heritage at 1st level to reflect abilities that representative of the training and development you recieved while you were raised in a specific clan. These skills and abilities are specialties of your clan, passed down to you from your ancestors. You have only one heritage and can’t change it later. While you must belong to that clan if you pick one of these heritages, any base pathfinder 2e heritages can belong to any clan. The base heritages are not limited to any particular clan, though some clans might have more or fewer members from a particular base heritage. The pathfinder 2e heritages do not count for clan heritage requirements. 
+
+## Aryth Clan
+Your clan is tied to the moon Aryth - the Gateway. Considered the best Archers of the Znir gnolls, you become trained in Simple and Martial ranged weapons. Advanced gnoll weapons count as martial weapons for you.
+|
+## Barrakas Clan
+Your clan is tied to the moon Barrakas - the Lantern. Considered the best trackers of the Znir pact, you gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the location of a creature, but it remains hidden. In addition, you become trained in survival and you gain a +1 circumstance bonus to Survival checks to Track creatures that you have previously sensed with your scent. 
+
+## Dravago Clan
+Your clan is tied to the moon Dravago - the Herder. Your connection to the moon Dravago grants you resistance to the cold. You gain cold resistance equal to half your level (minimum 1). In addition, due to your large paws and sharp claws, snow and ice do not count as difficult terrain for you.
+
+## Eyre Clan
+Your clan is tied to the moon Eyre - the Anvil. You become trained in Crafting (or another skill if you were already trained in Crafting), and you gain the Quick Repair skill feat. In addition, if you roll a Critical Failure on a Repair check, you get a failure instead.
+
+## Lharvion Clan
+Your clan is tied to the moon Lharvion - the Eye. Your clan has unnatural insights and experience with the otherworldly. You become trained in Occultism (or another skill if you were already trained in Occultism) and gain the Root Magic skill feat. When crafting Root Magic talismans you are always able to produce one for yourself, in addition to one which you give to one ally (excluding yourself).
+
+## Nymm Clan
+Your clan is tied to the moon Nymm - the Crown. Your clan specializes in leadership in battle, and the ability to direct allies simultaneously. You gain access to the Bark Orders action.
+
+item(
+# Bark Orders :a:
+-
+; auditory, gnoll, linguistic
+**Frequency** once per day
+-
+You can command your allies to reposition. Any allies who hear and understand this order can use a reaction to Step. Any ally who uses their reaction then becomes immune to bark orders for 10 minutes.
+)
+=
+## Olarune Clan
+Your clan is tied to the moon Olarune - The Sentinel. Considered the strongest and most disciplined of the Znir gnolls, you gain the Shield Block general feat and the Rapid Cover action.
+
+item(
+# Rapid Cover :f:
+-
+; Gnoll, Flourish
+**Frequency** Once per day
+
+**Requirements** You are wielding a raised tower shield
+-
+You are trained to hold the line against any charge. You may take cover behind the shield, gaining the higher bonus for the tower shield.
+)
+
+## Rhaan Clan
+Your clan is tied to the moon Rhaan - the Book. The Rhaan clan maintains the history of the clans through story and song, and you have a deeper connection to the Primal energies of the world. Choose one cantrip from the primal spell list. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. You can change this cantrip to a different one from the same list once per day by meditating and connecting to the Primal energies of Eberron; this is a 10-minute activity that has the concentrate trait.
+
+## Sypheros Clan
+Your clan is tied to the moon Sypheros - the Shadow. You have a natural resilience to the dark manifestations of the world. You gain negative resistance equal to half your level (minimum 1). You also have Darkvision instead of Low-Light vision.
+
+## Therendor Clan
+Your clan is tied to the moon Therendor - The Healer's Moon. You become trained in Medicine (or another skill if you were already trained in Medicine), and you gain the Battle Medicine skill feat. In addition, when you roll a medicine check to Administer First Aid a critical failure becomes a failure, and a failure becomes a success. 
+
+## Vult Clan
+Your clan is tied to the moon Vult - the Warding Moon. You gain the Armor Proficiency general feat. In addition, you may cast the Shield cantrip as an innate occult spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+|
+## Zarantyr Clan
+Your clan is tied to the moon Zarantyr - the Storm. You can take advantage of the chaos of battle, ripping and tearing through the enemy. You gain the Rampage reaction.
+
+item(
+# Rampage :r:
+-
+; Gnoll
+**Frequency** Once per day
+
+**Trigger** You reduce a creature to 0 hp.
+-
+You take advantage of the opening. You may spend your reaction to step, stride half your speed, or make a strike.
+) 
+  
+    
+note(
+The Znir pact typically deploys entire mercenary groups composed of one or two clans for a contract, depending on the nature of the mission. 
+
+Aryth, Barrakas, and Rhaan are typically involved in scouting.
+Dravago is typically deployed to any northern engagements.
+Eyre, Nymm, and Therendor are typically deployed to support other clans or participate in coalition forces.
+Lharvion and Sypheros are typically deployed to anything involving the potential for extraplanar contact, or the undead.
+Olarune, Vult, and Zarantyr are typically deployed to where heavy fighting is expected.
+
+Although these are the specialities of each of the clans, all clans are expected to be able to perform in any context.
+)
+=
+# Removed Ancestry Feats
+The following feats provided by pathfinder should be ignored as they conflict with new mechanics or lore.
+#### 1st Level
+item(
+# Sensitive Nose
+## Feat 1
+-
+; Gnoll
+This feat is replaced with the Barrakas Clan heritage.
+) 
+|
+# Modified Ancestry Feats
+The following feats should replace Gnoll feats of the same name.
+
+#### 1st Level
+item(
+# Gnoll Weapon Familiarity
+## Feat 1
+-
+; gnoll
+You're practised with the weapons and arms of the Znir pact. You are trained with **composite longbows**, **great bows**, flails, khopeshes, mambeles, **myrnaxes**, spears, and war flails.
+
+In addition, you gain access to all uncommon Gnoll weapons. For the purpose of determining your proficiency, martial gnoll weapons are simple weapons and advanced gnoll weapons are martial weapons. 
+)
+
+#### 5th Level
+item(
+# Distant Cackle
+## Feat 5
+-
+; Gnoll
+**Prerequisites** Witch Gnoll, **Lharvion, Rhaan, or Sypheros Clan** Heritage
+-
+It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast ventriloquism once per day as a 1st-level occult innate spell.
+)
+item(
+# Gnoll Weapon Master
+## Feat 5
+-
+**Prerequisites** Gnoll Weapon Familiarity
+-
+; Gnoll
+You are brutally efficient with the weapons of your gnoll ancestors. Whenever you critically hit using **composite longbows**, **great bows**, flails, khopeshes, mambeles, **myrnaxes**, spears, or war flails, you apply the weapon's critical specialization effect. 
+)
+#### 13th Level
+item(
+# Gnoll Weapon Expertise
+## Feat 13
+-
+; Gnoll
+**Prerequisites** Gnoll Weapon Practicality
+-
+Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in **composite longbows**, **great bows**, flails, khopeshes, mambeles, **myrnaxes**, spears, and war flails.
+)
+=
+# New Ancestry Feats
+The following feats should be considered in addition to the base Gnoll ancestry feats. 
+
+#### 1st Level
+item(
+# Aggression
+## Feat 1
+-
+; Gnoll
+Gnolls often seem very aggressive to other creatures - partially because gnolls themselves don’t consider such casual intimidation to be a hostile act. You gain a +1 circumstance bonus to intimidation checks made while in exploration mode, and a +1 circumstance bonus to your Will DC against Intimidate skill actions, such as Demoralize.
+)
+item(
+# Pack Attack
+## Feat 1
+-
+; Gnoll
+**Frequency** once per round
+**Prerequisites** Aryth, Nymm, Olarune, Vult, or Zarantyr clan heritage.
+-
+With the aid of your allies, you hone in on vital points of the enemy. On a successful melee strike, you can deal an extra 1d4 extra precision damage to any creature that’s within reach of at least two of your allies.
+)
+item(
+# Bone Eater
+## Feat 1
+-
+; Gnoll
+You are used to subsisting on scraps of meat that would poison or be inedible to others. You can eat and drink things when you are sickened.
+
+You gain a +2 circumstance bonus to saving throws against afflictions, against gaining the sickened condition and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead. All these benefits apply only when the affliction or condition resulted from something you ingested. 
+)
+|
+item(
+# Runner
+## Feat 1
+-
+; Gnoll
+You move more quickly on foot. You gain the Fleet feat. In addition, when you step you may ignore difficult terrain.
+)
+item(
+# Znir lore
+## Feat 1
+-
+; Gnoll
+You've picked up skills and tales from the Znir pact leaders. You gain the trained proficiency rank in Occultism and Survival. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Gnoll Lore. 
+)
+#### 5th Level
+item(
+# Gnoll Communicator
+## Feat 5
+-
+; Gnoll
+The Gnoll language is unique, with a range of pitches that are difficult for humanoids to hear, let alone duplicate. 
+
+When in combat with allies that you have been travelling with for at least a week, you can communicate simple orders and messages to them. These barks and laughs are unintelligible to any creature without the gnoll trait that has not been similarly trained in the gnoll language.
+)
+=
+item(
+# Essence of the Moon
+## Feat 5
+-
+; Gnoll
+**Prerequisites** clan heritage  
+-
+Your connection to the tribe and your moon is strong. You gain the bonus associated with your clan. 
+
+**Aryth** With keen eyes, your shots land true. You may ignore the penalty for targetting a creature in the second range increment of your ranged weapons, and the volley trait of your weapons is reduced by 15 feet.
+
+**Barrakas** The range of your imprecise smell sense is increased to 60 feet. In addition, when you track creatures that you have previously sensed with your scent you gain a +2 circumstance bonus.
+
+**Dravago** You gain Terrain Expertise in the arctic (or a different terrain if you have the arctic already) and become trained in survival (or expert if you are already trained).
+
+**Eyre** You can repair damaged weapons and armour on the field, and return companions to the fight swiftly. You gain a +1 circumstance bonus to Crafting checks to repair items, and you don’t need a repair kit for non-magical item repairs as long as you have any amount of junk, spare parts, or debris at your disposal. The gear you are repairing can be worn for the duration of the repair, but the wearer cannot do anything without interrupting the repair.
+
+**Lharvion** Once per day, you can cast Protection. At 7th level, the spell is heightened to 2nd level, and every 2 levels thereafter, the spell is heightened an additional spell level.
+
+**Nymm** The frequency of bark orders becomes once per hour instead. Additionally, you may instead single out an ally to use their reaction to make a strike.
+
+**Olarune** The frequency of Rapid Cover becomes once per hour instead. In addition, when you use the shield block reaction you have resistance 10 to any damage over the shield's hardness.
+
+**Rhaan** Your connection to the primal energies of Eberron lets you reach the fey more easily. You gain the Summon Fey primal spell which you can cast once per day. At 7th level, the spell is heightened to 2nd level, and every 2 levels thereafter, the spell is heightened an additional spell level.
+
+**Sypheros** The DC of your recovery checks is equal to 9 + your dying value, or 8 + your dying value if you have the Toughness general feat. In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as raise dead or the resurrect ritual), you don't suffer that condition.
+
+**Therendor** With experience performing first aid in adverse conditions, hostile environments do not increase the difficulty of your Treat Wounds checks. In addition, when you make a Treat Wounds check the healing dice are increased to d10s, and if you roll a critical failure it becomes a failure instead.
+
+**Vult** Your warding abilities extend to others as well. You can cast the Forbidding Ward cantrip at will, and once per day, you can cast Protection as innate occult spells. Both these spells are heightened to half your level.
+
+**Zarantyr** The frequency of rampage is reduced to once per 10 minutes. Additionally, if you miss the strike from your rampage it does not count against your multiple attack penalty.
+)
+|
+item(
+# Survivor
+## Feat 5
+-
+; Gnoll
+You are capable of surviving on very little and have experience making do without. You gain the Forager skill feat, and the penalty for subsisting after 8 or fewer hours of exploration is decreased by 2.
+)
+#### 9th Level
+item(
+# Gnoll of many tribes
+## Feat 9
+-
+; Gnoll
+You may pick an additional Gnoll clan heritage, as you begin to understand their learnings. You may pick this feat multiple times, each time picking a different clan. When you pick a clan, it must not be the same as a clan that you already have learned from.
+)
+item(
+# Intimidating Ferosity
+## Feat 9
+-
+; Gnoll
+Survivors of gnoll attacks speak of the terrible fear that seized them before encountering a gnoll on the battlefield, leaving them frozen in place. Whenever you get a critical success on a demoralize check, if the creature is lower level than you, you may choose to make the creature stunned 1.
+)
+item(
+# Neither God nor Demon :r:
+## Feat 9
+-
+; Gnoll
+**Trigger** You attempt a saving throw against a divine magical effect, but you haven't rolled yet.
+-
+The Znir pact shattered the images of the fiends they once served and swore they would allow no one—not chib, god, or demon—to hold dominion over them. Channelling the power of your ancestors, you ferociously resist divine magic. You gain a +2 circumstance bonus against divine spells, and if you roll a critical failure on the saving throw against that spell, you get a failure instead.
+)
+item(
+# Pack Frenzy
+## Feat 9
+-
+**Prerequisites** Pack Attack
+-
+; Gnoll
+More than able to just hone in on vulnerabilities, an enemy is always vulnerable to you simply by the support of your pack. Any creature that’s within reach of you and at least one of your allies is flat-footed to you.
+)
+item(
+# Armored Warrior
+## Feat 9
+-
+; Gnoll
+**Prerequisites** Eyre, Olarune, Vult Clan
+-
+You have trained hard to optimize your armour's protective qualities. You gain the armour specialization effects of medium and heavy armour.
+)
+=
+#### 13th Level
+item(
+# Moon Presence
+## Feat 13
+-
+; Gnoll
+**Prerequisites** clan heritage  
+-
+By the clan and the pact your powers are heightened, and your senses keen. You channel a connection to your clan that few have ever been able to achieve. You gain the bonus depending on your original clan. Gnoll of many tribes does not count for this feat.
+
+**Aryth** The impact of your ranged weapons is aided by your precision. Once per turn, you gain a circumstance bonus to your ranged attack damage rolls equal to the number of weapon damage dice.
+
+**Barrakas** Your scent sense becomes a precise sense. Creatures under the effects of magic that would hide their passing or presence find it foiled by your keen smell unless accounted for. If you make a survival check to track a creature under the effects of Pass Without Trace, the DC has a -4 circumstance penalty (no lower than their regular survival DC).
+
+**Dravago** You gain the Terrain Stalker feat for snow and can move up to half your speed without attempting a Stealth check. In addition, you can translate your experience with the difficult terrain of the arctic to anywhere. Creatures in difficult terrain are flat-footed to you.
+
+**Eyre** You can sharpen weapons, polish armour, and apply special techniques to temporarily gain better effects from your armaments. By spending 1 hour working on a weapon or armour, you can grant it the effects of a +1 potency rune until your next daily preparations, gaining a +1 item bonus to attack rolls for a weapon or increasing armour’s item bonus to AC by 1. Once per day, you may choose one of these items to gain a bonus of 2 instead. This has no effect if the weapon or armour already had a potency rune.
+
+**Lharvion** Aberrations of the world are the speciality of your clan, and in particular, the series of blows to best fell one. You become trained in Aberration lore. In addition, if you succeed on a strike against an Aberration, it becomes flat-footed to you until the start of your next turn.
+
+**Nymm** Leadership is what keeps the Znir strong, and you have trained to maximize the potential of yourself and your allies. When you are adjacent to at least one ally, you and adjacent allies gain a +1 circumstance bonus to AC and saving throws. This bonus increases to +2 to Reflex saves against area effects.
+
+**Olarune** You no longer need to take cover to gain the higher bonus from tower shields, instead, you always have the higher bonus. In addition, with your great strength, you can wield tower shields beyond what any other mortal could carry. Anyone may craft tower shields out of any precious material, but only you may wield them due to their great bulk. When crafting a tower shield out of a precious material that is not darkwood, you must have the equivalent value in darkwood (up to the maximum price of the shield). For instance, crafting a standard-grade adamantine tower shield is a total cost of 440 GP with at least 55 GP of adamantine and 55 GP of darkwood.
+
+**Rhaan** The tricks of the fey have become part of your repertoire. You can cast haste and slow as primal innate spells once per day. At 17th level, these are heightened to 7th level.
+
+**Sypheros** The realm of the dead grants you a pathway to many abilities some consider to be unnatural. You can save others from death, and also yourself. The DC of your recovery checks is to 8 + your dying value, or 7 + your dying value if you have the Toughness general feat. In addition, once per day you can cast death ward as an occult innate spell. 
+
+**Therendor** Your healing abilities channelled by the power of the moon can bring back those others could not. If a creature has died of mortal wounds within the last minute, you may attempt an Administer First Aid check. On a critical success, the creature is revived, loses the dying condition (but remains unconscious), and becomes drained 1 for 1 week. This check can not overcome extraordinary circumstances, such as diseases, curses, or massive damage to the body. After you attempt this special check, the creature becomes immune to it for a week.
+
+**Vult** You can ward off even the eyes that would follow your movements. You gain nondetection as an innate occult spell once per day, which can only be cast on yourself and is automatically heightened to half your level rounded up.
+
+**Zarantyr** Rip and tear until it is done, there is no frequency on rampage, but it gains the flourish trait.
+)
+#### 17th Level
+item(
+# Professional Mercenary
+## Feat 17
+-
+; Gnoll
+You have trained relentlessly to become the best in your field. You may pick an additional feat from your class of 13th level or lower.
+)
+=
+head(
+### Weapons ((+Weapons))
+)
+##### Table 2-1: Melee Weapons ((++Melee Weapons))
+Uncommon Advanced  Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
+--- | :---: | :---: | :---: | :---: | :---:
+Myrnaxe | 1gp | 1d8 S | 1 | 1 | Axe | gnoll, sweep, versatile P
+
+##### Table 2-2: Ranged Weapons ((++Ranged Weapons))
+Uncommon Advanced Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
+--- | :---: | :---: | :---: | :---: | :---:
+Greatbow | 5gp | 1d8 P | 150 ft. | 0 | 2 | 1+ | Bow| Fatal d10, propulsive, gnoll, volley 45 ft.
+10 Greatarrows | 2sp | - | - | - | - | - | Ammunition | -
+
+## Weapon Traits
+
+  **Gnoll:** The Znir consider these weapons to be a signature weapon of their pact and don’t sell them to outsiders. The only way to acquire a gnoll weapon is to be given one or to take it from a fallen foe.
+
+## Weapon Descriptions
+  **Great bow** Despite its name - the great bow is not significantly larger than a normal longbow. However, the draw of the weapon is deceptively heavy. Great bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles significantly faster, resulting in greater penetrating power. You must have at least 14 strength and use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to great bows unless otherwise stated. To craft a great bow, you must have at least 5sp worth of darkwood to form the core of the weapon.
+
+  **Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Functionally, a myrnaxe is a battleaxe, but it can be used to inflict either slashing damage (with the axe blade) or piercing damage (with the spear).
+  It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk—thus maximizing its versatility against multiple foes. When crafting a myrnaxe, you may choose to make each side out of a different material. If you do so, the myrnaxe item uses highest cost and level between the two precious materials. You must have half the normal cost of each precious material to be used, and both sides of the weapon gain the effect of its respective precious material.
+
+=
+[6] Exploring Eberron. Keith Baker. Pg. 93
+[7] The Mwangi Expanse. Paizo. Pg 111.
+[8] Exploring Eberron. Keith Baker. Pg. 95
