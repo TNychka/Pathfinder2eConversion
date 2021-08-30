@@ -8,13 +8,13 @@ head(
 ## Bugbears ((+Bugbears))
 Dhakaani bugbears are known as Guul’dar, “strong folk,” and are celebrated for their strength and courage. Though they appear slow, they are capable of great bursts of strength or speed when necessary. Many yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha. Others instead find themselves at peace in small isolated clans, moving in flow with the nature around them.
 )
-Bugbears are storybook monsters in the tales and nightmares of many peoples. Stories speak of bugbears as great, hairy beasts that lurk in the shadows - waiting silently to spring their ambush. That if you stay off the beaten path or wander too far from your parents, a bugbear will reach out of the shadows and silently strangle you. If you leave the protection of your town at night, bugbears will drag you to their den to devour you alive. If a bugbear cuts off your head, your soul will never reach dolurrh.
+Bugbears, for many,  monsters belonging to storybooks and nightmares. Stories speak of bugbears as great, hairy beasts that lurk in the shadows - waiting silently to spring their ambush. It is the bugbears that lie in the darkness undetected, waiting for the children that strayed off the beaten path or too far from their parents, or for the villagers wandering out at night away from their homes. They drag the foolish and unsuspecting to their den to be devoured alive; worse, if they cut off your head, your soul is bound to Eberron and can never reach Dolurrh. 
 
-These terrible stories of bugbears flowered from seeds of truth. Most bugbears rely on stealth and strength to attack, using great bursts of energy to end fights before the enemy is even aware they are there. Most bugbears even prefer to work at night, aiding their natural stealth despite their great size. While there are stories of bugbear mercenaries taking heads of enemy leaders during the last war, bugbears are no more likely to eat people indiscriminately than humans are. As for the bugbears of the forests, many follow the peace and flow of nature rather than the violence of war. There are many a story of stoic bugbear rangers or druids guiding lost troops through impossible terrain to safety during the war.
+These terrible and fearsome storied flowers from small seads of truth. Most bugbears, despite their size, rely on stealth and the night time to surprise their enemies, and using great bursts of energy to end fights before the victim was aware of the fight to begin with. However, bugbears themselves are no more likely to eat other humanoids than humans themselves. The true bugbears of the forest, unlike those expected from storybooks, tend towards the peace and flow of nature rather than the violence of war. After the Last War, many more stories of stoic bugbear rangers or druids guiding lost troops through impossible terrain to safety have been retold by soldiers. 
 
 Now, as the nation of Darguun forms out of the ashes of the last war, the Guul'dar once again have an increasing presence in the civilized parts of the continent of Khorvaire.
 ## You might...
-- Present an air of indolence the hides the vicious ferocity you display in battle.
+- Present an air of indolence that hides the vicious ferocity you display in battle.
 - Use your great strength, long limbs, and endurance to perform feats of athletics that few others are capable of.
 - Move slowly and in time with the world around you, listening and waiting until the time is right to expend your energy.
 |
@@ -24,14 +24,14 @@ Now, as the nation of Darguun forms out of the ashes of the last war, the Guul'd
 - Underestimate your silent step - assuming that your great mass could not possibly move as quietly as the stories say.
 
 ## Physical Description...
-These stealthy and strong goblinoid creatures can thrive in the mayhem of battle and move slowly with the world around them - conserving great reserves of energy until needed. Standing between 6 to 8 feet tall and 250 to 300lbs, bugbears outsize most humanoids that they meet. Bugbears are typically extremely muscular, able to lift and move great weights with their long limbs. They are covered in thick short yellowish fur and share the same pointed ears as their goblinoid cousins. Using their long limbs bugbears can wield weapons with greater reach than most.
+These stealthy and strong goblinoid creatures can thrive in the mayhem of battle and move slowly with the world around them - conserving great reserves of energy until needed. Standing between 6 to 8 feet tall and weighing 250 to 300lbs, bugbears outsize most humanoids that they meet. Bugbears are typically extremely muscular, able to lift and move great weights with their long limbs. They are covered in thick short yellowish fur and share the same pointed ears as their goblinoid cousins. Using their long limbs bugbears can wield weapons with greater reach than most.
 
-Despite their great size, Bugbears show an uncanny ability to sneak up on the unsuspecting. They can use their quiet step and darkvision to move quietly through the night. Unnoticed if they so desire.
+Despite their great size, Bugbears show an uncanny ability to sneak up on the unsuspecting. They can use their quiet step and darkvision to move quietly through the night, unnoticed if they so desire.
 
-Bugbears reach physical adulthood around the age of 16, and they can live up to 80 years. However, given that most strive for glory in battle or perform dangerous manual labour, death by old age is relatively uncommon among Bugbears.
+Bugbears reach physical adulthood around the age of 16, and they can live up to 80 years. For those that strive for glory in battle or perform dangerous manual labour, death by old age is relatively uncommon. * What about the druids? 
 
 ## Society...
-The goblinoid society of Darguun is "bound together both by the philosophy of muut and atcha and by the spiritual connection of the Uul Dhakaan. Their lives are shaped by a relentless martial culture and a rigid caste system."[1] 
+Bugbears belong to a variety of communities, but the namely goblinoid ones are either: Dhakaan, Darguun, or the isolated forest communinities found throughout Khorvaire. The Dhakaani society is bound by philisophy of mu'ut and atcha, both respectively meaning the duty to ones empire and personal honour. The martial culture and rigid caste system of Dhakaan places bugbears in roles of aiding with demanding physical labour and being amongst the strongest warriors. 
 =
 right(
 ## Hit Points
@@ -54,11 +54,11 @@ Humanoid
 ## Darkvision
 You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.
 )
-"Muut is typically translated as 'duty,' though it can also be seen as 'the honor of the empire'— something everyone must work to maintain. Muut is what is expected of you, what you owe to your comrades. Dhakaani don’t expect thanks for doing something that has to be done; rather, they are disgusted by those who shirk their responsibilities. The closest dar equivalent to “thank you” is ta muut, which simply means, 'You do your duty.'
+Darguun, on the other hand, was a nation carved out of Cyre by goblinoid mercenaries during the Last War. While bugbears found in this region are likely to still place importance on their physical might, and rely on their innate strength, they  do not have the same venerence of mu'ut and atcha within their cutlure unlike found in Dhakaan. 
 
-By contrast, atcha refers to 'personal honor' or 'glory,' an opportunity to exceed what is required of you. No dar is content to simply do what is expected; the quest for atcha is a powerful driving force that urges dar to chase their full potential. In battle, the exhortation paatcha means, 'This is a chance to gain honor!'"[2] 
+Acting as a counterpart to both regions, bugbears found within the forests of Khorvaire find an alternative path of life, not abandoning their strengths and stealth, but rather using them to meld into the nature surrounding them. These communities of bugbears are smaller, less centralized, and lack an overall organizational leader. Often druids, rangers, or wisdom's guide these communities. 
 
-However, not all bugbears are part of the Dhakaani, and many of these bugbears are integrated with the cultures around them. Some may have adopted the human cultures of the cities in which they were born or the druidic customs of their isolated clans in the forests of the world.
+However, bugbears can be found integrated within human settlements, and needn't originate from a strictly goblinoid community. These bugbears often take up the culture of the nations they are found in, and can play a diversity of roles within them. 
 
 note(
 See Exploring Eberron (p. 96) for more information on Dhakaani Society.
