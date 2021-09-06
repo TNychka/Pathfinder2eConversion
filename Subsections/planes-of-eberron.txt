@@ -1,0 +1,239 @@
+watermark (
+Version 0.18.5
+)
+title (
+Pathfinders' Guide to Eberron 
+)
+head(
+# Planes of Eberron ((+Planes of Eberron))
+The Thirteen planes of Eberron all influence material plane of Eberron. All life is tied to each of the planes, though some connections may be more noticiable than others. 
+-
+)
+The planes of Eberron are complex in nature, and manifest effects on the material plane in the form of Manifest Zones. These manifest zones are frequently the most evident way that a plane interacts with the world, though there are more subtle ways. The following list details all thirteen planes of Eberron, and the effects they might have on your world.
+
+
+For more information on the planes of Eberron, see Exploring Eberron pg 143 onwards.
+
+Note that the traits are important.
+/
+item(
+# Daanvi: The Perfect Order ((++Daanvi))
+## Plane
+-
+; LN, Flowing
+**Moon** Nymm, the Crown
+
+**Native Inhabitants** Modrons, Inevitables, Angels, Devils
+-
+There’s a rhythm to Daanvi, a subtle metronome keeping perfect time. If you act without thinking, you unconsciously move to the beat. The streets may be crowded, but everyone walks at the same pace, every foot striking the ground at the same moment. It takes a conscious effort to break this rhythm, change the pattern, stand out from the crowd. Your instincts push you to fall in line, match the pattern, be part of the great machine.This is Daanvi, the Perfect Order. It represents the triumph of law over lawlessness, of discipline over chaos. From the perfectly structured insect hives to the inevitable tribunals that judge every mortal action, this is a triumph of order. On the one hand, Daanvi shows how structure and discipline can create enduring systems, and how laws are the backbone of prosperous civilization. On the other hand, it can crush individuality and innovation. It shows that laws can serve justice, but they can also pose an endless series of obstacles, or even be the tools of tyrants. Daanvi encompasses all of these paths. It shows the benefits of law and order—and the risks of taking them too far. [11]
+-
+**Plane of Truth.** A creature can’t tell a deliberate lie. It can avoid answering questions, or be evasive in its answers, as long as it remains within the boundaries of the truth.
+
+**Impeded Illusion.** When a creature casts an illusion spell that has a duration of 1 minute or longer, the duration is halved.
+
+**The Eyes of the Law.** When a creature casts a divination spell, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
+
+**No Chance.** The first time in a round (or any time outside of combat) that a creature makes an attack roll, ability check, or saving throw (other than a recovery check), treat the roll as a 10. If the creature has advantage or disadvantage on that roll, it only rolls one die, and treats the other one as a 10.
+
+**Flowing Time.** For every 10 minutes that pass in Daanvi, only 1 minute passes in the Material Plane. So if a creature spends 10 days arguing a case before a Daanvian court, less than a day has passed on Eberron.
+-
+Manifest zones of Daanvi are uncommon, those that do manifest typically present one of the plane's properties. Inside the manifest zone, things are unnaturally orderly.
+)
+item(
+# Dal Quor: The Region of Dreams ((++Dal Quor))
+## Plane
+-
+; Subjective Gravity, Flowing, Metamorphic 
+**Moon** Crya (believed to be destroyed)
+
+**Native Inhabitants** Dreamers, Quori
+-
+Dal Quor is both impossibly distant and remarkably close. Tens of thousands of years ago, the giants of Xen’drik shattered the ties between Dal Quor and the Material Plane. Since then, it’s been permanently remote, and no naturally occurring manifest zone to Dal Quor has been discovered. Not even plane shift or astral travel can allow direct contact with the Region of Dreams. And yet, it’s also the closest of the planes—to visit, just close your eyes. Dreaming is a form of spiritual travel, as your mortal consciousness is drawn to Dal Quor. Dal Quor is the realm of dreams, a place of imagination where memory and emotion can shape reality. The stories of Thelanis bring people together in a shared tale; by contrast, the dreams of Dal Quor are unique, individual, and fleeting. They’re defined by our experiences and desires, and we rarely remember them when they’re over. Dreams allows us to sift through our subconscious, and they are ours alone—or at least, they should be... if they aren’t manipulated by an outside force. The denizens of Dal Quor reflect the secondary theme of the plane, and—for now, at least—that theme is nightmares. The quori prey on mortal dreams, twisting them to produce the emotions they crave. This doesn’t mean all dreams are nightmares—but when a quori takes an interest in your dream, it’ll usually become one. [12]
+-
+**Extremely Morphic.** The environment of Dal Quor can shift at any moment. These changes are generally drawn from the mind of the current dreamer, but at the DM’s discretion, the thoughts of adventurers might impact another creature’s dream that they’re currently experiencing.
+
+**Extended Illusion.** When a creature casts an illusion spell with a duration of 1 minute or longer, the duration is doubled. Spells with a duration of 24 hours or more are unaffected.
+
+**Flowing Time.** For every 10 minutes that pass in Dal Quor, only 1 minute passes on the Material Plane. While sleeping for 8 hours, a creature could spend 3 days in Dal Quor
+-
+The metaphysical damage caused in the conflict between Dal Quor and the giants of Xen’drik broke the ties between Eberron and Dal Quor. There are no naturally occurring manifest zones to Dal Quor, and even plane shift won’t allow travel there. [13]
+
+# Dolurrh: The realm of The Dead ((++Dolurrh))
+## Plane
+-
+; Timeless, Shadow
+**Moon** Aryth, the Gateway
+
+**Native Inhabitants** The Quick, the Dead, the Lingering
+-
+Endless caverns stretch throughout Dolurrh, bleak passages of gray stone. Wherever you go, shadowy figures reach toward you, imploring, but you feel only the faintest chill as their insubstantial fingers pass through you. Mist pools around your feet, and as you press forward, you realize this swirling mist is moaning. This is no natural phenomenon; these are the remnants of souls who have forgotten themselves. This is Dolurrh. It’s not the embodiment of the idea of death or dying, both of which are reflected in Mabar. Rather, Dolurrh is where mortal souls go after their bodies die, where memories fade and lives are forgotten. [14]
+-
+**Eternal Ennui.** When a creature enters Dolurrh, it immediately increases its doomed condition. While in Dolurrh, this doomed condition can’t be removed by rest or by any other means. It’s immediately removed when the creature leaves Dolurrh. Creatures native to Dolurrh are immune to this property’s effects.
+
+**Impeded Magic.** In order to cast a spell of 1st level or higher, a creature must succeed on a flat check of DC 5 + spell level. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are expended.
+
+**Inevitable Entrapment.** Whenever a creature finishes a short or long rest, it must make a DC 12 Wisdom saving throw. On a failed save, it gains one level of ennui. Each time it makes this saving throw, the DC increases by 1. Whenever a creature ends a 24-hour period without finishing a long rest, it must make this saving throw as if it had just finished a rest, but its roll is made with disadvantage. Creatures native to Dolurrh are immune to this property’s effects.
+
+**Timeless.** Time passes at the same rate as on the Material Plane, and is consistent across its layers. Creatures can benefit from resting, suffer damage, and die. However, a creature on Dolurrh doesn’t age, and doesn’t need to eat, sleep, or drink.
+-
+Dolurrh manifest zones frequently do not possess the plane's properties. However, these zones are frequently exceptionally haunted, though not blighted, as Mabaran zones typically are. Shadows move in disturbing ways, and travelers may hear whispers they can’t quite make out.
+In some Dolurrhi zones, raising the dead can be dangerous; if spells or abilities that raise the dead are used in such a zone, roll on the Dolurrhi Resurrection Mishaps table to determine the result.Dolurrhi zones can also have positive effects. In many zones, it’s easier to return people from the dead, halving the cost of any material components. In others, anyone can cast speak with dead as a ritual that takes an hour to perform, as long as they have a personal connection to the deceased whose corpse they’re questioning.The most dramatic manifest zones are those that serve as gateways to enter the Catacombs of Dolurrh—and hopefully, to return. Opening such a gateway might call for a special ritual or significant sacrifice, perhaps under a particular alignment of the moon Aryth, or when Dolurrh is conterminous.
+)
+=
+item(
+# Fernia: The Sea of Flame ((++Fernia))
+## Plane
+-
+; Fire
+**Moon** Eyre, the Anvil
+
+**Moon and Portal Colour** Silver
+
+**Native Inhabitants** Efreet, Dao, Lesser Elementals, Fiends, Celestials
+-
+It’s simple to say that Fernia embodies the concept of fire. The plane is filled with magma and flame, from massive volcanoes to cities eternally on the verge of being consumed by fire. But Fernia isn’t about mundane fire; Lamannia is the source of simple, natural flame, and holds volcanoes and fire elementals. Rather, Fernia is about all the things we see in the flame, all the ideas it represents. It has layers reflecting wild destruction, where verdant forests eternally burn. It incorporates industry, with legions of azers forever toiling over fire and forge. And it reflects wild passion, burning emotions that can’t be held in, and glorious spectacle; these are the realm of the efreet, the lords of the Sea of Flame, forever striving to outshine their rivals. [EE 161]
+-
+**Planar Effects** While in the plane of Fernia, the following effects apply
+**Burning Bright** If you make a recovery check and you are still dying after applying the effects, make another recovery check. In Fernia, whether you live or die, it’s going to happen quickly!
+**Deadly Heat** All regions of Fernia are subject to temperatures of extreme heat (Core Rulebook page 517), though some regions reach temperatures of incredible heat. All creatures increase their resistance to cold damage by 5.
+**Empowered Fire** Fire spells are enhanced, while cold and water spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the fire trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
+**Fire Energy Ley Line** Fernia is attuned to fire energy, and by tapping into this source you can enhance fire spells using that energy’s power. The strength of this power varies throughout Fernia. (Secrets of Magic pg 214)
+**Fires of Industry** When making a crafting check involving the use of fire (such as cooking or smithing), you gain a +2 item bonus to your check.
+-
+**Manifest Zones** Manifest zones of Fernia typically present 1-2 effects, though stronger or weaker zones can vary in number. You can encounter any of the planar effects or of the following effects, though only very rarely does the manifest zone have the effects of the Fire plane trait.
+**Continual Flame** Motes of continual flame are spontaneously generated in this region, typically attached to some vegetation or minerals from the area. These flames persist even if they are removed from the region.
+**Geothermal** The area is dotted with pools of molten earth and fissures of scalding water, from which mephits and elementals emerge with regularity.
+)
+item(
+# Irian: The Eternal Dawn ((++Irian))
+## Plane
+-
+; Positive
+**Moon** Barrakas, the Lantern
+
+**Moon and Portal Colour** Bright Grey
+
+**Native Inhabitants** Embers, lumi, celestials, the Architects
+-
+In Irian, birds sing in a fertile valley, while a group of settlers work together to raise their first home. Moving further in, you find the gleaming capital of a new empire, where cheering throngs celebrate in the streets. There are dozens of layers in Irian, and each one is a vision of life triumphant. Irian is the dawn that inevitably banishes even the darkest night, the promise of spring triumphing over the coldest winter. It’s the bastion of hope, the promise that life always find a way. [EE 165]
+-
+**Planar Effects** While in the plane of Fernia, the following effects apply
+**Positive Power** Positive spells are enhanced, while negative spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the positive trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
+**Negative Void** In order to cast a spell that deals negative damage, a creature must succeed on a flat check with a DC equal to 5 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are lost.
+**Pure Light** There is no darkness in Irian. Any spell, effect, or other situation that would usually create darkness only reduces the lighting to dim light.
+**Life Triumphant** When making a medicine check, you gain a +2 item bonus to your check, and any creature which rests doubles their number of restored hit points. In addition, all non-undead creatures gain a +1 status bonus to saves against fear, poison, and disease effects.
+**Undead Bane** Creatures with the undead trait are sickened 2, they may not reduce this sickened value until they escape the effects of Irian. This has no effect on undead creatures that are sustained by Irian, such as the deathless elves of Aerenal.
+**Positive Energy Ley Line** Irian is attuned to positive energy, and by tapping into this source you can enhance positive spells using that energy’s power. The strength of this power varies throughout Irian. (Secrets of Magic pg 214)
+-
+**Manifest Zones** Manifest zones of Irian typically present 1-2 effects, though stronger or weaker zones can vary in number. You can encounter any of the planar effects or of the following effects, though only very rarely does the manifest zone have the effects of the Positive plane trait.
+**Restorative Springs** The waters of a spring hold curative powers — removing disease, healing wounds, even restoring lost senses.
+**Positive Crystals** Clusters of radiant crystals sprout from the earth. These crystals typically emanate the Positive Power planar effect, and some particularly potent crystals even replicate the Positive trait of the plane.
+)
+=
+item(
+# Kythri
+## Plane
+-
+; Erratic, Metamorphic
+**Moon** Zarantyr, the Storm
+
+**Native Inhabitants** Wild things, Slaadi, Githzerai
+-
+Kythri is commonly imagined as utterly unstable, with landscapes taking shape only to boil away within moments. And this is true of the heart of the realm, known as the Sea of Chaos. But at the edges of the sea, there are islands that linger. The environments of these Shifting Islands steadily and constantly change; a vast desert might be a lush rainforest in a few hours. But the land itself remains constant, and creatures can live on these islands, adapting to the endlessly changing environment
+-
+Broken Rhythms. A creature can’t take the exact same action on two consecutive turns. If it previously stood still, it must move. If it previously moved, it can stand still or move a different distance. A creature can cast a spell in two consecutive turns, but it can’t be the same spell. A creature can attack on two consecutive turns, but the second attack must be described as substantially different in style from the one before.
+Fluid in Form. When a creature casts a transmutation spell, its range is doubled; if it has a duration of at least 1 minute but less than 24 hours, the duration is doubled.
+Embrace the Unknown. In order to cast a divination spell of 1st level or higher, a creature must succeed on a spellcasting ability check with a DC equal to 12 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the action is lost. Divination spells cast on other planes can’t affect or target creatures, places, or objects on Kythri.
+The Odds Are Odd. If the d20 roll for an attack is a 1 or a 2, the attack misses regardless of any modifiers or the target’s AC. If the d20 roll for an attack is a 19 or 20, the attack hits regardless of any modifiers or the target’s AC, and is considered a critical hit. If a creature has an ability or item that increases its normal range of critical hits—such as the Champion fighter’s Improved Critical—its range increases by 1.
+Constant Change. Nothing remains exactly the same in Kythri. Whenever a creature finishes a short or long rest, it finds that something changed about it or its possessions. Each player should describe what’s changed about their character; this could be as simple as your cloak changing color or your sword now having a stylish Aundairian design when it was originally Karrnathi. You could choose for the change to be physical—your skin, hairstyle, or sex—or mental—you suddenly hate olives or no longer believe in the Sovereign Host. These changes have 
+no mechanical impact: the coins in your pocket may change in design, but copper coins won’t turn into platinum. If you want a change to have mechanical impact—for example, if your cleric’s faith or race changes and you want your character sheet to reflect that—discuss the possibility with your DM.
+Chaotic Time. Time is fluid in Kythri, inconsistent both with the Material Plane and within its own islands. Adventurers who spend a day in Kythri could find that a year has passed in Eberron, or they could be trapped in Kythri for a year and find that only an hour has passed when they return.
+)
+item(
+# Lamannia
+## Plane
+-
+**Moon** Olarune, the Sentinel
+
+**Native Inhabitants** Beasts, Elementals, Humanoids
+-
+Lamannia embodies primordial nature, untapped and untamable. It’s often called the Twilight Forest, and is depicted as a realm of colossal trees and massive beasts. However, the forest is just one of the facets of Lamannia. Every natural environment is represented in various layers that exemplify and exaggerate their features. Windswept desert, raging ocean, endless plains—all can be found here. In other planes, these environments are backdrops to the story the realm is telling. In Lamannia, the environment 
+is the story. It doesn’t need the help of fey or fiends to make its point, because the land itself is the point.
+-
+Extended Druidic Magic. When a creature casts a druid spell with a duration of 1 minute or longer while in Lamannia, the duration is doubled. Spells with a duration of 24 hours or more are unaffected. A DM could decide to extend this effect to other characters that draw on primal sources of magic, such as a Gatekeeper ranger or a Greensinger bard.
+Indomitable Beasts. Beasts and elementals have a +2 bonus to Constitution and advantage on Wisdom, Intelligence, and Charisma saving throws. Upon its arrival in Lamannia, any elemental or beast that’s charmed or bound in any way is immediately freed from that effect; this can be disastrous for an elemental airship that’s thrown into the plane.
+Elemental Power. When a creature casts a spell that summons or conjures an elemental, it does so as if the spell were cast at a level one higher than the spell slot that was expended.The Land Provides. A creature has advantage on Wisdom (Survival) checks made to forage for food or shelter. In most layers of Lamannia, the vegetation is bountiful and the land sustaining. (While in the Broken Land, it may be very difficult to forage, but you’ll at least have advantage to help you with the roll!)
+Primordial Matter. It’s difficult to destroy or contaminate the matter of Lamannia. All nonmagical food and drink is purified and rendered free of poison and disease. In addition, natural materials such as wood and stone are tougher than their mundane counterparts. When trying to destroy objects made of Lamannian materials, increase the Armor Class suggested in chapter 8 of the Dungeon Master’s Guide by 3, and double the hit points of the object.
+Standard Time. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
+)
+item(
+# Mabar
+## Plane
+-
+; Negative, Shadow
+**Moon** Syperos, the Shadow
+**Native Inhabitants** Shadows, Yugoloths and other Immortals, Undead, Dark Powers, Hostages
+-
+Early scholars studying reports of Mabar concluded that it was the Plane of Darkness—that this physical property is its defining concept. However, the plane’s eternal gloom is just a symptom of its true nature. Even the brightest day eventually ends in darkness, and Mabar embodies this idea. It’s the shadow that surrounds every island of light, patiently waiting to consume it. It’s entropy, despair, and loss. This isn’t the place where the souls of the living go after death, but rather, it’s the plane of death itself—the hunger that consumes both light and life.
+
+Mabar is the source of negative energy, and the origin of most undead. Manifest zones—and most undead—tied to Mabar consume the life force from the world around them. However, some people maintain that negative energy itself is just a tool, and that the power of Mabar can be harnessed for good
+-
+Necrotic Power. A creature has disadvantage on saving throws against necromancy spells. An undead creature has 2 extra hit points per Hit Die and advantage on saving throws against being turned or frightened.
+Radiant Void. In order to cast a spell that deals radiant damage or restores hit points, a creature must succeed on a 
+spellcasting ability check with a DC equal to 10 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the action is lost.
+Eternal Shadows. There is no bright light in Mabar. Any object or effect that would usually create bright light only creates dim light.
+The Hunger of Mabar. Mabar consumes the life force of living things. For every minute a living creature spends in Mabar, it takes 10d6 points of necrotic damage. If this damage reduces a creature to 0 hit points, it immediately dies and its body crumbles into ash. Natives of Mabar, creatures that have resistance or immunity to necrotic damage, and creatures under the effects of a death ward spell are immune to the effects of this property.
+Standard Time. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
+)
+item(
+# Risia
+## Plane
+-
+**Moon** Dravago, the Herder
+**Native Inhabitants** Spirits of Ice, Frost Giants and Dwarves
+-
+Risia is known as the Plain of Ice, for that’s the vast majority of what’s found within it. Risia is defined by endless arctic wastes, and what appear to be mountains are just peaks of solid ice. But like Fernia, Risia’s appearance can be deceiving. Because it’s filled with glaciers and snow, many sages assume that this is its defining principle. But in Lamannia, there are also endless blizzards and majestic glaciers—ice in its natural state. By comparison, the core ideas that define Risia are isolation, stagnation, and preservation. The endless frozen plane isn’t about snow, it’s about the utter stillness, the empty and unchanging landscape. Risia is sparsely populated, because that’s the point of it; it’s bleak and lonely, a realm in which you could walk for days and never see another creature. Where a desert of sand can at least shift in the breeze, the frozen landscape of Risia is unchanging. Yet, unlike a stone plateau, it reflects a substance that could change at one point—but is now caught, frozen, stagnant.
+-
+Lethal Cold. A creature exposed to the cold of Risia must succeed on a DC 10 Constitution saving throw every 10 minutes or gain one level of exhaustion. A creature with resistance or immunity to cold damage automatically succeeds on this saving throw, as does a creature naturally adapted to cold climates or one wearing appropriate protective gear. In addition, all creatures have resistance to fire damage, and a creature that’s usually resistant to fire damage becomes immune to it.
+Empowered Ice. When a creature casts a spell of 1st level or higher, if it deals cold damage, it does so as if cast at a level one higher than the spell slot that was expended.
+Preservation. A creature with 0 hit points becomes stable at the end of its turn, entering a state of suspended animation. If an unconscious creature remains in contact with the ground for more than 1 minute, it’s drawn below the surface and encased in an ice-encrusted stasis. While encased in this way, time ceases to flow for the creature and it doesn’t grow older.
+Stagnation. When a creature finishes a long rest, it doesn’t regain hit points or reduce its exhaustion level. However, it does recover Hit Dice normally and can spend them to regain hit points.
+Stillness of Flesh. Time passes at the same pace as on the Material Plane, and is consistent across its layers. However, the passage of time has no effect on a mortal creature’s body, and creatures don’t age or grow while in Risia. Exhaustion, starvation, and disease merely reduce a creature to 0 hit points, and don’t immediately kill it. Dwarves are immune to this property’s effects, and in Risia they can grow, age, and die, just as they would on the Material Plane.
+)
+item(
+# Shavarath
+## Plane
+-
+**Moon** Vult, the Warder
+**Native Inhabitants** Conscripts, Sword Wraiths, Whirling Blades, Angels, Demons, Devils
+-
+In Shavarath, angels and devils are locked in endless conflict. Radiant blades spill burning blood, and bolts of force smash angels from the sky. In another layer, champions of justice ride armored dragons, assaulting a titanic airship. In yet another, steel krakens tear apart celestial frigates. There’s only one constant in Shavarath: war.
+-
+War Magic. When a creature casts a spell that grants a bonus to AC, attack rolls, or saving throws, or a spell that grants temporary hit points, the duration is doubled. Spells 
+with a duration of 24 hours or more are unaffected.
+Unquenchable Fury. A creature has advantage on saving throws against any spells or abilities that charm a target, as well as against the calm emotions and sanctuary spells. In addition, the duration of these effects are halved, to a minimum duration of 1 round. While a barbarian is raging, its rage can’t be ended early unless it’s knocked unconscious.
+Fight On. On a creature’s turn, it can use a bonus action to spend 1 Hit Die. It rolls the die and adds its Constitution modifier, regaining hit points equal to the total (minimum of 1). Once a creature benefits from this property, it must finish a short or long rest before it can do so again.
+Bloodletting. When a creature scores a critical hit with an attack that deals piercing, slashing, or bludgeoning damage, it can roll one of the attack’s damage dice one extra time and add it to the extra dice of the critical hit.
+Flexible Time. Time’s passage varies between Shavarath’s layers. In many, time passes at the same rate as on the Material Plane; if you spend an hour fighting in the Burning Sky, an hour passes in Eberron. But other layers move at different speeds; you can spend a month in the trenches of Nullius Terram and find that less than three days have passed in Eberron. A creature with proficiency in Arcana can determine the passage of time in their layer by succeeding on a DC 14 Intelligence (Arcana) check.
+)
+item(
+# Syrania
+## Plane
+-
+**Moon** Therendor, the Healer
+**Native Inhabitants** 
+)
+item(
+# Thelanis
+## Plane
+-
+**Moon** Rhaan, the Book
+**Native Inhabitants** 
+)
+item(
+# Xoriat
+## Plane
+-
+**Moon** Lharvion, the Eye
+**Native Inhabitants** 
+)
