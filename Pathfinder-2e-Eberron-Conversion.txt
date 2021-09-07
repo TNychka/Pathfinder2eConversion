@@ -562,9 +562,384 @@ Undercommon | Chokers, underground denizens | Daelkyr
 All these languages are Rare, available to only PCs who had access to speakers of the language. All the following languages recieve the Rare trait, replacing the Uncommon trait if present.
 
 =
-# Pantheon ((+Pantheon))
-TODO
+head(
+# Religions ((+Religions))
+Without gods manifesting their presence in the world of Eberron, many different religions have formed in the different cultures of the world. These many diverse religions draw their divine power from the strength of their faith, rather than drawing it from the gift of a divine source. The clerics and paladins of the world choose one of these faiths to champion.
+-
+)
+Anyone can worship a deity, but those who do so devoutly should take care to pursue the faith’s edicts (behaviours the faith encourages) and avoid its anathemas (actions considered blasphemous). Each deity below has a short description, followed by their alignment, edicts, anathemas, and devotee benefits. In Eberron, you are not required to fit exactly into your deity's alignments, and you may follow a lawful good sovereign, but be a chaotic evil character. If you do so break the mould, it is up to you to explain how this difference came to be. Though you may still receive the powers of your faith if you don't meet the alignment of your faith, this may still make you an enemy of their other followers.
 
+## The Sovereign Host  ((++The Sovreign Host))
+The Sovereign Host consists of the deities most commonly worshipped by the majority of Khorvaire’s population. Most people revere the Host as a whole pantheon, offering prayers to different deities in different situations. Even clerics are often devoted to the entire Host rather than to a specific patron. If you are a cleric of the sovereign host, you may take divine font, abilities, skills, domains, spells, edicts, anathemas, or favoured weapons of your worship from any Sovereign. However once you have selected one of these sources, you may not mix further increases (such as in the case of cleric spells at 1st, 3rd and 5th level). Taken as a whole, the pantheon is neutral good, and its favoured weapon is the longsword—the weapon of its martial champion, Dol Dorn.
+
+### Arawai : Goddess of Agriculture
+A deity of fertility, plant life, and abundance, Arawai is neutral good. She claims many druids and rangers among her followers, as well as farmers, sailors, and any who are significantly concerned with weather or fertility. She is usually portrayed as a half-elf woman,
+|
+sometimes as a halfling or a human, and occasionally as a bronze dragon. 
+**Areas of Concern** Fertility, crops, abundance, plants, the wilderness, birth
+**Alignment** NG
+**Divine Font** Heal
+**Divine Ability** Wisdom or Constitution
+**Divine Skill** Nature
+**Domains** Earth, family, healing, nature, stars, sun, passion, toil, water
+**Cleric Spells** 1st: temporary tool, 2nd: shape wood, 3rd: wall of thorns
+**Edicts** Encourage hard work that benefits all, ensure the health of crops and vegetation, protect forests and farmland from ravagers.
+**Anathema** Destroy healthy crops, waste food, refuse to help others in your community
+**Favoured Weapon** morningstar
+
+### Aureon : God of Law and Knowledge
+A deity of lore and magic, Aureon is lawful neutral. The patron of all arcane spellcasters, as well as sages, librarians, and scribes, he often appears as a gnome or human wizard in ancient texts, and occasionally as a majestic blue dragon. 
+**Areas of Concern** Law, knowledge, learning, logic, magic
+**Alignment** LN
+**Divine Font** Heal or Harm
+**Divine Ability** Wisdom or Intelligence
+**Divine Skill** Arcana
+**Domains** Duty, Fate, Knowledge, Magic, Truth
+**Cleric Spells** 1st: mage armour, 3rd: zone of truth, 7th: contingency
+**Edicts** seek out lost lore, to make discoveries, and increase their magical power.
+**Anathema** fail to stop abuses of magic or hunt down lawbreakers and dangerous creatures of wild magic.
+**Favoured Weapon** Staff
+=
+### Balinor : God of Beasts and the Hunt
+A neutral nature deity associated with hunting and animal life, Balinor claims hunters, druids, barbarians, and rangers among his followers, since he appears as both a protector of nature and an exemplar of gently taking what one needs for sustenance from nature’s bounty. Usually portrayed as a burly human, sometimes as a crude but good-natured half-orc, and occasionally as a stalking green dragon. 
+**Areas of Concern** Animals, the hunt.
+**Alignment** N
+**Divine Font** Heal
+**Divine Ability** Strength or Wisdom
+**Divine Skill** Survival
+**Domains** Air, Nature, Earth, Might
+**Cleric Spells** 1st: pass without trace, 2nd: invisibility, 3rd: animal vision
+**Edicts** Hunt and maintain the health of the forest, provide for your community, slay creatures terrorizing an area.
+**Anathema** Take more than needed from the wilderness, hunt an animal for sport
+**Favoured Weapon** Battleaxe
+
+### Boldrei : Goddess of Community and Hearth 
+Boldrei, the lawful good deity of community, is invoked as a protector of villages and homes, to bless marriages, and to confirm government appointments. Usually depicted in ancient texts as a commoner of any race, or sometimes as a copper dragon brooding over a nest of eggs. 
+**Areas of Concern** Hearth, community, marriage, government
+**Alignment** LG
+**Divine Font** Heal
+**Divine Ability** Constitution or Wisdom 
+**Divine Skill** Diplomacy
+**Domains** Cities, duty, family, protection, truth
+**Cleric Spells** 1st: share lore, 4th: shape stone, 5th: wall of stone 
+**Edicts** seek to improve yourself and your community, trust those you work with, encourage cooperation
+**Anathema** betray another's trust, place conflict between ideological differences over people's lives
+**Favoured Weapon** Spear
+|
+### Dol Arrah : Goddess of Honor and Sacrifice
+Dol Arrah, the lawful good deity of honourable combat, self-sacrifice, and sunlight, manifests as a peacemaker, a careful planner, and a strategist. She serves as the patron of paladins, generals, and diplomats who fight their battles with words. In addition, in her role as a sun god, she brings light to pierce the darkest places of the world. She is commonly represented as a human or half-elf knight shining with holy radiance, and sometimes as a red dragon perched on a cloud. 
+**Areas of Concern** Honor, sacrifice, light, the sun, diplomacy
+**Alignment** LG
+**Divine Font** Heal
+**Divine Ability** Strength or Charisma
+**Divine Skill** Diplomacy
+**Domains** Confidence, Duty, Freedom, Might, Protection, Sun, Truth, Vigil, Zeal
+**Cleric Spells** 1st: mage armor, 4th: creation, 7th: true target
+**Edicts** Seek those that break oaths and enforce just restitution, uphold your promises
+**Anathema** Lie, dishonour yourself or your family, shirk your duties, break an oath
+**Favoured Weapon** Halberd
+
+### Dol Dorn : God of Strength at Arms
+The chaotic good deity of war, Dol Dorn appears as a paragon of physical perfection who promotes bodily strength as well as martial training. Most often depicted as a heavily muscled human, sometimes as a dwarf or a half-orc, and occasionally as a silver dragon. 
+**Areas of Concern** Physical perfection, strength, martial prowess
+**Alignment** CG
+**Divine Font** Heal
+**Divine Ability** Strength or Constitution 
+**Divine Skill** Athletics
+**Domains** Confidence, Duty, Might, Perfection, Protection, Zeal
+**Cleric Spells** 1st: endure, 3rd: haste, 4th: stoneskin
+**Edicts** Offer your strength to aid others, protect those weaker than you
+**Anathema** Engage in petty showcases of strength, use your strength to take advantage of others
+**Favoured Weapon** Longsword
+=
+### Kol Korran : God of Trade and Wealth 
+Merchants, traders, and thieves revere Kol Korran, the neutral deity of trade and money—as might anyone who has money or wants more. He is depicted as a fat, cheerful human or dwarf in fine clothes. A few ancient representations of him show a white dragon lying on a bed of ice-blue gemstones. 
+**Areas of Concern** Wealth, money, trade, commerce, theft
+**Alignment** N
+**Divine Font** Heal or Harm
+**Divine Ability** Wisdom or Charisma
+**Divine Skill** Society
+**Domains** Ambition, Cities, Travel, Wealth
+**Cleric Spells** 1st: shattering gem, 4th: creation, 7th: magnificent mansion
+**Edicts** gather new wealth, count your riches, opening up new trade routes, or discovering and retrieving items of great worth.
+**Anathema** allow those who steal from you to go unpunished
+**Favoured Weapon** Mace
+
+### Olladra : Goddess of Feast and Good Fortune 
+Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral good deity of luck and plenty. She is often depicted as a young halfling, sometimes as an elderly human, and occasionally as a black dragon. 
+**Areas of Concern** Good fortune, feast, plenty
+**Alignment** NG
+**Divine Font** Heal
+**Divine Ability** Constitution or Charisma
+**Divine Skill** Performance
+**Domains** Freedom, Indulgence, Luck
+**Cleric Spells** 1st: anticipate peril, 2nd: Lucky Number, 3rd: Perseis's Precautions
+**Edicts** Live life freely, drink
+**Anathema** Refuse a reasonable bet or duel
+**Favoured Weapon** Sickle
+|
+### Onatar : God of Artifice and the Forge 
+Onatar, the neutral good deity of crafts, industry, and fire, is the patron of artisans and artificers, smiths and smelters, and all who make things. Dwarves, in particular, revere him; he commonly appears as a dwarf smith in holy texts, and sometimes as a brass dragon. Wizards who specialize in fire also place their faith in him. 
+**Areas of Concern** Crafts, weapons, tools, smithing, fire, innovation
+**Alignment** NG
+**Divine Font** Heal
+**Divine Ability** Strength or Intelligence
+**Divine Skill** Crafting
+**Domains** Creation, Fire, Toil
+**Cleric Spells**  1st: temporary tool, 4th: creation, 7th: duplicate foe
+**Edicts** craft new creations, pay attention to details, share achievements
+**Anathema** carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes
+**Favoured Weapon** Warhammer
+/
+
+-
+  
+## The Dark Six  ((++The Dark Six))
+In some ways, the Dark Six can be considered a part of the pantheon of the Sovereign Host. It would be more accurate, however, to say that these deities have been cast out of the pantheon because of their evil ways. The Dark Six are the patrons of criminals, outcasts, and villains, as well as of various kinds of monsters. The holy texts show them scheming against the Sovereign Host at every turn for reasons that vary from deity to deity, and their dark minions likewise plot against the followers of the Sovereign Host.
+=
+### The Devourer
+The Devourer is the tsunami that overwhelms the tallest ship, the wildfire that consumes the grandest castle, the earthquake that levels the most glorious city. He is the vast and primordial power of nature, a force that will break any chain and wear down the strongest wall. 
+Those who embrace the Devourer celebrate the glorious power of the wilds. They revel in the raging storm and gladly embrace their predatory instincts. They accept that nature is often bloody and cruel, and don’t hesitate to follow its example. But while it may be harsh, nature is rarely evil. Priests of the Devourer often urge their parishioners to follow their instincts or teach people to live in accord with nature instead of forcing their will upon it. 
+**Areas of Concern** Devastation, hunger, nautical travel, storms, water
+**Alignment** NE
+**Divine Font** Harm
+**Divine Ability** Strength or Constitution
+**Divine Skill** Nature
+**Domains** Change, Cold, Decay, Destruction, Dust, Lightning, Nature, Plague, Void, Water
+**Cleric Spells** 1st: gust of wind, 3rd: lightning bolt, 5th: control water
+**Edicts** Embrace the glorious power of the wilds, live free of social or materialistic chains, cause destruction when angered
+**Anathema** bring civilization to intrude on the wild, become civilized
+**Favoured Weapon** Trident
+
+### The Fury
+The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury, guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
+**Areas of Concern** Anger, extremism, insanity, passion, revenge
+**Alignment** NE
+**Divine Font** Harm
+**Divine Ability** Strength or Dexterity
+**Divine Skill** Intimidation
+|
+**Domains** Ambition, Delirium, Destruction, Freedom, Might, Pain, Passion, Zeal
+**Cleric Spells** 1st: true strike, 3rd: fireball, 4th: dimension door
+**Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance from those who wrong you
+**Anathema** Allow a slight to go unanswered, show humility or fear
+**Favoured Weapon** Rapier
+
+### The Keeper
+The Keeper is the patron of those who put personal gain above all else. He guides those who use guile to gain gold, regardless of the cost to others. A rogue who invokes Olladra sees themselves as the hero of the story; one who calls on the Keeper has no compunctions about being the villain. Beyond guiding those who place profit before all else, the Keeper is also known for his willingness to make deals—though his bargains are always slanted in his favour. He is portrayed as a gaunt or grossly fat human, as a lich or a ghoul, or sometimes as a skeletal dragon. 
+**Areas of Concern** Death, entropy, greed, hunger, time
+**Alignment** NE
+**Divine Font** Harm
+**Divine Ability** Strength or Charisma 
+**Divine Skill** Theivery
+**Domains** Death, Decay, Dust, Indulgence, Trickery, Wealth
+**Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
+**Edicts** Gain financial control over others, gather new wealth, count your riches
+**Anathema** Allow honour or tradition to prevent you from taking what you want
+**Favoured Weapon** Scythe
+
+
+### The Mockery
+Others who follow the Mockery assert that the very idea of honour in war is delusional. Pain, terror, and death are the inevitable results of violence; at least those who follow the Mockery acknowledge the truth others deny. The assassin who kills without warning, the barbarian who sees mercy as a weakness, the pirate who cultivates a terrifying reputation—all these might view the Mockery as an ally. He is portrayed as a ghastly human warrior with the skin stripped from his body, cloaked in the skins of his enemies, and
+=
+sometimes as a half-fiend red dragon. 
+**Areas of Concern** Combat, dishonour, murder, terror, treachery.
+**Alignment** NE
+**Divine Font** Harm
+**Divine Ability** Dexterity or Charisma 
+**Divine Skill** Deception
+**Domains** Confidence, Destruction, Might, Pain, Passion, Trickery, Tyranny, Zeal
+**Cleric Spells** 1st: penumbral shroud, 3rd: invisibility sphere, 6th: mislead
+**Edicts** Seize any opportunity that would benefit you, solve your problems With Violence, hide your true intentions
+**Anathema** Beg for help or mercy, let a slight go unanswered
+**Favoured Weapon** Kama
+
+### The Shadow
+The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon. 
+**Areas of Concern**  Arcane magic, consequence, corruption, darkness, duality
+**Alignment** NE
+**Divine Font** Harm
+**Divine Ability** Constitution or Intelligence 
+**Divine Skill** Arcana
+**Domains** Ambition, Change, Darkness, Fate, Knowledge, Magic, Secrecy, Trickery, Truth
+**Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
+**Edicts** Learn and hoard forbidden magic, steal secrets from others
+**Anathema** Destroy forbidden lore, reveal the entirety of a secret
+**Favoured Weapon** staff
+|
+### The Traveler
+The most mysterious of the Dark Six, the Traveler is chaotic neutral and seems to have no connection to the other deities of the pantheon. A consummate shapeshifter, the Traveler is said to walk the land in a thousand disguises. A master of cunning and deception, it emphasizes subtlety and careful planning. In some places, the Traveler is known as the Giver of Gifts, but proverbs warn, “Beware the gifts of the Traveler.” Revered by doppelgangers, lycanthropes, and a number of changelings and shifters. 
+**Areas of Concern** Chaos, deception, evolution, invention, transformation
+**Alignment** CN
+**Divine Font** Heal, Harm
+**Divine Ability** Dexterity or Wisdom
+**Divine Skill** Survival
+**Domains** Change, Creation, Fate, Freedom, Knowledge, Secrecy, Travel, Trickery
+**Cleric Spells** 1st: illusory disguise, 2nd: invisibility, 3rd: nondetection, 4th: private sanctum
+**Edicts** Live life freely, manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions
+**Anathema** Refuse a reasonable bet, let social pressure change your behaviour
+**Favoured Weapon** scimitar
+/
+-
+= 
+## The Silver Flame
+In a world where deadly supernatural evil is a concrete fact of existence, the Church of the Silver Flame is dedicated to protecting the common people against supernatural forces of evil. The church itself was founded when a noble paladin gave her life to pull her nation back from the abyss. Some might mistakenly see the church merely as a militant hierarchical religious organization and assume that it must be a force of oppression. But while the Church of the Silver Flame is a religion, it’s equally a volunteer militia whose members are prepared to risk their lives to protect every innocent from the real and deadly threats lurking in the shadows. 
+**Areas of Concern** Protection, Defence of the Innocents, Destruction of supernatural evil
+**Alignment** LG
+**Divine Font** Heal
+**Divine Ability** Wisdom or Charisma
+**Divine Skill** Religion
+**Domains** Confidence, Duty, Fire, Freedom, Might, Protection, Repose, Sun, Truth, Vigil, Zeal
+**Cleric Spells** 1st: anticipate peril, 3rd: fireball, 4th: fire shield
+**Edicts** free others from oppression, release harmful tethers be they physical or spiritual, work toward your best self and inspire others to follow
+**Anathema** allow tyrants to escape punishment after their reign ends, enslave or oppress others, prevent others from honestly expressing themselves
+**Favoured Weapon** longbow
+
+## The Blood of Vol  ((++The Blood of Vol))
+Most followers of the Blood of Vol identify as Seekers of the Divinity Within—usually shortened to Seekers—though there are other traditions within the faith. The Blood of Vol has long been vilified, with outsiders often viewing it as a death cult, falsely equating it with the cult of Katashka the Gatekeeper, or blaming its members for plagues and blights. However, in the eyes of the Seeker, life and the soul are both divine forces. Every soul has the potential to evolve and develop divine power—but this takes time and willpower, and
+|
+most mortals die before they accomplish it. 
+**Areas of Concern** Death, Undead, and Ambition
+**Alignment** LN
+**Divine Font** Harm
+**Divine Ability** Constitution or Intelligence
+**Divine Skill** Occultism
+**Domains** Ambition, Change, Confidence, Death, Decay, Duty, Knowledge, Magic, Pain, Perfection, Protection, Repose, Secrecy, Soul, Undeath, Vigil
+**Cleric Spells** 1st animate dead, 3rd: haste, 6th: dominate
+**Edicts** Strive to unlock the potential within yourself, encourage others to strive toward their potential for greatness
+**Anathema** sacrifice your life, fail to work toward goals or grow in skill, relax excessively or give in to sloth, blemish a soul
+**Favoured Weapon** dagger
+
+## The Path of Light  ((++The Path of Light))
+The kalashtar of Adar follow no deity, but they do revere a universal force of positive energy they call il-Yannah, or “the Great Light. Most followers of the Path of Light are psions and psychic warriors, seeking to perfect their bodies and minds through meditation and communion with this light to prepare themselves for conflict with the forces of darkness — most particularly, the Dreaming Dark of the Inspired of Riedra. 
+**Areas of Concern** Dreams, the path of light
+**Alignment** LN
+**Divine Font** Heal
+**Divine Ability** Dexterity or Wisdom
+**Divine Skill** Diplomacy
+**Domains** Change, Dreams, Freedom, Knowledge, Perfection, Protection, Repose
+**Cleric Spells** 1st: jump, 3rd: haste, 4th: stoneskin
+**Edicts** be humble; help others perfect themselves; hone your body, mind, and spirit to a more perfect state; practice discipline
+**Anathema** abandon a companion in need, dishonour yourself, repeatedly fail to maintain self-control
+**Favoured Weapon** Fist
+=
+## The Spirits of the Past ((++The Spirits of the Past))
+The elves of Aerenal revere their ancient dead as incarnate deities, seeking advice from deathless councillors and petitioning their favour. Unlike undead creatures, the deathless elves of the Undying Court are animated by positive energy and are powerful beings of neutral good alignment. 
+**Areas of Concern** Glory, battle, bravery, honour
+**Alignment** N
+**Divine Font** Heal or Harm
+**Divine Ability** Strength or Constitution
+**Divine Skill** Athletics
+**Domains** Confidence, Destruction, Might, Protection, Zeal
+**Cleric Spells** 1st: true strike, 2nd: enlarge, 4th: weapon storm
+**Edicts** Strive to uphold the ideals of your ancestor spirit, practice with a weapon every day, destroy the undead
+**Anathema** Become or create undead, fail to strive to uphold your ancestor spirit, dishonour yourself, parlay with trucebreakers
+**Favoured Weapon** Double Scimitar
+
+## The Undying Court ((++The Undying Court))
+The elves of Aerenal revere their ancient dead as incarnate deities, seeking advice from deathless councillors and petitioning their favour. Unlike undead creatures, the deathless elves of the Undying Court are animated by positive energy and are powerful beings of neutral good alignment.
+**Areas of Concern** Glory, history, patience, revelation, obedience.
+**Alignment** NG
+**Divine Font** Heal
+**Divine Ability** Constitution or Wisdom
+**Divine Skill** Society
+**Domains** Death, Duty, Family, Knowledge, Magic, Perfection, Protection, Repose, Soul, Star, Sun, Undeath, Vigil
+**Cleric Spells** 1st: share lore, 2nd: comprehend language, 3rd: hypercognition
+**Edicts** work toward collective transcendence, challenge oppression through education, protect knowledge, seek truth
+**Anathema** destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information
+**Favoured Weapon** Scimitar
+|
+## Cults of the Dragon Below
+The Cults of the Dragon Below consist of a diverse group of fanatical sects that revere the power of the subterranean realms. Some of these cults seek to draw Khyber, the Dragon Below, up from the depths of the world, while others traffic with demons conjured from the deep regions. The City of the Dead in Aerenal seek a promised paradise in some lost cavern far below the surface, purifying themselves with a blood sacrifice to make themselves worthy to find it. Though little unites these mad cults beyond their reverence for the forbidden powers of Khyber, they are generally neutral evil.
+**Areas of Concern** Various
+**Alignment** LE, NE, CE
+**Divine Font** Harm
+**Divine Ability** Strength or Constitution
+**Divine Skill** Intimidation
+**Domains** Abomination, Cold, Darkness, Death, Decay, Delirium, Destruction, Dust, Earth, Indulgence, Knowledge, Nightmares, Pain, Passion, Plague, Secrecy, Sorrow, Soul, Swarm, Time, Trickery, Tyranny, Undeath, Void, Wyrmkin
+**Cleric Spells** 1st: grim tendrils, 4th: nightmare, 5th: summon entity (varies)
+**Edicts** Create darkness, sow discord among allies, misuse positions of authority by steering events toward apocalyptic ends (varies)
+**Anathema** none
+**Favoured Weapon** Great Pick (varies)
+
+
+=
+head(
+# Planes of Eberron ((+Planes of Eberron))
+The Thirteen planes of Eberron all influence material plane of Eberron. All life is tied to each of the planes, though some connections may be more noticiable than others. 
+-
+)
+The planes of Eberron are complex in nature, and manifest effects on the material plane in the form of Manifest Zones. These manifest zones are frequently the most evident way that a plane interacts with the world, though there are more subtle ways. The following list details all thirteen planes of Eberron, and the effects they might have on your world.
+
+
+For more information on the planes of Eberron, see Exploring Eberron pg 143 onwards.
+/
+item(
+# Daanvi: The Perfect Order ((++Daanvi))
+## Plane
+-
+; LN, Flowing
+**Moon** Nymm, the Crown
+
+**Native Inhabitants** Modrons, Inevitables, Angels, Devils
+-
+There’s a rhythm to Daanvi, a subtle metronome keeping perfect time. If you act without thinking, you unconsciously move to the beat. The streets may be crowded, but everyone walks at the same pace, every foot striking the ground at the same moment. It takes a conscious effort to break this rhythm, change the pattern, stand out from the crowd. Your instincts push you to fall in line, match the pattern, be part of the great machine.This is Daanvi, the Perfect Order. It represents the triumph of law over lawlessness, of discipline over chaos. From the perfectly structured insect hives to the inevitable tribunals that judge every mortal action, this is a triumph of order. On the one hand, Daanvi shows how structure and discipline can create enduring systems, and how laws are the backbone of prosperous civilization. On the other hand, it can crush individuality and innovation. It shows that laws can serve justice, but they can also pose an endless series of obstacles, or even be the tools of tyrants. Daanvi encompasses all of these paths. It shows the benefits of law and order—and the risks of taking them too far. [11]
+-
+**Plane of Truth.** A creature can’t tell a deliberate lie. It can avoid answering questions, or be evasive in its answers, as long as it remains within the boundaries of the truth.
+
+**Impeded Illusion.** When a creature casts an illusion spell that has a duration of 1 minute or longer, the duration is halved.
+
+**The Eyes of the Law.** When a creature casts a divination spell, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
+
+**No Chance.** The first time in a round (or any time outside of combat) that a creature makes an attack roll, ability check, or saving throw (other than a recovery check), treat the roll as a 10. If the creature has advantage or disadvantage on that roll, it only rolls one die, and treats the other one as a 10.
+
+**Flowing Time.** For every 10 minutes that pass in Daanvi, only 1 minute passes in the Material Plane. So if a creature spends 10 days arguing a case before a Daanvian court, less than a day has passed on Eberron.
+-
+Manifest zones of Daanvi are uncommon, those that do manifest typically present one of the plane's properties. Inside the manifest zone, things are unnaturally orderly.
+)
+|
+item(
+# Dal Quor: The Region of Dreams ((++Dal Quor))
+## Plane
+-
+; Subjective Gravity, Flowing, Metamorphic 
+**Moon** Crya (believed to be destroyed)
+
+**Native Inhabitants** Dreamers, Quori
+-
+Dal Quor is both impossibly distant and remarkably close. Tens of thousands of years ago, the giants of Xen’drik shattered the ties between Dal Quor and the Material Plane. Since then, it’s been permanently remote, and no naturally occurring manifest zone to Dal Quor has been discovered. Not even plane shift or astral travel can allow direct contact with the Region of Dreams. And yet, it’s also the closest of the planes—to visit, just close your eyes. Dreaming is a form of spiritual travel, as your mortal consciousness is drawn to Dal Quor.Dal Quor is the realm of dreams, a place of imagination where memory and emotion can shape reality. The stories of Thelanis bring people together in a shared tale; by contrast, the dreams of Dal Quor are unique, individual, and fleeting. They’re defined by our experiences and desires, and we rarely remember them when they’re over. Dreams allows us to sift through our subconscious, and they are ours alone—or at least, they should be... if they aren’t manipulated by an outside force. The denizens of Dal Quor reflect the secondary theme of the plane, and—for now, at least—that theme is nightmares. The quori prey on mortal dreams, twisting them to produce the emotions they crave. This doesn’t mean all dreams are nightmares—but when a quori takes an interest in your dream, it’ll usually become one. [12]
+-
+**Extremely Morphic.** The environment of Dal Quor can shift at any moment. These changes are generally drawn from the mind of the current dreamer, but at the DM’s discretion, the thoughts of adventurers might impact another creature’s dream that they’re currently experiencing.
+
+**Extended Illusion.** When a creature casts an illusion spell with a duration of 1 minute or longer, the duration is doubled. Spells with a duration of 24 hours or more are unaffected.
+
+**Flowing Time.** For every 10 minutes that pass in Dal Quor, only 1 minute passes on the Material Plane. While sleeping for 8 hours, a creature could spend 3 days in Dal Quor
+-
+The metaphysical damage caused in the conflict between Dal Quor and the giants of Xen’drik broke the ties between Eberron and Dal Quor. There are no naturally occurring manifest zones to Dal Quor, and even plane shift won’t allow travel there. [13]
+)
+=
+item(
+# Dolurrh: The realm of The Dead ((++Dolurrh))
+## Plane
+-
+; Timeless
+**Moon** Aryth, the Gateway
+
+**Native Inhabitants** The Quick, the Dead, the Lingering
+-
+Endless caverns stretch throughout Dolurrh, bleak passages of gray stone. Wherever you go, shadowy figures reach toward you, imploring, but you feel only the faintest chill as their insubstantial fingers pass through you. Mist pools around your feet, and as you press forward, you realize this swirling mist is moaning. This is no natural phenomenon; these are the remnants of souls who have forgotten themselves. This is Dolurrh. It’s not the embodiment of the idea of death or dying, both of which are reflected in Mabar. Rather, Dolurrh is where mortal souls go after their bodies die, where memories fade and lives are forgotten. [14]
+-
+**Eternal Ennui.** When a creature enters Dolurrh, it immediately increases its doomed condition. While in Dolurrh, this doomed condition can’t be removed by rest or by any other means. It’s immediately removed when the creature leaves Dolurrh. Creatures native to Dolurrh are immune to this property’s effects.
+
+**Impeded Magic.** In order to cast a spell of 1st level or higher, a creature must succeed on a flat check of DC 5 + spell level. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are expended.
+
+**Inevitable Entrapment.** Whenever a creature finishes a short or long rest, it must make a DC 12 Wisdom saving throw. On a failed save, it gains one level of ennui. Each time it makes this saving throw, the DC increases by 1. Whenever a creature ends a 24-hour period without finishing a long rest, it must make this saving throw as if it had just finished a rest, but its roll is made with disadvantage. Creatures native to Dolurrh are immune to this property’s effects.
+
+**Timeless.** Time passes at the same rate as on the Material Plane, and is consistent across its layers. Creatures can benefit from resting, suffer damage, and die. However, a creature on Dolurrh doesn’t age, and doesn’t need to eat, sleep, or drink.
+-
+Dolurrh manifest zones frequently do not possess the plane's properties. However, these zones are frequently exceptionally haunted, though not blighted, as Mabaran zones typically are. Shadows move in disturbing ways, and travelers may hear whispers they can’t quite make out.
+In some Dolurrhi zones, raising the dead can be dangerous; if spells or abilities that raise the dead are used in such a zone, roll on the Dolurrhi Resurrection Mishaps table to determine the result.Dolurrhi zones can also have positive effects. In many zones, it’s easier to return people from the dead, halving the cost of any material components. In others, anyone can cast speak with dead as a ritual that takes an hour to perform, as long as they have a personal connection to the deceased whose corpse they’re questioning.The most dramatic manifest zones are those that serve as gateways to enter the Catacombs of Dolurrh—and hopefully, to return. Opening such a gateway might call for a special ritual or significant sacrifice, perhaps under a particular alignment of the moon Aryth, or when Dolurrh is conterminous.
+)
 =
 head (
 # Ancestries ((Ancestries))
@@ -5218,11 +5593,11 @@ item(
 # Byeshk
 ## Material 2+
 -
-;Precious
+; Precious
 Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr—including dolgaunts, dolgrims, and mind flayers—are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk.
 -
- **Type** byeshk chunk; **Price** 10 gp; **Bulk** L
- **Type** byeshk ingot; **Price** 100 gp; **Bulk** 1
+ **Type** byeshk chunk; **Level** 0; **Price** 10 gp; **Bulk** L
+ **Type** byeshk ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
  **Type** low-grade byeshk object; **Level** 2; **Price** 20 gp per bulk;
  **Type** standard-grade byeshk object; **Level** 7; **Price** 250 gp per bulk;
  **Type** high-grade byeshk object; **Level** 15; **Price** 4500 gp per bulk;
@@ -5242,14 +5617,44 @@ Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and G
      Standard-grade | 24 | 96 | 48
      High-grade | 30 | 120 | 60
 )
+  
 item(
-# Siberys Shards
-## Material 1
+# Bronzewood
+## Material 0+
 -
-;Precious
+; Precious
+This exceptionally hard wood, native to Aerenal, is useful in the manufacture of armor and weapons. Unlike most woods, bronzewood can be used instead of metal to fashion heavy armor and weapons — it is somewhat shapeable during manufacturing, and it keeps a sharp edge. 
 -
- **Type** byeshk chunk; **Price** 10 gp; **Bulk** L
- **Type** byeshk ingot; **Price** 100 gp; **Bulk** 1
+ **Type** Bronzewood branch; **Level** 0; **Price** 500 gp; **Bulk** L
+ **Type** Bronzewood lumber; **Level** 0; **Price** 5,000 gp; **Bulk** 1
+ **Type** low-grade bronzewood object; **Level** 2; **Price** 15 gp per bulk;
+ **Type** standard-grade bronzewood object; **Level** 8; **Price** 350 gp per bulk;
+ **Type** high-grade bronzewood object; **Level** 16; **Price** 6,000 gp per bulk;
+**Bronzewood Items** | **Hardness** | **HP** | **BT**
+--- | :--- | :--- | :---
+**Thin Items**
+     Low-grade | 3 | 10 | 5
+     Standard-grade | 5 | 20 | 10
+     High-grade | 8 | 32 | 16
+**Items**
+     Low-grade | 5 | 18 | 9
+     Standard-grade | 7 | 28 | 14
+     High-grade | 10 | 40 | 20
+**Structures**
+     Low-grade | 12 | 46 | 23
+     Standard-grade | 14 | 56 | 28
+     High-grade | 20 | 80 | 40
+)
+  
+item(
+# Byeshk
+## Material 2+
+-
+; Precious
+Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr—including dolgaunts, dolgrims, and mind flayers—are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk.
+-
+ **Type** byeshk chunk; **Level** 0; **Price** 10 gp; **Bulk** L
+ **Type** byeshk ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
  **Type** low-grade byeshk object; **Level** 2; **Price** 20 gp per bulk;
  **Type** standard-grade byeshk object; **Level** 7; **Price** 250 gp per bulk;
  **Type** high-grade byeshk object; **Level** 15; **Price** 4500 gp per bulk;
@@ -5268,6 +5673,113 @@ item(
      Low-grade | 20 | 80 | 40
      Standard-grade | 24 | 96 | 48
      High-grade | 30 | 120 | 60
+)
+
+item(
+# Soarwood
+## Material 0+
+-
+; Uncommon, Precious
+Rare even in the abundant forests of Aerenal, soarwood possesses a magical buoyancy. Ships made from soarwood skim effortlessly over the surface of the water. Soarwood is a necessary component of the airships and elemental galleons manufactured by House Orien and House Cannith. A soarwood item’s Bulk is reduced by 3 (or to light Bulk at minimum, with no effect on an item that normally has light Bulk). The Price of an item made of soarwood is based on the item’s normal Bulk, not its reduced Bulk for being made of soarwood, but reduce the Bulk before making any further Bulk adjustments for the size of the item. Soarwood is however, not particularly fit for the purposes of Armor, Shields, or Weapons.
+-
+ **Type** Soarwood branch; **Level** 0; **Price** 600 gp; **Bulk** -
+ **Type** Soarwood lumber; **Level** 0; **Price** 6000 gp; **Bulk** L
+ **Type** standard-grade soarwood object; **Level** 9; **Price** 500 gp per bulk;
+ **Type** high-grade soarwood object; **Level** 17; **Price** 10,000 gp per bulk;
+**Soarwood Items** | **Hardness** | **HP** | **BT**
+--- | :--- | :--- | :---
+**Thin Items**
+     Standard-grade | 3 | 10 | 5
+     High-grade | 5 | 20 | 10
+**Items**
+     Standard-grade | 5 | 18 | 9
+     High-grade | 7 | 28 | 14
+**Structures**
+     Standard-grade | 12 | 46 | 23
+     High-grade | 14 | 56 | 28
+)
+ 
+ 
+item(
+# Riedran Crysteel
+## Material 0+
+-
+; Uncommon, Precious
+The Inspired lords of Riedra supervise the mining of a crystalline substance that can be alloyed with iron to form Riedran crysteel. Crysteel makes excellent weapons, and the crystalline component makes them resonate with psionic power.
+-
+ **Type** Riedran crysteel chunk; **Level** 0; **Price** 10 gp; **Bulk** L
+ **Type** Riedran crysteel ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
+ **Type** low-grade riedran crysteel object; **Level** 2; **Price** 20 gp per bulk;
+ **Type** standard-grade riedran crysteel object; **Level** 7; **Price** 250 gp per bulk;
+ **Type** high-grade riedran crysteel object; **Level** 15; **Price** 4500 gp per bulk;
+**Riedran Crysteel Items** | **Hardness** | **HP** | **BT**
+--- | :--- | :--- | :---
+**Thin Items**
+     Low-grade | 4 | 20 | 10
+     Standard-grade | 6 | 28 | 14
+     High-grade | 9 | 40 | 20
+**Items**
+     Low-grade | 8 | 36 | 16
+     Standard-grade | 10 | 44 | 22
+     High-grade | 13 | 56 | 28
+**Structures**
+     Low-grade | 17 | 72 | 36
+     Standard-grade | 21 | 88 | 44
+     High-grade | 27 | 112 | 56
+)
+  
+item(
+# Eberron Shards
+## Material 0+
+-
+;Precious
+Eberron dragonshards, also called bloodstones, are found encased in geodelike stone shells—egg-shaped rocks perhaps a foot across. These stone shells usually lie just below the surface of the ground, covered by 2 to 10 feet of dirt and sediment, but always above the bedrock layer. Since Eberron dragonshards are not found buried within rock, most shard fields are in lowlands, as opposed to mountains or rocky barrens.
+-
+ **Type** unproccessed small eberron shards (up to 2 inches); **Level** 0; **Price** 4 sp; **Bulk** -
+ **Type** unproccessed medium eberron shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 1 gp; **Bulk** -
+ **Type** unproccessed large eberron shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 3 gp; **Bulk** L
+ **Type** unproccessed greater eberron shards (More than 6 inches); **Level** 4; **Price** 13 gp; **Bulk** L
+-
+ **Type** refined small eberron shards (up to 2 inches); **Level** 1; **Price** 3 gp; **Bulk** -
+ **Type** refined medium eberron shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 5 gp; **Bulk** -
+ **Type** refined large eberron shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 13 gp; **Bulk** L
+ **Type** refined greater eberron shards (More than 6 inches); **Level** 7; **Price** 51 gp; **Bulk** L
+)
+  
+item(
+# Khyber Shards
+## Material 0+
+-
+;Precious
+While Siberys shards are the most rare variety of dragonshard, Khyber shards are the most hazardous to obtain. Despite the hazards, Khyber shards fuel so much of Khorvaire’s industry that it's worth the risk for the payout. khyber shards are found in everything from lightning rails to airships to elemental forges which increase the output of many of Khorvaire’s smiths and craftsmen. Khyber shards are found only in the depths of Khyber, growing in clusters on cavern walls and floors near pools of magma. The dragonshards reflect the orange-red glow of the molten rock, and the silhouette of a swirling dragonmark is barely visible within the smoky crystal.
+-
+ **Type** unproccessed small khyber shards (up to 2 inches); **Level** 0; **Price** 1 gp; **Bulk** -
+ **Type** unproccessed medium khyber shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
+ **Type** unproccessed large khyber shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** L
+ **Type** unproccessed greater khyber shards (More than 6 inches); **Level** 4; **Price** 20 gp; **Bulk** L
+-
+ **Type** refined small khyber shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
+ **Type** refined medium khyber shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 7 gp; **Bulk** -
+ **Type** refined large khyber shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 20 gp; **Bulk** L
+ **Type** refined greater khyber shards (More than 6 inches); **Level** 7; **Price** 70 gp; **Bulk** L
+)
+  
+item(
+# Siberys Shards
+## Material 0+
+-
+;Precious
+Siberys shards fall from the Ring of Siberys, and as a result are usually found in Xen’drik and other equatorial regions. Their crystalline depths contain pulsating golden veins. The most rare of the dragonshard varieties, Siberys shards are also sometimes called sunstones or starmotes, and their connection to the dragonmarked houses means that they are often simply called dragonshards with no qualification. Dragonshards are rarely found large enough to be crafted into items of any significant size.
+-
+ **Type** unproccessed small siberys shards (up to 2 inches); **Level** 0; **Price** 5 sp; **Bulk** -
+ **Type** unproccessed medium siberys shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
+ **Type** unproccessed large siberys shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** L
+ **Type** unproccessed greater siberys shards (More than 6 inches); **Level** 4; **Price** 17 gp; **Bulk** L
+-
+ **Type** refined small siberys shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
+ **Type** refined medium siberys shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 6 gp; **Bulk** -
+ **Type** refined large siberys shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 18 gp; **Bulk** L
+ **Type** refined greater siberys shards (More than 6 inches); **Level** 7; **Price** 63 gp; **Bulk** L
 )
 =
 head(
@@ -5855,15 +6367,15 @@ Consider the following:
 - - gunpowered like gunslinger, alchemest bomber, etc... all shards. Shards go boom. Unstable, expensive, insane. Don't do it kids.
 =
 
- #Changelog
+# Changelog
 V 0.1
 - Document created
 
-*Legal Disclaimer: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to u/Slayercookie or 360Broscope#4704. You will be credited for your work, and this document will be maintained as a consistent base for the Eberron community to use as a base conversion guide.*
-
 *Disclaimer: In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind bending corruptions accending from the depths (The Mror Holds decline to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
 
-- Bugbears
+*Legal Disclaimer: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to https://github.com/TNychka/Pathfinder2eConversion/issues. You will be credited for your work, and this document will be maintained as an up to date source for the Eberron community.*
+
+# References
 [1] Exploring Eberron - Keith Baker pg 109
 [2] Exploring Eberron - Keith Baker pg 99
 [3] Exploring Eberron - Keith Baker pg 109
