@@ -564,30 +564,30 @@ All these languages are Rare, available to only PCs who had access to speakers o
 =
 head(
 # Religions ((+Religions))
-Without gods manifesting their presence in the world of Eberron, many different religions have formed in the different cultures of the world. These many diverse religions draw their divine power from the strength of their faith, rather than drawing it from the gift of a divine source. The clerics and paladins of the world choose one of these faiths to champion.
+Without the presence of physically manifesting gods, Eberron is a world of diverse religions and faith in the higher powers. Many different religions have formed in the different cultures of the world, each following a unique faith. These many diverse religions draw their divine power from the strength of their faith, rather than drawing it as a gift of a divine source.
 -
 )
-Anyone can worship a deity, but those who do so devoutly should take care to pursue the faith’s edicts (behaviours the faith encourages) and avoid its anathemas (actions considered blasphemous). Each deity below has a short description, followed by their alignment, edicts, anathemas, and devotee benefits. In Eberron, you are not required to fit exactly into your deity's alignments, and you may follow a lawful good sovereign, but be a chaotic evil character. If you do so break the mould, it is up to you to explain how this difference came to be. Though you may still receive the powers of your faith if you don't meet the alignment of your faith, this may still make you an enemy of their other followers.
-
-## The Sovereign Host  ((++The Sovreign Host))
+Anyone can worship a deity, but those who do so devoutly draw divine power from the strength of their faith. Each deity below has a short description, followed by their alignment, edicts, anathemas, and devotee benefits. In Eberron, you are not required to fit exactly into your deity's alignments, edicts, or anathemas. As a devout follower of the faith, you may follow a lawful good sovereign, but be chaotic evil in nature. Similarly, if you break the Edicts and Anathemas of your diety, divine retribution is unlikely - though you may still draw the ire of your church. If you do so break these guidelines, it is up to you to explain how this difference came to be, and how you resolve this as a divine follower.
+  
+# The Sovereign Host [NG] ((++The Sovereign Host))
+-
+/
 The Sovereign Host consists of the deities most commonly worshipped by the majority of Khorvaire’s population. Most people revere the Host as a whole pantheon, offering prayers to different deities in different situations. Even clerics are often devoted to the entire Host rather than to a specific patron. If you are a cleric of the sovereign host, you may take divine font, abilities, skills, domains, spells, edicts, anathemas, or favoured weapons of your worship from any Sovereign. However once you have selected one of these sources, you may not mix further increases (such as in the case of cleric spells at 1st, 3rd and 5th level). Taken as a whole, the pantheon is neutral good, and its favoured weapon is the longsword—the weapon of its martial champion, Dol Dorn.
 
-### Arawai : Goddess of Agriculture
-A deity of fertility, plant life, and abundance, Arawai is neutral good. She claims many druids and rangers among her followers, as well as farmers, sailors, and any who are significantly concerned with weather or fertility. She is usually portrayed as a half-elf woman,
-|
-sometimes as a halfling or a human, and occasionally as a bronze dragon. 
+### Arawai: Goddess of Agriculture [NG]
+A deity of fertility, plant life, and abundance, Arawai is neutral good. She claims many druids and rangers among her followers, as well as farmers, sailors, and any who are significantly concerned with weather or fertility. She is usually portrayed as a half-elf woman, sometimes as a halfling or a human, and occasionally as a bronze dragon. 
 **Areas of Concern** Fertility, crops, abundance, plants, the wilderness, birth
 **Alignment** NG
 **Divine Font** Heal
 **Divine Ability** Wisdom or Constitution
 **Divine Skill** Nature
 **Domains** Earth, family, healing, nature, stars, sun, passion, toil, water
+|
 **Cleric Spells** 1st: temporary tool, 2nd: shape wood, 3rd: wall of thorns
 **Edicts** Encourage hard work that benefits all, ensure the health of crops and vegetation, protect forests and farmland from ravagers.
 **Anathema** Destroy healthy crops, waste food, refuse to help others in your community
 **Favoured Weapon** morningstar
-
-### Aureon : God of Law and Knowledge
+### Aureon: God of Law and Knowledge
 A deity of lore and magic, Aureon is lawful neutral. The patron of all arcane spellcasters, as well as sages, librarians, and scribes, he often appears as a gnome or human wizard in ancient texts, and occasionally as a majestic blue dragon. 
 **Areas of Concern** Law, knowledge, learning, logic, magic
 **Alignment** LN
@@ -600,7 +600,7 @@ A deity of lore and magic, Aureon is lawful neutral. The patron of all arcane sp
 **Anathema** fail to stop abuses of magic or hunt down lawbreakers and dangerous creatures of wild magic.
 **Favoured Weapon** Staff
 =
-### Balinor : God of Beasts and the Hunt
+### Balinor: God of Beasts and the Hunt [N]
 A neutral nature deity associated with hunting and animal life, Balinor claims hunters, druids, barbarians, and rangers among his followers, since he appears as both a protector of nature and an exemplar of gently taking what one needs for sustenance from nature’s bounty. Usually portrayed as a burly human, sometimes as a crude but good-natured half-orc, and occasionally as a stalking green dragon. 
 **Areas of Concern** Animals, the hunt.
 **Alignment** N
@@ -612,8 +612,8 @@ A neutral nature deity associated with hunting and animal life, Balinor claims h
 **Edicts** Hunt and maintain the health of the forest, provide for your community, slay creatures terrorizing an area.
 **Anathema** Take more than needed from the wilderness, hunt an animal for sport
 **Favoured Weapon** Battleaxe
-
-### Boldrei : Goddess of Community and Hearth 
+  
+### Boldrei: Goddess of Community and Hearth [LG]
 Boldrei, the lawful good deity of community, is invoked as a protector of villages and homes, to bless marriages, and to confirm government appointments. Usually depicted in ancient texts as a commoner of any race, or sometimes as a copper dragon brooding over a nest of eggs. 
 **Areas of Concern** Hearth, community, marriage, government
 **Alignment** LG
@@ -626,7 +626,7 @@ Boldrei, the lawful good deity of community, is invoked as a protector of villag
 **Anathema** betray another's trust, place conflict between ideological differences over people's lives
 **Favoured Weapon** Spear
 |
-### Dol Arrah : Goddess of Honor and Sacrifice
+### Dol Arrah: Goddess of Honor and Sacrifice [LG]
 Dol Arrah, the lawful good deity of honourable combat, self-sacrifice, and sunlight, manifests as a peacemaker, a careful planner, and a strategist. She serves as the patron of paladins, generals, and diplomats who fight their battles with words. In addition, in her role as a sun god, she brings light to pierce the darkest places of the world. She is commonly represented as a human or half-elf knight shining with holy radiance, and sometimes as a red dragon perched on a cloud. 
 **Areas of Concern** Honor, sacrifice, light, the sun, diplomacy
 **Alignment** LG
@@ -638,8 +638,8 @@ Dol Arrah, the lawful good deity of honourable combat, self-sacrifice, and sunli
 **Edicts** Seek those that break oaths and enforce just restitution, uphold your promises
 **Anathema** Lie, dishonour yourself or your family, shirk your duties, break an oath
 **Favoured Weapon** Halberd
-
-### Dol Dorn : God of Strength at Arms
+  
+### Dol Dorn: God of Strength at Arms [CG]
 The chaotic good deity of war, Dol Dorn appears as a paragon of physical perfection who promotes bodily strength as well as martial training. Most often depicted as a heavily muscled human, sometimes as a dwarf or a half-orc, and occasionally as a silver dragon. 
 **Areas of Concern** Physical perfection, strength, martial prowess
 **Alignment** CG
@@ -652,7 +652,7 @@ The chaotic good deity of war, Dol Dorn appears as a paragon of physical perfect
 **Anathema** Engage in petty showcases of strength, use your strength to take advantage of others
 **Favoured Weapon** Longsword
 =
-### Kol Korran : God of Trade and Wealth 
+### Kol Korran: God of Trade and Wealth [N]
 Merchants, traders, and thieves revere Kol Korran, the neutral deity of trade and money—as might anyone who has money or wants more. He is depicted as a fat, cheerful human or dwarf in fine clothes. A few ancient representations of him show a white dragon lying on a bed of ice-blue gemstones. 
 **Areas of Concern** Wealth, money, trade, commerce, theft
 **Alignment** N
@@ -664,8 +664,8 @@ Merchants, traders, and thieves revere Kol Korran, the neutral deity of trade an
 **Edicts** gather new wealth, count your riches, opening up new trade routes, or discovering and retrieving items of great worth.
 **Anathema** allow those who steal from you to go unpunished
 **Favoured Weapon** Mace
-
-### Olladra : Goddess of Feast and Good Fortune 
+  
+### Olladra: Goddess of Feast and Good Fortune [NG]
 Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral good deity of luck and plenty. She is often depicted as a young halfling, sometimes as an elderly human, and occasionally as a black dragon. 
 **Areas of Concern** Good fortune, feast, plenty
 **Alignment** NG
@@ -678,7 +678,7 @@ Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral
 **Anathema** Refuse a reasonable bet or duel
 **Favoured Weapon** Sickle
 |
-### Onatar : God of Artifice and the Forge 
+### Onatar: God of Artifice and the Forge [NG]
 Onatar, the neutral good deity of crafts, industry, and fire, is the patron of artisans and artificers, smiths and smelters, and all who make things. Dwarves, in particular, revere him; he commonly appears as a dwarf smith in holy texts, and sometimes as a brass dragon. Wizards who specialize in fire also place their faith in him. 
 **Areas of Concern** Crafts, weapons, tools, smithing, fire, innovation
 **Alignment** NG
@@ -690,16 +690,15 @@ Onatar, the neutral good deity of crafts, industry, and fire, is the patron of a
 **Edicts** craft new creations, pay attention to details, share achievements
 **Anathema** carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes
 **Favoured Weapon** Warhammer
-/
-
--
-  
-## The Dark Six  ((++The Dark Six))
-In some ways, the Dark Six can be considered a part of the pantheon of the Sovereign Host. It would be more accurate, however, to say that these deities have been cast out of the pantheon because of their evil ways. The Dark Six are the patrons of criminals, outcasts, and villains, as well as of various kinds of monsters. The holy texts show them scheming against the Sovereign Host at every turn for reasons that vary from deity to deity, and their dark minions likewise plot against the followers of the Sovereign Host.
 =
-### The Devourer
-The Devourer is the tsunami that overwhelms the tallest ship, the wildfire that consumes the grandest castle, the earthquake that levels the most glorious city. He is the vast and primordial power of nature, a force that will break any chain and wear down the strongest wall. 
-Those who embrace the Devourer celebrate the glorious power of the wilds. They revel in the raging storm and gladly embrace their predatory instincts. They accept that nature is often bloody and cruel, and don’t hesitate to follow its example. But while it may be harsh, nature is rarely evil. Priests of the Devourer often urge their parishioners to follow their instincts or teach people to live in accord with nature instead of forcing their will upon it. 
+# The Dark Six [NE] ((++The Dark Six))
+-
+/
+In some ways, the Dark Six can be considered a part of the pantheon of the Sovereign Host. It would be more accurate, however, to say that these deities have been cast out of the pantheon because of their evil ways. The Dark Six are the patrons of criminals, outcasts, and villains, as well as of various kinds of monsters. The holy texts show them scheming against the Sovereign Host at every turn for reasons that vary from deity to deity, and their dark minions likewise plot against the followers of the Sovereign Host.
+  
+### The Devourer: The Sovereign of Wave and Whelm [NE]
+The Devourer is the tsunami that overwhelms the tallest ship, the wildfire that consumes the grandest castle, the earthquake that levels the most glorious city. He is the vast and primordial power of nature, a force that will break any chain and wear down the strongest wall. Those who embrace the Devourer celebrate the glorious power of the wilds. They revel in the raging storm and gladly embrace their predatory instincts. They accept that nature is often bloody and cruel, and don’t hesitate to follow its example. But while it may be harsh, nature is rarely evil. Priests of the Devourer often urge their parishioners to follow their instincts or teach people to live in accord with nature instead of forcing their will upon it. He is portrayed as a human or merfolk with seaweed in his 
+hair and beard, as a sahuagin, as an enormous shark, or as a dragon turtle.
 **Areas of Concern** Devastation, hunger, nautical travel, storms, water
 **Alignment** NE
 **Divine Font** Harm
@@ -710,22 +709,23 @@ Those who embrace the Devourer celebrate the glorious power of the wilds. They r
 **Edicts** Embrace the glorious power of the wilds, live free of social or materialistic chains, cause destruction when angered
 **Anathema** bring civilization to intrude on the wild, become civilized
 **Favoured Weapon** Trident
-
-### The Fury
-The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury, guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
+  
+### The Fury: The Sovereign of Rage and Ruin [NE]
+The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury,
+|
+guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
 **Areas of Concern** Anger, extremism, insanity, passion, revenge
 **Alignment** NE
 **Divine Font** Harm
 **Divine Ability** Strength or Dexterity
 **Divine Skill** Intimidation
-|
 **Domains** Ambition, Delirium, Destruction, Freedom, Might, Pain, Passion, Zeal
 **Cleric Spells** 1st: true strike, 3rd: fireball, 4th: dimension door
 **Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance from those who wrong you
 **Anathema** Allow a slight to go unanswered, show humility or fear
 **Favoured Weapon** Rapier
-
-### The Keeper
+  
+### The Keeper: The Sovereign of Death and Decay [NE]
 The Keeper is the patron of those who put personal gain above all else. He guides those who use guile to gain gold, regardless of the cost to others. A rogue who invokes Olladra sees themselves as the hero of the story; one who calls on the Keeper has no compunctions about being the villain. Beyond guiding those who place profit before all else, the Keeper is also known for his willingness to make deals—though his bargains are always slanted in his favour. He is portrayed as a gaunt or grossly fat human, as a lich or a ghoul, or sometimes as a skeletal dragon. 
 **Areas of Concern** Death, entropy, greed, hunger, time
 **Alignment** NE
@@ -735,14 +735,13 @@ The Keeper is the patron of those who put personal gain above all else. He guide
 **Domains** Death, Decay, Dust, Indulgence, Trickery, Wealth
 **Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
 **Edicts** Gain financial control over others, gather new wealth, count your riches
+=
+<null>
 **Anathema** Allow honour or tradition to prevent you from taking what you want
 **Favoured Weapon** Scythe
-
-
-### The Mockery
-Others who follow the Mockery assert that the very idea of honour in war is delusional. Pain, terror, and death are the inevitable results of violence; at least those who follow the Mockery acknowledge the truth others deny. The assassin who kills without warning, the barbarian who sees mercy as a weakness, the pirate who cultivates a terrifying reputation—all these might view the Mockery as an ally. He is portrayed as a ghastly human warrior with the skin stripped from his body, cloaked in the skins of his enemies, and
-=
-sometimes as a half-fiend red dragon. 
+  
+### The Mockery: The Sovereign of Betrayal and Bloodshed [NE]
+Others who follow the Mockery assert that the very idea of honour in war is delusional. Pain, terror, and death are the inevitable results of violence; at least those who follow the Mockery acknowledge the truth others deny. The assassin who kills without warning, the barbarian who sees mercy as a weakness, the pirate who cultivates a terrifying reputation—all these might view the Mockery as an ally. He is portrayed as a ghastly human warrior with the skin stripped from his body, cloaked in the skins of his enemies, and sometimes as a half-fiend red dragon. 
 **Areas of Concern** Combat, dishonour, murder, terror, treachery.
 **Alignment** NE
 **Divine Font** Harm
@@ -753,21 +752,23 @@ sometimes as a half-fiend red dragon.
 **Edicts** Seize any opportunity that would benefit you, solve your problems With Violence, hide your true intentions
 **Anathema** Beg for help or mercy, let a slight go unanswered
 **Favoured Weapon** Kama
-
-### The Shadow
+  
+### The Shadow: The Sovereign of Magic and Mayhem [CE]
 The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon. 
 **Areas of Concern**  Arcane magic, consequence, corruption, darkness, duality
-**Alignment** NE
+**Alignment** CE
 **Divine Font** Harm
 **Divine Ability** Constitution or Intelligence 
 **Divine Skill** Arcana
+|
+<null>
 **Domains** Ambition, Change, Darkness, Fate, Knowledge, Magic, Secrecy, Trickery, Truth
 **Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
 **Edicts** Learn and hoard forbidden magic, steal secrets from others
 **Anathema** Destroy forbidden lore, reveal the entirety of a secret
 **Favoured Weapon** staff
-|
-### The Traveler
+  
+### The Traveler: The Sovereign of Chaos and Change [CN]
 The most mysterious of the Dark Six, the Traveler is chaotic neutral and seems to have no connection to the other deities of the pantheon. A consummate shapeshifter, the Traveler is said to walk the land in a thousand disguises. A master of cunning and deception, it emphasizes subtlety and careful planning. In some places, the Traveler is known as the Giver of Gifts, but proverbs warn, “Beware the gifts of the Traveler.” Revered by doppelgangers, lycanthropes, and a number of changelings and shifters. 
 **Areas of Concern** Chaos, deception, evolution, invention, transformation
 **Alignment** CN
@@ -779,10 +780,9 @@ The most mysterious of the Dark Six, the Traveler is chaotic neutral and seems t
 **Edicts** Live life freely, manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions
 **Anathema** Refuse a reasonable bet, let social pressure change your behaviour
 **Favoured Weapon** scimitar
-/
--
 = 
-## The Silver Flame
+# The Silver Flame [LG] ((++The Silver Flame))
+-
 In a world where deadly supernatural evil is a concrete fact of existence, the Church of the Silver Flame is dedicated to protecting the common people against supernatural forces of evil. The church itself was founded when a noble paladin gave her life to pull her nation back from the abyss. Some might mistakenly see the church merely as a militant hierarchical religious organization and assume that it must be a force of oppression. But while the Church of the Silver Flame is a religion, it’s equally a volunteer militia whose members are prepared to risk their lives to protect every innocent from the real and deadly threats lurking in the shadows. 
 **Areas of Concern** Protection, Defence of the Innocents, Destruction of supernatural evil
 **Alignment** LG
@@ -794,11 +794,12 @@ In a world where deadly supernatural evil is a concrete fact of existence, the C
 **Edicts** free others from oppression, release harmful tethers be they physical or spiritual, work toward your best self and inspire others to follow
 **Anathema** allow tyrants to escape punishment after their reign ends, enslave or oppress others, prevent others from honestly expressing themselves
 **Favoured Weapon** longbow
-
-## The Blood of Vol  ((++The Blood of Vol))
+  
+# The Blood of Vol [LN] ((++The Blood of Vol))
+-
 Most followers of the Blood of Vol identify as Seekers of the Divinity Within—usually shortened to Seekers—though there are other traditions within the faith. The Blood of Vol has long been vilified, with outsiders often viewing it as a death cult, falsely equating it with the cult of Katashka the Gatekeeper, or blaming its members for plagues and blights. However, in the eyes of the Seeker, life and the soul are both divine forces. Every soul has the potential to evolve and develop divine power—but this takes time and willpower, and
 |
-most mortals die before they accomplish it. 
+most mortals die before they accomplish it. Its followers study the secrets of blood and life, and because they believe that death is the end, they see nothing wrong with using the bodies of the fallen to serve the living. Seekers of the Divinity Within (as the faithful call themselves) are glad to be reanimated after death; at least they can do some good.
 **Areas of Concern** Death, Undead, and Ambition
 **Alignment** LN
 **Divine Font** Harm
@@ -809,8 +810,9 @@ most mortals die before they accomplish it.
 **Edicts** Strive to unlock the potential within yourself, encourage others to strive toward their potential for greatness
 **Anathema** sacrifice your life, fail to work toward goals or grow in skill, relax excessively or give in to sloth, blemish a soul
 **Favoured Weapon** dagger
-
-## The Path of Light  ((++The Path of Light))
+  
+# The Path of Light [LN] ((++The Path of Light))
+-
 The kalashtar of Adar follow no deity, but they do revere a universal force of positive energy they call il-Yannah, or “the Great Light. Most followers of the Path of Light are psions and psychic warriors, seeking to perfect their bodies and minds through meditation and communion with this light to prepare themselves for conflict with the forces of darkness — most particularly, the Dreaming Dark of the Inspired of Riedra. 
 **Areas of Concern** Dreams, the path of light
 **Alignment** LN
@@ -823,8 +825,9 @@ The kalashtar of Adar follow no deity, but they do revere a universal force of p
 **Anathema** abandon a companion in need, dishonour yourself, repeatedly fail to maintain self-control
 **Favoured Weapon** Fist
 =
-## The Spirits of the Past ((++The Spirits of the Past))
-The elves of Aerenal revere their ancient dead as incarnate deities, seeking advice from deathless councillors and petitioning their favour. Unlike undead creatures, the deathless elves of the Undying Court are animated by positive energy and are powerful beings of neutral good alignment. 
+# The Spirits of the Past [N] ((++The Spirits of the Past))
+-
+The Tairnadal elves are raised on the legends of their people, on tales of champions who battled mighty dragons and armies of giants. When a Tairnadal elf comes of age, the Keepers of the Past read the signs to determine which of these ancestors chose you to be their vessel. From that day onward, it is the duty of a follower of the Spirits of the Past to emulate their patron ancestor, to become a living revenant of their ancestor past.
 **Areas of Concern** Glory, battle, bravery, honour
 **Alignment** N
 **Divine Font** Heal or Harm
@@ -835,8 +838,9 @@ The elves of Aerenal revere their ancient dead as incarnate deities, seeking adv
 **Edicts** Strive to uphold the ideals of your ancestor spirit, practice with a weapon every day, destroy the undead
 **Anathema** Become or create undead, fail to strive to uphold your ancestor spirit, dishonour yourself, parlay with trucebreakers
 **Favoured Weapon** Double Scimitar
-
-## The Undying Court ((++The Undying Court))
+  
+# The Undying Court [NG] ((++The Undying Court))
+-
 The elves of Aerenal revere their ancient dead as incarnate deities, seeking advice from deathless councillors and petitioning their favour. Unlike undead creatures, the deathless elves of the Undying Court are animated by positive energy and are powerful beings of neutral good alignment.
 **Areas of Concern** Glory, history, patience, revelation, obedience.
 **Alignment** NG
@@ -849,8 +853,9 @@ The elves of Aerenal revere their ancient dead as incarnate deities, seeking adv
 **Anathema** destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information
 **Favoured Weapon** Scimitar
 |
-## Cults of the Dragon Below
-The Cults of the Dragon Below consist of a diverse group of fanatical sects that revere the power of the subterranean realms. Some of these cults seek to draw Khyber, the Dragon Below, up from the depths of the world, while others traffic with demons conjured from the deep regions. The City of the Dead in Aerenal seek a promised paradise in some lost cavern far below the surface, purifying themselves with a blood sacrifice to make themselves worthy to find it. Though little unites these mad cults beyond their reverence for the forbidden powers of Khyber, they are generally neutral evil.
+# Cults of the Dragon Below [CE] ((++Cults of the Dragon Below))
+-
+The Cults of the Dragon Below consist of a diverse group of fanatical sects that revere the power of the subterranean realms. Some of these cults seek to draw Khyber, the Dragon Below, up from the depths of the world, others traffic with demons conjured from the deep regions, and some seek to consort with the aberrations of the deep. Though little unites these mad cults beyond their reverence for the forbidden powers of Khyber, they are generally neutral evil.
 **Areas of Concern** Various
 **Alignment** LE, NE, CE
 **Divine Font** Harm
@@ -862,11 +867,10 @@ The Cults of the Dragon Below consist of a diverse group of fanatical sects that
 **Anathema** none
 **Favoured Weapon** Great Pick (varies)
 
-
 =
 head(
 # Planes of Eberron ((+Planes of Eberron))
-The Thirteen planes of Eberron all influence material plane of Eberron. All life is tied to each of the planes, though some connections may be more noticiable than others. 
+The Thirteen planes all influence the material plane of Eberron. All life is tied to each of the planes, though some connections may be more noticiable than others. 
 -
 )
 The planes of Eberron are complex in nature, and manifest effects on the material plane in the form of Manifest Zones. These manifest zones are frequently the most evident way that a plane interacts with the world, though there are more subtle ways. The following list details all thirteen planes of Eberron, and the effects they might have on your world.
@@ -2696,11 +2700,11 @@ With a flash from the Dragonmark of a Dennith heir, the swing of a blade is defl
     Of the thirteen true dragonmarks that once existed, twelve true dragonmarks remain. As marks manifested on the peoples of Khorvaire, they did so exclusively in specific bloodlines. Each of these bloodlines has since joined with other bloodlines of the same mark to form a house. With the power of their marks, these powerful houses control large pieces of the economy of Khorvaire.  Though each house is bound by the laws of the Korth Edict, in the wake of the last war these laws are being tested. If you bear a mark, it is up to you to decide how you relate to these powerful dragonmarked dynasties.
 
 ## Dragonmark Focus Spells ((+Dragonmark Focus Spells))
-    Dragonmarks are unique in that they provide arcane specialization in specific and limited areas. Since it is possible to have focus points from multiple sources, any source that provides focus points with the dragonmark trait cannot be combined with any focus point sources that do not have the dragonmark trait. The reverse is also true. Dragonmark focus points should effectively be considered a unique pool, with a proficiency rank for spell attack rolls and spell DCs.  All dragonmark focus spells are considered to be of the arcane tradition.
+    Dragonmarks are unique in that they provide arcane specialization in specific and limited areas. Since it is possible to have focus points from multiple sources, any source that provides focus points with the dragonmark trait cannot be combined with any focus point sources that do not have the dragonmark trait. The reverse is also true. Dragonmark focus points should effectively be considered a unique pool, with a unique proficiency rank for spell attack rolls and spell DCs. All dragonmark focus spells are considered to be of the arcane tradition. When you gain a dragonmark focus pool, while most dragonmarks use charisma as their spellcasting ability modifier, you may choose to instead use either intelligence or wisdom. This choice cannot be changed.
     
-    Generally, dragonmarks follow all the rules for focus spells that appear on page 300 of the Core Rule book, including heightening, refocusing, and multiple point sources. Dragonmark focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats can give you more dragonmark focus spells and increase the size of your dragonmark focus pool, though your dragonmark focus pool can never hold more than 3 dragonmark focus points. It costs 1 dragonmark focus point to cast a dragonmark focus spell. You refill your dragonmark focus pool during your daily preparations, and you can regain 1 dragonmark focus point by spending 10 minutes using the refocus activity to recharge the powers of your dragonmark. Dragonmark focus spells are automatically heightened to half your level rounded up unless otherwise noted - such as by limitations of the power of your mark.
+    Generally, dragonmarks follow all the rules for focus spells that appear on page 300 of the Core Rule book, including heightening, refocusing, and multiple point sources. Dragonmark focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats can give you more dragonmark focus spells and increase the size of your dragonmark focus pool, though your dragonmark focus pool can never hold more than 3 dragonmark focus points. It costs 1 dragonmark focus point to cast a dragonmark focus spell. You refill your dragonmark focus pool during your daily preparations, and you can regain 1 dragonmark focus point by spending 10 minutes using the refocus activity to recharge the powers of your dragonmark. Dragonmark focus spells are automatically heightened to half your level rounded up unless otherwise noted - such as by limitations of the power of your mark. You can't cast a focus spell if its minimum level is greater than the maximum heightened level of your dragonmark focus spells. 
     
-    Many dragonmark focus spells require the dragonmark component. This component is supplied by the dragonmark itself, and so long as nothing is interfering with the dragonmark's powers, the component is automatically provided for the casting of the spell. When the dragonmark component is provided, it is evidently visible as the dragonmark glows with a dim light and shifts about on the caster's skin. 
+    Many dragonmark focus spells require the dragonmark component. This component is supplied by the dragonmark itself, and so long as nothing is interfering with the dragonmark's powers, the component is automatically provided for the casting of the spell. When the dragonmark component is provided, it is evidently visible as the dragonmark glows with a dim light and shifts about on the caster's skin.
 
 ## Dragonmark Traits ((+Dragonmark Traits))
 **Aberrant Mark:** This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits.
@@ -3169,7 +3173,7 @@ The Mark of Detection is an inquisitive's dream. It sharpens powers of observati
 )
 The Mark of Detection manifests on the Khoravar of Eberron. Khoravar are half-elves by lineage, but use the pathfinder rules of half-elves as a heritage of the human ancestry. When you pick the human ancestry, you may pick this heritage. By picking this heritage at first level, you gain access to all of the mark of detection ancestry feats and the potential of manifesting a dragonmark.
 ## Mark of Detection [Half-Elf Heritage] ((+Mark of Detection))
-At least one of your parents is a half-elf descendant of a mark of detection bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the dragonmarked heritage trait, mark of detection trait, and low-light vision. In addition, you can pick elf, half-elf, human, dragonmark, and mark of detection feats whenever you gain an ancestry feat.
+At least one of your parents is a half-elf descendant of a mark of detection bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the dragonmarked heritage trait, mark of detection trait, and low-light vision. In addition, you can pick elf, half-elf, human, dragonmarked heritage, and mark of detection feats whenever you gain an ancestry feat.
 ## Mark of Detection Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of detection focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
@@ -3280,7 +3284,7 @@ The Mark of Finding sharpens the senses, guiding the hunter to prey. Alone among
 The Mark of Finding manifests on the half-orcs of Eberron. When you pick the human ancestry, you may pick this heritage. By picking this heritage at first level you gain access to all of the mark of finding ancestry feats and the potential of manifesting a dragonmark.
 
 ## Mark of Finding [Half-Orc Heritage]
-At least one of your parents is a half-orc descendant of the mark of finding bloodline, whether or not they manifested a mark. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait, the half-orc trait, the dragonmarked heritage trait, and low-light vision. In addition, you can pick orc, half-orc, human, dragonmark, and mark of finding feats whenever you gain an ancestry feat.
+At least one of your parents is a half-orc descendant of the mark of finding bloodline, whether or not they manifested a mark. You have a green tinge to your skin and other indicators of orc heritage. You gain the orc trait, the half-orc trait, the dragonmarked heritage trait, and low-light vision. In addition, you can pick orc, half-orc, human,  dragonmarked heritage, and mark of finding feats whenever you gain an ancestry feat.
 
 ## Mark of Finding Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of finding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
@@ -3393,7 +3397,7 @@ The Mark of Handling gives its bearer a primal connection to beasts and the natu
 )
 The Mark of Handling is a Human Heritage. By picking this Heritage at first level you gain access to all of the Mark of Handling ancestry feats.
 ## Mark of Handling [Human Heritage]
-At least one of your parents is a human descendant of the Mark of Handling bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Handling feats whenever you gain an ancestry feat.
+At least one of your parents is a human descendant of the Mark of Handling bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmarked heritage, and Mark of Handling feats whenever you gain an ancestry feat.
 ## Mark of Handling Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of handling focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
@@ -3546,7 +3550,7 @@ A halfling with the Mark of Healing can save a life with a touch, restoring vita
 )
 The Mark of Healing is a Halfling Heritage. By picking this Heritage at first level you gain access to all of the Mark of Healing ancestry feats.
 ## Mark of Healing [Halfling Heritage]
-At least one of your parents is a halfling descendant of the Mark of Healing bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick halfling, dragonmark, and Mark of Healing feats whenever you gain an ancestry feat.
+At least one of your parents is a halfling descendant of the Mark of Healing bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick halfling, dragonmarked heritage, and Mark of Healing feats whenever you gain an ancestry feat.
 ## Mark of Healing Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of healing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
@@ -3658,7 +3662,7 @@ They may not always have gold, but a halfling with the Mark of Hospitality is su
 )
 The Mark of Hospitality is a Halfling Heritage. By picking this Heritage at first level you gain access to all of the Mark of Hospitality ancestry feats.
 ## Mark of Hospitality [Halfling Heritage]
-At least one of your parents is a halfling descendant of the Mark of Hospitality bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick halfling, dragonmark, and Mark of Hospitality feats whenever you gain an ancestry feat.
+At least one of your parents is a halfling descendant of the Mark of Hospitality bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick halfling, dragonmarked heritage, and Mark of Hospitality feats whenever you gain an ancestry feat.
 ## Mark of Hospitality Focus Spells
 If you manifest a mark, you will begin to gain access to the following Mark of Hospitality focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
@@ -3784,7 +3788,7 @@ The Mark of Making guides its bearer through any act of creation. The bearer of 
 The Mark of Making is a Human Heritage. By picking this Heritage at first level you gain access to all of the Mark of Making ancestry feats.
 
 ## Mark of Making [Human Heritage]
-At least one of your parents is a Human descendant of the Mark of Making bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Making feats whenever you gain an ancestry feat.
+At least one of your parents is a Human descendant of the Mark of Making bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmarked heritage, and Mark of Making feats whenever you gain an ancestry feat.
 
 ## Mark of Making Focus Spells
 If you manifest a mark, you will begin to gain access to the following Mark of Making focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
@@ -3951,7 +3955,7 @@ The Mark of Passage governs motion, allowing its bearer to move with uncanny spe
 The Mark of Passage is a Human Heritage. By picking this Heritage at first level you gain access to all of the Mark of Passage ancestry feats.
 
 ## Mark of Passage [Human Heritage]
-At least one of your parents is a Human descendant of the Mark of Passage bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Passage feats whenever you gain an ancestry feat.
+At least one of your parents is a Human descendant of the Mark of Passage bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmarked heritage, and Mark of Passage feats whenever you gain an ancestry feat.
 
 ## Mark of Passage Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of passage focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
@@ -4071,7 +4075,7 @@ The Mark of Scribing deals with communication—both the written and spoken word
 The Mark of Scribing is a Gnome Heritage. By picking this Heritage at first level you gain access to all of the Mark of Scribing ancestry feats.
 
 ## Mark of Scribing [Gnome Heritage]
-At least one of your parents is a Gnome descendant of the Mark of Scribing bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Scribing feats whenever you gain an ancestry feat.
+At least one of your parents is a Gnome descendant of the Mark of Scribing bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmarked heritage, and Mark of Scribing feats whenever you gain an ancestry feat.
 
 ## Mark of Scribing Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of scribing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
@@ -4195,7 +4199,7 @@ The Mark of Sentinel warns and protects. It heightens senses and reflexes, allow
 The Mark of Sentinel is a Human Heritage. By picking this Heritage at first level you gain access to all of the Mark of Passage ancestry feats.
 
 ## Mark of Sentinel [Human Heritage]
-At least one of your parents is a Human descendant of the Mark of Sentinel bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmark, and Mark of Sentinel feats whenever you gain an ancestry feat.
+At least one of your parents is a Human descendant of the Mark of Sentinel bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick human, dragonmarked heritage, and Mark of Sentinel feats whenever you gain an ancestry feat.
 
 ## Mark of Sentinel Focus Spell
 If you manifest a mark, you will begin to gain access to the following mark of sentinel focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
@@ -4313,7 +4317,7 @@ The Mark of Shadow lets an elf weave illusions, crafting magic to distract or de
 The Mark of Shadow is an Elf Heritage. By picking this Heritage at first level you gain access to all of the Mark of Passage ancestry feats.
 
 ## Mark of Shadow [Elf Heritage]
-At least one of your parents is an Elf descendant of the Mark of Shadow bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick elf, dragonmark, and Mark of Shadow feats whenever you gain an ancestry feat.
+At least one of your parents is an Elf descendant of the Mark of Shadow bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick elf, dragonmarked heritage, and Mark of Shadow feats whenever you gain an ancestry feat.
 
 ## Mark of Shadow Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of shadow focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
@@ -4418,7 +4422,7 @@ Wind and water welcome the half-elves who carry the Mark of Storm, and some lear
 The Mark of Storm is a Half-Elf Heritage. By picking this Heritage at first level you gain access to all of the Mark of Storm ancestry feats.
 
 ## Mark of Storm [Half-Elf (Human) Heritage]
-At least one of your parents is a half-elf descendant of a Mark of Storm bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the Dragonmarked trait, the Mark of Storm trait, and low-light vision. In addition, you can pick elf, half-elf, human, Dragonmark, and Mark of Storm feats whenever you gain an ancestry feat.
+At least one of your parents is a half-elf descendant of a Mark of Storm bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the Dragonmarked trait, the Mark of Storm trait, and low-light vision. In addition, you can pick elf, half-elf, human, dragonmarked heritage, and Mark of Storm feats whenever you gain an ancestry feat.
 
 ## Mark of Storm Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of storm focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
@@ -4544,7 +4548,7 @@ The Mark of Warding helps its bearers protect things of value. Using the mark, a
 The Mark of Warding is a Dwarf Heritage. By picking this Heritage at first level you gain access to all of the Mark of Warding ancestry feats.
 
 ## Mark of Warding [Dwarf Heritage]
-At least one of your parents is a Dwarf descendant of the Mark of Warding bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick Dwarf, dragonmark, and Mark of Warding feats whenever you gain an ancestry feat.
+At least one of your parents is a Dwarf descendant of the Mark of Warding bloodline, whether or not they manifested a mark. You gain the Dragonmarked trait. In addition, you can pick Dwarf, dragonmarked heritage, and Mark of Warding feats whenever you gain an ancestry feat.
 
 ## Mark of Warding Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of warding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
@@ -4965,13 +4969,102 @@ Despite never receiving formal training, your dragonmarked blood has inclined yo
 
 head(
 # Classes ((Classes))
-Classes
+Classes define how you play your character, and how you might interact with the world of Eberron. Pathfinder 2e supports a wide variety of exciting classes to choose from, and this document will help you fit them into the world of Eberron.
 -
 )
-TODO
-- Cleric just pick bro, jk read what I said about pantheon
-- Witch... obv Baba Yaga don't exist 
+As with most traits that have uncommon or rare traits, you should always run these by your GM before you take them. The vast majority of common rarity, and even many of uncommon rarity, class feats and specialities fit directly into the world without any adjustment! Rare traits often indicate feats that may take more work to fit into the world, but it can be done. See the following entries for how you might fit the classes into the world. If your class isn't noted below, it's up to you to think about how they might interact with the world.
+/
+# Alchemist
+Most of the advances in Eberron are done through magic, so much like stated in the Alchemist entry, others probably think you’re some kind of sorcerer or an eccentric wizard and don’t understand that you don’t cast spells; spellcasters who clumsily dabble in an alchemy only heighten this misconception.
+As an alchemist, you may not need to adjust anything at all to make your character work. You could consider how some of the more scientific advances of the alchemist (such as the bomb) might instead be flavoured to be arcane instead (a bomb is perhaps powdered dragonshards destabilizing in a blast of energy).
+  
+# Barbarian
+Barbarians need no adjusting at all. You could consider the source of your instincts; perhaps as a shifter your instincts provide the "Animal Instinct"; or you are a halfling or elf in tune with the spirits of your ancestors for the "Spirit Instinct".
+  
+# Bards
+The bards of Eberron perform in many different roles. From research to diplomacy, to performance, to espionage. Consider how you might use the powers of a bard to fit into the world. When selecting your muse, keep in mind that many deities may exist only metaphysically. This does open your muse to be from any metaphysical concept, however! Many powers in Eberron are derived from belief rather than a divine source.
+|
+# Champion
+Champions of Eberron are not required to be tied to alignment or deities. If you are playing with the suggested alignment variant, this opens up the possibilities for you. While you must pick just one Tenant, it's more of a guideline than a rule. Similarly, Anathemas and Edicts of your beliefs are guidelines that you should do your best to follow. In addition, you may pick a Cause with any alignment. If you are breaking the standards of your Tenant, Edicts, or Cause, think about why this may be the case for your character. Finally, your power can be derived from any metaphysical concept rather than just deities, you need simply to have faith in it. See the cleric entry for how you might build a new faith.
+  
+# Cleric
+Clerics of Eberron, like champions, are not required to be tied to alignment or deities. If you do follow one of the major religions, you need not be of the same or even similar alignment. However, there are clerics in Eberron who serve neither church nor deity. If this is the case, you should pick a principle or abstract ideal that you instead put your faith in. It is from this faith that your power is drawn. You may build out the details of your belief, including divine ability, divine font, divine skill, favoured weapons, domains, domain, spells, edicts, and anathema. When following a faith, anathemas and edicts are more of a guideline than a rule. Should you violate the anathema repeatedly, this may draw the ire of your church, or you may even begin to have your faith waver, however it is unlikely that the power you revere will take any action as a result.
+=
+# Druid
+There are a number of different sects of druids in Eberron, which makes it quite easy to place any order you want. Orders can be associated with any sect, but many sects have a tendency towards a few orders. The Ashbound would trend towards the Wild order, while the Wardens of the Wood may be Leaf or Animal.
+  
+# Fighters
+In the wake of the last war, fighters have a number of places they can be placed in the world of Eberron. You could be a veteran of the last war, a mercenary for hire, or any other number of possibilities.
+  
+# Gunslinger
+While guns are a hotly debated meta topic, gunslingers can still be placed in the world with or without guns in your Eberron. Instead, gunslingers are now wandslingers! See the equipment entries for the new wand equivalent of guns in your Eberron... or simply allow your gunslinger to have some of the first black powder weapons in existence!
+  
+# Inventor
+Inventors are widespread in Khorvaire, your talents can always be applied. As an inventor you've likely had dealings with House Cannith, how do they fit into your story? No changes are required to play an inventor.
+  
+# Investigators
+Investigators find themselves with no lack of employment in the world. There are mysteries to solve, crimes to investigate, and pieces of intrigue to uncover. As an investigator, you've likely had dealings with House Medani. Consider how they might fit into your story.
+  
+# Magus
+Like fighters, the last war had no end of a need for capable fighters. A magus, however, would be considered a rarity on the battlefield. Consider how you used your unique ability to wield spells and blades equally could have changed your employment opportunities in the world. Also consider what drew you to your hybrid study, and how you used that to your advantage.
+|
+# Monk
+While less common than fighters, monks fit into the world in many different cultures. The Kalashtar of Adra, Goblins of the Dhakanni Empire, and any number of cultures have a place for martial arts.
+  
+# Oracle
+Oracles don't require modification to fit the setting, but you should consider how and where your mystery came from. With absent gods, you may need to think about other potential sources of your mystery. Perhaps the powers of an old relic, an arcane accident, the spirits of your ancestors, or perhaps it's a mystery!
+  
+# Ranger
+There are many untamed wilds and lands in Eberron, and the ranger can roam any of them. Rangers fit the setting without any changes.
+  
+# Rogue
+There are a number of criminal elements throughout Khorvaire, and you could be involved in any one of them... or none at all, for every nation has no end for its need for spies and thieves. Rogues fit the setting without any changes.
+  
+# Sorcerer
+Sorcerers draw their power from the magic inherent to their bloodline, consider where this power could have come from. Undead may be drawn from your family's ties to the blood of vol, the hag bloodline could be the result of an interaction with the hags of Droaam, or Aberrant could be the result of Daelkyr influence. There are a number of ways you can think about tying your bloodline to the world.
+  
+# Summoner
+Summoners are unique magic users and are more difficult to place in the world of Eberron, though they fit just fine. Consider where your Eidolon has come from, and how others might react to their presence. Is your Divine Eidolon from Irian? Perhaps your Dragon eidolon is an echo of the essence of one of the progenitor dragons. Work with your GM to figure out a source.
+=
+# Swashbuckler
+The daring and bold swashbucklers fit easily into the world of Eberron, and even more so as a standard adventurer. Swashbucklers fit the setting without any changes.
+  
+# Witch
+A witch, like a sorcerer, draws their power from an external source, in this case, it is a patron rather than a bloodline. Consider how this patron fits into the world. Fey could be one of the many archfey of Thelanis, Wild order may be the blessing of a powerful druid in the Eldeen Reaches, and Winter could even just be the touch of a creature of the plane of Risia. Only Baba Yaga is difficult to fit, as Baba Yaga is not a canonical creature of Eberron. However, you could work with your GM to make one of the Daughters of Sora Kell be your patron, Sora Teraza is mysterious in her ways. There are a number of ways you can think about tying your patron to the world.
+  
+# Wizard
+With the widespread arcane magic in Khorvaire, wizards can be placed nearly anywhere. There are a number of arcane schools at which you could have developed your magic, or perhaps you could have learned your magic on your own.
 
+# Animal Companions
+There are a number of wild animals species in Eberron, and a number of them have been domesticated into loyal allies. Feel free to expand your selection for your Animal Companion. Is your companion one of the Talenta planes dinosaurs? Is it one of the Valenaran Steeds? Is it perhaps a powerful magebred version of a normal animal from House Vadalis, or even an entirely new creature altogether as a result of their breeding program?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+/
 =
 head(
 # Archetypes ((Archetypes))
@@ -5054,10 +5147,10 @@ head(
 The following feats are accessible to most characters in Eberron, allowing you to connect to the world of Eberron and all it has to offer.
 -
 )
-## General Feats
+## General Feats ((+General Feats))
 These feats are general feats available to anyone regardless of ancestry or background.
 item(
-# Education ((+Education))
+# Education ((++Education))
 ## Feat 1
 -
 ; General
@@ -5066,7 +5159,7 @@ item(
 Some lands hold the pen in higher regard than the sword. In your youth, you received the benefit of several years of formal schooling. You become trained in one skill and an additional lore of your choice. At 5th level, you become expert in the lore.
 )
 item(
-# Researcher ((+Researcher))
+# Researcher ((++Researcher))
 ## Feat 1
 -
 ; General
@@ -5075,17 +5168,17 @@ You can use your Knowledge skills to extract information from books, scrolls, an
 and figures. You become trained in Academia Lore. When you research a topic, you can treat the result of your check as one step better. 
 )
 item(
-# Wand Mastery ((+Wand Master))
+# Wand Mastery ((++Wand Master))
 ## Feat 5
 -
 ; General
 When you overcharge a wand, make a DC 10 flat check. On a failure, the wand is broken. On a critical failure, the wand is destroyed.
 )
-## Skill
+## Skill ((+Skill Feats))
 These feats are general skill feats available to anyone regardless of ancestry or background.
 ### Crafting
 item(
-# Exceptional Artisan ((+Exceptional Artisan))
+# Exceptional Artisan ((++Exceptional Artisan))
 ## Feat 1
 -
 ; General, Skill
@@ -5095,7 +5188,7 @@ When you spend downtime to use the Craft activity, you need only spend 3 days at
 )
 |
 item(
-# Proficient Prototyper ((+Proficient Prototyper))
+# Proficient Prototyper ((++Proficient Prototyper))
 ## Feat 1
 -
 ; General, Skill
@@ -5106,76 +5199,138 @@ When you spend downtime to use the Craft activity, due to your proficiency with 
 =
 head(
 # Equipment ((Equipment))
-The following gear has been developed in Eberron, whether by a specific culture, or by the research funds of a nation's war machine.
+The world of Eberron is built on both arcane and mundane innovation, much of it powered by House Cannith. The following equipment has been developed in Eberron, whether by a specific culture, ancient civilization, or by the research funds of a nation's war machine.
 -
 )
-# Weapons ((+Weapons))
-##### Table 2-1: Melee Weapons ((++Melee Weapons))
+head(
+### Armor ((+Armor))
+)
+##### Table TODO: Armor
+Light Armor | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group  | Armor Traits
+---         | :---: | :---:    | :---:   | :---:         | :---:         | :---:    | :---:| :---:  | :---:
+Leafweave   | 4 gp  | +1      | +4      | -1            | -             | 10       | 1    | -  | Flexible, Primal
+Darkleaf Breastplate | 6 gp | +2 | +3    | -1            | -             | 12       | 1    | - | Flexible, Primal
+
+Medium Armor | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group | Armor Traits
+---         | :---: | :---:    | :---:   | :---:         | :---:         | :---:    | :---:| :---:  | :---:
+Darkleaf branded mail | 10 gp | +3 | +2   | -2            | -5ft          | 14      | 2     | Composite | Flexible, Primal
+/
+## Armor Traits
+
+    **Primal:** This armor is created entirely out of primal components, and can be considered a wooden armour for the purposes of Anathema.
+|
+## Armor Descriptions
+
+    **Darkleaf:** Similar to leafweave armor, darkleaf armor is made of carefully cured and beautifully carved pieces of wood, suppliemented by treated leaves. This special process enables the many primal creatures of the world a studry, yet entirely natural armour.
+    **Leafweave:** The artisans of Aerenal weave suits of armor from leaves and wood, which are then treated by a special process that makes them as tough and flexible as leather. This special process enables the many primal creatures of the world a studry, yet entirely natural armour.
+/
+=
+head(
+### Weapons ((+Weapons))
+)
+##### Table TODO: Melee Weapons ((++Melee Weapons))
 Uncommon Martial Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
+Boomerang, Talenta | 4 sp | 1d4 B | L | 1 | Boomerang | Agile, Finesse, Halfling, Returning, Thrown 20ft Nonlethal
+Boomerang, Xen'drik | 8 sp | 1d4 S | L | 1 | Boomerang | Agile, Finesse, Drow, Returning, Thrown 20ft
+Sharrash | 2 gp | 1d6 S | 1 | 2 | Polearm | Reach, Finesse, Halfling, Trip
+Tangat | 4 gp | 1d6 S | 1 | 1 | Sword | Finesse, Forceful, Halfling, Sweep
 
 Uncommon Advanced  Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
-Double-Bladed Scimitar | 10gp | 2d4 S | 1 | 2 | Sword | Backswing, Elf, Forceful, Sweep
-Myrnaxe | 1gp | 1d8 S | 1 | 1 | Axe | Gnoll, sweep, versatile P
-Sharrash | 2gp | 1d6 S | 1 | 1 | Sword | Finesse, Forceful, Halfling, Trip
-Tangat | 2gp | 1d6 S | 1 | 1 | Sword | Finesse, Forceful, Halfling, Sweep
+Double-Bladed Scimitar | 10 gp | 1d6 S | 1 | 2 | Sword | Backswing, Dual, Elf, Forceful 
+Myrnaxe | 4 gp | - | 2 | - | - | Gnoll, Special*
+Myrnaxe - Axe | 2 gp | 1d10 S | 1| 2 | Axe | Gnoll, Forceful, Sweep, Attached to Myrnaxe - Spearhead
+Myrnaxe - Spearhead | 2 gp | 1d8 P | 1 | 1 | Spear | Gnoll, Deadly (d12), Two-Hand (d10), Attached to Myrnaxe - Axe
+. *See Myrnaxe entry
+
 
 ##### Table 2-2: Ranged Weapons ((++Ranged Weapons))
-Uncommon Advanced Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
+Uncommon Advanced Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
-Boomerang, Talenta | 9 sp | 1d4 B | L | 1 | Boomerang | Agile, Finesse, Halfling, Returning, Thrown 20ft, Nonlethal
-Boomerang, Xen'drik | 15 sp | 1d4 S | L | 1 | Boomerang | Agile, Finesse, Drow, Returning, Thrown 20ft
-Greatbow | 5gp | 1d8 P | 150 ft. | 0 | 2 | 1+ | Bow| Fatal d10, propulsive, gnoll, volley 45 ft.
+Great bow | 5gp | 1d8 P | 150 ft. | 0 | 2 | 1+ | Bow| Fatal d10, propulsive, gnoll, volley 45 ft.
 10 Greatarrows | 2sp | - | - | - | - | - | Ammunition | -
-
+/
 ## Weapon Traits
-
+  **Dual:** Dual weapons are balanced so that they satisfy the requirements of dual wielding melee weapons, such as for the Ranger Twin Takedown feat.
   **Drow:** Drow craft and use these weapons.
   **Gnoll:** The Znir consider these weapons to be a signature weapon of their pact and don’t sell them to outsiders. The only way to acquire a gnoll weapon is to be given one or to take it from a fallen foe.
   **Returning:** When you make a thrown attack with this weapon and roll a failure, the weapon returns to you if you have a free hand.
 
 ## Critical Specialization Effects
-
     **Boomerang:** Choose one creature other than the initial target within the first range increment of you. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its potency rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
-
+    
 ## Weapon Descriptions
   **Boomerang, Talenta:** The halflings of the Talenta Plains use traditional boomerangs - simple curved, polished sticks designed to return to the thrower.
+  
   **Boomerang, Xen'drik:** The drow of Xen'drik use three-pronged boomerangs to hunt prey. Some adventurers and explorers learn to use the weapon while operating in the Xen'drik jungles, but few outside the drow communities ever master the intricacies of the Xen'drik boomerang.
-  **Double-Bladed Scimitar:** The Double-Bladed Scimitar the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result the double-bladed scimitar is an expensive weapon (10 gp) — few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might feel entitled to demand its return or challenge the bearer to prove they’re worthy to wield it.
+  
+  **Double-Bladed Scimitar:** The Double-Bladed Scimitar the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result the double-bladed scimitar is an expensive weapon — few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might feel entitled to demand its return or challenge the bearer to prove they’re worthy to wield it.
+|
   **Great bow** Despite its name - the great bow is not significantly larger than a normal longbow. However, the draw of the weapon is deceptively heavy. Great bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles significantly faster, resulting in greater penetrating power. You must have at least 14 strength and use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to great bows unless otherwise stated. To craft a great bow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
-  **Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Functionally, a myrnaxe is a battleaxe, but it can be used to inflict either slashing damage (with the axe blade) or piercing damage (with the spear).
-  It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk—thus maximizing its versatility against multiple foes. When crafting a myrnaxe, you may choose to make each side out of a different material. If you do so, the myrnaxe item uses highest cost and level between the two precious materials. You must have half the normal cost of each precious material to be used, and both sides of the weapon gain the effect of its respective precious material.
-
-  **Sharrash:** TODO
+  
+  **Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Depending on the wielder's stance, the myrnaxe is either functionally a battleaxe, or a spear. A user may switch between the sides of the myrnaxe with an interact action. If you have the critical specialization effect of either weapon group of the Myrnaxe, you gain the critical specialization if the other side only while using a Myrnaxe.
+  Myrnaxes are composed of two attached items: the Myrnaxe - Axe, and the Myrnaxe - Spearhead. It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk—thus maximizing its versatility against multiple foes. When crafting a myrnaxe, both sides are manufactured at the same time, using their respective crafting costs for material, and forming a completed Myrnaxe when finished. Each side of the weapon gains the effect of its respective precious material. You may not wield individual halves of the Myrnaxe.
+  
+  **Sharrash:** Similar to a scythe, the Talenta sharrash developed by the halflings of the Plains consists of a sicklelike blade at the end of a long pole.
+  
   **Tangat:** The Tangat, developed by the halflings of the Talenta Plains, features a curved blade (like a scimitar's) mounted on a short haft.
 =
 head(
-### Armor
+### Gear ((+Gear))
 )
-##### Table 4-3: Armor ((+Armor))
-Light Armor | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group  | Armor Traits
----         | :---: | :---:    | :---:   | :---:         | :---:         | :---:    | :---:| :---:  | :---:
-Leafweave   | 10 gp  | +1      | +4      | -1            | -             | 10       | L    | -  | Flexible, Primal
-Darkleaf Breastplate | 20gp | +2 | +3    | -1            | -             | 12       | L    | - | Flexible, Primal
+##### Table TODO: Adventuring Gear
+Item | Price | Bulk | Hands
+--- | :--- | :--- | :---
+Spellshard (Blank) | 1 gp | L | 1
+Clothing, darkweave (level 3)* | +100 gp | - | -
+Clothing, glamerweave (level 3)* | +100 gp | - | -
+Arcane signet ring | 15 gp | - | -
+Signet brooch | 7 gp | - | -
+Identification papers, standard | 2 sp | - | -
+Identification papers, with portrait | 5 gp | - | -
+Letter of credit | special | - | -
+Traveling papers | 2 cp | - | -
+. *Special, see entry
 
-Medium Armor | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group | Armor Traits
----         | :---: | :---:    | :---:   | :---:         | :---:         | :---:    | :---:| :---:  | :---:
-Darkleaf branded mail | 20gp | +3 | +2   | -2            | -5ft          | 14      | 1     | Composite | Flexible, Primal
+**Spellshard (Blank)** A spellcaster can mystically imprint spells into an Eberron dragonshard rather than physically writing them into a spellbook. A single spellshard is about the size of a human fist. The spellcaster can concentrate on the shard in order to bring any spell stored in it into focus; the spell appears as silvery writing within the swirling colors of the shard. Each Spellshard can hold up to 100 spells. The Price listed is for a blank Spellshard. 
 
-## Armor Traits
+**Clothing, darkweave:** Darkweave fabric has strands of shadow interwoven with black threads to produce a coarse but beautiful cloth. A character wearing darkweave gains a +1 item bonus on stealth checks made in shadowy illumination or dark conditions. Darkweave clothing costs 100 gp more than a normal outfit of the same sort, gains the same benefits (such as High Fasion Fine Clothing), and weighs the same.
 
-    **Primal:** This armor is created entirely out of primal components, satisfying rules around no metal such as the Druid Anathema.
+**Clothing, glamerweave**: Glamerweave is a fine, light fabric that has delicate illusions woven into its threads. The color of glamerweave seems to shift subtly and is hard to describe, but this property makes for a striking and strangely beautiful appearance. A character wearing glamerweave clothing gains a +1 item bonus on Diplomacy checks. Glamerweave clothing costs 100 gp more than a normal outfit of the same sort, and gains the same benefits (such as High Fasion Fine Clothing).
 
+**Arcane Signet Ring:** The dragonmarked houses of Khorvaire use these rings extensively for identification 
+purposes. They resemble ordinary signet rings, but are set with gemstones like more decorative rings. Inside a large, central gemstone, an intricate runic pattern, which is actually an arcane mark, becomes visible when worn by the person for whom it was constructed. It is extremely unusual for anyone who does not have the Favored in House feat to carry an arcane signet ring.
 
-## Armor Descriptions
+**Signet Brooch** Other members of a dragonmarked house, whether actual scions or important hired help, wear signet brooches to identify their affiliation. These items don’t contain an arcane mark like the Arcane Signet Ring, but are well made from expensive materials.
 
-    **Darkleaf:** Similar to leafweave armor, darkleaf armor is made of carefully cured and beautifully carved pieces of wood, suppliemented by alchemically treated leaves from the darkwood tree. 
-    **Leafweave:** The artisans of Aerenal weave suits of armor from bronzewood laves, which are then treated by a special alchemical process that makes them as tough and flexible as leather. 
+**Identification Papers:** Most people of the middle and upper classes, at least in the most civilized areas of Khorvaire (Aundair, Breland, Karrnath, Thrane, Zilargo, and the Mror Holds) carry identification papers with them at all times. Issued by national governments and notarized by House Sivis, these papers present a detailed physical description of a person (the wealthy sometimes commission small portraits of themselves), the person’s name and residence, and in some cases additional information about the person’s affiliations (particularly including any connection to a dragonmarked house, royalty, or a large institution).
+
+**Letter of Credit:** House Kundarak, the house that carries the Mark of Warding, operates banks throughout 
+central Khorvaire. A character who has funds on deposit in a Kundarak bank can request from the bank a letter of credit, which allows them to withdraw funds from a different bank branch. For many characters, this system is a convenient alternative to carrying wealth around in the form of precious gems, jewelry, or coins. Letters of credit are always notarized with arcane marks (usually by gnomes from House Sivis), making them practically impossible to forge. House Kundarak does not charge a fee for issuing letters of credit.
+
+**Traveling Papers:** Anyone who travels across national borders is usually required to carry traveling papers identifying them, their residence, their destination, and their reason for travel. Traveling papers consist of a parchment sheet with the appropriate information and an arcane mark, carried in a leather folder. House Sivis, House Orien, House Deneith, and House Lyrandar all offer traveling papers that are recognized throughout central Khorvaire.
 =
 head(
-### Ammunition ((+Ammunition))
+### Mounts
 )
+Animal | Rental Price (per day) | Purchase Price
+--- | :--- | :---
+Carver | 1 gp per day | 32 gp (level 2)
+Clawfoot | 1 sp per day | 26 gp (level 2)
+Fastieth | 9 cp per day | 8 gp
+Valenar Riding Horse | 3 sp per day | 20 gp* (level 3)
+Valenar Guard Dog | 3 cp per day | 1 gp* (level 3)
+Magebred Animal | |
+    Magebred Guard Dog | 2 cp per day | 4 sp
+    Magebred Riding Dog | 12 cp per day | 8 gp
+    Magebred Riding Horse | 2 sp per day | 16 gp
+    Magebred Warhorse | 1 gp per day | 60 gp (level 3)
+    Magebred Pack Animal | 4 cp per day | 4 gp
+    Magebred Riding Pony | 16 cp per day | 14 gp
+    Magebred Warpony | 16 sp per day  | 48 gp (level 2)
+. * Valenar elves do not sell their animals. However on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
+
 =
 head(
 ### Consumables ((+Consumables))
@@ -5208,9 +5363,9 @@ item(
 ## Item 4
 -
 ; Consumable, Magical, Trap
-**Usage** held in 1 hand, see details; **Bulk** 1
-
 **Price** 15 gp
+
+**Usage** held in 1 hand, see details; **Bulk** 1
 -
 A blast disk holds destructive arcane power. A typical blast disk is about nine inches in diameter and one inch thick, made from layers of different metal; dragonshards are embedded in the surface of the disk and arcane symbols are engraved in its surface.
 
@@ -5223,7 +5378,149 @@ A blast disk holds destructive arcane power. A typical blast disk is about nine 
 **Explosive** The creates an explosion in a 20-foot burst centered on the disk. Each creature in the area must make a DC 18 basic reflex save, dealing 6d6 fire damage. Explosive blast disk damage ignores up to 10 hardness of objects and structures. Unattended objects and structures automatically critically fail the reflex save.
 **Spell** While crafting this item, if a Spell of a lower level than the item is cast into it, you may instead store the effects of the spell in the disk. The stored spell must take 3 actions or fewer to cast, have a hostile effect, and target one creature or have an area. 
 Once a spell is stored in the disk, the disk gains all the traits of that spell. If the stored spell targets one or more creatures, it targets the creature that set off the glyph. If it has an area, that area is centered on the creature that set off the glyph. The disk counts as a magical trap, using your spell DC for both the Perception check to notice it and the Thievery check to disable it; both checks require the creature attempting them to be trained in order to succeed.
+)
+item(
+# Cathier Spleen
+## Item 3
+-
+; Component, Consumable, Magical
+**Price** 12 gp
 
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell from the school of Illusion
+-
+The cathier, a small, harmless herbivore native to the Eldeen Reaches and similar to a hare, has a magical ability to camouflage itself. Its spleen aids in the casting of illusion spells. When used as a material component (adding the material component to the spell if it doesn't already have it) for an illusion spell, make a DC 8 flat check, on a success the cathier spleen doubles the spell’s duration.
+)
+item(
+# Covadish leaves
+## Item 8
+-
+; Uncommon, Component, Consumable, Magical
+**Price** 75 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell from the school of Necromancy
+-
+The covadish plant grows on the island of Aerenal, where it is highly valued by the elves for its necromantic properties. When used as a material component (adding the material component to the spell if it doesn't already have it) for a Necromancy spell, make a DC 15 flat check, on a success the covadish leaves heighten the spell level by 1.
+)
+item(
+# Dragonseye acorn
+## Item 4
+-
+; Component, Consumable, Magical
+**Price** 13 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell from the school of Evocation with the acid, cold, electricity, fire, or sonic trait
+-
+The dragonseye oak grows in Q’barra, and its acorn aids in the casting of certain evocation spells. When used as a material component (adding the material component to the spell if it doesn't already have it) for an evocation spell with the acid, cold, electricity, fire, or sonic trait, make a DC 19 flat check. On a success, you gain a circumstance bonus to damage equal to the level of the spell.
+)
+item(
+# Hathil Root
+## Item 3
+-
+; Component, Consumable, Magical
+**Price** 9 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell from the school of Transmutation
+-
+The hathil plant grows in the swamps of the Shadow Marches. When used as a material component (adding the material component to the spell if it doesn't already have it) for a transmutation spell, make a DC 14 flat check, on a success you gain a +1 item bonus to your spell DC for this spell.
+)
+item(
+# Irian Crystal
+## Item 8
+-
+; Uncommon, Component, Consumable, Magical
+**Price** 98 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell from the school of Necromancy that restores hit points
+-
+This transparent crystal glows with a soft white light. When used as a material component (adding the material component to the spell if it doesn't already have it) for a Necromancy spell that restores hit points, make a DC 15 flat check, on a success you gain a circumstance bonus to healing equal to the level of the spell.
+)
+item(
+# Kieros Leaves
+## Item 7
+-
+; Uncommon, Component, Consumable, Magical
+**Price** 51 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell with the death trait
+-
+The herb known as kieros grows only in the region of Aerenal known as the Madwood. When used as as a material component (adding the material component to the spell if it doesn't already have it) for any spell with the death trait, make a DC 15 flat check. On a success, any creature hit by the spell increases their doomed condition by 1.
+)
+item(
+# Laskin Horn
+## Item 7
+-
+; Component, Consumable, Magical
+**Price** 40 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You make a spell attack roll.
+-
+The laskin, a small antelope native to the Eldeen Reaches, has swept-back horns that can be used as a material component. When used as as a material component (adding the material component to the spell if it doesn't already have it) for any spell that requires a spell attack roll, make a DC 13 flat check. On a success, you gain a +1 item bonus to your attack roll.
+)
+item(
+# Mabar Crystal
+## Item 2
+-
+; Component, Consumable, Magical
+**Price** 7 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell with the Darkness trait that does not deal damage
+-
+This inky black crystal, dark as obsidian and slightly translucent, fills certain regions of the Khyberian underworld. When used as a material component (adding the material component to the spell if it doesn't already have it) for a spell with the Darkness trait spell that does not deal damage, make a DC 13 flat check, on a success the Mabar Crystal doubles the spell’s duration.
+)
+item(
+# Masthin Shoots
+## Item 2
+-
+; Component, Consumable, Magical
+**Price** 7 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast an enchantment spell that targets an animal or magical beast
+-
+The masthin plant, native to the jungles of Q’barra, produces natural intoxicants during its early growth and often attracts animals in the wild. When used as a material component (adding the material component to the spell if it doesn't already have it) for any enchantment spell that targets an animal or magical beast, make a DC 13 flat check. On a success, the Masthin Shoots double the spell’s duration.
+)
+item(
+# Narstone
+## Item 8
+-
+; Uncommon, Component, Consumable, Magical
+**Price** 71 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell from the school of conjuration
+-
+This strange stone found in the Demon Wastes is believed to be the remains of petrified demon bones. When used as a material component (adding the material component to the spell if it doesn't already have it) for any conjuration spell, make a DC 17 flat check. On a success, the Narstone heightens the spell level by 1.
+)
+item(
+# Reath Leaves
+## Item 8
+-
+; Uncommon, Component, Consumable, Magical
+**Price** 71 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger**  You cast a spell that targets a creature with the plant trait
+-
+The reath vine is a parasite that grows on trees in the Eldeen Reaches. When used as a material component (adding the material component to the spell if it doesn't already have it) for any spell targeting a creature with the plant trait spell, make a DC 12 flat check. On a success, the creatures with the plant trait take a -1 item penalty to their saves against this spell.
 )
 =
 head(
@@ -5497,8 +5794,39 @@ The character must still provide the material components for the ward domain spe
 )
 =
 head(
-### Held Items ((Magic Items)) 
-# ((+Held Items))
+### Armour ((Magic Items)) 
+# ((+Armour))
+)
+## Precious Material Armour
+
+item(
+# Bronzewood Armour
+## Item 12+
+-
+**Usage** varies by armor; **Bulk** varies by armor
+-
+It’s easier to wear than normal armor, reducing the Strength score necessary to ignore its check penalty by 2. Unlike darkwood, bronzewood can be used instead of metal to fashion armor — it is somewhat shapeable during manufacturing. 
+-
+**Type** standard-grade bronzewood armour; **Level** 12; **Price** 1,600 gp + 160 gp per Bulk; **Craft Requirements** at least 200 gp of bronzewood + 20 gp per Bulk
+-
+**Type** high-grade bronzewood armour; **Level** 19; **Price** 32,000 gp + 3,200 gp per Bulk; **Craft Requirements** at least 16,000 gp of bronzewood + 1,600 gp per Bulk
+)
+  
+item(
+# Riedran Crysteel Armour
+## Item 12+
+-
+**Usage** varies by armor; **Bulk** varies by armor
+-
+Riedran Crysteel armour is capable of warding off mental assaults, granting you a +1 circumstance bonus to saves and DCs against mental effects.
+-
+**Type** standard-grade riedran crysteel armor; **Level** 12; **Price** 1,600 gp +160 gp per Bulk; **Craft Requirements** at least 200 gp of riedran crysteel + 20 gp per Bulk
+-
+**Type** high-grade riedran crysteel armor; **Level** 19; **Price** 32,000 gp + 3,200 gp per Bulk; **Craft Requirements** at least 16,000 gp of riedran crysteel + 1,600 gp per Bulk
+)
+=
+head(
+### Held Items ((+Held Items))
 )
 item(
 # Battle Rod
@@ -5594,26 +5922,22 @@ item(
 ## Material 2+
 -
 ; Precious
-Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr—including dolgaunts, dolgrims, and mind flayers—are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk.
+Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr—including dolgaunts, dolgrims, and mind flayers—are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk. Byeshk is difficult to work into armor, and it offers no significant advantage over iron armor.
 -
  **Type** byeshk chunk; **Level** 0; **Price** 10 gp; **Bulk** L
  **Type** byeshk ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
- **Type** low-grade byeshk object; **Level** 2; **Price** 20 gp per bulk;
  **Type** standard-grade byeshk object; **Level** 7; **Price** 250 gp per bulk;
  **Type** high-grade byeshk object; **Level** 15; **Price** 4500 gp per bulk;
  
 **Byeshk Items** | **Hardness** | **HP** | **BT**
 --- | :--- | :--- | :---
 **Thin Items**
-     Low-grade | 6 | 24 | 12
      Standard-grade | 8 | 32 | 16
      High-grade | 11 | 44 | 22
 **Items**
-     Low-grade | 10 | 40 | 20
      Standard-grade | 12 | 48 | 26
      High-grade | 15 | 60 | 32
 **Structures**
-     Low-grade | 20 | 80 | 40
      Standard-grade | 24 | 96 | 48
      High-grade | 30 | 120 | 60
 )
@@ -5627,54 +5951,21 @@ This exceptionally hard wood, native to Aerenal, is useful in the manufacture of
 -
  **Type** Bronzewood branch; **Level** 0; **Price** 500 gp; **Bulk** L
  **Type** Bronzewood lumber; **Level** 0; **Price** 5,000 gp; **Bulk** 1
- **Type** low-grade bronzewood object; **Level** 2; **Price** 15 gp per bulk;
  **Type** standard-grade bronzewood object; **Level** 8; **Price** 350 gp per bulk;
  **Type** high-grade bronzewood object; **Level** 16; **Price** 6,000 gp per bulk;
 **Bronzewood Items** | **Hardness** | **HP** | **BT**
 --- | :--- | :--- | :---
 **Thin Items**
-     Low-grade | 3 | 10 | 5
      Standard-grade | 5 | 20 | 10
      High-grade | 8 | 32 | 16
 **Items**
-     Low-grade | 5 | 18 | 9
      Standard-grade | 7 | 28 | 14
      High-grade | 10 | 40 | 20
 **Structures**
-     Low-grade | 12 | 46 | 23
      Standard-grade | 14 | 56 | 28
      High-grade | 20 | 80 | 40
 )
   
-item(
-# Byeshk
-## Material 2+
--
-; Precious
-Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr—including dolgaunts, dolgrims, and mind flayers—are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk.
--
- **Type** byeshk chunk; **Level** 0; **Price** 10 gp; **Bulk** L
- **Type** byeshk ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
- **Type** low-grade byeshk object; **Level** 2; **Price** 20 gp per bulk;
- **Type** standard-grade byeshk object; **Level** 7; **Price** 250 gp per bulk;
- **Type** high-grade byeshk object; **Level** 15; **Price** 4500 gp per bulk;
- 
-**Byeshk Items** | **Hardness** | **HP** | **BT**
---- | :--- | :--- | :---
-**Thin Items**
-     Low-grade | 6 | 24 | 12
-     Standard-grade | 8 | 32 | 16
-     High-grade | 11 | 44 | 22
-**Items**
-     Low-grade | 10 | 40 | 20
-     Standard-grade | 12 | 48 | 26
-     High-grade | 15 | 60 | 32
-**Structures**
-     Low-grade | 20 | 80 | 40
-     Standard-grade | 24 | 96 | 48
-     High-grade | 30 | 120 | 60
-)
-
 item(
 # Soarwood
 ## Material 0+
@@ -5709,21 +6000,17 @@ The Inspired lords of Riedra supervise the mining of a crystalline substance tha
 -
  **Type** Riedran crysteel chunk; **Level** 0; **Price** 10 gp; **Bulk** L
  **Type** Riedran crysteel ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
- **Type** low-grade riedran crysteel object; **Level** 2; **Price** 20 gp per bulk;
  **Type** standard-grade riedran crysteel object; **Level** 7; **Price** 250 gp per bulk;
  **Type** high-grade riedran crysteel object; **Level** 15; **Price** 4500 gp per bulk;
 **Riedran Crysteel Items** | **Hardness** | **HP** | **BT**
 --- | :--- | :--- | :---
 **Thin Items**
-     Low-grade | 4 | 20 | 10
      Standard-grade | 6 | 28 | 14
      High-grade | 9 | 40 | 20
 **Items**
-     Low-grade | 8 | 36 | 16
      Standard-grade | 10 | 44 | 22
      High-grade | 13 | 56 | 28
 **Structures**
-     Low-grade | 17 | 72 | 36
      Standard-grade | 21 | 88 | 44
      High-grade | 27 | 112 | 56
 )
@@ -5780,6 +6067,81 @@ Siberys shards fall from the Ring of Siberys, and as a result are usually found 
  **Type** refined medium siberys shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 6 gp; **Bulk** -
  **Type** refined large siberys shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 18 gp; **Bulk** L
  **Type** refined greater siberys shards (More than 6 inches); **Level** 7; **Price** 63 gp; **Bulk** L
+)
+=
+head(
+### Shields
+# ((+Shields))
+)
+## Precious Material Shields
+
+item(
+# Byeshk Shield
+## Item 7+
+-
+**Usage** varies by shield
+-
+Byeshk shields don’t typically have an additional effect, though when used for a shield bash, they are Byeshk weapons.
+-
+**Type** Byeshk Buckler (Standard-Grade); **Level** 7; **Price** 330 gp; **Bulk** L; **Craft Requirements** Byeshk worth at least 375 sp
+The shield has Hardness 6, HP 24, and BT 12.
+-
+**Type** Byeshk Shield (Standard-Grade); **Level** 7; **Price** 374 gp; **Bulk** 1; **Craft Requirements** Byeshk worth at least 471 sp
+The shield has Hardness 8, HP 32, and BT 16.
+-
+**Type** Byeshk Buckler (High-Grade); **Level** 15; **Price** 5,500 gp; **Bulk** L; **Craft Requirements** Byeshk worth at least 2,750 gp
+The shield has Hardness 9, HP 40, and BT 20.
+-
+**Type** Byeshk Shield (High-Grade); **Level** 15; **Price** 6,000 gp; **Bulk** 1; **Craft Requirements** Byeshk worth at least 3,000 gp
+The shield has Hardness 11, HP 44, and BT 22.
+)
+  
+item(
+# Bronzewood Shield
+## Item 12+
+-
+**Usage** varies by weapon; **Bulk** varies by weapon
+-
+Bronzewood shields are 1 Bulk lighter than normal (minimum 1 bulk, with no effect on a shield that normally has light Bulk).
+-
+**Type** Bronzewood Buckler (Standard-Grade); **Level** 8; **Price** 400 gp; **Bulk** L; **Craft Requirements** Bronzewood worth at least 50 gp
+The shield has Hardness 3, HP 12, and BT 6.
+-
+**Type** Bronzewood Shield (Standard-Grade); **Level** 8; **Price** 440 gp; **Bulk** 1; **Craft Requirements** Bronzewood worth at least 55 gp
+The shield has Hardness 5, HP 20, and BT 10.
+-
+**Type** Bronzewood Tower Shield (Standard-Grade); **Level** 8; **Price** 560 gp; **Bulk** 3; **Craft Requirements** Bronzewood worth at least 70 gp
+The shield has Hardness 5, HP 20, and BT 10.
+-
+**Type** Bronzewood Buckler (High-Grade); **Level** 16; **Price** 8,000 gp; **Bulk** L; **Craft Requirements** Bronzewood worth at least 4,000 gp
+The shield has Hardness 6, HP 24, and BT 12.
+-
+**Type** Bronzewood Shield (High-Grade); **Level** 16; **Price** 8,800 gp; **Bulk** 1; **Craft Requirements** Bronzewood worth at least 4,400 gp
+The shield has Hardness 8, HP 32, and BT 16.
+-
+**Type** Bronzewood Tower Shield (High-Grade); **Level** 16; **Price** 11,200 gp; **Bulk** 3; **Craft Requirements** Bronzewood worth at least 5,600 gp
+The shield has Hardness 8, HP 32, and BT 16.
+)
+  
+item(
+# Riedran Crysteel Shield
+## Item 9+
+-
+**Usage** varies by shield
+-
+Riedran Crysteel shields can ward against mental effects. While you have this shield raised, you gain its circumstance bonus to saving throws against mental effects that target you (as well as to AC).
+-
+**Type** Riedran Crysteel Buckler (Standard-Grade); **Level** 8; **Price** 400 gp; **Bulk** L; **Craft Requirements** Riedran Crysteel worth at least 375 sp
+The shield has Hardness 3, HP 12, and BT 6.
+-
+**Type** Riedran Crysteel Shield (Standard-Grade); **Level** 8; **Price** 440 gp; **Bulk** 1; **Craft Requirements** Riedran Crysteel worth at least 471 sp
+The shield has Hardness 5, HP 20, BT 10.
+-
+**Type** Riedran Crysteel Buckler (High-Grade); **Level** 16; **Price** 8,000 gp; **Bulk** L; **Craft Requirements** Riedran Crysteel worth at least 2,750 gp
+The shield has Hardness 6, HP 24, and BT 12.
+-
+**Type** Riedran Crysteel Shield (High-Grade); **Level** 16; **Price** 8,800 gp; **Bulk** 1; **Craft Requirements** Riedran Crysteel worth at least 3,000 gp
+The shield has Hardness 8, HP 32, and BT 16.
 )
 =
 head(
@@ -5859,17 +6221,41 @@ head(
 ## Precious Material Weapons
 item(
 # Byeshk Weapon
-## Item 2+
+## Item 10+
 -
 **Usage** varies by weapon; **Bulk** varies by weapon
 -
-Byeshk weapons deal additional damage to creatures with weakness to Byeshk, or the aberration trait - at the GM's discretion. This weakness unless otherwise noted is equal to half the creature's level rounded up (minimum 1).
--
-**Type** low-grade byeshk weapon; **Level** 2; **Price** 40 gp + 4 gp per Bulk; **Craft Requirements** at least 20 sp of Byeshk + 2 sp per Bulk
+Byeshk weapons deal additional damage to creatures with weakness to Byeshk, or with the aberration trait - at the GM's discretion. This weakness unless otherwise noted is equal to half the creature's level rounded up (minimum 1).
 -
 **Type** standard-grade byeshk weapon; **Level** 10; **Price** 880 gp + 88 gp per Bulk; **Craft Requirements** at least 110 gp of Byeshk + 11 gp per Bulk
 -
 **Type** high-grade byeshk weapon; **Level** 16; **Price** 9,000 gp + 900 gp per Bulk; **Craft Requirements** at least 4,500 gp of Byeshk + 450 gp per Bulk
+)
+  
+item(
+# Bronzewood Weapon
+## Item 10+
+-
+**Usage** varies by weapon; **Bulk** varies by weapon
+-
+Bronzewood are slightly lighter than their contemporary counter parts, but don't offer much else in terms of benefit. A bronzewood weapon’s Bulk is reduced by 1 (minimum 1 bulk, with no effect on weapons that normally have light Bulk)
+-
+**Type** standard-grade bronzewood weapon; **Level** 10; **Price** 880 gp + 88 gp per Bulk; **Craft Requirements** at least 110 gp of bronzewood + 11 gp per Bulk
+-
+**Type** high-grade bronzewood weapon; **Level** 16; **Price** 9,000 gp + 900 gp per Bulk; **Craft Requirements** at least 4,500 gp of bronzewood + 450 gp per Bulk
+)
+  
+item(
+# Riedran Crysteel Weapon
+## Item 12+
+-
+**Usage** varies by weapon; **Bulk** varies by weapon
+-
+Riedran Crysteel makes excellent weapons, and the crystalline component makes them resonate with psionic power. On a critical hit with a riedran crysteel weapon, the creature becomes clumsy 1 and stupified 1 for 1 round.
+-
+**Type** standard-grade riedran crysteel weapon; **Level** 12; **Price** 1,600 gp +160 gp per Bulk; **Craft Requirements** at least 200 gp of riedran crysteel + 20 gp per Bulk
+-
+**Type** high-grade riedran crysteel weapon; **Level** 19; **Price** 32,000 gp +3,200 gp per Bulk; **Craft Requirements** at least 16,000 gp of riedran crysteel + 1,600 gp per Bulk
 )
 ## Specific Magic Weapons
 item(
@@ -6373,7 +6759,7 @@ V 0.1
 
 *Disclaimer: In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind bending corruptions accending from the depths (The Mror Holds decline to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
 
-*Legal Disclaimer: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to https://github.com/TNychka/Pathfinder2eConversion/issues. You will be credited for your work, and this document will be maintained as an up to date source for the Eberron community.*
+*Legal Disclaimer: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up to date source for the Eberron community.*
 
 # References
 [1] Exploring Eberron - Keith Baker pg 109

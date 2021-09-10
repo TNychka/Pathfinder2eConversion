@@ -1,0 +1,70 @@
+head(
+# Classes
+Classes define how you play your character, and how you might interact with the world of Eberron. Pathfinder 2e supports a wide variety of exciting classes to choose from, and this document will help you fit them into the world of Eberron.
+-
+)
+As with most traits that have uncommon or rare traits, you should always run these by your GM before you take them. The vast majority of common rarity, and even many of uncommon rarity, class feats and specialities fit directly into the world without any adjustment! Rare traits often indicate feats that may take more work to fit into the world, but it can be done. See the following entries for how you might fit the classes into the world. If your class isn't noted below, it's up to you to think about how they might interact with the world.
+/
+# Alchemist
+Most of the advances in Eberron are done through magic, so much like stated in the Alchemist entry, others probably think you’re some kind of sorcerer or an eccentric wizard and don’t understand that you don’t cast spells; spellcasters who clumsily dabble in an alchemy only heighten this misconception.
+As an alchemist, you may not need to adjust anything at all to make your character work. You could consider how some of the more scientific advances of the alchemist (such as the bomb) might instead be flavoured to be arcane instead (a bomb is perhaps powdered dragonshards destabilizing in a blast of energy).
+  
+# Barbarian
+Barbarians need no adjusting at all. You could consider the source of your instincts; perhaps as a shifter your instincts provide the "Animal Instinct"; or you are a halfling or elf in tune with the spirits of your ancestors for the "Spirit Instinct".
+  
+# Bards
+The bards of Eberron perform in many different roles. From research to diplomacy, to performance, to espionage. Consider how you might use the powers of a bard to fit into the world. When selecting your muse, keep in mind that many deities may exist only metaphysically. This does open your muse to be from any metaphysical concept, however! Many powers in Eberron are derived from belief rather than a divine source.
+|
+# Champion
+Champions of Eberron are not required to be tied to alignment or deities. If you are playing with the suggested alignment variant, this opens up the possibilities for you. While you must pick just one Tenant, it's more of a guideline than a rule. Similarly, Anathemas and Edicts of your beliefs are guidelines that you should do your best to follow. In addition, you may pick a Cause with any alignment. If you are breaking the standards of your Tenant, Edicts, or Cause, think about why this may be the case for your character. Finally, your power can be derived from any metaphysical concept rather than just deities, you need simply to have faith in it. See the cleric entry for how you might build a new faith.
+  
+# Cleric
+Clerics of Eberron, like champions, are not required to be tied to alignment or deities. If you do follow one of the major religions, you need not be of the same or even similar alignment. However, there are clerics in Eberron who serve neither church nor deity. If this is the case, you should pick a principle or abstract ideal that you instead put your faith in. It is from this faith that your power is drawn. You may build out the details of your belief, including divine ability, divine font, divine skill, favoured weapons, domains, domain, spells, edicts, and anathema. When following a faith, anathemas and edicts are more of a guideline than a rule. Should you violate the anathema repeatedly, this may draw the ire of your church, or you may even begin to have your faith waver, however it is unlikely that the power you revere will take any action as a result.
+=
+# Druid
+There are a number of different sects of druids in Eberron, which makes it quite easy to place any order you want. Orders can be associated with any sect, but many sects have a tendency towards a few orders. The Ashbound would trend towards the Wild order, while the Wardens of the Wood may be Leaf or Animal.
+  
+# Fighters
+In the wake of the last war, fighters have a number of places they can be placed in the world of Eberron. You could be a veteran of the last war, a mercenary for hire, or any other number of possibilities.
+  
+# Gunslinger
+While guns are a hotly debated meta topic, gunslingers can still be placed in the world with or without guns in your Eberron. Instead, gunslingers are now wandslingers! See the equipment entries for the new wand equivalent of guns in your Eberron... or simply allow your gunslinger to have some of the first black powder weapons in existence!
+  
+# Inventor
+Inventors are widespread in Khorvaire, your talents can always be applied. As an inventor you've likely had dealings with House Cannith, how do they fit into your story? No changes are required to play an inventor.
+  
+# Investigators
+Investigators find themselves with no lack of employment in the world. There are mysteries to solve, crimes to investigate, and pieces of intrigue to uncover. As an investigator, you've likely had dealings with House Medani. Consider how they might fit into your story.
+  
+# Magus
+Like fighters, the last war had no end of a need for capable fighters. A magus, however, would be considered a rarity on the battlefield. Consider how you used your unique ability to wield spells and blades equally could have changed your employment opportunities in the world. Also consider what drew you to your hybrid study, and how you used that to your advantage.
+|
+# Monk
+While less common than fighters, monks fit into the world in many different cultures. The Kalashtar of Adra, Goblins of the Dhakanni Empire, and any number of cultures have a place for martial arts.
+  
+# Oracle
+Oracles don't require modification to fit the setting, but you should consider how and where your mystery came from. With absent gods, you may need to think about other potential sources of your mystery. Perhaps the powers of an old relic, an arcane accident, the spirits of your ancestors, or perhaps it's a mystery!
+  
+# Ranger
+There are many untamed wilds and lands in Eberron, and the ranger can roam any of them. Rangers fit the setting without any changes.
+  
+# Rogue
+There are a number of criminal elements throughout Khorvaire, and you could be involved in any one of them... or none at all, for every nation has no end for its need for spies and thieves. Rogues fit the setting without any changes.
+  
+# Sorcerer
+Sorcerers draw their power from the magic inherent to their bloodline, consider where this power could have come from. Undead may be drawn from your family's ties to the blood of vol, the hag bloodline could be the result of an interaction with the hags of Droaam, or Aberrant could be the result of Daelkyr influence. There are a number of ways you can think about tying your bloodline to the world.
+  
+# Summoner
+Summoners are unique magic users and are more difficult to place in the world of Eberron, though they fit just fine. Consider where your Eidolon has come from, and how others might react to their presence. Is your Divine Eidolon from Irian? Perhaps your Dragon eidolon is an echo of the essence of one of the progenitor dragons. Work with your GM to figure out a source.
+=
+# Swashbuckler
+The daring and bold swashbucklers fit easily into the world of Eberron, and even more so as a standard adventurer. Swashbucklers fit the setting without any changes.
+  
+# Witch
+A witch, like a sorcerer, draws their power from an external source, in this case, it is a patron rather than a bloodline. Consider how this patron fits into the world. Fey could be one of the many archfey of Thelanis, Wild order may be the blessing of a powerful druid in the Eldeen Reaches, and Winter could even just be the touch of a creature of the plane of Risia. Only Baba Yaga is difficult to fit, as Baba Yaga is not a canonical creature of Eberron. However, you could work with your GM to make one of the Daughters of Sora Kell be your patron, Sora Teraza is mysterious in her ways. There are a number of ways you can think about tying your patron to the world.
+  
+# Wizard
+With the widespread arcane magic in Khorvaire, wizards can be placed nearly anywhere. There are a number of arcane schools at which you could have developed your magic, or perhaps you could have learned your magic on your own.
+
+# Animal Companions
+There are a number of wild animals species in Eberron, and a number of them have been domesticated into loyal allies. Feel free to expand your selection for your Animal Companion. Is your companion one of the Talenta planes dinosaurs? Is it one of the Valenaran Steeds? Is it perhaps a powerful magebred version of a normal animal from House Vadalis, or even an entirely new creature altogether as a result of their breeding program?

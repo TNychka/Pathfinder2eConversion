@@ -1,35 +1,35 @@
 watermark (
-Version 0.18.4
+Version 0.18.6
 )
 title (
 Pathfinders' Guide to Eberron 
 )
 head(
 # Religions ((+Religions))
-Without gods manifesting their presence in the world of Eberron, many different religions have formed in the different cultures of the world. These many diverse religions draw their divine power from the strength of their faith, rather than drawing it from the gift of a divine source. The clerics and paladins of the world choose one of these faiths to champion.
+Without the presence of physically manifesting gods, Eberron is a world of diverse religions and faith in the higher powers. Many different religions have formed in the different cultures of the world, each following a unique faith. These many diverse religions draw their divine power from the strength of their faith, rather than drawing it as a gift of a divine source.
 -
 )
-Anyone can worship a deity, but those who do so devoutly should take care to pursue the faith’s edicts (behaviours the faith encourages) and avoid its anathemas (actions considered blasphemous). Each deity below has a short description, followed by their alignment, edicts, anathemas, and devotee benefits. In Eberron, you are not required to fit exactly into your deity's alignments, and you may follow a lawful good sovereign, but be a chaotic evil character. If you do so break the mould, it is up to you to explain how this difference came to be. Though you may still receive the powers of your faith if you don't meet the alignment of your faith, this may still make you an enemy of their other followers.
-
-## The Sovereign Host  ((++The Sovreign Host))
+Anyone can worship a deity, but those who do so devoutly draw divine power from the strength of their faith. Each deity below has a short description, followed by their alignment, edicts, anathemas, and devotee benefits. In Eberron, you are not required to fit exactly into your deity's alignments, edicts, or anathemas. As a devout follower of the faith, you may follow a lawful good sovereign, but be chaotic evil in nature. Similarly, if you break the Edicts and Anathemas of your diety, divine retribution is unlikely - though you may still draw the ire of your church. If you do so break these guidelines, it is up to you to explain how this difference came to be, and how you resolve this as a divine follower.
+  
+# The Sovereign Host [NG] ((++The Sovereign Host))
+-
+/
 The Sovereign Host consists of the deities most commonly worshipped by the majority of Khorvaire’s population. Most people revere the Host as a whole pantheon, offering prayers to different deities in different situations. Even clerics are often devoted to the entire Host rather than to a specific patron. If you are a cleric of the sovereign host, you may take divine font, abilities, skills, domains, spells, edicts, anathemas, or favoured weapons of your worship from any Sovereign. However once you have selected one of these sources, you may not mix further increases (such as in the case of cleric spells at 1st, 3rd and 5th level). Taken as a whole, the pantheon is neutral good, and its favoured weapon is the longsword—the weapon of its martial champion, Dol Dorn.
 
-### Arawai : Goddess of Agriculture
-A deity of fertility, plant life, and abundance, Arawai is neutral good. She claims many druids and rangers among her followers, as well as farmers, sailors, and any who are significantly concerned with weather or fertility. She is usually portrayed as a half-elf woman,
-|
-sometimes as a halfling or a human, and occasionally as a bronze dragon. 
+### Arawai: Goddess of Agriculture [NG]
+A deity of fertility, plant life, and abundance, Arawai is neutral good. She claims many druids and rangers among her followers, as well as farmers, sailors, and any who are significantly concerned with weather or fertility. She is usually portrayed as a half-elf woman, sometimes as a halfling or a human, and occasionally as a bronze dragon. 
 **Areas of Concern** Fertility, crops, abundance, plants, the wilderness, birth
 **Alignment** NG
 **Divine Font** Heal
 **Divine Ability** Wisdom or Constitution
 **Divine Skill** Nature
 **Domains** Earth, family, healing, nature, stars, sun, passion, toil, water
+|
 **Cleric Spells** 1st: temporary tool, 2nd: shape wood, 3rd: wall of thorns
 **Edicts** Encourage hard work that benefits all, ensure the health of crops and vegetation, protect forests and farmland from ravagers.
 **Anathema** Destroy healthy crops, waste food, refuse to help others in your community
 **Favoured Weapon** morningstar
-
-### Aureon : God of Law and Knowledge
+### Aureon: God of Law and Knowledge
 A deity of lore and magic, Aureon is lawful neutral. The patron of all arcane spellcasters, as well as sages, librarians, and scribes, he often appears as a gnome or human wizard in ancient texts, and occasionally as a majestic blue dragon. 
 **Areas of Concern** Law, knowledge, learning, logic, magic
 **Alignment** LN
@@ -42,7 +42,7 @@ A deity of lore and magic, Aureon is lawful neutral. The patron of all arcane sp
 **Anathema** fail to stop abuses of magic or hunt down lawbreakers and dangerous creatures of wild magic.
 **Favoured Weapon** Staff
 =
-### Balinor : God of Beasts and the Hunt
+### Balinor: God of Beasts and the Hunt [N]
 A neutral nature deity associated with hunting and animal life, Balinor claims hunters, druids, barbarians, and rangers among his followers, since he appears as both a protector of nature and an exemplar of gently taking what one needs for sustenance from nature’s bounty. Usually portrayed as a burly human, sometimes as a crude but good-natured half-orc, and occasionally as a stalking green dragon. 
 **Areas of Concern** Animals, the hunt.
 **Alignment** N
@@ -54,8 +54,8 @@ A neutral nature deity associated with hunting and animal life, Balinor claims h
 **Edicts** Hunt and maintain the health of the forest, provide for your community, slay creatures terrorizing an area.
 **Anathema** Take more than needed from the wilderness, hunt an animal for sport
 **Favoured Weapon** Battleaxe
-
-### Boldrei : Goddess of Community and Hearth 
+  
+### Boldrei: Goddess of Community and Hearth [LG]
 Boldrei, the lawful good deity of community, is invoked as a protector of villages and homes, to bless marriages, and to confirm government appointments. Usually depicted in ancient texts as a commoner of any race, or sometimes as a copper dragon brooding over a nest of eggs. 
 **Areas of Concern** Hearth, community, marriage, government
 **Alignment** LG
@@ -68,7 +68,7 @@ Boldrei, the lawful good deity of community, is invoked as a protector of villag
 **Anathema** betray another's trust, place conflict between ideological differences over people's lives
 **Favoured Weapon** Spear
 |
-### Dol Arrah : Goddess of Honor and Sacrifice
+### Dol Arrah: Goddess of Honor and Sacrifice [LG]
 Dol Arrah, the lawful good deity of honourable combat, self-sacrifice, and sunlight, manifests as a peacemaker, a careful planner, and a strategist. She serves as the patron of paladins, generals, and diplomats who fight their battles with words. In addition, in her role as a sun god, she brings light to pierce the darkest places of the world. She is commonly represented as a human or half-elf knight shining with holy radiance, and sometimes as a red dragon perched on a cloud. 
 **Areas of Concern** Honor, sacrifice, light, the sun, diplomacy
 **Alignment** LG
@@ -80,8 +80,8 @@ Dol Arrah, the lawful good deity of honourable combat, self-sacrifice, and sunli
 **Edicts** Seek those that break oaths and enforce just restitution, uphold your promises
 **Anathema** Lie, dishonour yourself or your family, shirk your duties, break an oath
 **Favoured Weapon** Halberd
-
-### Dol Dorn : God of Strength at Arms
+  
+### Dol Dorn: God of Strength at Arms [CG]
 The chaotic good deity of war, Dol Dorn appears as a paragon of physical perfection who promotes bodily strength as well as martial training. Most often depicted as a heavily muscled human, sometimes as a dwarf or a half-orc, and occasionally as a silver dragon. 
 **Areas of Concern** Physical perfection, strength, martial prowess
 **Alignment** CG
@@ -94,7 +94,7 @@ The chaotic good deity of war, Dol Dorn appears as a paragon of physical perfect
 **Anathema** Engage in petty showcases of strength, use your strength to take advantage of others
 **Favoured Weapon** Longsword
 =
-### Kol Korran : God of Trade and Wealth 
+### Kol Korran: God of Trade and Wealth [N]
 Merchants, traders, and thieves revere Kol Korran, the neutral deity of trade and money—as might anyone who has money or wants more. He is depicted as a fat, cheerful human or dwarf in fine clothes. A few ancient representations of him show a white dragon lying on a bed of ice-blue gemstones. 
 **Areas of Concern** Wealth, money, trade, commerce, theft
 **Alignment** N
@@ -106,8 +106,8 @@ Merchants, traders, and thieves revere Kol Korran, the neutral deity of trade an
 **Edicts** gather new wealth, count your riches, opening up new trade routes, or discovering and retrieving items of great worth.
 **Anathema** allow those who steal from you to go unpunished
 **Favoured Weapon** Mace
-
-### Olladra : Goddess of Feast and Good Fortune 
+  
+### Olladra: Goddess of Feast and Good Fortune [NG]
 Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral good deity of luck and plenty. She is often depicted as a young halfling, sometimes as an elderly human, and occasionally as a black dragon. 
 **Areas of Concern** Good fortune, feast, plenty
 **Alignment** NG
@@ -120,7 +120,7 @@ Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral
 **Anathema** Refuse a reasonable bet or duel
 **Favoured Weapon** Sickle
 |
-### Onatar : God of Artifice and the Forge 
+### Onatar: God of Artifice and the Forge [NG]
 Onatar, the neutral good deity of crafts, industry, and fire, is the patron of artisans and artificers, smiths and smelters, and all who make things. Dwarves, in particular, revere him; he commonly appears as a dwarf smith in holy texts, and sometimes as a brass dragon. Wizards who specialize in fire also place their faith in him. 
 **Areas of Concern** Crafts, weapons, tools, smithing, fire, innovation
 **Alignment** NG
@@ -132,16 +132,15 @@ Onatar, the neutral good deity of crafts, industry, and fire, is the patron of a
 **Edicts** craft new creations, pay attention to details, share achievements
 **Anathema** carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes
 **Favoured Weapon** Warhammer
-/
-
--
-  
-## The Dark Six  ((++The Dark Six))
-In some ways, the Dark Six can be considered a part of the pantheon of the Sovereign Host. It would be more accurate, however, to say that these deities have been cast out of the pantheon because of their evil ways. The Dark Six are the patrons of criminals, outcasts, and villains, as well as of various kinds of monsters. The holy texts show them scheming against the Sovereign Host at every turn for reasons that vary from deity to deity, and their dark minions likewise plot against the followers of the Sovereign Host.
 =
-### The Devourer
-The Devourer is the tsunami that overwhelms the tallest ship, the wildfire that consumes the grandest castle, the earthquake that levels the most glorious city. He is the vast and primordial power of nature, a force that will break any chain and wear down the strongest wall. 
-Those who embrace the Devourer celebrate the glorious power of the wilds. They revel in the raging storm and gladly embrace their predatory instincts. They accept that nature is often bloody and cruel, and don’t hesitate to follow its example. But while it may be harsh, nature is rarely evil. Priests of the Devourer often urge their parishioners to follow their instincts or teach people to live in accord with nature instead of forcing their will upon it. 
+# The Dark Six [NE] ((++The Dark Six))
+-
+/
+In some ways, the Dark Six can be considered a part of the pantheon of the Sovereign Host. It would be more accurate, however, to say that these deities have been cast out of the pantheon because of their evil ways. The Dark Six are the patrons of criminals, outcasts, and villains, as well as of various kinds of monsters. The holy texts show them scheming against the Sovereign Host at every turn for reasons that vary from deity to deity, and their dark minions likewise plot against the followers of the Sovereign Host.
+  
+### The Devourer: The Sovereign of Wave and Whelm [NE]
+The Devourer is the tsunami that overwhelms the tallest ship, the wildfire that consumes the grandest castle, the earthquake that levels the most glorious city. He is the vast and primordial power of nature, a force that will break any chain and wear down the strongest wall. Those who embrace the Devourer celebrate the glorious power of the wilds. They revel in the raging storm and gladly embrace their predatory instincts. They accept that nature is often bloody and cruel, and don’t hesitate to follow its example. But while it may be harsh, nature is rarely evil. Priests of the Devourer often urge their parishioners to follow their instincts or teach people to live in accord with nature instead of forcing their will upon it. He is portrayed as a human or merfolk with seaweed in his 
+hair and beard, as a sahuagin, as an enormous shark, or as a dragon turtle.
 **Areas of Concern** Devastation, hunger, nautical travel, storms, water
 **Alignment** NE
 **Divine Font** Harm
@@ -152,22 +151,23 @@ Those who embrace the Devourer celebrate the glorious power of the wilds. They r
 **Edicts** Embrace the glorious power of the wilds, live free of social or materialistic chains, cause destruction when angered
 **Anathema** bring civilization to intrude on the wild, become civilized
 **Favoured Weapon** Trident
-
-### The Fury
-The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury, guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
+  
+### The Fury: The Sovereign of Rage and Ruin [NE]
+The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury,
+|
+guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
 **Areas of Concern** Anger, extremism, insanity, passion, revenge
 **Alignment** NE
 **Divine Font** Harm
 **Divine Ability** Strength or Dexterity
 **Divine Skill** Intimidation
-|
 **Domains** Ambition, Delirium, Destruction, Freedom, Might, Pain, Passion, Zeal
 **Cleric Spells** 1st: true strike, 3rd: fireball, 4th: dimension door
 **Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance from those who wrong you
 **Anathema** Allow a slight to go unanswered, show humility or fear
 **Favoured Weapon** Rapier
-
-### The Keeper
+  
+### The Keeper: The Sovereign of Death and Decay [NE]
 The Keeper is the patron of those who put personal gain above all else. He guides those who use guile to gain gold, regardless of the cost to others. A rogue who invokes Olladra sees themselves as the hero of the story; one who calls on the Keeper has no compunctions about being the villain. Beyond guiding those who place profit before all else, the Keeper is also known for his willingness to make deals—though his bargains are always slanted in his favour. He is portrayed as a gaunt or grossly fat human, as a lich or a ghoul, or sometimes as a skeletal dragon. 
 **Areas of Concern** Death, entropy, greed, hunger, time
 **Alignment** NE
@@ -177,14 +177,13 @@ The Keeper is the patron of those who put personal gain above all else. He guide
 **Domains** Death, Decay, Dust, Indulgence, Trickery, Wealth
 **Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
 **Edicts** Gain financial control over others, gather new wealth, count your riches
+=
+<null>
 **Anathema** Allow honour or tradition to prevent you from taking what you want
 **Favoured Weapon** Scythe
-
-
-### The Mockery
-Others who follow the Mockery assert that the very idea of honour in war is delusional. Pain, terror, and death are the inevitable results of violence; at least those who follow the Mockery acknowledge the truth others deny. The assassin who kills without warning, the barbarian who sees mercy as a weakness, the pirate who cultivates a terrifying reputation—all these might view the Mockery as an ally. He is portrayed as a ghastly human warrior with the skin stripped from his body, cloaked in the skins of his enemies, and
-=
-sometimes as a half-fiend red dragon. 
+  
+### The Mockery: The Sovereign of Betrayal and Bloodshed [NE]
+Others who follow the Mockery assert that the very idea of honour in war is delusional. Pain, terror, and death are the inevitable results of violence; at least those who follow the Mockery acknowledge the truth others deny. The assassin who kills without warning, the barbarian who sees mercy as a weakness, the pirate who cultivates a terrifying reputation—all these might view the Mockery as an ally. He is portrayed as a ghastly human warrior with the skin stripped from his body, cloaked in the skins of his enemies, and sometimes as a half-fiend red dragon. 
 **Areas of Concern** Combat, dishonour, murder, terror, treachery.
 **Alignment** NE
 **Divine Font** Harm
@@ -195,21 +194,23 @@ sometimes as a half-fiend red dragon.
 **Edicts** Seize any opportunity that would benefit you, solve your problems With Violence, hide your true intentions
 **Anathema** Beg for help or mercy, let a slight go unanswered
 **Favoured Weapon** Kama
-
-### The Shadow
+  
+### The Shadow: The Sovereign of Magic and Mayhem [CE]
 The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon. 
 **Areas of Concern**  Arcane magic, consequence, corruption, darkness, duality
-**Alignment** NE
+**Alignment** CE
 **Divine Font** Harm
 **Divine Ability** Constitution or Intelligence 
 **Divine Skill** Arcana
+|
+<null>
 **Domains** Ambition, Change, Darkness, Fate, Knowledge, Magic, Secrecy, Trickery, Truth
 **Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
 **Edicts** Learn and hoard forbidden magic, steal secrets from others
 **Anathema** Destroy forbidden lore, reveal the entirety of a secret
 **Favoured Weapon** staff
-|
-### The Traveler
+  
+### The Traveler: The Sovereign of Chaos and Change [CN]
 The most mysterious of the Dark Six, the Traveler is chaotic neutral and seems to have no connection to the other deities of the pantheon. A consummate shapeshifter, the Traveler is said to walk the land in a thousand disguises. A master of cunning and deception, it emphasizes subtlety and careful planning. In some places, the Traveler is known as the Giver of Gifts, but proverbs warn, “Beware the gifts of the Traveler.” Revered by doppelgangers, lycanthropes, and a number of changelings and shifters. 
 **Areas of Concern** Chaos, deception, evolution, invention, transformation
 **Alignment** CN
@@ -221,10 +222,9 @@ The most mysterious of the Dark Six, the Traveler is chaotic neutral and seems t
 **Edicts** Live life freely, manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions
 **Anathema** Refuse a reasonable bet, let social pressure change your behaviour
 **Favoured Weapon** scimitar
-/
--
 = 
-## The Silver Flame
+# The Silver Flame [LG] ((++The Silver Flame))
+-
 In a world where deadly supernatural evil is a concrete fact of existence, the Church of the Silver Flame is dedicated to protecting the common people against supernatural forces of evil. The church itself was founded when a noble paladin gave her life to pull her nation back from the abyss. Some might mistakenly see the church merely as a militant hierarchical religious organization and assume that it must be a force of oppression. But while the Church of the Silver Flame is a religion, it’s equally a volunteer militia whose members are prepared to risk their lives to protect every innocent from the real and deadly threats lurking in the shadows. 
 **Areas of Concern** Protection, Defence of the Innocents, Destruction of supernatural evil
 **Alignment** LG
@@ -236,11 +236,12 @@ In a world where deadly supernatural evil is a concrete fact of existence, the C
 **Edicts** free others from oppression, release harmful tethers be they physical or spiritual, work toward your best self and inspire others to follow
 **Anathema** allow tyrants to escape punishment after their reign ends, enslave or oppress others, prevent others from honestly expressing themselves
 **Favoured Weapon** longbow
-
-## The Blood of Vol  ((++The Blood of Vol))
+  
+# The Blood of Vol [LN] ((++The Blood of Vol))
+-
 Most followers of the Blood of Vol identify as Seekers of the Divinity Within—usually shortened to Seekers—though there are other traditions within the faith. The Blood of Vol has long been vilified, with outsiders often viewing it as a death cult, falsely equating it with the cult of Katashka the Gatekeeper, or blaming its members for plagues and blights. However, in the eyes of the Seeker, life and the soul are both divine forces. Every soul has the potential to evolve and develop divine power—but this takes time and willpower, and
 |
-most mortals die before they accomplish it. 
+most mortals die before they accomplish it. Its followers study the secrets of blood and life, and because they believe that death is the end, they see nothing wrong with using the bodies of the fallen to serve the living. Seekers of the Divinity Within (as the faithful call themselves) are glad to be reanimated after death; at least they can do some good.
 **Areas of Concern** Death, Undead, and Ambition
 **Alignment** LN
 **Divine Font** Harm
@@ -251,8 +252,9 @@ most mortals die before they accomplish it.
 **Edicts** Strive to unlock the potential within yourself, encourage others to strive toward their potential for greatness
 **Anathema** sacrifice your life, fail to work toward goals or grow in skill, relax excessively or give in to sloth, blemish a soul
 **Favoured Weapon** dagger
-
-## The Path of Light  ((++The Path of Light))
+  
+# The Path of Light [LN] ((++The Path of Light))
+-
 The kalashtar of Adar follow no deity, but they do revere a universal force of positive energy they call il-Yannah, or “the Great Light. Most followers of the Path of Light are psions and psychic warriors, seeking to perfect their bodies and minds through meditation and communion with this light to prepare themselves for conflict with the forces of darkness — most particularly, the Dreaming Dark of the Inspired of Riedra. 
 **Areas of Concern** Dreams, the path of light
 **Alignment** LN
@@ -265,8 +267,9 @@ The kalashtar of Adar follow no deity, but they do revere a universal force of p
 **Anathema** abandon a companion in need, dishonour yourself, repeatedly fail to maintain self-control
 **Favoured Weapon** Fist
 =
-## The Spirits of the Past ((++The Spirits of the Past))
-The elves of Aerenal revere their ancient dead as incarnate deities, seeking advice from deathless councillors and petitioning their favour. Unlike undead creatures, the deathless elves of the Undying Court are animated by positive energy and are powerful beings of neutral good alignment. 
+# The Spirits of the Past [N] ((++The Spirits of the Past))
+-
+The Tairnadal elves are raised on the legends of their people, on tales of champions who battled mighty dragons and armies of giants. When a Tairnadal elf comes of age, the Keepers of the Past read the signs to determine which of these ancestors chose you to be their vessel. From that day onward, it is the duty of a follower of the Spirits of the Past to emulate their patron ancestor, to become a living revenant of their ancestor past.
 **Areas of Concern** Glory, battle, bravery, honour
 **Alignment** N
 **Divine Font** Heal or Harm
@@ -277,8 +280,9 @@ The elves of Aerenal revere their ancient dead as incarnate deities, seeking adv
 **Edicts** Strive to uphold the ideals of your ancestor spirit, practice with a weapon every day, destroy the undead
 **Anathema** Become or create undead, fail to strive to uphold your ancestor spirit, dishonour yourself, parlay with trucebreakers
 **Favoured Weapon** Double Scimitar
-
-## The Undying Court ((++The Undying Court))
+  
+# The Undying Court [NG] ((++The Undying Court))
+-
 The elves of Aerenal revere their ancient dead as incarnate deities, seeking advice from deathless councillors and petitioning their favour. Unlike undead creatures, the deathless elves of the Undying Court are animated by positive energy and are powerful beings of neutral good alignment.
 **Areas of Concern** Glory, history, patience, revelation, obedience.
 **Alignment** NG
@@ -291,8 +295,9 @@ The elves of Aerenal revere their ancient dead as incarnate deities, seeking adv
 **Anathema** destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information
 **Favoured Weapon** Scimitar
 |
-## Cults of the Dragon Below
-The Cults of the Dragon Below consist of a diverse group of fanatical sects that revere the power of the subterranean realms. Some of these cults seek to draw Khyber, the Dragon Below, up from the depths of the world, while others traffic with demons conjured from the deep regions. The City of the Dead in Aerenal seek a promised paradise in some lost cavern far below the surface, purifying themselves with a blood sacrifice to make themselves worthy to find it. Though little unites these mad cults beyond their reverence for the forbidden powers of Khyber, they are generally neutral evil.
+# Cults of the Dragon Below [CE] ((++Cults of the Dragon Below))
+-
+The Cults of the Dragon Below consist of a diverse group of fanatical sects that revere the power of the subterranean realms. Some of these cults seek to draw Khyber, the Dragon Below, up from the depths of the world, others traffic with demons conjured from the deep regions, and some seek to consort with the aberrations of the deep. Though little unites these mad cults beyond their reverence for the forbidden powers of Khyber, they are generally neutral evil.
 **Areas of Concern** Various
 **Alignment** LE, NE, CE
 **Divine Font** Harm
