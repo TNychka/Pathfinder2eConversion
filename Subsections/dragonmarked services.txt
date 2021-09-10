@@ -1,0 +1,155 @@
+item(
+# Favoured in House
+## Feat 3
+-
+; Uncommon, Dragonmark, General
+**Prerequisite** developed a lesser dragonmark and your house is friendly to you, or your house is helpful to you.
+-
+Your family is influential and powerful, and you have the connections to fast track your requests of the house. When you make a request of your house, it may be to any house member whether they know you or not, as long as they are at least indifferent towards you. For any request for a favour that the house performs such acquiring important information, introductions to important people, or the loan of equipment or personnel, you gain a +1 circumstance bonus. A lesser mark grants you a +2 circumstance bonus, a greater mark grants you a +3 circumstance bonus, and a siberys mark grants you a +4 circumstance bonus. The GM sets the DC based on the scope of the favour being requested - highly dangerous, expensive, or illegal favours take a -4 circumstance penalty. See Dragonmarked Houses for some examples of favours that a house might be able to provide.
+)
+|
+note(
+# GM Adjudication
+Whenever a character takes the favoured in House feat, especially in the middle of an ongoing campaign, an explanation is required. If a character has been a constant embarrassment to their house, opinions won’t suddenly 
+change because they went up a level and gained a feat slot. This is a prerequisite of the feat: It needs to be justified, and a GM is free to refuse the request. 
+
+# Losing your favour
+Whether by excoration, or actions that have tarnished the reputation of your house, in the event of extrodinary circumstances you might lose the favour of your house. Until you regain the favour of your house, you lose access to any of the benefits granted by the Favoured in House feat. If reconsiliation with the house is not something you desire, you may retrain out of this feat for free with a week of downtime as normal.
+)
+
+=
+head(
+# House Cannith ((+House Cannith))
+House Cannith has risen to dominate commerce and industry in Khorvaire. For every advance made in magic, odds are good that Cannith had a hand in it—from everbright lanterns to the lightning rail, from the warforged to the secret experiments now lost deep within the wastes of the Mournland.
+-
+)
+With its power and creative genius, the House Cannith commands both respect and fear. Despite its accomplishments, however, Cannith stands in turmoil. Unable to agree on a new ruler in the aftermath of the Day of Mourning, the house splintered into three factions, each with its own agenda. This rift has caused unease among the houses and beyond, giving monarchs and entrepreneurs pause even as they cautiously back one of three would-be leaders.
+
+## Services
+TODO
+The following uses the rules for Services found in the core rule book pg 294. Tinkerer or Fabricator's guild
+
+- Cannith approved manufacturers can supply or repair any non-magical item of 5th level or lower at cost.
+- Cannith Mark of Making Focus Spells are cast at a 10% discount of the spellcasting services table 6-15.
+
+Cannith Hirelings | Cost
+--- | :---
+Unskilled Cannith Worker (1 day) | 1 sp
+Unmarked Cannith Magewright (1 day) | 5 sp
+Least Cannith Magewright (1 day) | 18 gp
+Lesser Cannith Magewright (1 day) | 160 gp
+Greater Cannith Magewright (1 day) | 720 gp
+
+
+## Membership
+Membership in House Cannith is primarily by blood, though more than a few members have entered through marriage. After the mourning, House Cannith was split into three factions. Cannith East, Cannith West, and Cannith South. When you gain membership with the house, you must pick one of these three factions.
+
+## Benefits of House Cannith
+If you are a member of House Cannith in good standing, you have access to the following benefits with your faction. 
+
+**Economics:**  House  Cannith  covets  magic  items,  especially  those  of  Cyre  and  Xen’drik.  Members  who 
+find such items are strongly encouraged to bring them to the house, which then researches them or loans them 
+to those on house assignments. Items are evaluated, and the member who found them is paid 65% of the estimated worth. In addition, Cannith South will subsidize up to one-half the total cost of house expeditions to Xen’drik or Cyre, as long as such expeditions leave from Sharn and include at least one Cannith South member. 
+
+**Gear:**  Members  of  House  Cannith  are  always  well  outfitted—anything less would be an affront to the house’s pride. Those on Cannith business are fully outfitted with mundane equipment, and those on personal business pay only 25% of the standard cost for mundane gear. 
+
+**Information:** Members can have magic items identified for 50% of the normal cost and get access to maps and reports from Cannith explorers in Cyre and Xen’drik.
+
+**Access:** Only members of the house and their associates have access to the house’s forges and workshops.
+
+## favoured in House Benefits
+Though all members of House Cannith have a level of privilege, the split in the house has led to ill will between competing factions. Requests from members of Cannith East might be ignored by Cannith South unless the southern  faction feels generous or will profit in some way. A party from Cannith West can ask for a warforged bodyguard from Cannith South, but have less chance of receiving them than a party affiliated with Merrix. The following table indicates the types of favours a Cannith character with the favoured in House feat might request. In addition to general favours, each arm of the house can provide special favours, mainly to its members. The following are some examples of potential benefits.
+
+### Cannith Benefits
+Request DC | Benefit
+--- | :---
+15 | One hour of a least Mark of Making magewright's time.
+25 | One hour of a lesser Mark of Making magewright's time.
+35 | One hour of a greater Mark of Making magewright's time. Assistance of an unmarked magewright of the Fabricators Guild or Tinkers Guild for a week.
+40 | Assistance of a least magewright of the Fabricators Guild or Tinkers Guild for a week.
+. * If a requested favour involves an illegal or dangerous act, increase the DC by 5
+. ** If the character requesting a favour is from a different branch of the house, increase the DC by 3.
+
+### Cannith South Additional Benefits
+DC | Benefit
+--- | :---
+10 | Free passage with a house expedition to Xen’drik for four characters 
+15 | A gift of a wand with base value 2,500 gp with 10 charges left (500 gp value) 
+20 | Use of a warforged bodyguard (fighter 4) for 1 week
+25 | Free use of a nonexpendable medium wondrous item for 1 week
+. * If a requested favour involves an illegal or dangerous act, increase the DC by 5
+. ** If the character requesting a favour is from a different branch of the house, increase the DC by 3.
+
+### Cannith West Additional Benefits
+DC | Benefit
+--- | :---
+15 | Access to the Twelve’s magic library for 1 day 
+20 | An introduction to a noble from Aundair or Thrane
+25 | Use of a sorcerer of the Twelve (sorcerer 5) for 1 week
+. * If a requested favour involves an illegal or dangerous act, increase the DC by 5
+. ** If the character requesting a favour is from a different branch of the house, increase the DC by 3.
+
+### Cannith East Additional Benefits
+DC | Benefit
+--- | :---
+15 | Training at the Rekkenmark Academy for 1 week4 
+20 | Use of 1d4 Rekkenmark cadets (fighter 3) for 1 week
+25 | Free use of 1d4 Karrnathi zombie soldiers for 1 week
+. * if a requested favour involves an illegal or dangerous act, increase the DC by 5
+. ** If the character requesting a favour is from a different branch of the house, increase the DC by 3.
+
+
+=
+## House Deneith
+From its beginnings as an order of mercenaries and soldiers to its modern incarnation as the human face of law and battle, House Deneith has maintained its position as the primary force for security and defense in the Five Nations. Though its fortunes rose during the Last War, the services Deneith renders are no less valuable in times 
+of peace. Today, the house is as prosperous as ever, with its position of neutrality firmly established and a host of eager clients ready to use its services. This prosperity tells only half the story, however, and Deneith’s past fortunes might not be enough to guarantee the house’s future.
+=
+## Favoured in House Deneith
+DC1 Benefit
+10 One free use of the least Mark of Sentinel; loan of a 
++1 weapon  for 1 week; free use of 1d4 black blade Blade-
+marks for 1 day; a loan of 100 gp at 10% per month2
+15  One free use of the lesser Mark of Sentinel; free use 
+of 1d4 gray blade Blademarks for 1 week; one week’s 
+training at the Rekkenmark Academy3; loan of a +1 
+weapon for 1 month 
+20  One free use of the greater Mark of Sentinel; free use 
+of a 3rd-level member of the Defenders Guild (least 
+dragonmark) for 1 week; free use of 1d4 white blade 
+Blademarks for 1 week; one month’s training at the Rek-
+kenmark Academy3; loan of a +2 weapon for 1 month; gift 
+of a masterwork weapon (DM’s choice); a public border 
+crossing for four characters without proper papers4 
+25  Free use of a 5th-level member of the Defenders Guild 
+(lesser dragonmark) for 1 week; free use of 1d4 gold 
+blade Blademarks for 1 week; free use of a +3 weapon for 
+1 month; a secret border crossing for four characters4
+1 If a requested favour involves an illegal or dangerous act, 
+increase the DC by 5. favours with DCs of 20 or higher 
+always require additional service to the house.
+2 A character can have no more than one loan at a time.
+3 Individual benefi  t to be determined by the DM. See Five 
+Nations for more information on Rekkenmark Academy.
+4 Characters cannot be fl eeing prosecution or criminal 
+charges that would make them the purview of the Sentinel 
+Marshals
+
+
+## House Ghallanda
+## House Jorasco
+## House Kundarak
+## House Lyrandar
+## House Medani
+## House Orien
+## House Phiarlan
+## House Sivis
+## House Tarkanan
+## House Tharashk
+## House Thurranni
+## House Vadalis
+
+
+
+
+
+
