@@ -1,396 +1,407 @@
-watermark (
-Version 0.18.4
+watermark ( 
+Version 0.18.8
+) 
+title ( 
+Pathfinder's Guide to Eberron  
 )
-title (
-Pathfinder's Guide to Eberron 
-)
-head(
-## Kalashtar ((+Kalashtar))
-Kalashtar are born with a bond to an otherworldly being. They have memories of lives never lived, visions of combat with fiends that they never fought, and the sense of an endless struggle against darkness. For all the pain and suffering in the world, the Kalashtar know that there is a path to light.  Some faceless enemies would hunt all the Kalashtar down and would see their bloodlines eradicated. The Kalashtar's path to light is a dangerous one, as death awaits in the shadows.
+head( 
+# Kalashtar ((+Kalashtar)) 
+Kalashtar are born with a bond to an otherworldly being. They have memories of lives never lived, visions of combat with fiends that they never fought, and the sense of an endless struggle against darkness. For all the pain and suffering in the world, the Kalashtar know that there is a path to light.  Some faceless enemies would hunt all the Kalashtar down and would see their bloodlines eradicated. The Kalashtar's path to light is a dangerous one, as death awaits in the shadows. 
 -
-)
-The kalashtar are a compound people, created from the union of humanity and renegade spirits from the plane of dreams — spirits called quori. Kalashtar are often seen as wise, spiritual people with great compassion for others. There is an unmistakable alien quality to the kalashtar, though, as they are haunted by the conflicts of their otherworldly spirits.
-
-Every kalashtar has a connection to a spirit of light, a bond shared by other members of their bloodline. Kalashtar can’t directly communicate with their quori spirits. Rather, they might experience this relationship as a sense of instinct and inspiration, drawing on the memories of the spirit when they dream. This connection grants kalashtar minor psionic abilities, as well as protection from psychic attacks. All of these quori dream spirits are virtuous, but some are warriors and others are more contemplative. Typically, a kalashtar knows the name and nature of their spirit, but some may know nothing of their spirit or the source of their psychic gifts, such as an orphan kalashtar raised among strangers. [7]
-
-## You might...
-- Try to understand the motives and feelings of your allies, and even your enemies.
-- Encourage others to dream a little bigger, and set lofty goals to achieve. 
-- Apply dream logic to mundane situations.
-
-## Others Probably...
-- Think you're human, though you move and act in a slightly otherworldly way.
-- Find themselves drawn to the wisdom you display, which seems beyond your years.
-- Opening their emotions to you, even before they realize they are doing so.
-
-## Physical Description...
-Kalashtar appear human, but their spiritual connection affects them in a variety of ways. Kalashtar have symmetrical, slightly angular features, and their
+) 
+    The Kalashtar, throughout Khorvaire, are viewed as deeply spiritual people with an other-worldly quality that is hard for many to place. This alien nature is a result of what the Kalashtar are; creatures born from the willing union between humans and quori spirits from the Plane of Dreams, Dal Quor. These Quori spirits are born of the periodic cycles of Dal Quor - which alternate between Light and Dark. As each cycle comes to an end, it is destroyed and reborn as the other. The current phase of Dal Quor is darkness, it is that of il-Lashtavar - also known as the Dreaming Dark. The quori of the Dreaming Dark rule Dal Quor and aim to extend their cycle forever and block out the light to come. However, centuries ago, a handful of quori spirits rejected these machinations and fled from Dal Quor.
+    Sixty-seven of these rebel spirits escaped into Eberron and found sanctuary in the minds and bodies of Sarlonan monks. These monks are the ancestors of the modern-day Kalashtar. The quori spirits live through the bloodlines of their first hosts, inherited through generations. By maintaining these bloodlines, the mere existence of the Kalashtar is a protest to the evil of the Dreaming Dark and its goals. However, the Dreaming Dark seeks to extinguish these rebel spirits. If they succeed, and a bloodline is terminated, it means the loss of the spirit, and its return into Dal Quor to be reborn and moulded to the Dreaming Dark. 
+    While most kalashtar quori are one of the original sixty-seven escaped spirits, it is possible for a Kalashtar to join with a Quori spirit who recently abandoned the Dreaming Dark.
+    As a result of their bonds to their Quori spirit, Kalashtar experience the world differently than other creatures. Their bonded nature enables an aptitude for psionics and greater resistance against psionic attacks. Not only this, but the Kalashtar have an ability to greater influence the emotional domain
 |
-eyes often glow when they are focused or expressing strong emotions. [7]
-## Society...
-There are three main kalashtar societies. 
-
-The Adaran kalashtar were born in Sarlona, in the distant land of Adar. Today, the Empire of Riedra dominates Sarlona, and imperial forces endlessly siege Adar. The monks and priests of Adar believe that the war against the Inspired and il-Lashtavar won’t be won with weapons; instead, prayer and guided meditation will ultimately shift the balance from darkness to light. Adaran kalashtar rarely take direct action without reason. Adaran kalashtar are ascetic, disciplined, and focused on the Path of Light. They are taught to inspire those who live in fear and enlighten those lost to darkness.
-
-The khorvairian kalashtar exist in communities of several major cities of the Five Nations, including the Overlook district in Sharn and Whitewalls in Fairhaven. They prefer to stay close to one another, both to practice their shared traditions and to stand together against any threats posed by the Dreaming Dark. They are familiar with the Path of Light and other kalashtar customs. But there’s no Riedran army at the gates; they know the Dreaming Dark is a threat, but it’s a ghost in the shadows. These kalashtar simply seek to spread light through their daily actions, such as showing kindness and compassion or mediating disputes. 
-On the other hand, some of the kalashtar of Khorvaire have embraced a grim path in the battle against darkness. The Shadow Watchers don’t believe that evil can be fought merely with kindness and prayer. Members of this order seek to identify sources of corruption and ruthlessly eliminate them. While a Shadow Watcher’s focus is on agents of the Dreaming Dark, they can pursue any force of evil, supernatural or otherwise. [8]
+    of their once fiendish quori. The quori represent concepts of nightmares - pride, rage, aggression, deceit - and these concepts were once the source of their power, before turning away from the Dreaming Dark. Now embedded into a Kalashtar, the quori provide their host with a greater understanding of what these emotions are. Coupled with their psionics, Kalashtar can influence the emotional states of their enemies, allies, or even themselves, temporarily. While aptitude in using these skills might vary between Kalashtar, all have the ability to develop and grow their powers through rigorous training and meditation.
+    Though the Kalashtar are bonded with their Quori, they cannot speak to their quori directly – instead, the relationship is experienced as a sense of inspiration and instinct. Some Kalashtar experience the presence of their quori in the way they feel some emotions more intensely than others, other Kalashtar find they can inspire those around them to feel or fight back against fear, cruelty, or malice.
+    One of the unique results of the quori flight from Dal Quor is that both the Kalashtar and their Quori spirit are unable to return to Dal Quor when they sleep. Instead, Kalashtar experience a trance state shared with their Quori. This trance enables them to relive moments belonging to the ancestors of their Kalashtar line, and even the memories of their quori before it bonded. The adage of the wise Kalashtar often comes from the fact that in their singular life they hold the experiences of many more.
+    Throughout the centuries, the machinations of the Dreaming Dark have not yielded, and the evil spirits of Dal Quor still aim to dampen the coming of the Light. For this reason, agents of the Dreaming Dark exist in Khorvaire to eradicate the lineages housing the escaped quori. On the continent of Sarlonna, the Dreaming Dark has taken hostage humans and pose
 =
-right(
-## Hit Points
-6
-## Size
-Medium
-## Speed
-25 feet
-## Ability Boosts
-Wisdom
-Free
-## Languages
-Common
-Quori
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from Riedran, Gnomish, Dwarvish, Elvish and any other languages to which you have access (such as the languages prevalent in your region).
-## Traits
-Kalashtar
-Humanoid
-## Link minds
-You gain the link mind cantrip as an innate occult spell that you can cast at will. A cantrip is automatically heightened to half your level rounded up.
-)
+    as Inspired, spiritual guides that now lead the Riedran nation. Not all Kalashtar characters are aware of the Dreaming Dark and its connection to Sarlona, but the Dreaming Dark hunts for them all the same.
+## You might... 
+- Aim to understand the emotions of those around you, even if the situation doesn't call for it. 
+- Very rarely consider the limitations you may encounter as you draw up your goals and aspirations. 
+- Believe that the rules of reality can be bent like those in dreams. 
 
-## Alignment and Religion...
-While kalashtar can be evil - the communities they are raised in and the light quori that has selected them inclines them towards good. However lofty their goals are, they will achieve their motivations in any number of ways, neither law nor chaos has strong sway over the kalashtar.
+## Others Probably... 
+- Think you're human, though you move and act in a slightly otherworldly way. 
+- Find themselves drawn to the wisdom you display, which seems beyond your years. 
+- Opening their emotions to you, even before they realize they are doing so. 
 
-Most kalashtar are devoted to the Path of Light, and though its faithful worship no gods, the faith itself can be a source of divine magic.
+## Physical Description... 
+Kalashtar appear human, but their spiritual connection affects them in a variety of ways. Kalashtar have symmetrical, slightly angular features, and their eyes often glow when they are focused or expressing strong emotions. Beyond this, most creatures struggle to tell Kalshtar and Humans apart at a glance. [7]
+## Society... 
+    There are three main kalashtar societies.
+    The Adaran Kalashtar live lives most similar to the first monks that opened their arms to the refugee quori spirits. They still live on the continent Sarlona, but belong to the land of Adar. The Empire of Riedra, ruled by agents of the Dreaming Dark, currently dominates Sarlona, and imperial forces endlessly siege Adar. The monks and priests of Adar believe that the war against the Inspired and the Dreaming Dark won’t be won with weapons; instead, prayer and guided meditation will ultimately shift the balance from darkness to light. They believe the Age of Light will come to Dal Quor, and through their passive actions, they sustain their quori and protect it from returning to the Dreaming Dark. Adaran kalashtar rarely take direct action without reason. They are also ascetic, disciplined, and focused on the Path of Light. They are taught to inspire those who live in fear and enlighten those lost to darkness.
+|
+    The Khorvairian kalashtar exist in communities of several major cities of the Five Nations, including the Overlook district in Sharn and Whitewalls in Fairhaven. They prefer to stay close to one another, both to practice their shared traditions and to stand together against any threats posed by the Dreaming Dark. They are familiar with the Path of Light and other kalashtar customs, but there’s no Riedran army at the gates; they know the Dreaming Dark is a threat, but it’s a ghost in the shadows. These kalashtar believe that the Age of Light will be supported through their daily actions, such as showing kindness and compassion or mediating disputes.  
+    On the other hand, some of the kalashtar of Khorvaire have embraced a grim path in the battle against darkness. The Shadow Watchers don’t believe that evil can be fought merely with kindness and prayer. Members of this order seek to identify sources of corruption and ruthlessly eliminate them. They believe the Age of Light will come when the Darkness is defeated. As such, a Shadow Watcher’s focus is typically on agents of the Dreaming Dark, although they can pursue any force of evil, supernatural or otherwise.
+    However, your kalashtar might not belong to a community with others of their kind at all. An orphaned kalashtar without spiritual guidance might not be able to understand their trances, the way their quori influences their emotions or the manifestations of their psionic abilities. If your Kalashtar does not know fully what they are, what is their relationship with their unique abilities? [8]
+## Alignment and Religion... 
+    All quori spirits that inhabit the Kalashtar were born of the Dreaming Dark – they represent nightmare qualities, those of rage, deceit, and pride. However, this does not lend Kalashtar to fall easily into evil alignments. These connections can instead result in Kalashtar gaining a greater sense of empathy: understanding the pains of fear, the hubris of pride, and the folly of deceit.
+    Kalashar, just like the humans they originated from, can have an evil alignment. However, those raised with an understanding of their quori tend to develop positive relationships with the darkness their spirit may represent.  
+    However lofty their goals are, they will achieve their motivations in any number of ways, so neither law nor chaos has strong sway over the kalashtar. Most kalashtar are devoted to the Path of Light, and
+= 
+right( 
+## Hit Points 
+6 
+## Size 
+Medium 
+## Speed 
+25 feet 
+## Ability Boosts 
+Wisdom 
+Free 
+## Languages 
+Common 
+Quori 
+Additional languages equal to your Intelligence modifier (if it's positive). Choose from Riedran, Gnomish, Dwarvish, Elvish and any other languages to which you have access (such as the languages prevalent in your region). 
+## Traits 
+Kalashtar 
+Humanoid 
+## Link minds 
+You gain the link mind cantrip as an innate occult spell that you can cast at will. A cantrip is automatically heightened to half your level rounded up. 
+) 
+though its faithful worship no gods, the faith itself can be a source of divine magic. 
 
-## Names...
-A kalashtar name adds a personal prefix to the name of the quori spirit within the kalashtar. Such names have no relation to the kalashtar’s gender.
+## Names... 
+A kalashtar name adds a personal prefix to the name of the quori spirit within the kalashtar. Such names have no relation to the kalashtar’s gender. Kalashtar orphans are unlikely to know the name of their spirit and take names from another source. 
 
-Kalashtar orphans are unlikely to know the name of their spirit and take names from another source.
+### Sample Names 
+**Quori Names:** Ashana, Ashtai, Ishara, Hareth, Khad, Kosh, Melk, Nari, Tana, Tari, Tash, Ulad, Vakri, Vash 
 
-### Sample Names
-Quori Names: Ashana, Ashtai, Ishara, Hareth, Khad, Kosh, Melk, Nari, Tana, Tari, Tash, Ulad, Vakri, Vash
+**Kalashtar Names:** Coratash, Dalavash, Dolishara, Halakosh, Khoratari, Koratana, Lanhareth, Molavakri, Nevitash, Sorashana, Torashtai, Valakhad, Vishara 
 
-Kalashtar Names: Coratash, Dalavash, Dolishara, Halakosh, Khoratari, Koratana, Lanhareth, Molavakri, Nevitash, Sorashana, Torashtai, Valakhad, Vishara
-/
 item(
-# Link minds
-## Cantrip 1
+# Link minds 
+## Cantrip 1 
 -
-; Uncommon, Cantrip, Concentrate, Illusion, Kalashtar, Mental
-**Cost** :aaa: somatic
+; Uncommon, Cantrip, Concentrate, Illusion, Kalashtar, Mental 
+**Cost** :aaa: somatic 
 
-**Range** 30 feet; **Targets** 1 creature
+**Range** 30 feet; **Targets** 1 creature 
 
-**Duration** sustained 1 hour
+**Duration** sustained 1 hour 
 -
 You link your mind with a creature you can see, allowing two-way communication with a creature while they are in range. This link lasts for up to 1 hour if you choose to sustain the effect, or until the target is outside the range. You can communicate basic ideas telepathically with creatures using shared mental imagery even if you don't share a language.
-
-You may only have one active Link Mind in this way at a time.
+You may only have one active Link Mind in this way at a time. 
 -
-**Heightened (+1)** The range increases by 15ft.
+**Heightened (+1)** The range increases by 15ft. 
 )
-  
-# Kalashtar Heritages
-The abilities and the personalities of kalashtar are heavily influenced by their quori spirit. Choose one of the following kalashtar heritages at 1st level.
+/
 
-## Du'ulora Kalashtar
-The fiendish du'ulora spirit drives your rage and aggression. How you channel this spirit's energy in your daily life is up to you, but you have developed the ability to unleash it on your enemies. You gain the Phantom Pain spell which you can cast as an occult innate spell once per day.
-=
+# Kalashtar Heritages 
+The abilities and the personalities of kalashtar are heavily influenced by their quori spirit. Recall that the fiendish heritage of each spirit can be used either to strengthen the Light or enable the Darkness. Choose one of the following kalashtar heritages at 1st level - what does your choice represent about your character's relationship with their spirits? 
+
+## Du'ulora Kalashtar 
+The fiendish du'ulora spirit inhabits your bloodline and is one that feeds on rage and aggression. You choose one of the following paths.
+### Du'ulora Aggravator 
+You learn to channel others' anger to blind your enemies with rage and increase the adrenaline and focus of those you support. You may cast either Bane or Bless as an occult innate spell once per day.
+|
+ 
 **Special** If at any point you gain access to the Moment of Clarity feat through class or archetype, you automatically gain it from this heritage.
 
 ## Hashalaq Kalashtar
-The hashalaq quori is a force that feeds on doubt and desire. You can choose one of the following paths. 
+The hashalaq quori is a force that feeds on doubt and desire. You can choose one of the following paths.  
 ### Hashalaq Seducer
 You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). You gain the Group Impression skill feat. In addition, when you make a group impression you can increase the number of targets by half rounded up.
-### Hashalaq Insightful
-You become trained in Deception (or another skill if you were already trained in Deception). You gain the Lie to Me skill feat. In addition, you gain a +2 circumstance bonus against any attempt to lie to you.
-### Hashalaq Deciever 
-You become trained in Deception (or another skill if you were already trained in Deception). You gain the Charming Liar skill feat. In addition, you gain a +1 circumstance bonus to your deception checks.
-## Kalaraq Kalashtar
-Kalaraq are the natural leaders of the quori, spirits of pride and ambition. Though rarest of the kalashtar spiritual lineages, you depend on your allies as they depend on you. You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). 
-
-If you are using the stamina variant rules, you gain the Encouraging Words skill feat (even without meeting the level prerequisites) and a +1 circumstance bonus when you use the feat.
-
-Otherwise, you gain the following action.
-item(
-# Encouraging Words :a:
+### Hashalaq Insightful 
+You become trained in Deception (or another skill if you were already trained in Deception). You gain the Lie to Me skill feat. In addition, you gain a +2 circumstance bonus against any attempt to lie to you. 
+= 
+### Hashalaq Deciever  
+You become trained in Deception (or another skill if you were already trained in Deception). You gain the Charming Liar skill feat. In addition, you gain a +1 circumstance bonus to your deception checks. 
+## Kalaraq Kalashtar 
+Kalaraq are the natural leaders of the quori, spirits of pride and ambition. Though rarest of the kalashtar spiritual lineages, you depend on your allies as they depend on you. You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). You must also choose one of the following paths.  
+### Kalaraq Commander  
+Inhabiting the leader of the quori, you can extend your psionic abilities to test the willpower of those who oppose you. You can cast Command as an innate occult spell once per day.  
+### Kalaraq Supporter 
+If you are using the stamina variant rules, you gain the Encouraging Words skill feat (even without meeting the level prerequisites) and a +1 circumstance bonus when you use the feat. Otherwise, you gain the following Encouraging Words action. 
+item( 
+# Encouraging Words :a: 
 ## Feat 1
 -
 ; Auditory, Kalashtar, Linguistic, Mental
 **Requirements** The target ally lost hp within the last round
 -
-You give an ally within 30 feet a quick boost of encouragement, helping them recover. Attempt a Diplomacy check. The DC is usually the same as a treat wounds check, though the GM might adjust it based on the circumstances. If you have expert proficiency in Diplomacy, you can instead attempt a DC 20 check to increase the Temporary Hit Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Temporary Hit Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Temporary Hit Points by 25.   
+You give an ally within 30 feet a quick boost of encouragement, helping them recover. Attempt a Diplomacy check. The DC is usually the same as a treat wounds check, though the GM might adjust it based on the circumstances. If you have expert proficiency in Diplomacy, you can instead attempt a DC 20 check to increase the Temporary Hit Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Temporary Hit Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Temporary Hit Points by 25.
 
 No matter the result, the ally is temporarily immune to your Encouraging Words for 1 hour.
 
 **Critical Success** The ally gains 2d8 Temporary Hit Points.
 
 **Success** The ally gains 1d8 Temporary Hit Points.
-
+)
+|
+item(
 **Critical Failure** Your words fall flat, the ally is temporarily immune to Encouraging Words for 1 day.
 
 **Special** The Temporary Hit Points gained through this action can never add up to be greater than the total Hit Points that a creature has lost. If the recipient receives additional healing, the temporary hit points from this source are reduced by an equal amount to maintain this balance.
 )
-=
-note(
-# The Stamina System
+note( 
+# Stamina System
+Encouraging Words is designed for the stamina system. Keep in mind if you are not using the stamina system, that this feat is an approximation of it. Encouraging Words intends to allow you to keep your allies in the fight longer, but without providing a bonus beyond that. It should not allow "overhealing" as other sources of temporary hit points might allow. 
 
-Encouraging Words is designed for the stamina system. Keep in mind if you are not using the stamina system, that this feat is an approximation of it. Encouraging Words intends to allow you to keep your allies in the fight longer, but without providing a bonus beyond that. It should not allow "overhealing" as other sources of temporary hit points might allow.
-
-For example, if your ally has 10 maximum hp and has taken 5 damage: if you succeed on your Encouraging words and roll 8 on 1d8 for temporary hit points, that ally gains 5 temporary hit points. This brings them "back to their maximum hit points", even though some of it is temporary. If they receive 3 points of regular healing after this, they lose 3 temporary hit points as well, maintaining their total of 10. As a result, it is possible to lose all the temporary hit points to healing.
+For example, if your ally has 10 maximum hp and has taken 5 damage: if you succeed on your Encouraging words and roll 8 on 1d8 for temporary hit points, that ally gains 5 temporary hit points. This brings them "back to their maximum hit points", even though some of it is temporary. If they receive 3 points of regular healing after this, they lose 3 temporary hit points as well, maintaining their total of 10. As a result, it is possible to lose all the temporary hit points to healing. 
 )
-
 ## Tsucora Kalashtar
-The tsucora are the quori of classic nightmares, feeding on terror. You become trained in intimidation (or another skill if you were already trained in intimidation) and gain the Intimidating Glare feat. When you use the Demoralize action, you can instead project nightmares into the target's mind. If you do so, Demoralize gains the mental trait rather than the visual trait.
-note(
-For more information on the various quori bonds, see Exploring Eberron pg 41. 
-)
-  
-# Ancestry Feats
-At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Kalashtar, you select from among the following ancestry feats.
+The tsucora are the quori of classic nightmares, feeding on terror. If you have this quori ancestry, you can choose one of the following paths.
+### Tsucora Intimidator
+You become trained in intimidation (or another skill if you were already trained in intimidation) and gain the Intimidating Glare feat. When you use the Demoralize action, you can instead bend the target's mind to inspire fear. If you do so, Demoralize gains the mental trait rather than the visual trait.  
+### Tsucora Emancipator
+You gain the ability to control and dampen the influence fear has over you, and your allies. You can cast Remove Fear as an innate occult spell once per day. 
+note( 
+For more information on the various quori bonds, see Exploring Eberron pg 41.  
+) 
+=
+# Ancestry Feats 
+At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Kalashtar, you select from among the following ancestry feats. 
 
-#### 1st Level
-item(
-# Attuned spirit
-## feat 1
+#### 1st Level 
+item( 
+# Attuned spirit 
+## feat 1 
 -
-; Kalashtar
-A lifetime of experience helps you detect other Kalashtar. When you come within 10 feet of a creature that is connected to or possessed by a quori, the GM rolls a secret Perception check for you to recognize the nature of that creature, even if you didn't spend an action to Seek against that creature.
+; Kalashtar 
+A lifetime of experience helps you detect other Kalashtar. When you come within 10 feet of a creature that is connected to or possessed by a quori, the GM rolls a secret Perception check for you to recognize the nature of that creature, even if you didn't spend an action to Seek against that creature. 
+)
+item( 
+# Distant Link 
+## Feat 1 
+-
+; Kalashtar 
+You can communicate your directed messages with greater power. The range of Link Mind is doubled, and you no longer need to see the creature to target them with link mind. Though you do not need to see them, they cannot be Unnoticed or Undetected to you when you initiate your link mind. 
+)
+item(
+# Deep Sleep 
+## Feat 1 
+-
+; Kalashtar 
+As a Kalashtar, your trance allows you a more robust recovery and resistance to forced sleep. You gain a +2 circumstance bonus to all saving throws against sleep effects and effects that cause or alter dreams. 
+In addition, sleep is more restorative for you. You regain HP equal to your Constitution modifier times double your level instead of just times your level, and you reduce any drained and doomed conditions you have by 2 instead of by 1. 
+)
+item( 
+# Intuitive Link 
+## Feat 1 
+-
+; Kalashtar 
+You can link your mind to others with ease. Mind link loses the concentrate trait, and no longer needs to be sustained. 
 )
 |
 item(
-# Distant Link
-## Feat 1
+# Kalashtar Lore 
+## Feat 1 
 -
-; Kalashtar
-You can communicate your directed messages with greater power. The range of Mind link is doubled, and you no longer need to see the creature to target them with link mind. Though you do not need to see them, they cannot be Unnoticed or Undetected to you when you initiate your link mind.
+; Kalashtar 
+You have learned the ways of Kalashtar culture. You gain the trained proficiency rank in Diplomacy and Occultism. If you are already trained in both Diplomacy or Occultism (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Kalashtar Lore. 
 )
-item(
-# Deep Sleep
-## Feat 1
+item( 
+# Overcome Illusions 
+## Feat 1 
 -
-; Kalashtar
-As a Kalashtar, dreams and sleep are part of your very essence. You gain a +2 circumstance bonus to all saving throws against sleep effects and effects that cause or alter dreams.
-
-In addition, sleep is more restorative for you. You regain HP equal to your Constitution modifier times double your level instead of just times your level, and you reduce any drained and doomed conditions you have by 2 instead of by 1.
+; Kalashtar 
+One of the basic exercises of the Kalashtar is to practice seeing the world in front of you, for what it truly is. You can see through manipulations of reality with greater ease than most. You gain a +2 circumstance bonus to disbelieve illusions. 
 )
-item(
-# Intuitive Link
-## Feat 1
+item( 
+# Psi-Blades :a: 
+## Feat 1 
 -
-; Kalashtar
-You can link your mind to others with ease. Mind link loses the concentrate trait, and no longer needs to be sustained.
+; Kalashtar, Concentration 
+**Frequency** once per 10 minutes 
+-
+You can manifest weapons of the mind that cut just as well as a true blade. You can manifest a psi-blade in a free hand. These simple weapons are attacks that deal 1d4 slashing damage. The blades are in the Knife group and have the agile, finesse, magical, and twin traits. 
+You can choose to dissipate the blades at any time as a free action. 
+) 
+item( 
+# Psi-Shield :a: 
+## Feat 1 
+; Kalashtar 
+-
+You can manifest a shield that would ward off blows. You gain shield as an innate occult cantrip, which is automatically heightened to half your level. In addition, you may use the shield block reaction of your psi-shield on incoming psychic attacks as well as physical attacks. 
 )
-item(
-# Kalashtar Lore
-## Feat 1
+item( 
+# Shadow Dance 
+## Feat 1 
 -
-; Kalashtar
-You have learned the ways of Kalashtar culture. You gain the trained proficiency rank in Diplomacy and Occultism. If you are already trained in both Diplomacy or Occultism (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Kalashtar Lore.
-)
-
-item(
-# Overcome Illusions
-## Feat 1
--
-; Kalashtar
-One of the basic exercises of the Kalashtar is to practice seeing the world in front of you, for what it truly is. You can see through manipulations of reality with greater ease than most. You gain a +2 circumstance bonus to disbelieve illusions.
+; Kalashtar 
+You have practised the art of nimbly dancing through the shadows to remain unnoticed. You gain a +1 circumstance bonus to your acrobatics checks and Stealth checks while concealed. 
 )
 =
+item( 
+# Quori Hunter 
+## Feat 1 
+-
+; Kalashtar 
+You have dedicated yourself to a more direct form of problem resolution against the foes of the path of light. You gain a +1 circumstance bonus to saving throws against quori and the inspired, and you gain a +1 circumstance bonus to damage with weapons and unarmed attacks. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. 
+)
+#### 5th Level 
+item( 
+# Broad communications 
+## Feat 5 
+-
+; Kalashtar 
+You have honed your telepathic abilities, allowing you to communicate with more targets at once. Your mind link can target up to 2 creatures at once, and you can have two active telepathic communications at once. 
+)
+item( 
+# Channel Fear 
+## Feat 5 
+-
+; Kalashtar 
+**Prerequisites** Tsucora Kalashtar heritage 
+-
+No matter the confidence a creature projects, everyone has nightmares. You can manipulate the subtle fears that haunt a creature's dreams. You can cast Fear once per day as a 1st-level occult innate spell. 
+)
 item(
-# Psi-Blades :a:
-## Feat 1
+# Children of the Mind 
+## Feat 5 
 -
-; Kalashtar, Concentration
-**Frequency** once per 10 minutes
+; Kalashtar 
+You are in tune with your mind, and the spirit within. Others who would seek to control you seem to need to struggle against an otherworldly force. You gain a +1 circumstance bonus to Will saving throws against mental effects. If you roll a success on your saving throw against a mental effect that would make you controlled, you get a critical success instead. 
+)
+item( 
+# Enrage :a: 
+## Feat 5 
 -
-You can manifest weapons of the mind that cut just as well as a true blade. You can manifest a psi-blade in a free hand. These simple weapons are attacks that deal 1d4 slashing damage. The blades are in the Knife group and have the agile, finesse, magical, and twin traits.
+; Kalashtar, Emotion, Mental 
+**Prerequisites** Du'ulora Kalashtar heritage 
 
-You can choose to dissipate the blades at any time as a free action.
-)
-item(
-# Psi-Shield :a:
-## Feat 1
-; Kalashtar
+**Frequency** once per hour 
 -
-You can manifest a shield that would ward off blows. You gain shield as an innate occult cantrip, which is automatically heightened to half your level. In addition, you may use the shield block reaction of your psi-shield on incoming psychic attacks as well as physical attacks.
-)
-item(
-# Shadow Dance
-## Feat 1
--
-; Kalashtar
-You have practised the art of nimbly dancing through the shadows to remain unnoticed. You gain a +1 circumstance bonus to your acrobatics checks and Stealth checks while concealed.
-)
-item(
-# Quori Hunter
-## Feat 1
--
-; Kalashtar
-You have dedicated yourself to a more direct form of problem resolution against the foes of the path of light. You gain a +1 circumstance bonus to saving throws against quori and the inspired, and you gain a +1 circumstance bonus to damage with weapons and unarmed attacks. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice.
-)
-#### 5th Level
-item(
-# Broad communications
-## Feat 5
--
-; Kalashtar
-You have honed your telepathic abilities, allowing you to communicate with more targets at once. Your mind link can target up to 2 creatures at once, and you can have two active telepathic communications at once.
+As a creature succumbs to its feelings of anger and hate, your control over them grows. Choose a hostile foe within 30 feet, that creature must make a Will save against your innate occult DC. 
 )
 |
 item(
-# Channel Fear
-## Feat 5
--
-; Kalashtar
-**Prerequisites** Tsucora Kalashtar heritage
--
-No matter the confidence a creature projects, everyone has nightmares. You can manipulate the subtle fears that haunt a creature's dreams. You can cast Fear once per day as a 1st-level occult innate spell.
-)
-item(
-# Children of the Mind
-## Feat 5
--
-; Kalashtar
-You are in tune with your mind, and the spirit within. Others who would seek to control you seem to need to struggle against an otherworldly force. You gain a +1 circumstance bonus to Will saving throws against mental effects. If you roll a success on your saving throw against a mental effect that would make you controlled, you get a critical success instead.
-)
-item(
-# Enrage :a:
-## Feat 5
--
-; Kalashtar, Emotion, Mental
-**Prerequisites** Du'ulora Kalashtar heritage
-
-**Frequency** once per hour
--
-As a creature succumbs to its feelings of anger and hate, your control over them grows. Choose a hostile foe within 30 feet, that creature must make a Will save against your innate occult DC.
-
 **Critical Success** The creature resists your taunt.
 
 **Success**  For its next turn the creature will prefer to target you if it is a reasonable course of action.
 
-**Failure** For its next turn if the creature can target you but chooses to target something else, it becomes stupefied 1 until the start of its next turn.
+**Failure** For its next turn if the creature can target you but chooses to target something else, it becomes stupefied 1 until the start of its next turn. 
 
-**Critical Failure** For its next turn if the creature can target you, it cannot willingly target other creatures. If it cannot target you, it becomes stupefied 2 until the start of its next turn.
+**Critical Failure** For its next turn if the creature can target you, it cannot willingly target other creatures. If it cannot target you, it becomes stupefied 2 until the start of its next turn. 
 )
 item(
-# Manipulate Desires
+# Manipulate Desires 
 ## Feat 5
 -
 ; Kalashtar
-**Prerequisites** Hashalaq Kalashtar heritage
+**Prerequisites** Hashalaq Kalashtar heritage 
 -
-Like the quori that guides you, you have learned how to manipulate other creatures based on their desires. You can cast charm once per day as a 1st-level occult innate spell.
+Like the quori that guides you, you have learned how to manipulate other creatures based on their desires. You can cast charm once per day as a 1st-level occult innate spell. 
+) 
+item( 
+# Kalaraq Leader 
+## Feat 5 
+-
+; Kalashtar 
+**Prerequisites** Kalaraq Kalashtar heritage 
+-
+The Kalaraq are the natural leaders of the Quori and can guide their followers to stand resolute. When you link your mind to at least one ally, you can choose one of them to gain a +1 circumstance bonus to AC and saving throws. 
+)
+item(
+# Sense Alignment 
+## Feat 5
+-
+; Uncommon, Kalashtar 
+You can pick up on the auras of other creatures, letting you foresee potential threats and allies. You can cast Detect Alignment once per day as an innate occult spell. At 7th level, this spell is heightened to 2nd level. 
+)
+#### 9th Level 
+item( 
+# Feedback 
+## Feat 9 
+-
+; Kalashtar 
+You are a master of your mind and have used that mastery to turn it into a minefield for everyone else. You can cast Animus Mine as an innate 2nd level spell once per day. At 13th level, this spell is heightened to 3rd level, and at 17th level, this spell is heightened to 4th level. 
+Whenever you place any Animus Mine on yourself, you can suppress the effects of the mine for 1 round as a free action to allow someone to safely use a mental effect on you. 
 )
 =
-item(
-# Kalaraq Leader
-## Feat 5
+item( 
+# Mental Fortress 
+## Feat 9 
 -
-; Kalashtar
-**Prerequisites** Kalaraq Kalashtar heritage
--
-The Kalaraq are the natural leaders of the Quori and can guide their followers to stand resolute. When you link your mind to at least one ally, you can choose one of them to gain a +1 circumstance bonus to AC and saving throws.
+; Kalashtar 
+You've developed your mental fortitude against the pain of psychic attacks, deflecting the worst of the damage. Gain psychic resistance equal to half your level (minimum 1). 
 )
 item(
-# Sense Alignment
-## Feat 5
+# Psi-Sense 
+## Feat 9 
 -
-; Uncommon, Kalashtar
-You can pick up on the auras of other creatures, letting you foresee potential threats and allies. You can cast Detect Alignment once per day as an innate occult spell. At 7th level, this spell is heightened to 2nd level.
+; Kalashtar 
+With a sensation that something is wrong, you can detect dangers before they happen, giving you a slight advantage to react. You gain a +1 status bonus to your initiative rolls. 
 )
-#### 9th Level
 item(
-# Feedback
-## Feat 9
+# Thoughtsinger :a: 
+## Feat 9 
 -
-; Kalashtar
-You are a master of your own mind, and have used that master to turn it into a minefield for everyone else. You can cast Animus Mine as an innate 2nd level spell once per day. At 13th level, this spell is heightened to 3rd level, and at 17th level, this spell is heightened to 4th level.
+; Kalashtar, Mental 
+**Target** One creature with which you have linked your mind 
+-
+You are in sync with your companions' mental state and can calm their minds to boost their focus when they need it most. When you use this action, it counts as a preparation to help for the aid reaction. You may use your diplomacy or occultism to encourage your ally for the aid bonus. No matter the result, the target then becomes immune to Thoughtsinger for 1 hour. 
+)
+item( 
+# Quori Focus :f: 
+## Feat 9 
+-
+; Kalashtar 
+**Frequency** once per day 
 
-Whenever you place any Animus Mine on yourself, you can suppress the effects of the mine for 1 round as a free action to allow someone to safely use a mental effect on you.
-)
-item(
-# Mental Fortress
-## Feat 9
+**Trigger** Your turn begins. 
 -
-; Kalashtar
-You've developed your mental fortitude against the pain of psychic attacks, deflecting the worst of the damage. Gain psychic resistance equal to half your level (minimum 1).
+Your quori spirit sustains the powers that you project into the world. You immediately gain the effects of a Sustain a Spell action to extend the duration of one of your active effects. 
 )
+#### 13th Level 
 item(
-# Psi-Sense
-## Feat 9
+# Distributed communications 
+## Feat 13 
 -
-; Kalashtar
-With a sensation that something is wrong, you can detect dangers before they happen, giving you a slight advantage to react. You gain a +1 status bonus to your initiative rolls.
+; Kalashtar 
+**Prerequisite** Broad communications 
+-
+You have perfected your telepathic communication abilities and can maintain conversations with ease. Your link mind can target up to 6 creatures at once. While creatures are linked and in range, these creatures can converse not only with you but with each other target of the mind link. If the targets of mind link are directly communicating with each other they must share a language.  
 )
 |
-item(
-# Thoughtsinger :a:
-## Feat 9
--
-; Kalashtar, Mental
-**Target** One creature with which you have linked your mind
--
-You are in sync with your companions' mental state and can calm their minds to boost their focus when they need it most. When you use this action, it counts as a preparation to help for the aid reaction. You may use your diplomacy or occultism to encourage your ally for the aid bonus. No matter the result, the target then becomes immune to Thoughtsinger for 1 hour.
-)
-item(
-# Quori Focus :f:
-## Feat 9
--
-; Kalashtar
-**Frequency** once per day
-
-**Trigger** Your turn begins.
--
-Your quori spirit sustains the powers that you project into the world. You immediately gain the effects of a Sustain a Spell action to extend the duration of one of your active effects.
-)
-#### 13th Level
-item(
-# Distributed communications
-## Feat 13
--
-; Kalashtar
-**Prerequisite** Broad communications
--
-You have perfected your telepathic communication abilities and can maintain conversations with ease. Your link mind can target up to 6 creatures at once. While creatures are linked and in range, these creatures can converse not only with you but with each other target of the mind link. If the targets of mind link are directly communicating with each other they must share a language. 
-)
-item(
+item( 
 # Aura Sense
 ## Feat 13
 -
-; Kalashtar
-You can feel the creatures of the world around you even before your other senses pick up on it. You gain a special vague sense to detect creatures' auras within 60ft. When a creature that has not taken special precautions against scrying or to mask its aura comes within 60ft of you, they are no longer unnoticed by you. This sense is disrupted by any effects that would also disrupt or prevent scrying effects.
+; Kalashtar 
+You can feel the creatures of the world around you even before your other senses pick up on it. You gain a special vague sense to detect creatures' auras within 60ft. When a creature that has not taken special precautions against scrying or to mask its aura comes within 60ft of you, they are no longer unnoticed by you. This sense is disrupted by any effects that would also disrupt or prevent scrying effects. 
 )
-=
 item(
 # Mind Bender
 ## Feat 13
 -
-; Kalashtar, Mental
-When you land a melee strike, you can manifest a pulse of energy that warps the target's mind. You can add +2 psychic damage to your attacks. If this melee strike reduces a creature to 0 hit points, you can choose to make the blow non-lethal by using the pulse of psychic energy to ward off the mortal wounds of the strike. You do not take any penalty from using a weapon without the non-lethal trait to do so.
+; Kalashtar, Mental 
+When you land a melee strike, you can manifest a pulse of energy that warps the target's mind. You can add +2 psychic damage to your attacks. If this melee strike reduces a creature to 0 hit points, you can choose to make the blow non-lethal by using the pulse of psychic energy to ward off the mortal wounds of the strike. You do not take any penalty for using a weapon without the non-lethal trait to do so. 
 )
-#### 17th Level
+#### 17th Level 
 item(
-# Speaker for the dreamers
-## Feat 17
+# Speaker for the dreamers 
+## Feat 17 
 -
-; Kalashtar
-Your understanding of the path of light and the realm of Dal Quor has become such that you can use them to your advantage - even without exposing yourself to the dark. You can cast Dream Council or Possession once per day as occult innate spells.
+; Kalashtar 
+Your understanding of the path of light and the realm of Dal Quor has become such that you can use them to your advantage - even without exposing yourself to the dark. You can cast Dream Council or Possession once per day as occult innate spells. 
+)
+=
+# Equipment ((+Equipment)) 
+-
+Kalashtar may acquire and use the following equipment. 
+
+item( 
+# Psionic Focus 
+## Item 3 
+-
+; Kalashtar, Invested, Magical 
+**Usage** worn 
+-
+This item is a small amulet manufactured by the Kalashtar to focus their psionic powers. You may apply fundamental weapon runes to this amulet. Any runes applied to this amulet also manifest on the psi-blades manifested by your kalashtar feat.  
 )
   
-
-# Equipment ((+Equipment))
--
-Kalashtar may acquire and use the following equipment.
-
-item(
-# Psionic Focus
-## Item 3
--
-; Kalashtar, Invested, Magical
-**Usage** worn
--
-This item is a small amulet manufactured by the Kalashtar to focus their psionic powers. You may apply fundamental weapon runes to this amulet. Any runes applied to this amulet also manifest on the psi-blades manifested by your kalashtar feat. 
-)
-
-[7] Eberron Rising from the Last War. Keith Baker. pg 29
-[8] Exploring Eberron. Keith Baker. pg 41
+  
+  
+  
+  
+  
+  
+[7] Eberron Rising from the Last War. Keith Baker. pg 29 
+[8] Exploring Eberron. Keith Baker. pg 41 
