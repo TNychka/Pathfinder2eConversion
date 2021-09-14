@@ -6,17 +6,32 @@ Pathfinder's Guide to Eberron
 )
 head(
 ## Kalashtar ((+Kalashtar))
+
 Kalashtar are born with a bond to an otherworldly being. They have memories of lives never lived, visions of combat with fiends that they never fought, and the sense of an endless struggle against darkness. For all the pain and suffering in the world, the Kalashtar know that there is a path to light.  Some faceless enemies would hunt all the Kalashtar down and would see their bloodlines eradicated. The Kalashtar's path to light is a dangerous one, as death awaits in the shadows.
 -
 )
-The kalashtar are a compound people, created from the union of humanity and renegade spirits from the plane of dreams — spirits called quori. Kalashtar are often seen as wise, spiritual people with great compassion for others. There is an unmistakable alien quality to the kalashtar, though, as they are haunted by the conflicts of their otherworldly spirits.
 
-Every kalashtar has a connection to a spirit of light, a bond shared by other members of their bloodline. Kalashtar can’t directly communicate with their quori spirits. Rather, they might experience this relationship as a sense of instinct and inspiration, drawing on the memories of the spirit when they dream. This connection grants kalashtar minor psionic abilities, as well as protection from psychic attacks. All of these quori dream spirits are virtuous, but some are warriors and others are more contemplative. Typically, a kalashtar knows the name and nature of their spirit, but some may know nothing of their spirit or the source of their psychic gifts, such as an orphan kalashtar raised among strangers. [7]
 
+The Kalashtar, throughout Khorvaire, are viewed as a deeply spiritual people with an other-worldly quality that is hard for many to place. 
+
+Their nature, distinct from humans, arises from the origin of the Kalashtar themselves - they are creatures born from the willing union between humans and spirits from the Plane of Dreams, Dal Quor. To understand the Kalashtar, the cosmic nature of the Plane of Dreams and the history of the quori spirits also must be understood. 
+
+The plane of Dreams is subject to periods of Light and Dark, each destroyed to be reborn into the other when the cycle is completed. The current phase of Dal Quor is that of the Dreaming Dark, and it was from this that the quori of the Kalashtar were first formed. Dal Quor is stilled ruled by the Dreaming Dark, whose aim is to extend their cycle forever and block out the Light to come. Centuries ago, a handful of spirits rejected these machinations, and were chased across the dreamscape to be consumed and reclaimed instead. 
+
+Only sixty-seven spirits escaped into Eberron, and found sanctuary in the minds and bodies of Sarlonan monks. These monks are the ancestors of the modern day Kalashtar. The quori spirits live through the bloodlines of their first hosts, being inherited between generations. For a bloodline to be irradicated, it means the loss of the spirit, and its return into Dal Quor to be reborn and molded to the Dreaming Dark. The existence of the Kalashtar is protest to the evil of the Dreaming Dark and it's goals. Is your quori one of the original sixty-seven escaped spirits, or has it recently abandoned the Dreaming Dark, having you or your parents as its first hosts? 
+
+No longer human after the union to the Quori, the Kalashtar experience the world differently than other creatres. Their bonded nature enables an aptitude for psyionics and a greater resistance against psyionic attacks. Not only this, but the Kalashtar have an ability to greater influence the emotional domain of their once fiendish quori. The quori represent concepts of nightmares - pride, rage, aggression, deceit - and these concepts were once the source of their power, before turning away from the Dreaming Dark. Now embedded into a Kalashtar, the quori provide their host with a greater understanding of what these emotions are. Coupled with their psyionics, Kalashtar have the ability to influence the emotional states of their enemies, allies, or even themselves, temporarily. While apititude in using these skills might vary per Kalashtar, all have the ability to develop and grow their powers through rigorous training and meditation. 
+
+Despite the bond that defines them, and the gifts it provides, the Kalashtar cannot speak to their quori directly – instead, the relationship is experienced as a sense of inspiration and instinct. How does your Kalashtar view the demense of their quori? Do they feel certain emotions more intensely then others, or unintentionally inspire those around them to feel or fight back against fear, cruelty, and malice?  
+
+Notably, Kalashtar are also unable enter Dal Quor when they sleep, and instead of dreaming experience a trance. This trance enables them to relive moments belonging to the ancestors of their Kalashtar line, and even the memories of their quori before it bonded. The adage of the wise Kalashtar often comes from the fact that in their singular life they hold the experiences of many more. 
+
+Throughout the centuries, the machinations of the Dreaming Dark have not yielded, and the evil spirits of Dal Quor still aim to dampen the coming of the Light. For this reason, agents of the Dreaming Dark exist in Khorvaire to eradicate the lineages housing the escapee quori. On the continent of Sarlonna, the Dreaming Dark has taken hostage humans and posed as Inspired, spiritual guides that now lead the Riedran nation. Is your Kalashtar character aware of the Dreaming Dark and its connection to Sarlona, or do they exist unaware of the darkness hunting for them? 
+|
 ## You might...
-- Try to understand the motives and feelings of your allies, and even your enemies.
-- Encourage others to dream a little bigger, and set lofty goals to achieve. 
-- Apply dream logic to mundane situations.
+- Aim to understand the emotions of those around you, even if the situation doesn't call for it.
+- Very rarely consider the limitations you may encounter as you draw up your goals and aspirations.
+- Believe that the rules of reality can be bent like those in dreams.
 
 ## Others Probably...
 - Think you're human, though you move and act in a slightly otherworldly way.
@@ -25,15 +40,18 @@ Every kalashtar has a connection to a spirit of light, a bond shared by other me
 
 ## Physical Description...
 Kalashtar appear human, but their spiritual connection affects them in a variety of ways. Kalashtar have symmetrical, slightly angular features, and their
-|
+
 eyes often glow when they are focused or expressing strong emotions. [7]
 ## Society...
 There are three main kalashtar societies. 
 
-The Adaran kalashtar were born in Sarlona, in the distant land of Adar. Today, the Empire of Riedra dominates Sarlona, and imperial forces endlessly siege Adar. The monks and priests of Adar believe that the war against the Inspired and il-Lashtavar won’t be won with weapons; instead, prayer and guided meditation will ultimately shift the balance from darkness to light. Adaran kalashtar rarely take direct action without reason. Adaran kalashtar are ascetic, disciplined, and focused on the Path of Light. They are taught to inspire those who live in fear and enlighten those lost to darkness.
+The Adaran Kalashtar live lives most similar to the first monks that opened their arms to the refugee quori spirits. They still live on the continnet Sarlona, but belong to the land of Adar. The Empire of Riedra, ruled by agents of the Dreaming Dark, currently dominates Sarlona, and imperial forces endlessly siege Adar. The monks and priests of Adar believe that the war against the Inspired and the Dreaming Dark won’t be won with weapons; instead, prayer and guided meditation will ultimately shift the balance from darkness to light.They believe the Age of Light will come to Dal Quor, and through their passive actions they sustain their quori and protect it from returning to the Dreaming Dark. Adaran kalashtar rarely take direct action without reason. They are also ascetic, disciplined, and focused on the Path of Light. They are taught to inspire those who live in fear and enlighten those lost to darkness. If your Kalashtar belongs to Adar, what brings them to Khorvaire?
 
-The khorvairian kalashtar exist in communities of several major cities of the Five Nations, including the Overlook district in Sharn and Whitewalls in Fairhaven. They prefer to stay close to one another, both to practice their shared traditions and to stand together against any threats posed by the Dreaming Dark. They are familiar with the Path of Light and other kalashtar customs. But there’s no Riedran army at the gates; they know the Dreaming Dark is a threat, but it’s a ghost in the shadows. These kalashtar simply seek to spread light through their daily actions, such as showing kindness and compassion or mediating disputes. 
-On the other hand, some of the kalashtar of Khorvaire have embraced a grim path in the battle against darkness. The Shadow Watchers don’t believe that evil can be fought merely with kindness and prayer. Members of this order seek to identify sources of corruption and ruthlessly eliminate them. While a Shadow Watcher’s focus is on agents of the Dreaming Dark, they can pursue any force of evil, supernatural or otherwise. [8]
+The Khorvairian kalashtar exist in communities of several major cities of the Five Nations, including the Overlook district in Sharn and Whitewalls in Fairhaven. They prefer to stay close to one another, both to practice their shared traditions and to stand together against any threats posed by the Dreaming Dark. They are familiar with the Path of Light and other kalashtar customs, but there’s no Riedran army at the gates; they know the Dreaming Dark is a threat, but it’s a ghost in the shadows. These kalashtar believe that the Age of Light will be supported through their daily actions, such as showing kindness and compassion or mediating disputes. 
+
+On the other hand, some of the kalashtar of Khorvaire have embraced a grim path in the battle against darkness. The Shadow Watchers don’t believe that evil can be fought merely with kindness and prayer. Members of this order seek to identify sources of corruption and ruthlessly eliminate them. They believe the Age of Light will come when the Darkness is defeated. As such, a Shadow Watcher’s focus is typically on agents of the Dreaming Dark, althoughthey can pursue any force of evil, supernatural or otherwise. [8]
+
+However, your kalashtar might not belong to a community with others of their kind at all. An orphaned kalashtar without spiritual guidance might not be able to understand their trances, the way their quori influences their emotions, or the manifestations of their psyionic abilities. If your Kalashtar does not know fully what they are, what is their relationship with their unique abilities?
 =
 right(
 ## Hit Points
@@ -57,7 +75,10 @@ You gain the link mind cantrip as an innate occult spell that you can cast at wi
 )
 
 ## Alignment and Religion...
-While kalashtar can be evil - the communities they are raised in and the light quori that has selected them inclines them towards good. However lofty their goals are, they will achieve their motivations in any number of ways, neither law nor chaos has strong sway over the kalashtar.
+All quori spirits that inhabit the Kalashtar were born of the Dreaming Dark – they represent nightmare qualities, those of rage, deceit, and pride. However, this does not lend Kalashtar to fall easily into evil alignments. These connections can instead result in Kalashtar gaining a greater sense of empathy: understanding the pains of fear, the hubris of pride, and the folly of deceit. 
+
+Kalashar, just like the humans they originated from, can have an evil alignment. However, those raised with an understanding of their quori tend to develop positive relationships with the darkness their spirit may represent. 
+However lofty their goals are, they will achieve their motivations in any number of ways, so neither law nor chaos has strong sway over the kalashtar.
 
 Most kalashtar are devoted to the Path of Light, and though its faithful worship no gods, the faith itself can be a source of divine magic.
 
@@ -90,10 +111,14 @@ You may only have one active Link Mind in this way at a time.
 )
   
 # Kalashtar Heritages
-The abilities and the personalities of kalashtar are heavily influenced by their quori spirit. Choose one of the following kalashtar heritages at 1st level.
+The abilities and the personalities of kalashtar are heavily influenced by their quori spirit. Recall that the fiendish heritage of each spirit can be used either to strengthen the Light or enable the Darkness. Choose one of the following kalashtar heritages at 1st level - what does your choice represent about your characters relationship with their spirits?
 
 ## Du'ulora Kalashtar
-The fiendish du'ulora spirit drives your rage and aggression. How you channel this spirit's energy in your daily life is up to you, but you have developed the ability to unleash it on your enemies. You gain the Phantom Pain spell which you can cast as an occult innate spell once per day.
+The fiendish du'ulora spirit inhabits your bloodline, and is one that feeds on rage and aggression. You choose one of the following paths. 
+### Du'ulora Damager 
+You gain the Phantom Pain spell which you can cast as an occult innate spell once per day.
+### Du'ulora Influencer 
+You gain the ability to cast either Bane on your enemies or Bless upon your allies; you blind your enemies with rage and increase the adrenaline and focus of those you support. You cast either one of the spells only once per day, as an occult innate spell.  
 =
 **Special** If at any point you gain access to the Moment of Clarity feat through class or archetype, you automatically gain it from this heritage.
 
@@ -105,9 +130,13 @@ You become trained in Diplomacy (or another skill if you were already trained in
 You become trained in Deception (or another skill if you were already trained in Deception). You gain the Lie to Me skill feat. In addition, you gain a +2 circumstance bonus against any attempt to lie to you.
 ### Hashalaq Deciever 
 You become trained in Deception (or another skill if you were already trained in Deception). You gain the Charming Liar skill feat. In addition, you gain a +1 circumstance bonus to your deception checks.
-## Kalaraq Kalashtar
-Kalaraq are the natural leaders of the quori, spirits of pride and ambition. Though rarest of the kalashtar spiritual lineages, you depend on your allies as they depend on you. You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). 
 
+## Kalaraq Kalashtar
+Kalaraq are the natural leaders of the quori, spirits of pride and ambition. Though rarest of the kalashtar spiritual lineages, you depend on your allies as they depend on you. You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). You must also choose one of the following paths. 
+
+### Kalaraq Commander 
+Inhabiting the leader of the quori, you can extend your psyionic abilities to test the willpower of those who oppose you. You can cast Command as an innate occult spell once per day. 
+### Kalaraq Supporter
 If you are using the stamina variant rules, you gain the Encouraging Words skill feat (even without meeting the level prerequisites) and a +1 circumstance bonus when you use the feat.
 
 Otherwise, you gain the following action.
@@ -140,11 +169,15 @@ For example, if your ally has 10 maximum hp and has taken 5 damage: if you succe
 )
 
 ## Tsucora Kalashtar
-The tsucora are the quori of classic nightmares, feeding on terror. You become trained in intimidation (or another skill if you were already trained in intimidation) and gain the Intimidating Glare feat. When you use the Demoralize action, you can instead project nightmares into the target's mind. If you do so, Demoralize gains the mental trait rather than the visual trait.
+The tsucora are the quori of classic nightmares, feeding on terror. If you have this quori ancestry, you can choose one of the following paths. 
+
+### Tsucora Intimidator
+You become trained in intimidation (or another skill if you were already trained in intimidation) and gain the Intimidating Glare feat. When you use the Demoralize action, you can instead project nightmares into the target's mind. If you do so, Demoralize gains the mental trait rather than the visual trait. 
+### Tsucora Emancipator 
+You gain the ability to control and dampen the influence fear has over you, and your allies. As an action, you can reduce the frightened condition a creature is subject to. 
 note(
 For more information on the various quori bonds, see Exploring Eberron pg 41. 
 )
-  
 # Ancestry Feats
 At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Kalashtar, you select from among the following ancestry feats.
 
