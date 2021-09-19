@@ -3190,7 +3190,7 @@ As a member of the Mark of Detection, you may select also select from among the 
 /
 item(
 # Cantrip of Detection
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Detection
 **Cast** see replicated spell; dragonmark, somatic
@@ -3304,7 +3304,7 @@ As a member of the Mark of Finding, you may select also select from among the fo
 /
 item(
 # Cantrip of Finding
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Finding
 **Cast** see replicated spell; dragonmark, somatic
@@ -3414,7 +3414,7 @@ As a member of the Mark of Handling, you may select also select from among the f
 /
 item(
 # Cantrip of the Handler
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Handling
 **Cast** see replicated spell; dragonmark, somatic
@@ -3567,7 +3567,7 @@ Level | Spell
 As a member of the Mark of Handling, you may select also select from among the following focus spells.
 item(
 # Guidance of the Healer
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Healing, Necromancy
 **Cast** :aa: dragonmark, somatic
@@ -3679,7 +3679,7 @@ As a member of the Mark of Hospitality, you may select also select from among th
 /
 item(
 # Homely Touch
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Hospitality
 **Cast** see replicated spell; dragonmark, somatic
@@ -3826,7 +3826,7 @@ You call upon your dragonmark's power to drive your creative crafting powers. Wh
 |
 item(
 # Cantrip of the Crafter
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Crafting
 **Cast** see replicated spell; dragonmark, somatic
@@ -3975,7 +3975,7 @@ As a member of the Mark of Passage, you may select also select from among the fo
 /
 item(
 # Cantrip of the Courier
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Conjuration, Dragonmark, Mark of Passage
 **Cast** see replicated spell; dragonmark, somatic
@@ -4096,7 +4096,7 @@ As a member of the Mark of Scribing, you may select also select from among the f
 /
 item(
 # Cantrip of the Messenger
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Scribing, Illusion
 **Cast** see replicated spell; dragonmark, somatic
@@ -4220,7 +4220,7 @@ As a member of the Mark of Sentinel, you may select also select from among the f
 /
 item(
 # Cantrip of the Sentinel
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Sentinel, Abjuration
 **Cast** :aa: dragonmark, somatic
@@ -4353,7 +4353,7 @@ You blend yourself with shadow, losing visual definition. For the duration, whil
 |
 item(
 # Cantrip of the Shadow
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Shadow<null>
 **Cast** see replicated spell; dragonmark, somatic
@@ -4444,7 +4444,7 @@ As a member of the Mark of Storm, you may select also select from among the foll
 /
 item(
 # Cantrip of the Storm
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Storm, Conjuration
 **Cast** see replicated spell; dragonmark, somatic
@@ -4568,7 +4568,7 @@ As a member of the Mark of Warding, you may select also select from among the fo
 /
 item(
 # Cantrip of the Guard
-## Cantrip 2
+## Cantrip 1
 -
 ; Cantrip, Dragonmark, Mark of Warding, Abjuration
 **Cast** :aa: dragonmark, somatic
@@ -4752,7 +4752,7 @@ item(
 )
 item(
 # Aberrant Cantrip
-## Cantrip 2
+## Cantrip 1
 -
 ; Aberrant Mark, Cantrip, Dragonmark
 **Cast** see replicated spell; dragonmark, somatic
@@ -4914,7 +4914,7 @@ item(
 The dragonmarked houses have their own laws, some older than Galifar. An heir who violates the laws of a house is made an excoriate: stripped of the house name and forbidden from drawing on house resources. An excoriate must surrender their signet ring, any other property that can be claimed as a gift of the house, and the name of both house and family. Their likeness is circulated through the major enclaves of the house. Heirs of their house are forbidden to provide them with aid or succour, and the other houses typically shun excoriates of any line. Excoriation is a rare punishment but is often a fate worse than prison for a dragonmarked heir. 
     Choose three ability boosts. One must be to Intelligence or Wisdom, and two are free ability boosts.
     You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
-Any dragonmarked member of your house who knows of your status is automatically unfriendly toward you, as are most members of other dragonmarked houses who are aware that you are a excoriate. You are typically refused service in establishments owned by your house or its guilds. Members of your house are forbidden from providing you with any sort of aid or support. You may not use
+Any dragonmarked member of your house who knows of your status is automatically unfriendly toward you, as are most members of other dragonmarked houses who are aware that you are a excoriate. You are typically refused service in establishments owned by your house or its guilds. Members of your house are forbidden from providing you with any sort of aid or support. You may not use 
 )
 |
 item(
@@ -6191,13 +6191,25 @@ This light cloured wand ending in a feather cleans with ease.
 **Activate** :aa: (Cast a Spell); **Frequency** Unlimited **Effect** Clean an area within 10 feet of you that is no larger than 1 cubic foot, removing dirt and grime.
 )
 item(
-# Lamplighter
+# Flashwand
 ## Item 1
 -
 ; Common, Magical
 **Usage** held in 1 hand; **Bulk** L
 
 **Price** 3 gp
+-
+This dark brown wand ends in a small dragonshard crystal which can eminate light.
+**Activate** :aa: (Cast a Spell); **Frequency** Unlimited **Effect** You can cast a bright light which eminates from the wand in a 30-foot radius, and creates an additional 30-feet of dim light beyond that. You can dismiss this effect.
+)
+item(
+# Lamplighter
+## Item 1
+-
+; Common, Magical
+**Usage** held in 1 hand; **Bulk** L
+
+**Price** 2 gp
 -
 This dark black wand ending in a copper tip lights small flames.
 **Activate** :aa: (Cast a Spell); **Frequency** Unlimited **Effect** You can light or snuff out a candle, torch, small campfire, or similar source of flame within 10 feet of you.
@@ -6331,7 +6343,7 @@ item(
 ; Common, Magical
 **Usage** held in 1 hand; **Bulk** L
 
-**Price** 4 gp
+**Price** 2 gp
 -
 The spark is a small oval stone engraved with Fernian glyphs.
 **Activate** :a: Interact; **Frequency** Unlimited **Effect** You can light or snuff out a candle, torch, small campfire, or similar source of flame that you touch with the stone.
