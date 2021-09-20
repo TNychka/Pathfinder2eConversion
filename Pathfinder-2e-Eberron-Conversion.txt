@@ -4752,7 +4752,7 @@ item(
 )
 item(
 # Aberrant Cantrip
-## Cantrip 1
+## Cantrip 1 
 -
 ; Aberrant Mark, Cantrip, Dragonmark
 **Cast** see replicated spell; dragonmark, somatic

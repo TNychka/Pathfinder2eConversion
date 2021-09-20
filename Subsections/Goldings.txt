@@ -1,0 +1,15 @@
+item(
+# Goldings
+## Item 0
+-
+; Alchemical, Consumable, Drug, Inhaled, Poison
+**Price** 10 cp for a pack of 10
+
+**Usage** held in 1 hand; **Bulk** L
+
+**Activate** :a: interact
+-
+Goldings are a common product of House Ghallanda. They consist of a talenta plains leaf wrapped in paper, which is lit and smoked.
+You can't recover from the sicked condition from alcohol while affected. If you fail a saving throw against goldings other than the initial saves, the affliction's stage doesn't increase; the only way to increase the stage of golding's affliction is to smoke more.
+**Saving Throw** DC 10 Fortitude; **Onset** 10 minutes; **Stage 1** +1 item bonus to skill checks (10 minutes). **Stage 2** +1 item bonus to skill checks, sickened 1 (10 minutes). **Stage 3** sickened 1 (10 minutes).
+)
