@@ -1,0 +1,1366 @@
+watermark (
+Version 0.18.4
+)
+title (
+Pathfinders' Guide to Eberron 
+)
+head(
+# Weapons, Armour, and Adventuring Gear ((Weapons, Armour, and Adventuring Gear))
+The world of Eberron is built on both arcane and mundane innovation, much of it powered by House Cannith. The following equipment has been developed in Eberron, whether by a specific culture, ancient civilization, or by the research funds of a nation's war machine.
+-
+)
+# Weapons and Armour
+The following weapons and armour are available in Eberron.
+##### Table 6-1: Armour ((+Armour))
+Light Armour | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group  | Armour Traits
+---         | :---: | :---:    | :---:   | :---:         | :---:         | :---:    | :---:| :---:  | :---:
+Leafweave   | 4 gp  | +1      | +4      | -1            | -             | 10       | 1    | -  | Flexible, Primal
+Darkleaf Breastplate | 6 gp | +2 | +3    | -1            | -             | 12       | 1    | - | Flexible, Primal
+
+Medium Armour | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group | Armour Traits
+---         | :---: | :---:    | :---:   | :---:         | :---:         | :---:    | :---:| :---:  | :---:
+Darkleaf branded mail | 10 gp | +3 | +2   | -2            | -5ft          | 14      | 2     | Composite | Flexible, Primal
+/
+
+##### Table 6-2: Melee Weapons ((+Melee Weapons))
+Uncommon Martial Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
+--- | :---: | :---: | :---: | :---: | :---:
+Boomerang, Talenta | 4 sp | 1d4 B | L | 1 | Boomerang | Agile, Finesse, Halfling, Returning, Thrown 20ft Nonlethal
+Boomerang, Xen'drik | 8 sp | 1d4 S | L | 1 | Boomerang | Agile, Finesse, Drow, Returning, Thrown 20ft
+Sharrash | 2 gp | 1d6 S | 1 | 2 | Polearm | Reach, Finesse, Halfling, Trip
+Tangat | 4 gp | 1d6 S | 1 | 1 | Sword | Finesse, Forceful, Halfling, Sweep
+
+Uncommon Advanced  Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
+--- | :---: | :---: | :---: | :---: | :---:
+Double-Bladed Scimitar | 10 gp | 1d6 S | 1 | 2 | Sword | Backswing, Dual, Elf, Forceful 
+Myrnaxe<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Axehead<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spearhead  | 4 gp<br><br>2 gp<br><br>2 gp | -<br><br>1d10S<br><br>1d8 P| 2<br><br>1<br><br>1 | -<br><br>2<br><br>1 | -<br><br>Axe<br><br>Spear | Gnoll, Attached<b>\*</b><br><br>Gnoll, Forceful, Sweep, Attached<b>\*</b><br><br>Gnoll, Deadly (d12), Two-Hand (d10), Attached<b>\*</b>
+. <b>*</b>See Myrnaxe entry
+/
+
+##### Table 6-3: Ranged Weapons ((+Ranged Weapons))
+Uncommon Advanced Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
+--- | :---: | :---: | :---: | :---: | :---:
+Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Greatarrows | 5gp<br><br>2sp | 1d8 P<br><br>&nbsp; | 150ft.<br><br>&nbsp; | 0<br><br>&nbsp; | 2<br><br>&nbsp; | 1+<br><br>&nbsp; | Bow<br><br>&nbsp; | Fatal d10, propulsive, gnoll, volley 45ft.<br>&nbsp;
+/
+
+## Armour Traits
+**Primal:** This armour is created entirely out of primal components, and can be considered wooden armour for druid and other anathemas.
+## Armour Descriptions
+**Darkleaf:** Similar to leafweave armour, darkleaf armour is made of carefully cured and beautifully carved pieces of wood, supplemented by treated leaves. This special process enables the many primal
+|
+  
+  practitioners of the world a sturdy, yet entirely
+  natural armour.
+
+**Leafweave:** The artisans of Aerenal weave suits of armour from leaves and wood, which are then treated by a special process that makes them as tough and flexible as leather. This special process enables the many primal practitioners of the world a sturdy, yet entirely natural armour.
+=  
+## Weapon Traits
+**Dual:** A single dual weapon is balanced such that their flurry of blows land with the speed of two weapons. Dual weapons satisfy requirements of dual-wielding melee weapons, such as for the Ranger Twin Takedown feat.
+
+**Drow:** Drow craft and use these weapons.
+
+**Gnoll:** The Znir consider these weapons to be a signature weapon of their pact and don’t sell them to outsiders. The only way to acquire a gnoll weapon is to be given one or to take it from a fallen foe.
+
+**Returning:** When you make a thrown attack with this weapon and roll a failure, the weapon returns to you if you have a free hand.
+  
+## Critical Specialization Effects
+**Boomerang:** Choose one creature other than the initial target within the first range increment of you. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its potency rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage.
+    
+## Weapon Descriptions
+**Boomerang, Talenta:** The halflings of the Talenta Plains use traditional boomerangs - simple curved, polished sticks designed to return to the thrower.
+
+**Boomerang, Xen'drik:** The drow of Xen'drik use three-pronged bladed boomerangs to hunt prey. Some adventurers and explorers learn to use the weapon while operating in the Xen'drik jungles, but few outside the drow communities ever master the intricacies of the Xen'drik boomerang.
+
+**Double-Bladed Scimitar:** The Double-Bladed Scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result, the double-bladed scimitar is an expensive weapon — few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might feel entitled to demand its return or challenge the bearer to prove they’re worthy to wield it.
+|
+**Gnoll bow:** Though the gnoll bow is not significantly larger than a normal longbow, the draw of the weapon is deceptively heavy. Great bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles significantly faster, resulting in greater penetrating power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to gnoll bows unless otherwise stated. To craft a gnoll bow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
+
+**Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Depending on the wielder's stance, the myrnaxe is either functionally a battleaxe or a spear. A user may switch between the sides of the myrnaxe with an interact action. The myrnaxe has the damage, hands, group, and weapon traits of the side in user.  Myrnaxes are composed of two attached items: the Myrnaxe - Axe, and the Myrnaxe - Spearhead. It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk—thus maximizing its versatility against multiple foes. When crafting a myrnaxe, both sides are manufactured at the same time, using their respective crafting costs for material, and forming a completed Myrnaxe when finished. Each side of the weapon gains the effect of its respective precious material. You may not wield individual halves of the Myrnaxe.
+
+**Sharrash:** Similar to a scythe, the Talenta sharrash developed by the halflings of the Plains consists of a sicklelike blade at the end of a long pole.
+
+**Tangat:** The Tangat, developed by the halflings of the Talenta Plains, features a curved blade (like a scimitar's) mounted on a short haft.
+  
+/
+=
+##### Table 6-4: Adventuring Gear ((+Adventuring Gear))
+Item | Price | Bulk | Hands
+--- | :--- | :--- | :---
+Spellshard (Blank) | 1 gp | L | 1
+Clothing<br>&nbsp;&nbsp;&nbsp;&nbsp;Clothing, darkweave (level 3)<b>\*</b><br>&nbsp;&nbsp;&nbsp;&nbsp;Clothing, glamerweave (level 3)<b>\*</b> | <br>base clothing + 100 gp<br>base clothing + 100 gp | <br>base clothing<br>base clothing | <br>-<br>-
+Arcane signet ring | 15 gp | - | -
+Signet brooch | 7 gp | - | -
+Identification papers, standard | 2 sp | - | -
+Identification papers, with portrait | 5 gp | - | -
+Letter of credit | special | - | -
+Traveling papers | 2 cp | - | -
+. <b>*</b>Special, see entry
+/
+## Gear Descriptions
+**Spellshard (Blank)** A spellcaster can mystically imprint spells into an Eberron dragonshard rather than physically writing them into a spellbook. A single spellshard is about the size of a human fist. The spellcaster can concentrate on the shard in order to bring any spell stored in it into focus; the spell appears as silvery writing within the swirling colours of the shard. Each Spellshard can hold up to 100 spells. The Price listed is for a blank Spellshard.
+
+**Clothing, darkweave:** Darkweave fabric has strands of shadow interwoven with black threads to produce a coarse but beautiful cloth. A character wearing darkweave gains a +1 item bonus on stealth checks made in shadowy illumination or dark conditions. Darkweave clothing costs 100 gp more than a normal outfit of the same sort, gains the same benefits (such as High Fashion Fine Clothing), and weighs the same.
+
+**Clothing, glamerweave**: Glamerweave is a fine, light fabric that has delicate illusions woven into its threads. The colour of glamerweave seems to shift subtly and is hard to describe, but this property makes for a striking and strangely beautiful appearance. A character wearing glamerweave clothing gains a +1 item bonus on Diplomacy checks. Glamerweave clothing costs 100 gp more than a normal outfit of the same sort and gains the same benefits (such as High Fashion Fine Clothing).
+
+**Arcane Signet Ring:** The dragonmarked houses of Khorvaire use these rings extensively for identification purposes. They resemble ordinary signet rings but are set with gemstones like more decorative rings. Inside a large central gemstone, an intricate runic pattern, which is an arcane mark, becomes visible when worn by the person for whom it was constructed. It is extremely unusual for
+|
+  
+    anyone who does not have the Favored in House
+    feat to carry an arcane signet ring.
+
+**Signet Brooch** Other members of a dragonmarked house, whether actual scions or important hired help, wear signet brooches to identify their affiliation. These items don’t contain an arcane mark like the Arcane Signet Ring but are well made from expensive materials.
+
+**Identification Papers:** Most people of the middle and upper classes, at least in the most civilized areas of Khorvaire (Aundair, Breland, Karrnath, Thrane, Zilargo, and the Mror Holds) carry identification papers with them at all times. Issued by national governments and notarized by House Sivis, these papers present a detailed physical description of a person (the wealthy sometimes commission small portraits of themselves), the person’s name and residence, and in some cases additional information about the person’s affiliations (particularly including any connection to a dragonmarked house, royalty, or a large institution).
+
+**Letter of Credit:** House Kundarak, the house that carries the Mark of Warding, operates banks throughout central Khorvaire. A character who has funds on deposit in a Kundarak bank can request from the bank a letter of credit, which allows them to withdraw funds from a different bank branch. For many characters, this system is a convenient alternative to carrying wealth around in the form of precious gems, jewellery, or coins. Letters of credit are always notarized with arcane marks (usually by gnomes from House Sivis), making them practically impossible to forge. House Kundarak does not charge a fee for issuing letters of credit.
+=
+**Traveling Papers:** Anyone who travels across national borders is usually required to carry travelling papers identifying them, their residence, their destination, and their reason for travel. Travelling papers consist of a parchment sheet with the appropriate information and an arcane mark, carried in a leather folder. House Sivis, House Orien, House Deneith, and House Lyrandar all offer travelling papers that are recognized throughout central Khorvaire.
+# Services ((+Services))
+The following services are available to the people of Khorvaire.
+##### Table 6-5-1: Services ((++General Services))
+Service | Price
+--- | :---
+Hireling<br>&nbsp;&nbsp;&nbsp;&nbsp;Magewright | <br>7 sp per day
+
+##### Table 6-5-2: House Services ((++House Services))
+Service | Price
+--- | :---
+Courier service (House Orien) | 1 cp per 10 miles
+Mail service (House Orien) | 1 cp per 100 miles
+Message station (House Sivis) | 2 cp per word
+Translation (House Sivis) | 1 cp per word
+Spellcasting from Dragonmarked Spell list (Any house) | At cost of core book Table 6-15: Spellcasting Services
+Hireling<br>&nbsp;&nbsp;&nbsp;&nbsp;Least Dragonmark<br>&nbsp;&nbsp;&nbsp;&nbsp;Lesser Dragonmark\*<br>&nbsp;&nbsp;&nbsp;&nbsp;Greater Dragonmark\* | <br>9 sp per day<br>8 gp per day<br>36 gp per day
+. * Requires Favoured in House feat
+
+##### Table 6-5-3: Cosmetic Transmutation Services ((++Cosmetic Services))
+Service | Price (1 Week) | Price (1 Month) | Permanent
+--- | :--- | :--- | :---
+Minor (natural) | 1gp | 2 gp | 5 gp
+Minor (unusual) | 2 gp | 4 gp | 10 gp
+Moderate | 4 gp | 8 gp | 20 gp
+Major | 6 gp | 12 gp | 30 pg
+/
+
+**Cosmetic Transmutation** With the widespread arcane magic that exists in Eberron, transmutation has become widespread for cosmetics. This can be anything from a minor natural change such as hair colour to a moderate change such as height or sex, to a major change such as a full physical impersonation of a specific individual. Note that identity theft is a crime under the Code of Galifar. See Exploring Eberron pg 28 for more information
+
+**Courier service (House Orien)** The Courier service of house Orien carries messages and packages across Khorvaire. Packages and messages send by courier are more secure, but more expensive. The price varies based on the weight, and ease of access to the destination of the package. For an extra fee, Orien will use House Kundarak's services to apply a glyph of warding spell to the package.
+|
+**Mail service (House Orien)** The mail service of house Orien is the method by which most common folk of Eberron can communicate. Sending mail is expensive, but is limited in size. If the security of the letter is important, Orien will use House Sivis' services to protect the messages - either by cryptography or secret page spell.
+
+**Magewrights** Magewrights are the backbone of Eberron's arcane industry. While they fill the role of a standard crafter - such as an Arcane Locksmith, Blacksmith, Healer, Potter, Tailor - they weave cantrips and magic into their work. See the Magewright entry for sample stat blocks.
+
+**Message Station (House Sivis)** For even faster communication, House Sivis' services are employed. On a per word basis, House Sivis broadcast stations can send messages across their network. These networks are built with Speaking Stones, which are detailed in the magic items section.
+=
+**Translation (House Sivis)** For a fee, House Sivis can translate any document, provided it is a Common or Uncommon language. Exotic languages might be translated by experts in House Sivis for an increased fee. While House Sivis can attempt to break or Decipher Writing, this is not a service that is accessible to the public. If you have the Favoured in House feat, House Sivis may be willing to attempt this.
+|
+**Spellcasting** Houses can provide a casting of a spell from their Dragonmarked Spell List (detailed in each Dragonmarked Heritage). These spells are done at the cost of the Core Rulebook Table 6-15 plus any associated costs.
+
+**Hirelings** Hirelings from the houses are either unmarked members (magewrights cost and stat block) or Least Dragonmarked members. See the Dragonmarked NPC entries for examples.
+/
+  
+# Transportation ((+Transporation))
+The following modes of transportation are available as services to the people of Eberron.
+##### Table 6-6: Transportation 
+Service | Price | Speed
+--- | :--- | :---
+Airship (House Lyrandar) | 5 sp per 5 miles | 20 mph
+Elemental galleon (House Lyrandar) | 25 cp per 5 miles | 10 mph
+Lightning rail, first-class (House Orien) | 2 sp, 5 cp per 5 miles | 30 mph
+Lightning rail, standard (House Orien) | 1 sp per 5 miles | 30 mph
+Lightning rail, steerage (House Orien) | 1 cp per 5 miles | 30 mph
+Magebred coach (House Orien) | 15 cp per 5 miles | 5 mph
+Teleportation circle (House Orien) | 250 gp | Instant
+/
+**Airship (House Lyrandar)** These elemental flying vessels are a new invention in the world of Eberron. Airships primarily travel between major cities with docking towers, but not bound to terrain, these airships can provide transportation to any location.
+
+**Elemental galleon (House Lyrandar)** Elemental galleons have an advantage over more mundane sea fairing vessels, as they are not subject to the will of the wind. Elemental Galleons are uncommon, and regular vessels still see use through Eberron despite their advantages.
+
+**Lightning Rail** Orien's lightning rail network was developed with the assistance of the united kingdom of Galifar. A large elemental engine tows cars behind it on a rail system that can handle heavy weights over a long distance. The various classes of transportation provide different levels of standards of living for the time that passengers are on the rail network. First Class is in the realm of Fine living, Standard is Comfortable, and Steerage affords cheap-but a sustenance-level of travel.
+
+**Magebred Coach** One of the more refined methods of land travel, these coaches are much like a Carriage trip but are pulled by well trained and swift animals that provide an advantage over standard Carriages.
+|
+**Teleportation Circle** House Orien manages a network of teleportation circles between the major cities of Eberron. For a fee per person, House Orien allows transit between any of these points.
+=
+# Animals
+##### Table 6-7: Animals ((+Animals))
+Animal | Rental Price (per day) | Purchase Price
+--- | :--- | :---
+Carver | 1 gp per day | 32 gp (level 2)
+Clawfoot | 1 sp per day | 26 gp (level 2)
+Fastieth | 9 cp per day | 8 gp
+Magebred Animal | |
+     Magebred Guard Dog | 2 cp per day | 4 sp
+     Magebred Riding Dog | 12 cp per day | 8 gp
+     Magebred Riding Horse | 2 sp per day | 16 gp
+     Magebred Warhorse | 1 gp per day | 60 gp (level 3)
+     Magebred Pack Animal | 4 cp per day | 4 gp
+     Magebred Riding Pony | 16 cp per day | 14 gp
+     Magebred Warpony | 16 sp per day  | 48 gp (level 2)
+Valenar Riding Horse | 3 sp per day | 20 gp* (level 3)
+Valenar Guard Dog | 3 cp per day | 1 gp* (level 3)
+. * Valenar elves do not sell their animals. However on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
+/
+**Carver:** A close relative of the clawfoot, a carver is a predatory dinosaur, about the size of a heavy horse, native to the Talenta Plains. Known in some worlds as the deinonychus, it is listed in the monsters section of this guide.
+
+**Clawfoot:** A human-sized predator of the Talenta Plains, this dinosaur is the halfling equivalent of a warhorse. Well trained and loyal, a clawfoot often continues fighting even after its rider’s death. It is listed in the monsters section of this guide.
+
+**Fastieth:** A fast-running, plant-eating dinosaur, the fastieth is the halfling equivalent of a pony or riding a horse on the Talenta Plains. It is listed in the monsters section of this guide.
+
+**Magebred Animal:** An animal magically bred by House Vadalis might have any of a number of useful qualities and is easier to train than a mundane animal. Magebred animals and the template are provided in the monsters section of this guide.
+
+**Valenar Animals:** Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honour, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted. Valenar animals are provided in the monsters section of this guide.
+|
+=
+# Magic Gear ((+Magic Gear))
+Eberron is a world built on a widespread arcane industry. As a result, low-level magic items and spells are relatively easily accessible. The following magical items may be of use to adventurers, but are not necessarily the only ones that exist. There are also a number of more "mundane" magical items that aid common folk with their day to day tasks. Brooms that sweep with the snap of your fingers, Everbright lanterns that glow without fuel, or more. The following items, though magical, should not be considered typical magical items as rewards. These items should be relatively (except in the case of uncommon) easily available in most places.
+
+Town Size | Magic Level | Item Level
+--- | :---
+Thorp | Cantrips | 1st level
+Hamlet | 1st level | 2nd level
+Village | 2nd level | 3rd level
+Small Town | 3rd level | 5th level
+Large Town | 3rd level | 7th level
+Small City | 4th level | 9th level
+Large City | 4th level | 11th level
+Metropolis | 5th level | 13th level 
+
+note(
+Magic level listed is the suggested maximum that could be found, and may not be present or accessible to adventurers. Beyond 3rd level spells, 4th and 5th level capable casters are likely rare or unique NPCs who may be entirely unavailable, or unwilling, to meet adventurers. 6th and 7th level capable casters are considered Unique rarity, and a GM should always consider how such a powerful NPC is present in the world. Higher-level items may be theorized about in the arcane centres of Khorvaire, and blueprints might be available, but the odds of finding items of 10th level or beyond available for retail is unlikely.
+)
+## Common Items
+The following items are likely not of interest to adventurers, but are of value to the common folk of the world.
+item(
+# Bright Basin
+## Item 0
+-
+; Common, Magical
+**Price** 6 gp
+
+**Bulk** 2
+-
+This basin is a static emplacement for any household
+**Activate** (10 minutes) Interact; **Frequency** Unlimited **Effect** Any clothing or cloth objects up to 3 bulk placed in the bright basin are cleaned after the 10-minute duration passes.
+)
+|
+item(
+# Rod of Cleansing
+## Item 0
+-
+; Common, Magical
+**Usage** held in 2 hands; **Bulk** 1
+
+**Price** 4 gp
+-
+This light coloured rod ends with the head of a broom, so it serves a double purpose.
+**Activate** :aa: Interact; **Effect** Clean an area within 10 feet of you that is no larger than 5 cubic feet, removing dirt and grime.
+)
+item(
+# Thurimbar Rod
+## Item 2
+-
+; Gnome, Magical
+**Usage** held in 2 hands; **Bulk** 1
+
+**Price** 50 gp
+-
+The Thurimbar rod is a magical instrument developed by the gnomes of Zilargo.
+**Activate** :aa: Interact (10 minutes); **Effect** While holding the rod, you can produce auditory illusions that unerringly replicate the sound of any instrument, with the sound emanating from the rod. If you use the Thurimbar rod itself to perform, you can produce unearthly music, unlike any natural instrument.
+)
+## Common Consumables
+item(
+# Breath of Siberys
+## Item 1+
+-
+; Consumable, Magical
+**Usage** held in 1 hand; **Bulk** L
+
+**Activate** :a: Interact
+-
+This is a small globe containing a highly refined solution of dragonshards held in a suspended state. When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
+Charges | Level | Price
+--- | :---: | :---: 
+1 | 2 | 4 GP
+2 | 3 | 12 GP
+3 | 5 | 30 GP
+4 | 7 | 70 GP
+5 | 9 | 150 GP
+6 | 11 | 300 GP
+7 | 13 | 600 GP
+8 | 15 | 1300 GP
+9 | 17 | 3000 GP
+10 | 19 | 8000 GP
+-
+**Crafting Requirements** The initial raw materials must be half processed siberys shards by value.
+)
+=
+note(
+It is important to qualify that while Cannith engineers are working on solving the overcharging problem, there are no solutions yet. In the event a charge of the Breath of Siberys is applied to a magic item with charges remaining, the item is subject to overcharging. The next time that a charge is expended from the item, roll a DC 10 flat check. On a success, the item is broken. On a failure, the item is destroyed.
+)
+item(
+# Cathier Spleen
+## Item 3
+-
+; Component, Consumable, Metamagic
+**Price** 12 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell from the school of Illusion
+-
+The cathier, a small, harmless herbivore native to the Eldeen Reaches and similar to a hare, has a magical ability to camouflage itself. Its spleen aids in the casting of illusion spells. When used as a material component (adding the material component to the spell if it doesn't already have it) for an illusion spell, the cathier spleen doubles the spell’s duration.
+)
+item(
+# Covadish leaves
+## Item 8
+-
+; Uncommon, Component, Consumable, Metamagic
+**Price** 75 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell from the school of Necromancy
+-
+The covadish plant grows on the island of Aerenal, where it is highly valued by the elves for its necromantic properties. When used as a material component (adding the material component to the spell if it doesn't already have it) for a Necromancy spell, the covadish leaves heighten the spell level by 1 up to the maximum level you can cast.
+)
+item(
+# Dragonseye acorn
+## Item 4
+-
+; Component, Consumable, Metamagic
+**Price** 13 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell from the school of Evocation with the acid, cold, electricity, fire, or sonic trait
+-
+The dragonseye oak grows in Q’barra and its acorn aids in the casting of certain evocation spells. When used as a material component (adding the material
+)
+|
+item(
+component to the spell if it doesn't already have it) for an evocation spell with the acid, cold, electricity, fire, or sonic trait you gain a circumstance bonus to damage equal to half the level of the spell rounded up.
+)
+item(
+# Hathil Root
+## Item 3
+-
+; Component, Consumable, Metamagic
+**Price** 9 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :f: interact; **Trigger** You cast a spell from the school of Transmutation
+-
+The hathil plant grows in the swamps of the Shadow Marches. When used as a material component (adding the material component to the spell if it doesn't already have it) for a transmutation spell, you gain a +1 item bonus to your spell DC for this spell.
+)
+item(
+# Irian Crystal
+## Item 8
+-
+; Uncommon, Component, Consumable, Metamagic
+**Price** 98 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell from the school of Necromancy that restores hit points
+-
+This transparent crystal glows with a soft white light. When used as a material component (adding the material component to the spell if it doesn't already have it) for a Necromancy spell that restores hit points, you gain a circumstance bonus to healing equal to half the level of the spell.
+)
+item(
+# Kieros Leaves
+## Item 7
+-
+; Uncommon, Component, Consumable, Metamagic
+**Price** 51 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell with the death trait
+-
+The herb known as kieros grows only in the region of Aerenal known as the Madwood. When used as a material component (adding the material component to the spell if it doesn't already have it) for any spell with the death trait, any creature affected by the spell increases its doomed condition by 1.
+)
+=
+item(
+# Laskin Horn
+## Item 6
+-
+; Component, Consumable, Metamagic
+**Price** 40 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You make a spell attack roll.
+-
+The laskin, a small antelope native to the Eldeen Reaches, has swept-back horns that can be used as a material component. When used as a material component (adding the material component to the spell if it doesn't already have it) for any spell that requires a spell attack roll. You gain a +1 item bonus to your attack roll.
+)
+item(
+# Mabar Crystal
+## Item 2
+-
+; Component, Consumable, Metamagic
+**Price** 5 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell with the Darkness trait
+-
+This inky black crystal, dark as obsidian and slightly translucent, fills certain regions of the Khyberian underworld. When used as a material component (adding the material component to the spell if it doesn't already have it) for a spell with the Darkness trait, the Mabar Crystal automatically attempts to counteract any light effects in the area of the spell. This counteract effect is at the cast spell level + 1 and uses your casting DC.
+)
+item(
+# Masthin Shoots
+## Item 2
+-
+; Component, Consumable, Metamagic
+**Price** 6 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast an enchantment spell that targets at least one animal or beast
+-
+The masthin plant, native to the jungles of Q’barra, produces natural intoxicants during its early growth and often attracts animals in the wild. When used as a material component (adding the material component to the spell if it doesn't already have it) for any enchantment spell that targets an animal or beast, the Masthin Shoots double the spell’s duration.
+)
+|
+item(
+# Narstone
+## Item 6
+-
+; Uncommon, Component, Consumable, Metamagic
+**Price** 50 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell from the school of conjuration
+-
+This strange stone found in the Demon Wastes is believed to be the remains of petrified demon bones. When used as a material component (adding the material component to the spell if it doesn't already have it) for any conjuration spell, the Narstone heightens the spell level by 1 up to the maximum level you can cast.
+)
+item(
+# Reath Leaves
+## Item 4
+-
+; Component, Consumable, Metamagic
+**Price** 13 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell that targets at least one creature with the plant trait
+-
+The reath vine is a parasite that grows on trees in the Eldeen Reaches. When used as a material component (adding the material component to the spell if it doesn't already have it) for a spell, any creatures with the plant trait take a -1 item penalty to their saves against this spell.
+)
+=
+head(
+# Dragonmark Focus Items ((Dragonmark Focus Items))
+Much of the influence of the dragonmarked houses is based on a simple principle: it’s easier to amplify an existing magical effect, such as that of a dragonmark, than to create the same effect from nothing. Over the course of centuries, House Cannith and the Twelve have developed items that focus and enhance the powers of the mark to produce powerful, reliable effects.
+-
+)
+Dragonmark focus items are rarely sold in stores. They can only be created using proprietary tools, and are produced exclusively by House Cannith and the Twelve for use by trusted agents of the dragonmarked houses. So while many Medani inquisitives wear Medi spectacles, they acquired them through service to the house, not by purchasing them with gold. While a dragonmark focus item usually has the same general appearance as the item whose effects it duplicates, it bears the image of the required mark somewhere on the item and often carries the sigil of the associated house. Siberys dragonshards are a vital component of focus items, most including a shard in some form. [10]
+
+The following items are Dragonmark focus items. They function identically to the duplicated item, however, their level is reduced by 1. The price, but no other statistics are similarly reduced to the new level. All these items gain the Invested, and Dragonmark trait. You may only invest in the item if you have the requisite dragonmark.
+
+Dragonmark Focus Item | Duplicated Item | Dragonmark
+--- | :--- | :---
+Cannith's marvellous miniatures | Feather Token | Making
+Cloak of passage | Cape of the Mountebank | Passage
+Cloak of shadows | Cloak of Elvenkind | Shadow
+Ghallan jug | Decanter of Endless Water | Hospitality
+Deni shield | Force Shield/Spellguard Shield | Sentinel
+Eyes of the Dragonne | Eyes of the Eagle | Finding
+Ori boots | Boots of Speed | Passage
+Ori horseshoes | Horseshoes of Speed | Passage
+Serpentine mirror | Crystal Ball | Shadow
+Storm's embrace | Snapleaf | Storm
+Warding brooch | Brooch of Shielding | Warding
+Wind stones | Sending Stone | Scribing
+|
+## Dragonmark Focus Items ((+Common Dragonmark Focus Items))
+These common items are available to most dragonmarked house members actively employed in the house's service.
+item(
+# Channeling Wand
+## Item 3+
+-
+; Dragonmark, Invested, Magical
+**Usage** held in 1 hand; **Bulk** L
+-
+A channelling wand is a short metal wand tipped with a Siberys dragonshard. Each wand is tied to a specific dragonmark, such as the Mark of Healing or the Mark of Making, and you can only attune to it if you possess that dragonmark.
+**Activation** (Cast a Spell); **Frequency** Once per day, plus overcharge; **Effect** you can cast the selected focus spell of your house at the indicated level.
+-
+ **Type** 1st-level focus spell; **Level** 3; **Price** 60 gp
+ **Type** 2nd-level focus spell; **Level** 5; **Price** 160 gp
+ **Type** 3rd-level focus spell; **Level** 7; **Price** 360 gp
+ **Type** 4th-level focus spell; **Level** 9; **Price** 700 gp
+ **Type** 5th-level focus spell; **Level** 11; **Price** 1,500 gp
+ **Type** 6th-level focus spell; **Level** 13; **Price** 3,000 gp
+ **Type** 7th-level focus spell; **Level** 15; **Price** 6,500 gp
+ **Type** 8th-level focus spell; **Level** 17; **Price** 15,000 gp
+ **Type** 9th-level focus spell; **Level** 19; **Price** 40,000 gp
+-
+**Craft Requirements** Supply a listed-level casting of the spell; At least 25% of the crafting material value must be Siberys shards.
+)
+
+item(
+# Dragonmark Channel
+## Item 2
+-
+; Dragonmark, Invested, Magical
+**Price** 35 gp
+
+**Usage** worn; **Bulk** -
+-
+This brooch is embedded with a small Siberys dragonshard, usually depicting the crest of its dragonmarked house. Each dragonmark channel is tied to a specific dragonmark, such as the Mark of Healing or the Mark of Making, and you can only attune to it if you possess that dragonmark.
+)
+=
+item(
+**Activation** Interact (Cast a Spell); **Frequency** Once per day; **Effect** you can cast one of the dragonmark focus spells that you know at level 1.
+-
+**Craft Requirements** at least 4 gp of siberys shards  
+)
+item(
+# Dragonmark Focus
+## Item 7
+-
+; Uncommon, Dragonmark, Invested, Magical
+**Usage** worn; **Bulk** L
+-
+The simplest and most common form of dragonshard item, a dragonmark focus is an amulet holding a small Siberys shard. This shard is attuned to enhance the power of a specific dragonmark. When worn by a person whose mark has been attuned to the stone, a dragonmark focus increases the wearer’s effective caster level whenever they use any of the spell-like abilities of their mark.
+-
+**Type** Dragonmark Focus (Least); **Level** 7; **Price** 340 gp;
+This shard increases the heightened level of your dragonmark focus spells by 1, up to a maximum of level 4. This effect does not stack.
+
+**Craft Requirements** at least 42 gp of siberys shards  
+-
+**Type** Dragonmark Focus (Lesser); **Level** 13; **Price** 2,500 gp;
+This shard increases the heightened level of your dragonmark focus spells by 1, up to a maximum of level 7. This effect does not stack.
+
+**Craft Requirements** at least 312 gp of siberys shards  
+-
+**Type** Dragonmark Focus (Greater); **Level** 17; **Price** 13,000 gp;
+This shard increases the heightened level of your dragonmark focus spells you can cast by 1, up to a maximum of level 9. This effect does not stack.
+
+**Craft Requirements** at least 1625 gp of siberys shards  
+)
+item(
+# Dragonmark Reservoir
+## Item 8
+-
+; Dragonmark, Invested, Magical
+**Price** 500 gp
+
+**Usage** worn; **Bulk** L
+-
+Dragonmark reservoirs are always embedded with a Siberys dragonshard, but come in many forms, most commonly an amulet or bracelet bearing the design of the house crest. Each reservoir is tied to a specific dragonmark, such as the Mark of Healing or the Mark of Making, and you can only attune to it if you possess that dragonmark.
+)
+|
+item(
+**Activation** :aa: Interact; **Frequency** Once per day; **Effect** your dragonmark focus pool restores one point, as if you had completed the refocus activity.
+-
+**Craft Requirements** at least 62 gp of siberys shards 
+)
+item(
+# Bag of Bounty
+## Item 5
+-
+; Conjuration, Extradimensional, Magical, Mark of Hospitality, Dragonmark
+**Usage** held in 2 hands; **Bulk** 1
+-
+A character with the Mark of Hospitality may use this bag as a Bag of Holding, except that this bag maintains an environment that extends the shelf-life of food. Any perishables stored in this bag may be retrieved unspoiled up to the duration of the bag, depending on the type of perishable. Beyond this time frame, the food begins to spoil as normal.
+Small dragonshards are embedded in the lining of this leather bag, which is designed to enhance the power of the Mark of Hospitality. A Mark of Hospitality user must spend 1 minute each daily preparation to prepare the bag, or else the bag ceases to extend food's shelf life until it is recharged.
+
+-
+**Type** Bag of Bounty (Type I); **Level** 5; 
+
+**Price** 125 gp;
+
+**Capacity** 25 Bulk
+
+**Shelf-life** 10 times normal perishable expiration
+-
+**Type** Bag of Bounty (Type II); **Level** 7; 
+
+**Price** 300 gp;
+
+**Capacity** 50 Bulk
+
+**Shelf-life** 15 times normal perishable expiration
+-
+**Type** Bag of Bounty (Type III); **Level** 11; 
+
+**Price** 1,160 gp;
+
+**Capacity** 100 Bulk
+
+**Shelf-life** 25 times normal perishable expiration
+-
+**Type** Bag of Bounty (Type IV); **Level** 14; 
+
+**Price** 3,600 gp;
+
+**Capacity** 150 Bulk.
+
+**Shelf-life** no expiration
+-
+**Craft Requirements** Crafter must have the Mark of Hospitality; At least 10% of the crafting material value must be Siberys shards.
+)
+=
+item(
+# Ghallanda Cauldron
+## Item 3
+-
+; Dragonmark, Invested, Magical, Mark of Hospitality
+**Price** 55 gp
+
+**Usage** ; **Bulk** 2
+-
+A Ghallanda Cauldron is a fortified and enchanted cooking device commonly used by Ghallanda inns. When using a Ghallanda Cauldron, you may prepare food with unnatural speed and skill. You can heat, cool, flavour, and cook the raw contents added to the cauldron with enough precision to recreate the tastes of herbs and spices you don't have access to. You gain a +1 item bonus to craft food and drink, and may do so in half the time.
+)
+item(
+# Keycharm
+## Item 1
+-
+; Magical
+**Price** 15 gp;
+
+**Usage** worn; **Bulk** -
+-
+While they are almost trivially simple to produce, these charms are critically important to the warding services of House Kundarak. When a character uses the Mark of Warding to cast alarm, arcane lock, glyph of warding, or any other warding spell which selects targets and ignores the caster, they can invest ownership of the spell into a keycharm. Whoever holds the charm is considered to be the caster of the spell for purposes of bypassing its effects (or receiving the mental alert from an alarm).
+    The charm has no inherent powers, and if the spell it is linked to expires, it is considered to be a mundane 
+object—although a dragonmarked character could link it to a new warding spell. 
+-
+**Craft Requirements** Crafter must have the Mark of Warding.
+)
+
+item(
+# Kundar chains
+## Item 4+
+-
+; Magical, Mark of Warding, Dragonmark
+**Usage** held in 2 hands; **Bulk** L
+-
+These special manacles can contain even the most difficult of captives. They are applied and function as normal manacles, however, the manacles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.
+)
+|
+item(
+-
+**Type** Kundar chains (Average); **Level** 4; **Price** 75 gp;
+These function as Manacles (Average) in addition to their extradimensional restrictions.
+-
+**Type** Kundar chains (Good); **Level** 10; **Price** 820 gp;
+These function as Manacles (Good) in addition to their extradimensional restrictions.
+-
+**Type** Kundar chains (Superior); **Level** 18; **Price** 18,600 gp;
+These function as Manacles (Superior) in addition to their extradimensional restrictions.
+-
+**Craft Requirements** Crafter must have the Mark of Warding.
+)
+item(
+# Pen of the Scribe
+## Item 5
+-
+; Magical, Mark of Scribing, Dragonmark
+**Price** 140 gp; **Bulk** L
+-
+This long ink pen, formed of silver and copper with a thin dragonshard at its core, is an invaluable tool for the scribes of House Sivis. In the hands of a character with the Mark of Scribing, it has the following powers.
+- It never runs out of ink. The user can change the colour of the ink produced by the pen by speaking the name of the desired colour in gnomish.
+- It doubles the speed at which a character can write. A character cannot use the pen to scribe a scroll or record a spell in a spellbook since both tasks require special inks, but it increases the speed at which the character can create a forgery or copy a note, for example. 
+- It provides a +1 circumstance bonus to Create Forgery checks made to duplicate written material.
+-
+**Craft Requirements** Crafter must have the Mark of Scribing.
+)
+item(
+# Speaking Stone
+## Item 9
+-
+; Magical, Mark of Scribing, Dragonmark
+**Price** 700 gp; 
+
+**Usage** touched with two hands; **Bulk** 3
+-
+This device is the key to long-distance communications across Khorvaire, powering the message stations of House Sivis. A character who possesses the Mark of Scribing can use a speaking stone to send a message to any other speaking stone; the sender must know the location of the target stone. This effect is similar to that of the sending spell. However,the message travels at a rate of 1 mile per
+)
+=
+item(
+minute, has no maximum number of words, and does not allow immediate response. When the message reaches its target stone, it is delivered whether or not anyone is around to hear it.
+
+In a Sivis message station, a gnome is always on duty by the speaking stone, listening for any messages that may come in and scribing them upon receipt. Large cities, such as Sharn, may contain multiple stone stations. Major stations often possess more than one speaking stone. 
+-
+**Craft Requirements** Crafter must have the Mark of Scribing.
+)
+
+## Greater Dragonmark Focus Items ((+Greater Dragonmark Focus Items))
+These items are developed by the individual houses of the twelve to amplify the powers of their mark. The creation of these items are frequently house trademark secrets, and to construct your own without their approval would be a major disservice to the house (if you managed to find the crafting recipe). Members of the house with sufficient reputation, or who are Favoured in House, may be able to access these items in specific house enclaves. Members with sufficiently high favour may even gain the house's approval to construct these items in exchange for the house's shared use of the item. 
+
+item(
+# Altar of Resurrection
+## Item 13
+-
+; Uncommon, Magical, Mark of Healing, Dragonmark, Structure
+**Price** 3000 gp; **Weight** permanent structure
+-
+This marble slab acts as a channel for the powers of the Mark of Healing. 
+
+A character who possesses a lesser Mark of Healing or better can use the altar in their resurrect ritual to target a creature resting on the altar. If the character does so, they may use their mark of healing dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Medicine, Society, or their Mark of Healing dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+)
+|
+item(
+# Storm Spire
+## Item 15
+-
+; Uncommon, Magical, Mark of Storms, Dragonmark, Structure
+**Price** 3000 gp; **Weight** permanent structure
+-
+These large towers allow bearers of the Mark of Storms to control the local weather. 
+
+A character who possesses a lesser Mark of Storms or better can use the tower in their control weather ritual to target the surrounding area. If the character does so, they may use their mark of storms dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Survival, or their Mark of Storms dragonmark spell modifier.
+)
+item(
+The character must still provide the material components for the resurrection spell.
+-
+**Craft Requirements** Crafter must have the Mark of Healing
+)
+item(
+# Astral Beacon
+## Item 10
+-
+; Magical, Mark of Passage, Dragonmark, Structure
+**Price** 1000 gp; **Weight** permanent structure
+-
+Tied to the Mark of Passage, this object acts as a magical beacon to Orien heirs slipping through the Astral Plane. An astral beacon is an 8-inch sphere formed from silver and crystal, with the dragonshard at the core; it is often encased in lead or embedded in the floor of a chamber to prevent enemies from stealing or smashing the sphere.
+
+A character with the Mark of Passage using any feature with the teleportation trait may double the range of the teleportation effect as long as the destination point is within 10 feet of an astral beacon. In addition, for the purposes of teleport, selecting a location within 10 feet of an astral beacon is always accurate within 20 feet no matter the distance travelled.
+
+In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
+-
+**Craft Requirements** Crafter must have the Mark of Passage
+)
+item(
+# Extended Ward
+## Item 10
+-
+; Magical, Mark of Warding, Dragonmark, Structure
+**Price** 1000 gp; **Weight** permanent structure
+-
+The Extended Ward holds are relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. It is frequently difficult to differentiate from a houseward.
+)
+=
+item(
+This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an additional 10 minutes of cast time on an area that contains the Extended Ward or on a person or object within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning.
+)
+item(
+# Houseward
+## Item 12
+-
+; Magical, Mark of Warding, Dragonmark, Structure
+**Price** 2000 gp; **Weight** permanent structure
+-
+While the dragonshard core is quite small, the houseward itself is a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. It is frequently difficult to differentiate from an Extended Ward.
+
+A character who possesses a lesser Mark of Warding or better can use the Houseward in their Ward Domain ritual to target an area centred around the houseward. If the character does so, they may use their mark of warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+
+The character must still provide the material components for the ward domain spell.
+-
+**Craft Requirements** Crafter must have the Mark of Healing
+)
+|
+=
+head(
+# Magic Items ((Magic Items))
+The following items are advanced developments of arcane talent or ancient civilizations. These items can be of great value to the average adventurer, and to the magewrights that would seek to reverse engineer them.
+)
+# Armour ((+Armour))
+The following armours are too expensive to be readily available to the common soldier but can be used to great effect by talented adventurers.
+## Precious Material Armour
+These suits of armour are made of unique materials available in Eberron. They can be crafted in addition to all of the suits of armour available in the base pathfinder 2e rules.
+item(
+# Bronzewood Armour
+## Item 12+
+-
+**Usage** varies by armour; **Bulk** varies by armour
+-
+It’s easier to wear than normal armour, reducing the Strength score necessary to ignore its check penalty by 2. Unlike darkwood, bronzewood can be used instead of metal to fashion armour — it is somewhat shapeable during manufacturing. 
+-
+**Type** standard-grade bronzewood armour; **Level** 12; **Price** 1,600 gp + 160 gp per Bulk; **Craft Requirements** at least 200 gp of bronzewood + 20 gp per Bulk
+-
+**Type** high-grade bronzewood armour; **Level** 19; **Price** 32,000 gp + 3,200 gp per Bulk; **Craft Requirements** at least 16,000 gp of bronzewood + 1,600 gp per Bulk
+)
+item(
+# Riedran Crysteel Armour
+## Item 12+
+-
+**Usage** varies by armour; **Bulk** varies by armour
+-
+Riedran Crysteel armour is capable of warding off mental assaults, granting you a +1 circumstance bonus to saves and DCs against mental effects.
+-
+**Type** standard-grade riedran crysteel armour; **Level** 12; **Price** 1,600 gp +160 gp per Bulk; **Craft Requirements** at least 200 gp of riedran crysteel + 20 gp per Bulk
+-
+**Type** high-grade riedran crysteel armour; **Level** 19; **Price** 32,000 gp + 3,200 gp per Bulk; **Craft Requirements** at least 16,000 gp of riedran crysteel + 1,600 gp per Bulk
+)
+|
+# Held Items ((+Held Items))
+These items need to be held to use them.
+item(
+# Battle Rod
+## Item 2
+-
+; Invested, Magical
+**Usage** held in 2 hands; **Bulk** L
+
+**Price** 35 gp
+-
+The battle rod was developed as an alternative to the longer war staff and has gained popularity with wandslingers across Khorvaire. While holding the staff in two hands, you may use it as an arcane focus.
+**Activate** :a: Interact **Effect** The next cantrip you cast this turn uses the rules for range increments. You may cast the spell at a target at a maximum of 2 range increments away. For each range increment above the first, you take a -2 penalty to your attacks or DCs.
+)
+item(
+# Sending Stone Pair
+## Item 7
+-
+; Magical
+**Usage** held in 1 hand; **Bulk** L
+
+**Price** 300 gp
+-
+Sending stones are one of the backbones of communication across Khorvaire. House Sivis specializes in communication primarily by their replication of more efficient and less costly sending stones. For larger lower priority messages, Speaking Stones are used instead. 
+**Activate** Cast a Spell; **Frequency** Once per day per pair; **Effect** You cast the sending spell directly to the other stone. If the stone is attended by another creature, they become the target of the sending spell.
+)
+item(
+# War Staff
+## Item 4
+-
+; Invested, Magical
+**Usage** held in 2 hands; **Bulk** 1
+**Price** 100 gp
+-
+Aundair developed the war staff to help wandslingers match the range of Thranish archers, but it quickly spread across Khorvaire. While holding the staff in two hands, you may use it as an arcane focus.
+)
+=
+item(
+**Activate** :a: Interact **Effect** The next cantrip you cast this turn uses the rules for range increments. You may cast the spell at a target up to 4 range increments away. For each range increment above the first, you take a -2 penalty to your attacks or DCs.
+)
+note(
+ **Battle Rod:** If Thomas the wizard casts Acid Splash with a Battle Rod on a target 30 feet away, there are no additional effects. If Thomas casts Acid Splash on a target 60 feet away, he takes a -2 untyped penalty to the attack roll. Thomas cannot target creatures beyond the 60-foot range.
+
+ **War Staff:** If Thomas casts Electric Arc with a War Staff on two targets 30 feet away, there are no additional effects. If Thomas casts Electric Arc on a target 120 feet away, and a target 60 feet away, the first target makes the save against Thomas's Arcane DC that has a -6 penalty, and the second target makes the save against the same DC, but the DC only has a -2 penalty. Thomas cannot target creatures beyond the 120-foot range.
+)
+# Materials ((+Materials))
+The following unique materials are available, in addition to pathfinder 2e materials.
+item(
+# Byeshk
+## Material 2+
+-
+; Precious
+Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr—including dolgaunts, dolgrims, and mind flayers—are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk. Byeshk is difficult to work into armour, and it offers no significant advantage over iron armour.
+-
+ **Type** byeshk chunk; **Level** 0; **Price** 10 gp; **Bulk** L
+ **Type** byeshk ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
+ **Type** standard-grade byeshk object; **Level** 7; **Price** 250 gp per bulk;
+ **Type** high-grade byeshk object; **Level** 15; **Price** 4500 gp per bulk;
+)
+|
+item(
+**Byeshk Items** | **Hardness** | **HP** | **BT**
+--- | :--- | :--- | :---
+**Thin Items**
+     Standard-grade | 8 | 32 | 16
+     High-grade | 11 | 44 | 22
+**Items**
+     Standard-grade | 12 | 48 | 26
+     High-grade | 15 | 60 | 32
+**Structures**
+     Standard-grade | 24 | 96 | 48
+     High-grade | 30 | 120 | 60
+)
+item(
+# Bronzewood
+## Material 0+
+-
+; Precious
+This exceptionally hard wood, native to Aerenal, is useful in the manufacture of armour and weapons. Unlike most woods, bronzewood can be used instead of metal to fashion heavy armour and weapons — it is somewhat shapeable during manufacturing, and it keeps a sharp edge. 
+-
+ **Type** Bronzewood branch; **Level** 0; **Price** 500 gp; **Bulk** L
+ **Type** Bronzewood lumber; **Level** 0; **Price** 5,000 gp; **Bulk** 1
+ **Type** standard-grade bronzewood object; **Level** 8; **Price** 350 gp per bulk;
+ **Type** high-grade bronzewood object; **Level** 16; **Price** 6,000 gp per bulk;
+**Bronzewood Items** | **Hardness** | **HP** | **BT**
+--- | :--- | :--- | :---
+**Thin Items**
+     Standard-grade | 5 | 20 | 10
+     High-grade | 8 | 32 | 16
+**Items**
+     Standard-grade | 7 | 28 | 14
+     High-grade | 10 | 40 | 20
+**Structures**
+     Standard-grade | 14 | 56 | 28
+     High-grade | 20 | 80 | 40
+)
+item(
+# Soarwood
+## Material 0+
+-
+; Uncommon, Precious
+Rare even in the abundant forests of Aerenal, soarwood possesses a magical buoyancy. Ships made from soarwood skim effortlessly over the surface of the water. Soarwood is a necessary component of the airships and elemental galleons manufactured by House Orien and House Cannith. A soarwood item’s
+)
+=
+item(
+Bulk is reduced by 3 (or to light Bulk at minimum, with no effect on an item that normally has light Bulk). The Price of an item made of soarwood is based on the item’s normal Bulk, not its reduced Bulk for being made of soarwood, but reduce the Bulk before making any further Bulk adjustments for the size of the item. Soarwood is, however, not particularly fit for the purposes of armour, Shields, or Weapons.
+-
+ **Type** Soarwood branch; **Level** 0; **Price** 600 gp; **Bulk** -
+ **Type** Soarwood lumber; **Level** 0; **Price** 6000 gp; **Bulk** L
+ **Type** standard-grade soarwood object; **Level** 9; **Price** 500 gp per bulk;
+ **Type** high-grade soarwood object; **Level** 17; **Price** 10,000 gp per bulk;
+**Soarwood Items** | **Hardness** | **HP** | **BT**
+--- | :--- | :--- | :---
+**Thin Items**
+     Standard-grade | 3 | 10 | 5
+     High-grade | 5 | 20 | 10
+**Items**
+     Standard-grade | 5 | 18 | 9
+     High-grade | 7 | 28 | 14
+**Structures**
+     Standard-grade | 12 | 46 | 23
+     High-grade | 14 | 56 | 28
+)
+item(
+# Riedran Crysteel
+## Material 0+
+-
+; Uncommon, Precious
+The Inspired lords of Riedra supervise the mining of a crystalline substance that can be alloyed with iron to form Riedran crysteel. Crysteel makes excellent weapons, and the crystalline component makes them resonate with psionic power.
+-
+ **Type** Riedran crysteel chunk; **Level** 0; **Price** 10 gp; **Bulk** L
+ **Type** Riedran crysteel ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
+ **Type** standard-grade riedran crysteel object; **Level** 7; **Price** 250 gp per bulk;
+ **Type** high-grade riedran crysteel object; **Level** 15; **Price** 4500 gp per bulk;
+)
+|
+item(
+**Riedran Crysteel Items** | **Hardness** | **HP** | **BT**
+--- | :--- | :--- | :---
+**Thin Items**
+     Standard-grade | 6 | 28 | 14
+     High-grade | 9 | 40 | 20
+**Items**
+     Standard-grade | 10 | 44 | 22
+     High-grade | 13 | 56 | 28
+**Structures**
+     Standard-grade | 21 | 88 | 44
+     High-grade | 27 | 112 | 56
+)
+item(
+# Eberron Shards
+## Material 0+
+-
+; Precious
+Eberron dragonshards, also called bloodstones, are found encased in geode like stone shells—egg-shaped rocks perhaps a foot across. These stone shells usually lie just below the surface of the ground, covered by 2 to 10 feet of dirt and sediment, but always above the bedrock layer. Since Eberron dragonshards are not found buried within rock, most shard fields are in lowlands, as opposed to mountains or rocky barrens.
+-
+ **Type** unproccessed small eberron shards (up to 2 inches); **Level** 0; **Price** 4 sp; **Bulk** -
+-
+ **Type** unproccessed medium eberron shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 1 gp;<br>  **Bulk** -
+-
+ **Type** unproccessed large eberron shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 3 gp; **Bulk** L
+-
+ **Type** unproccessed greater eberron shards (More than 6 inches); **Level** 4; **Price** 13 gp; **Bulk** L
+-
+-
+ **Type** refined small eberron shards (up to 2 inches); **Level** 1; **Price** 3 gp; **Bulk** -
+-
+ **Type** refined medium eberron shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 5 gp; **Bulk** -
+-
+ **Type** refined large eberron shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 13 gp; **Bulk** L
+-
+ **Type** refined greater eberron shards (More than 6 inches); **Level** 7; **Price** 51 gp; **Bulk** L
+-
+)
+=
+item(
+# Khyber Shards
+## Material 0+
+-
+; Precious
+While Siberys shards are the rarest variety of dragonshard, Khyber shards are the most hazardous to obtain. Despite the hazards, Khyber shards fuel so much of Khorvaire’s industry that it's worth the risk for the payout. Khyber shards are found in everything from lightning rails to airships to elemental forges which increase the output of many of Khorvaire’s smiths and craftsmen. Khyber shards are found only in the depths of Khyber, growing in clusters on cavern walls and floors near pools of magma. The dragonshards reflect the orange-red glow of the molten rock, and the silhouette of a swirling dragonmark is barely visible within the smoky crystal.
+-
+ **Type** unproccessed small khyber shards (up to 2 inches); **Level** 0; **Price** 1 gp; **Bulk** -
+-
+ **Type** unproccessed medium khyber shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
+-
+ **Type** unproccessed large khyber shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** L
+-
+ **Type** unproccessed greater khyber shards (More than 6 inches); **Level** 4; **Price** 20 gp; **Bulk** L
+-
+-
+ **Type** refined small khyber shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
+-
+ **Type** refined medium khyber shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 7 gp; **Bulk** -
+-
+ **Type** refined large khyber shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 20 gp; **Bulk** L
+-
+ **Type** refined greater khyber shards (More than 6 inches); **Level** 7; **Price** 70 gp; **Bulk** L
+-
+)
+|
+item(
+# Siberys Shards
+## Material 0+
+-
+; Precious
+Siberys shards fall from the Ring of Siberys, and as a result, are usually found in Xen’drik and other equatorial regions. Their crystalline depths contain pulsating golden veins. The rarest of the dragonshard varieties, Siberys shards are also sometimes called sunstones or starmotes, and their connection to the dragonmarked houses means that they are often simply called dragonshards with no qualification. Dragonshards are rarely found large enough to be crafted into items of any significant size.
+-
+ **Type** unproccessed small siberys shards (up to 2 inches); **Level** 0; **Price** 5 sp; **Bulk** -
+-
+ **Type** unproccessed medium siberys shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
+-
+ **Type** unproccessed large siberys shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** L
+-
+ **Type** unproccessed greater siberys shards (More than 6 inches); **Level** 4; **Price** 17 gp; **Bulk** L
+-
+-
+ **Type** refined small siberys shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
+-
+ **Type** refined medium siberys shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 6 gp; **Bulk** -
+-
+ **Type** refined large siberys shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 18 gp; **Bulk** L
+-
+ **Type** refined greater siberys shards (More than 6 inches); **Level** 7; **Price** 63 gp; **Bulk** L
+-
+)
+=
+# Shields ((+Shields))
+The following shields are too expensive to be readily available to the common soldier but can be used to great effect by talented adventurers. 
+## Precious Material Shields
+These shields are made of unique materials available in Eberron. They can be crafted in addition to all of the shields available in the base pathfinder 2e rules.
+item(
+# Byeshk Shield
+## Item 7+
+-
+; Uncommon
+**Usage** varies by shield
+-
+Byeshk shields don’t typically have an additional effect, though when used for a shield bash, they are Byeshk weapons.
+-
+**Type** Byeshk Buckler (Standard-Grade); **Level** 7; **Price** 330 gp; **Bulk** L; **Craft Requirements** Byeshk worth at least 375 sp
+The shield has Hardness 6, HP 24, and BT 12.
+-
+**Type** Byeshk Shield (Standard-Grade); **Level** 7; **Price** 374 gp; **Bulk** 1; **Craft Requirements** Byeshk worth at least 471 sp
+The shield has Hardness 8, HP 32, and BT 16.
+-
+**Type** Byeshk Buckler (High-Grade); **Level** 15; **Price** 5,500 gp; **Bulk** L; **Craft Requirements** Byeshk worth at least 2,750 gp
+The shield has Hardness 9, HP 40, and BT 20.
+-
+**Type** Byeshk Shield (High-Grade); **Level** 15; **Price** 6,000 gp; **Bulk** 1; **Craft Requirements** Byeshk worth at least 3,000 gp
+The shield has Hardness 11, HP 44, and BT 22.
+)
+item(
+# Bronzewood Shield
+## Item 12+
+-
+; Uncommon
+**Usage** varies by weapon; **Bulk** varies by weapon
+-
+Bronzewood shields are 1 Bulk lighter than normal (minimum 1 bulk, with no effect on a shield that normally has light Bulk).
+-
+**Type** Bronzewood Buckler (Standard-Grade); **Level** 8; **Price** 400 gp; **Bulk** L; **Craft Requirements** Bronzewood worth at least 50 gp
+The shield has Hardness 3, HP 12, and BT 6.
+-
+**Type** Bronzewood Shield (Standard-Grade); **Level** 8; **Price** 440 gp; **Bulk** 1; **Craft Requirements** Bronzewood worth at least 55 gp
+The shield has Hardness 5, HP 20, and BT 10.
+)
+|
+item(
+-
+**Type** Bronzewood Tower Shield (Standard-Grade); **Level** 8; **Price** 560 gp; **Bulk** 3; **Craft Requirements** Bronzewood worth at least 70 gp
+The shield has Hardness 5, HP 20, and BT 10.
+-
+**Type** Bronzewood Buckler (High-Grade); **Level** 16; **Price** 8,000 gp; **Bulk** L; **Craft Requirements** Bronzewood worth at least 4,000 gp
+The shield has Hardness 6, HP 24, and BT 12.
+-
+**Type** Bronzewood Shield (High-Grade); **Level** 16; **Price** 8,800 gp; **Bulk** 1; **Craft Requirements** Bronzewood worth at least 4,400 gp
+The shield has Hardness 8, HP 32, and BT 16.
+-
+**Type** Bronzewood Tower Shield (High-Grade); **Level** 16; **Price** 11,200 gp; **Bulk** 3; **Craft Requirements** Bronzewood worth at least 5,600 gp
+The shield has Hardness 8, HP 32, and BT 16.
+)
+item(
+# Riedran Crysteel Shield
+## Item 9+
+-
+; Uncommon
+**Usage** varies by shield
+-
+Riedran Crysteel shields can ward against mental effects. While you have this shield raised, you gain its circumstance bonus to saving throws against mental effects that target you (as well as to AC).
+-
+**Type** Riedran Crysteel Buckler (Standard-Grade); **Level** 8; **Price** 400 gp; **Bulk** L; **Craft Requirements** Riedran Crysteel worth at least 375 sp
+The shield has Hardness 3, HP 12, and BT 6.
+-
+**Type** Riedran Crysteel Shield (Standard-Grade); **Level** 8; **Price** 440 gp; **Bulk** 1; **Craft Requirements** Riedran Crysteel worth at least 471 sp
+The shield has Hardness 5, HP 20, BT 10.
+-
+**Type** Riedran Crysteel Buckler (High-Grade); **Level** 16; **Price** 8,000 gp; **Bulk** L; **Craft Requirements** Riedran Crysteel worth at least 2,750 gp
+The shield has Hardness 6, HP 24, and BT 12.
+-
+**Type** Riedran Crysteel Shield (High-Grade); **Level** 16; **Price** 8,800 gp; **Bulk** 1; **Craft Requirements** Riedran Crysteel worth at least 3,000 gp
+The shield has Hardness 8, HP 32, and BT 16.
+)
+=
+# Snares ((+Snares))
+The following snare traps are available in Eberron.
+item(
+# Blast Disk
+## Item 4
+-
+; Consumable, Magical, Snare, Trap
+**Price** 15 gp
+
+**Usage** held in 1 hand, see details; **Bulk** 1
+-
+A blast disk holds destructive arcane power. A typical blast disk is about nine inches in diameter and one inch thick, made from layers of different metal; dragonshards are embedded in the surface of the disk and arcane symbols are engraved on its surface.
+
+**Trigger** After activating the item, the condition you select becomes the trigger of the item. You can also choose to ignore the trigger and immediately activate the payload.
+**Time** When the disk is activated, the user can set a time delay of up to 10 minutes before it releases its effect.
+**Proximity** 30 seconds after the disk is activated, it can trigger when someone comes within a certain distance of the disk or when someone first makes contact with the disk, then breaks that contact.
+**Impact** The activated disk can be set to detonate on impact, then used by throwing or dropping it.  
+  
+
+**Payload** When the blast disk is triggered, it produces one of the following magical effects, chosen when it was manufactured:
+**Explosive** The creates an explosion in a 20-foot burst centred on the disk. Each creature in the area must make a DC 18 basic reflex save, dealing 6d6 fire damage. Explosive blast disk damage ignores up to 10 hardness of objects and structures. Unattended objects and structures automatically critically fail the reflex save.
+**Spell** While crafting this item, if a Spell of a lower level than the item is cast into it, you may instead store the effects of the spell in the disk. The stored spell must take 3 actions or fewer to cast, have a hostile effect, and target one creature or have an area. 
+)
+|
+item(
+Once a spell is stored in the disk, the disk gains all the traits of that spell. If the stored spell targets one or more creatures, it targets the creature that set off the glyph. If it has an area, that area is centred on the creature that set off the glyph. The disk counts as a magical trap, using your spell DC for both the Perception check to notice it and the Thievery check to disable it; both checks require the creature attempting them to be trained to succeed.
+)
+# Wands ((+Wands))
+item(
+# Cannith Wonder Wand
+## Item 1
+-
+; Common, Magical, Wand
+**Usage** held in 1 hand; **Bulk** L
+
+**Price** 15 gp
+-
+The favoured item of many households, and a Ghallanda approved staple, the new Cannith Wonder Wand℗ handles the hard work so you can focus on being the best host you can be. With a simple flick of your wrist, you can:
+**Activate** :a: (Cast a Spell); **Frequency** With the magic of Cannith Engineering, this wand has the zhuzh that can keep up with you! This wand can be cast as many times per day as you need it to, without any risk of overcharging. **Effect**
+- **Cook** Cool, warm, or flavour 1 pound of nonliving material in an instant!
+- **Lift** Slowly lift an unattended object of light Bulk or less 1 foot off the ground, to reach those high shelves.
+- **Tidy** Clean an object of light Bulk or less. You can affect an object of 1 Bulk with 10 rounds of concentration, and a larger object at 1 minute per Bulk. Makes cleaning a breeze!
+)
+item(
+# Duster
+## Item 0
+-
+; Common, Magical, Wand
+**Usage** held in 1 hand; **Bulk** L
+
+**Price** 3 gp
+-
+This light cloured wand ending in a feather cleans with ease.
+**Activate** :aa: (Cast a Spell); **Frequency** Unlimited **Effect** Clean an area within 10 feet of you that is no larger than 1 cubic foot, removing dirt and grime.
+)
+=
+item(
+# Lamplighter
+## Item 1
+-
+; Common, Magical, Wand
+**Usage** held in 1 hand; **Bulk** L
+
+**Price** 3 gp
+-
+This dark black wand ending in a copper tip lights small flames.
+**Activate** :aa: (Cast a Spell); **Frequency** Unlimited **Effect** You can light or snuff out a candle, torch, small campfire, or similar source of flame within 10 feet of you.
+)
+item(
+# Talking Wand
+## Item 1
+-
+; Common, Magical, Wand
+**Usage** held in 1 hand; **Bulk** L
+
+**Price** 5 gp
+-
+A wand that ends in a rounded cone-like flare.
+**Activate** :aa: (Cast a Spell); **Frequency** Unlimited **Effect** While you are holding this wand, your voice and other sounds you produce are three times as loud as normal.
+)
+# Weapons ((+Weapons))
+The following weapons are too expensive to be readily available to the common soldier but can be used to great effect by talented adventurers. 
+## Precious Material Weapons
+These weapons are made of unique materials available in Eberron. They can be crafted in addition to all of the shields available in the base pathfinder 2e rules.
+item(
+# Byeshk Weapon
+## Item 10+
+-
+**Usage** varies by weapon; **Bulk** varies by weapon
+-
+Byeshk weapons deal additional damage to creatures with weakness to Byeshk, or with the aberration trait - at the GM's discretion. This weakness unless otherwise noted is equal to half the creature's level rounded up (minimum 1).
+-
+**Type** standard-grade byeshk weapon; **Level** 10; **Price** 880 gp + 88 gp per Bulk; **Craft Requirements** at least 110 gp of Byeshk + 11 gp per Bulk
+-
+**Type** high-grade byeshk weapon; **Level** 16; **Price** 9,000 gp + 900 gp per Bulk; **Craft Requirements** at least 4,500 gp of Byeshk + 450 gp per Bulk
+)
+item(
+# Bronzewood Weapon
+## Item 10+
+-
+**Usage** varies by weapon; **Bulk** varies by weapon
+-
+Bronzewood weapons are slightly lighter than their contemporary counterparts but don't offer much else
+)
+|
+item(
+in terms of benefit. A bronzewood weapon’s Bulk is reduced by 1 (minimum 1 bulk, with no effect on weapons that normally have light Bulk)
+-
+**Type** standard-grade bronzewood weapon; **Level** 10; **Price** 880 gp + 88 gp per Bulk; **Craft Requirements** at least 110 gp of bronzewood + 11 gp per Bulk
+-
+**Type** high-grade bronzewood weapon; **Level** 16; **Price** 9,000 gp + 900 gp per Bulk; **Craft Requirements** at least 4,500 gp of bronzewood + 450 gp per Bulk
+)
+item(
+# Riedran Crysteel Weapon
+## Item 12+
+-
+**Usage** varies by weapon; **Bulk** varies by weapon
+-
+Riedran Crysteel makes excellent weapons, and the crystalline component makes them resonate with psionic power. On a critical hit with a riedran crysteel weapon, the creature becomes clumsy 1 and stupified 1 for 1 round.
+-
+**Type** standard-grade riedran crysteel weapon; **Level** 12; **Price** 1,600 gp +160 gp per Bulk; **Craft Requirements** at least 200 gp of riedran crysteel + 20 gp per Bulk
+-
+**Type** high-grade riedran crysteel weapon; **Level** 19; **Price** 32,000 gp +3,200 gp per Bulk; **Craft Requirements** at least 16,000 gp of riedran crysteel + 1,600 gp per Bulk
+)
+## Specific Magic Weapons
+These specific magic weapons are unique to the world of Eberron.
+item(
+# Keeper's Fang
+## Item 14
+-
+; Rare, Invested, Evil, Magical
+**Price** 3800 gp
+
+**Usage** held in 1 hand; **Bulk** L
+-
+These infamous +2 greater striking daggers, prized by assassins, have a Khyber dragonshard embedded into the pommel that channels the souls of victims but doesn’t itself trap them. There’s much debate over the actual fate of the souls of those slain by a Keeper’s Fang. The common myth says that the souls of victims are trapped in the Lair of the Keeper, and heroes can seek to reclaim a soul from the Sovereign of Death and Decay. Another myth maintains that these weapons channel souls to the overlord Katashka, and that one must deal with the Lords of Dust to restore a victim. Most Keeper’s Fangs were created by the Shaarat’khesh assassins of the Empire of Dhakaan.
+)
+=
+item(
+Rather than ascribing the blade’s power to the Keeper--whose existence the Dhakaani reject--they believe these blades utterly destroy the souls of their victims.
+**Activate** :r:; **Frequency** once per day; **Trigger** You reduce a creature to 0 hit points with a strike from this blade' **Effect** the creature is slain and its soul removed. A creature whose soul has been stolen in this way can be restored to life only by means of a wish spell.
+)
+# Worn Items ((+Worn Items))
+item(
+# Charlatan's Gloves
+## Item 1
+-
+; Invested, Magical
+**Price** 15 gp
+
+**Usage** worn; **Bulk** -
+-
+  **Activate** :a: (up to 1 minute) Envision, Interact; **Effect** While wearing a pair of charlatan’s gloves, you can produce an illusory image that fits in the palm of your hand. The image can’t create sound, light, smell, or any other sensory effect.
+  Any creature that uses the Seek action to examine it can attempt to disbelieve your illusion. Physical interaction with the image reveals it to be an illusion because things can pass through it.
+)
+item(
+# Drybrooch
+## Item 0
+-
+; Common, Magical
+**Price** 2 gp
+
+**Usage** worn; **Bulk** -
+-
+  **Activate** :a: Interact; **Effect** While holding or wearing a drybrooch, you can activate the item to summon or dismiss a dome of energy that manifests just above your head. This energy repels moderate quantities of frozen and liquid water, such as rain, snow, bird droppings, or other similar nuisances, but can’t be used to protect against harsh environmental hazards or attacks. 
+-
+  **Type** basic; **Level** 0; **Price** 2 gp
+The basic drybrooch produces a field around you that is silvery and translucent
+-
+  **Type** basic; **Level** 1; **Price** 10 gp
+A more expensive model, this custom drybrooch has basic illusions woven into the field. One popular drybrooch creates the image of a sunny blue sky overhead.
+)
+|
+item(
+# Final Messenger
+## Item 1
+-
+; Invested, Magical, Warforged
+**Usage** worn; **Bulk** L
+
+**Price** 5 gp
+-
+A final messenger is a tiny homunculus—a delicate winged creature designed to facilitate communication between warforged soldiers during the Last War. If you are a warforged, you can invest in the Final Messenger item to hold a final messenger and integrate it into your body. While it is part of your body, the messenger cannot be targeted by any attack. You can only have one messenger attached to your body at a time.
+
+A final messenger holds four pieces of data, accessible only to the warforged it is attached to:
+- A destination for the messenger. This can be very specific (a particular apartment in Sharn) or more general (an open marketplace).
+- A target individual. This could be a specific person or a category (“Any Karrnathi warforged”).
+- A single image recorded through the eyes of a warforged attached to the messenger.
+- A message of up to 25 words. 
+  
+
+A final messenger uses the Homunculus stat block but loses the Master Link, and all attacks. It gains the Mindless trait adjusting to Int -5, Wis 0, and Cha -5. A messenger can only remain active for 8 hours after it detaches from a warforged body, after which time its energy dissipates and it falls unconscious. An unconscious messenger must complete 8 hours attached to a warforged, after which it regains its energy, as well as regaining all lost hit points.
+
+
+**Activate** 1 minute Interact; **Effect** While the messenger is attached to you, you can spend 1 minute to review the data currently stored within the final messenger, and if you choose, change any or all of these data points.
+
+**Activate** :a: Interact; **Effect** You release the final messenger, at which point it flies to its destination by the most direct route possible. Once it reaches the destination it seeks the target individual; if no target has been set, it approaches the nearest warforged.
+)
+=
+item(
+**Activate** :f:; **Trigger** you are reduced to 0 hit points while a final messenger is attached to you; **Effect** You release the final messenger, it immediately detaches and seek out its target. It retains its stored message but replaces its stored image with the last thing you saw before dropping to zero hit points.
+)
+item(
+# Psionic Focus
+## Item 3
+-
+; Kalashtar, Invested, Magical
+**Usage** worn
+-
+This item is a small amulet manufactured by the Kalashtar to focus their psionic powers. You may apply fundamental weapon runes to this amulet. Any runes applied to this amulet also manifest on the psi-blades manifested by the kalashtar Psi-Blade feat. 
+)
+item(
+# Thunderous amulet
+## Item 2
+-
+; Magical
+**Usage** worn; **Bulk** L
+
+**Price** 20 gp
+-
+A round amulet of two brass circles, one set inside the other and held together by a thin sheet of dark cloth. 
+**Activate** :aa: Interact, (up to 10 minutes); **Frequency** Unlimited **Effect** While you sustain this activation, your voice and other sounds you produce are three times as loud as normal.
+)
+item(
+# Spark
+## Item 1
+-
+; Common, Magical
+**Usage** held in 1 hand; **Bulk** L
+
+**Price** 4 gp
+-
+The spark is a small oval stone engraved with Fernian glyphs.
+**Activate** :a: Interact; **Frequency** Unlimited **Effect** You can light or snuff out a candle, torch, small campfire, or similar source of flame that you touch with the stone.
+)
+item(
+# Uul’kur (Dream Key)
+## Item 2
+-
+; Uncommon, Magical, Goblin
+**Price** 20 gp
+
+**Usage** worn; **Bulk** L
+-
+This iron token is inlaid with a sliver of a Siberys dragonshard. Most are worn as brooches, but others take the form of coins or keys. While an uul’kur is a common magic item, the secret of their creation is known only to the chot’uul monks of the Heirs of Dhakaan, and they are largely unknown in the Five Nations.
+)
+|
+item(
+When you sleep with an uul’kur on your person, you remain fully lucid when you dream, and when you wake, you clearly remember everything that transpired. If you understand the workings of the uul’kur, you can use 11 minutes to bind it to your dreams until dawn the next day. While bound, any creature who sleeps with this token on its person shares your dream instead of creating its own, provided you are asleep at the same time.
+)
+item(
+# vola’khesh
+## Item 3
+-
+; Uncommon, Magical, Goblin
+**Price** 30 gp
+
+**Usage** worn; **Bulk** L
+-
+This small carved stone is typically bound to a leather strap worn around the wrist or neck. Designed by the Dhakaani duur’kala, the vola’khesh facilitates communication between elite units. They are created in linked sets; up to ten stones can be bound together, and once established, this link cannot be changed. At present, the vola’khesh are only used by the Kech Dhakaan and are unknown to the people of the Five Nations. 
+If the enchantments were replicated, these tools could be put into use by spies and law enforcement agencies of the Five Nations.
+**Activation** :a: Interact; **Effect** whisper a message. This message is heard by all creatures within 120 feet wearing a linked vola’khesh. Magical silence, 1 foot of stone, 1 inch of common metal, or 3 feet of wood will block this effect, but the magic doesn’t have to follow a straight line and can travel freely around corners or through openings.
+-
+**Crafting Requirements** Any vola'khesh which you are linking to the newly crafted stone must be present for the full duration of the crafting.
+)

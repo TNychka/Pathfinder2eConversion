@@ -5321,6 +5321,7 @@ Clawfoot | 1 sp per day | 26 gp (level 2)
 Fastieth | 9 cp per day | 8 gp
 Valenar Riding Horse | 3 sp per day | 20 gp* (level 3)
 Valenar Guard Dog | 3 cp per day | 1 gp* (level 3)
+Valenar Hawk | 3 cp per day | 1 gp* (level 3)
 Magebred Animal | |
     Magebred Guard Dog | 2 cp per day | 4 sp
     Magebred Riding Dog | 12 cp per day | 8 gp
@@ -6744,6 +6745,35 @@ You unleash a bolt of pystical power at a creature or object within range. Make 
 **Success** You deal full damage.
 -
 **Heightened (+1)** The damage increases by 1d4.
+)
+item(
+# Sai'la's Moonblade
+## Spell 4
+-
+; Evocation, Light
+**Traditions** divine
+
+**Cast** :a: to :aaa:
+
+**Range** varies; **Targets** 1 creature
+
+**Saving Throw** Fortitude
+-
+Channelling your divine powers, you bring a blade of moonlight down onto a creature you can see. You deal 5d10 positive damage. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.
+
+:a: (somatic) The spell has a range of touch.
+:aa: (somatic, verbal) The spell has a range of 30 feet.
+:aaa: (material, somatic, verbal) The spell has a range of 60 feet and creates a 20-foot burst of blades of moonlight
+
+**Critical Success** The creature is unaffected.
+
+**Success** The creature takes half damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success worse. 
+
+**Failure** The creature takes full damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it.
+
+**Critical Failure** The creature takes double damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success better. 
+-
+**Heightened (+1)** the damage increases by 1d10.
 )
 =
 head(
