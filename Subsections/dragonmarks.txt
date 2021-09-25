@@ -1,5 +1,5 @@
 watermark (
-Version 0.18.4
+Version 0.19.0
 )
 title (
 Pathfinders' Guide to Eberron 
@@ -24,9 +24,9 @@ With a flash from the Dragonmark of a Dennith heir, the swing of a blade is defl
 **Aberrant Mark:** This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits.
 
 **Aberrant Feedback:** The use of your Aberrant powers can be overwhelming. See the Aberrant Mark feedback section for more information.
-
-**Dragonmark:**  Feats, Items, and Spells with this trait are powered by your dragonmark and require that you have the dragonmark trait to interact with them. Creatures with this trait have manifested a dragonmark.
 =
+**Dragonmark:**  Feats, Items, and Spells with this trait are powered by your dragonmark and require that you have the dragonmark trait to interact with them. Creatures with this trait have manifested a dragonmark.
+
 **Dragonmarked Heritage:** When you select your heritage as one of the dragonmarked bloodlines, you gain this trait. This does not necessarily mean you have a dragonmark, only that you have the potential to develop and use one. You may only pick feats with this trait if you have the dragonmarked heritage trait.
 
 **Mark of Detection:** This mark heritage trait is unique to the Mark of Detection Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Mark of Detection trait, in which case you ignore any other specific mark heritage traits.
@@ -61,11 +61,9 @@ If you have the dragonmarked heritage trait, you may pick from any of the follow
 
 right(
 # Manifesting a Dragonmark
-Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. 
-  
-Children are not born with their marks. Rather, a dragonmark most often appears in response to a stressful situation in which the powers of the mark could prove useful. A Deneith heir feels her dragonmark flare to life as her best friend would take a mortal wound. A Lyrandar scion instinctively dashes across the ropes of a storm-tossed ship, and in an instant of burning pain, their mark appears. However, this is not exclusively the case. Sometimes marks will appear later in life, or even never manifest.
-  
-If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities. Though most marks start as least marks, some will manifest a lesser mark or even greater mark without explanation. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If you do not meet the prerequisites or level of the dragonmarked feat, it gains the Rare trait.
+    Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. 
+    Children are not born with their marks. Rather, a dragonmark most often appears in response to a stressful situation in which the powers of the mark could prove useful. A Deneith heir feels her dragonmark flare to life as her best friend would take a mortal wound. A Lyrandar scion instinctively dashes across the ropes of a storm-tossed ship, and in an instant of burning pain, their mark appears. However, this is not exclusively the case. Sometimes marks will appear later in life, or even never manifest.
+    If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities. Though most marks start as least marks, some will manifest a lesser mark or even greater mark without explanation. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If you do not meet the prerequisites or level of the dragonmarked feat, it gains the Rare trait.
 )
 
 #### 1st Level
@@ -114,7 +112,7 @@ item(
 ; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Greater Mark
 -
-You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as an extremely valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional dragonmark focus spell and an additional dragonmark focus point.
+You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as an valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional dragonmark focus spell and an additional dragonmark focus point.
 )
 
 =
@@ -360,7 +358,6 @@ item(
 **Prerequisites** You do not have a Dragonmark, your house is willing to run your test
 -
 The Test of Siberys is a rite of passage undertaken by adolescent children of the dragonmarked houses. The test varies from house to house and is based both on the powers of the mark and the traditions of the family. Outsiders, even those of dragonmarked houses, know little of what goes on in a particular house’s test. The test is rumoured to induce the kind of extreme stress needed for dragonmarks to manifest. Though a person can fail the test and still manifest a mark at a later age, this is rare. As a rule, it is assumed that those who fail will never develop a dragonmark.
-
 If you choose the Test of Siberys, your character must undergo the test associated with their mark. _If_ you succeed, gain the Least Mark ancestry feat.
 )
 note(
@@ -426,6 +423,7 @@ item(
 -
 You can call upon the power of your Siberys dragonmark to call a dying ally within 30 feet back from the brink. The ally you mark regains 1 hit point, does not increase their wounded condition, and gains a +2 status bonus to AC until the end of their next turn. Additionally, you may choose to expend one charge of your dragonmark focus pool to transfer as many of your remaining hit points to the marked creature as you wish. You cannot reduce your own hit points below 0 or raise the target's hit point total above its maximum.
 )
+|
 item(
 # Mark of Destiny :r:
 ## feat 19
@@ -441,8 +439,6 @@ You can use your Siberys mark to bend fate itself. You may invoke the mark of de
 - When you make a check. You may expend one charge of your dragonmarked focus pool to reroll a check. You must use the second result. 
 - If you have at least 2 dragonmarked focus points you may expend them all to avoid death. You can do this when your dying condition would increase. You lose the dying condition entirely and stabilize with 0 Hit Points. You don’t gain the wounded condition or increase its value from losing the dying condition in this way, but if you already had that condition, you don’t lose it or decrease its value.
 )
-  
-
 /
 =
 head(

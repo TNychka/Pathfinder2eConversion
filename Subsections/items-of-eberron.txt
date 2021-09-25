@@ -1,5 +1,5 @@
 watermark (
-Version 0.18.4
+Version 0.19.0
 )
 title (
 Pathfinders' Guide to Eberron 
@@ -46,11 +46,9 @@ Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Greatarrows | 5gp<br><br>2sp | 1d8 P
 ## Armour Traits
 **Primal:** This armour is created entirely out of primal components, and can be considered wooden armour for druid and other anathemas.
 ## Armour Descriptions
-**Darkleaf:** Similar to leafweave armour, darkleaf armour is made of carefully cured and beautifully carved pieces of wood, supplemented by treated leaves. This special process enables the many primal
+**Darkleaf:** Similar to leafweave armour, darkleaf armour is made of carefully cured and beautifully carved pieces of wood, supplemented by treated
 |
-  
-  practitioners of the world a sturdy, yet entirely
-  natural armour.
+leaves. This special process enables the many primal practitioners of the world a sturdy, yet entirely natural armour.
 
 **Leafweave:** The artisans of Aerenal weave suits of armour from leaves and wood, which are then treated by a special process that makes them as tough and flexible as leather. This special process enables the many primal practitioners of the world a sturdy, yet entirely natural armour.
 =  
@@ -71,13 +69,15 @@ Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Greatarrows | 5gp<br><br>2sp | 1d8 P
 
 **Boomerang, Xen'drik:** The drow of Xen'drik use three-pronged bladed boomerangs to hunt prey. Some adventurers and explorers learn to use the weapon while operating in the Xen'drik jungles, but few outside the drow communities ever master the intricacies of the Xen'drik boomerang.
 
-**Double-Bladed Scimitar:** The Double-Bladed Scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result, the double-bladed scimitar is an expensive weapon — few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might feel entitled to demand its return or challenge the bearer to prove they’re worthy to wield it.
+**Double-Bladed Scimitar:** The Double-Bladed Scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result, the double-bladed scimitar is an expensive weapon — few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might
 |
+feel entitled to demand its return or challenge the bearer to prove they’re worthy to wield it.
+
 **Gnoll bow:** Though the gnoll bow is not significantly larger than a normal longbow, the draw of the weapon is deceptively heavy. Great bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles significantly faster, resulting in greater penetrating power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to gnoll bows unless otherwise stated. To craft a gnoll bow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
 
 **Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Depending on the wielder's stance, the myrnaxe is either functionally a battleaxe or a spear. A user may switch between the sides of the myrnaxe with an interact action. The myrnaxe has the damage, hands, group, and weapon traits of the side in user.  Myrnaxes are composed of two attached items: the Myrnaxe - Axe, and the Myrnaxe - Spearhead. It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk—thus maximizing its versatility against multiple foes. When crafting a myrnaxe, both sides are manufactured at the same time, using their respective crafting costs for material, and forming a completed Myrnaxe when finished. Each side of the weapon gains the effect of its respective precious material. You may not wield individual halves of the Myrnaxe.
 
-**Sharrash:** Similar to a scythe, the Talenta sharrash developed by the halflings of the Plains consists of a sicklelike blade at the end of a long pole.
+**Sharrash:** Similar to a scythe, the Talenta Sharrash developed by the halflings of the Plains consists of a sicklelike blade at the end of a long pole.
 
 **Tangat:** The Tangat, developed by the halflings of the Talenta Plains, features a curved blade (like a scimitar's) mounted on a short haft.
   
@@ -103,11 +103,9 @@ Traveling papers | 2 cp | - | -
 
 **Clothing, glamerweave**: Glamerweave is a fine, light fabric that has delicate illusions woven into its threads. The colour of glamerweave seems to shift subtly and is hard to describe, but this property makes for a striking and strangely beautiful appearance. A character wearing glamerweave clothing gains a +1 item bonus on Diplomacy checks. Glamerweave clothing costs 100 gp more than a normal outfit of the same sort and gains the same benefits (such as High Fashion Fine Clothing).
 
-**Arcane Signet Ring:** The dragonmarked houses of Khorvaire use these rings extensively for identification purposes. They resemble ordinary signet rings but are set with gemstones like more decorative rings. Inside a large central gemstone, an intricate runic pattern, which is an arcane mark, becomes visible when worn by the person for whom it was constructed. It is extremely unusual for
+**Arcane Signet Ring:** The dragonmarked houses of Khorvaire use these rings extensively for identification purposes. They resemble ordinary signet rings but are set with gemstones like more decorative rings. Inside a large central gemstone, an intricate runic pattern, which is an arcane mark,
 |
-  
-    anyone who does not have the Favored in House
-    feat to carry an arcane signet ring.
+becomes visible when worn by the person for whom it was constructed. It is extremely unusual for anyone who does not have the Favored in House feat to carry an arcane signet ring.
 
 **Signet Brooch** Other members of a dragonmarked house, whether actual scions or important hired help, wear signet brooches to identify their affiliation. These items don’t contain an arcane mark like the Arcane Signet Ring but are well made from expensive materials.
 
@@ -228,10 +226,10 @@ Large City | 4th level | 11th level
 Metropolis | 5th level | 13th level 
 
 note(
-Magic level listed is the suggested maximum that could be found, and may not be present or accessible to adventurers. Beyond 3rd level spells, 4th and 5th level capable casters are likely rare or unique NPCs who may be entirely unavailable, or unwilling, to meet adventurers. 6th and 7th level capable casters are considered Unique rarity, and a GM should always consider how such a powerful NPC is present in the world. Higher-level items may be theorized about in the arcane centres of Khorvaire, and blueprints might be available, but the odds of finding items of 10th level or beyond available for retail is unlikely.
+Magic level listed is the suggested maximum that could be found, and may not be present or accessible to adventurers. Beyond 3rd level spells, 4th and 5th level capable casters are likely rare or unique NPCs who may be entirely unavailable, or unwilling, to meet adventurers. 6th and 7th level capable casters are considered a Unique rarity, and a GM should always consider how such a powerful NPC is present in the world. Higher-level items may be theorized about in the arcane centres of Khorvaire, and blueprints might be available, but the odds of finding items of 10th level or beyond available for retail is unlikely.
 )
 ## Common Items
-The following items are likely not of interest to adventurers, but are of value to the common folk of the world.
+The following items are likely not of interest to adventurers but are of value to the common folk of the world.
 item(
 # Bright Basin
 ## Item 0
@@ -675,11 +673,11 @@ item(
 
 **Usage** touched with two hands; **Bulk** 3
 -
-This device is the key to long-distance communications across Khorvaire, powering the message stations of House Sivis. A character who possesses the Mark of Scribing can use a speaking stone to send a message to any other speaking stone; the sender must know the location of the target stone. This effect is similar to that of the sending spell. However,the message travels at a rate of 1 mile per
+This device is the key to long-distance communications across Khorvaire, powering the message stations of House Sivis. A character who possesses the Mark of Scribing can use a speaking stone to send a message to any other speaking stone; the sender must know the location of the target stone. This effect is similar to that of the sending spell. However, the message travels at a rate of 1-mile per
 )
 =
 item(
-minute, has no maximum number of words, and does not allow immediate response. When the message reaches its target stone, it is delivered whether or not anyone is around to hear it.
+minute has no maximum number of words and does not allow an immediate response. When the message reaches its target stone, it is delivered whether or not anyone is around to hear it.
 
 In a Sivis message station, a gnome is always on duty by the speaking stone, listening for any messages that may come in and scribing them upon receipt. Large cities, such as Sharn, may contain multiple stone stations. Major stations often possess more than one speaking stone. 
 -
@@ -728,7 +726,11 @@ Tied to the Mark of Passage, this object acts as a magical beacon to Orien heirs
 
 A character with the Mark of Passage using any feature with the teleportation trait may double the range of the teleportation effect as long as the destination point is within 10 feet of an astral beacon. In addition, for the purposes of teleport, selecting a location within 10 feet of an astral beacon is always accurate within 20 feet no matter the distance travelled.
 
-In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
+In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation
+)
+=
+item(
+circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
 -
 **Craft Requirements** Crafter must have the Mark of Passage
 )
@@ -739,11 +741,7 @@ item(
 ; Magical, Mark of Warding, Dragonmark, Structure
 **Price** 1000 gp; **Weight** permanent structure
 -
-The Extended Ward holds are relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. It is frequently difficult to differentiate from a houseward.
-)
-=
-item(
-This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an additional 10 minutes of cast time on an area that contains the Extended Ward or on a person or object within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning.
+The Extended Ward holds are relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. It is frequently difficult to differentiate from a houseward. This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an additional 10 minutes of cast time on an area that contains the Extended Ward or on a person or object within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning.
 )
 item(
 # Houseward
@@ -754,13 +752,16 @@ item(
 -
 While the dragonshard core is quite small, the houseward itself is a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. It is frequently difficult to differentiate from an Extended Ward.
 
-A character who possesses a lesser Mark of Warding or better can use the Houseward in their Ward Domain ritual to target an area centred around the houseward. If the character does so, they may use their mark of warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+A character who possesses a lesser Mark of Warding or better can use the Houseward in their Ward Domain ritual to target an area centred around the houseward. If the character does so, they may use their mark of warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two
+)
+|
+item(
+secondary casters must still not perform the same check.
 
 The character must still provide the material components for the ward domain spell.
 -
 **Craft Requirements** Crafter must have the Mark of Healing
 )
-|
 =
 head(
 # Magic Items ((Magic Items))
@@ -949,7 +950,7 @@ item(
 ## Material 0+
 -
 ; Precious
-Eberron dragonshards, also called bloodstones, are found encased in geode like stone shells—egg-shaped rocks perhaps a foot across. These stone shells usually lie just below the surface of the ground, covered by 2 to 10 feet of dirt and sediment, but always above the bedrock layer. Since Eberron dragonshards are not found buried within rock, most shard fields are in lowlands, as opposed to mountains or rocky barrens.
+Eberron dragonshards also called bloodstones, are found encased in geode like stone shells—egg-shaped rocks perhaps a foot across. These stone shells usually lie just below the surface of the ground, covered by 2 to 10 feet of dirt and sediment, but always above the bedrock layer. Since Eberron dragonshards are not found buried within rock, most shard fields are in lowlands, as opposed to mountains or rocky barrens.
 -
  **Type** unproccessed small eberron shards (up to 2 inches); **Level** 0; **Price** 4 sp; **Bulk** -
 -
@@ -1293,7 +1294,7 @@ A final messenger holds four pieces of data, accessible only to the warforged it
 A final messenger uses the Homunculus stat block but loses the Master Link, and all attacks. It gains the Mindless trait adjusting to Int -5, Wis 0, and Cha -5. A messenger can only remain active for 8 hours after it detaches from a warforged body, after which time its energy dissipates and it falls unconscious. An unconscious messenger must complete 8 hours attached to a warforged, after which it regains its energy, as well as regaining all lost hit points.
 
 
-**Activate** 1 minute Interact; **Effect** While the messenger is attached to you, you can spend 1 minute to review the data currently stored within the final messenger, and if you choose, change any or all of these data points.
+**Activate** 1 minute Interact; **Effect** While the messenger is attached to you, you can spend 1 minute reviewing the data currently stored within the final messenger, and if you choose, change any or all of these data points.
 
 **Activate** :a: Interact; **Effect** You release the final messenger, at which point it flies to its destination by the most direct route possible. Once it reaches the destination it seeks the target individual; if no target has been set, it approaches the nearest warforged.
 )
@@ -1343,11 +1344,11 @@ item(
 
 **Usage** worn; **Bulk** L
 -
-This iron token is inlaid with a sliver of a Siberys dragonshard. Most are worn as brooches, but others take the form of coins or keys. While an uul’kur is a common magic item, the secret of their creation is known only to the chot’uul monks of the Heirs of Dhakaan, and they are largely unknown in the Five Nations.
+This iron token is inlaid with a sliver of a Siberys dragonshard. Most are worn as brooches, but others take the form of coins or keys. While an uul’kur is a common magic item, the secret of its creation is
 )
 |
 item(
-When you sleep with an uul’kur on your person, you remain fully lucid when you dream, and when you wake, you clearly remember everything that transpired. If you understand the workings of the uul’kur, you can use 11 minutes to bind it to your dreams until dawn the next day. While bound, any creature who sleeps with this token on its person shares your dream instead of creating its own, provided you are asleep at the same time.
+known only to the chot’uul monks of the Heirs of Dhakaan, and they are largely unknown in the Five Nations. When you sleep with an uul’kur on your person, you remain fully lucid when you dream, and when you wake, you clearly remember everything that transpired. If you understand the workings of the uul’kur, you can use 11 minutes to bind it to your dreams until dawn the next day. While bound, any creature who sleeps with this token on its person shares your dream instead of creating its own, provided you are asleep at the same time.
 )
 item(
 # vola’khesh

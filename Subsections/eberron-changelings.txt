@@ -1,50 +1,34 @@
 watermark (
-Version 0.16
+Version 0.19.0
 )
 title (
 Pathfinder's Guide to Eberron 
 )
 head(
-## Eberron Changelings ((+Eberron Changelings))
+# Eberron Changelings ((+Eberron Changelings))
 Long ago there was a woman named Jes, and she had one hundred children. Her rivals conspired against her and swore to kill her children. Jes begged the Sovereigns for help, but their only answer was the wind and rain. In the depths of her despair, a lonely Traveller took her hand. “I will protect your children if they follow my path. Let them wander the world. They may be shunned and feared, but they will never be destroyed.” Jes agreed, and the Traveller gave her his cloak. When she draped it over her children, their old faces melted away and they could be whoever they wanted to be. And so it remains. Though the children are shunned by all, the gift of the Traveler protects them still.
 -
 )
-Known under the moniker of "The Children of Jes", changelings are humanoid creatures with shape-changing abilities. In particular, their abilities allow them to take the form of other humanoid creatures with little limitation on who. Many use their gifts as a form of artistic expression or to convey their current emotional state, adopting certain persona's depending on the context of their moods. However, it does not go unnoticed by many, including some changelings themselves, that their ability is an invaluable tool for grifters, spies, and those whose aims are to deceive. This leads many people to treat changelings with a general suspicion.
-
-Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, families who keep their true nature hidden from the single-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler. Wherever humans live, changelings reside also; the question is whether they make their presence known.
-
-A persona is known as the faces and personalities each changeling chooses to adopt - based on where changelings are born their personas are likely to vary. A changeling born in an isolated community might only possess one persona that they developed, using a single face as they exist on Khorvaire, while those belonging to a community of changelings will have multiple personas and perhaps come to share them with one another, each being "Tamirin the Traveling Seamstress" on different days of the week. 
-[5]
+    Known under the moniker of "The Children of Jes", changelings are humanoid creatures with shape-changing abilities. In particular, their abilities allow them to take the form of other humanoid creatures with little limitation on who. Many use their gifts as a form of artistic expression or to convey their current emotional state, adopting certain personas depending on the context of their moods. However, it does not go unnoticed by many, including some changelings themselves, that their ability is an invaluable tool for grifters, spies, and those whose aims are to deceive. This leads many people to treat changelings with general suspicion.
+    Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, families who keep their true nature hidden from the single-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler. Wherever humans live, changelings reside also; the question is whether they make their presence known.
+    A persona is known as the faces and personalities each changeling chooses to adopt - based on where changelings are born their personas are likely to vary. A changeling born in an isolated community might only possess one persona that they developed, using a single face as they exist on Khorvaire, while those belonging to a community of changelings will have multiple personas and perhaps come to share them with one another, each being "Tamirin the Traveling
+|
+Seamstress" on different days of the week. [5]
 
 ## You might...
 - Shift your shape to a persona that matches your mood or current activity. Though you, never use a particular form for too long before moving on to the next.
 - Travel light, and keep an eye on the road, never settling down - whether that be a fear of being driven away or simply a restless desire to travel.
-- Take great interest in the people around you, their stories, and their histories. After all, these new learnings might be the basis for one of your future personas.
+- Take a great interest in the people around you, their stories, and their histories. After all, these new learnings might be the basis for one of your future personas.
 ## Others Probably...
 - Others assume that because you have the uncanny ability to change their faces at will, that you will use it for malevolent ends, cheating honest folk before moving on.
 - Employ you for your ability to shift your shape to any number of forms, whether this is for entertainment, acting, or protection.
 - Don't understand the fluid nature you have with gender, form, or personality.
-|
+
 ## Physical Description...
-Changelings are typically 5 to 6ft tall, weighing between 120 to 180lbs. Their base form is a nondescript humanoid shape with white skin, hair, and featureless eyes - not unlike a mannequin. Beyond this, because of their ability to shift-shape, changelings do not have a set physical description.
+    Changelings are typically 5 to 6ft tall, weighing between 120 to 180lbs. Their base form is a nondescript humanoid shape with white skin, hair, and featureless eyes - not unlike a mannequin. Beyond this, because of their ability to shift-shape, changelings do not have a set physical description.
 
 ## Society...
-Changeling society is fragmented, and no two groups of changelings have the same culture. However, for changelings that live in areas where other of their kind reside, an often shared feature is a fluidity in concepts of identity, gender, and personality. Changelings that aim to master the form of shapechanging and mimicry tend to treat each persona as a real being, breathing life into reach persona. Some almost eternal figures of local legend, like the vampires lurking in abandoned fortresses, are instead multi-generational efforts of changeling families, all inheriting the persona when they are deemed ready. Is your changeling adventuring to prove they are worthy of inheriting one of these legendary personas? 
-
-## Alignment and Religion...
-Changelings tend towards pragmatic neutrality, and few changelings embrace evil. As changelings are primarily products of the culture in which they grow, their moral alignment tends to match the alignment of their peers. Similarly, for religion, a changeling might be inclined to follow the dominant faith of their peers. 
-
-However, there are many changelings who find a connection the the Traveler, and live a life with less consistency and more chaos - almost as if the god of trickery and change guides them. 
-
-## Names...
-A changeling might use a different name for each mask and persona, and adopt new names as easily as they change faces. The true name of a changeling tends to be simple and monosyllabic. For changelings that share personas with their communities, there are often accents each individual changeling employs that is missed by the single-skins. Two changelings might both play the role of Amel, but one is Amel-with-vivid-blue-eyes and the other is Amel-with-golden-nails.
-
-### Sample Names
-Changeling Names: Aunn, Bin, Cas, Dox, Fie, Hars, Jin, Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug
-
-note(
-See the Exploring Eberron entry on Changeling personas on pg. 34.
-)
+Changeling society is fragmented, and no two groups of changelings have the same culture. However, for
 =
 right(
 ## Hit Points
@@ -68,6 +52,22 @@ Shapeshifter
 ## Shapeshifter
 You gain the Shift shape action as noted in the Changeling entry.
 )
+changelings that live in areas where other of their kind reside, and often shared feature is a fluidity in concepts of identity, gender, and personality. Changelings that aim to master the form of shapechanging and mimicry tend to treat each persona as a real being, breathing life into reach persona. Some almost eternal figures of local legend, like the vampires lurking in abandoned fortresses, are instead multi-generational efforts of changeling families, all inheriting the persona when they are deemed ready. Is your changeling adventuring to prove they are worthy of inheriting one of these legendary personas? 
+
+## Alignment and Religion...
+    Changelings tend towards pragmatic neutrality, and few changelings embrace evil. As changelings are primarily products of the culture in which they grow, their moral alignment tends to match the alignment of their peers. Similarly, for religion, a changeling might be inclined to follow the dominant faith of their peers. 
+
+However, many changelings find a connection to the Traveler and live a life with less consistency and more chaos - almost as if the god of trickery and change guides them. 
+
+## Names...
+    A changeling might use a different name for each mask and persona, and adopt new names as easily as they change faces. The true name of a changeling tends to be simple and monosyllabic. For changelings that share personas with their communities, there are often accents each individual changeling employs that is missed by the single-skins. Two changelings might both play the role of Amel, but one is Amel-with-vivid-blue-eyes and the other is Amel-with-golden-nails.
+
+### Sample Names
+Changeling Names: Aunn, Bin, Cas, Dox, Fie, Hars, Jin, Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug
+
+note(
+See the Exploring Eberron entry on Changeling personas on pg. 34.
+)
 
 item(
 # Shift shape :aaa:
@@ -75,17 +75,17 @@ item(
 ; concentrate,Occult,Eberron Changeling,Polymorph,Transmutation
 **Frequency** Once per 10 minutes
 -
-You can change your appearance and your voice. You determine the specifics of the changes, including your colouration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another ancestry, although your game statistics do not change. You cannot duplicate the appearance of a creature you have never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. However, your clothing and equipment are unchanged by this trait.
-
-Shift shape counts as setting up a disguise for the Impersonate use of Deception; it ignores any circumstance penalties you might take for disguising yourself as a dissimilar creature, it gives you a +4 status bonus to Deception checks to prevent others from seeing that you are a shapeshifted changeling, and you add your level even if you're untrained. You can Dismiss this spell.
+    You can change your appearance and your voice. You determine the specifics of the changes, including your colouration, hair length, and sex. You can also adjust your height and weight, but not so much that your size changes. You can make yourself appear as a member of another ancestry, although your game statistics do not change. You cannot duplicate the appearance of a creature you have never seen, and you must adopt a form that has the same basic arrangement of limbs that you have. However, your clothing and equipment are unchanged by this trait.
+    Shift shape counts as setting up a disguise for the Impersonate use of Deception; it ignores any circumstance penalties you might take for disguising yourself as a dissimilar creature, it gives you a +4 status bonus to Deception checks to prevent others from seeing that you are a shapeshifted changeling, and you add your level even if you're untrained. You can Dismiss this spell.
 
 **Special** You stay in the new form until you use shift shape to revert to your true form or until you die.
 )
 note(
 As per the wording of shift shape, it requires two applications of shift shape to change from one disguise to another. Once to revert to your true form, and once to shift to the new disguise.
 )
+=
 # Changeling Heritages
-Changelings are nearly homogenous in their physiology, however the formitive years of a changeling have a large impact on their future. Choose one of the following changeling heritages at 1st level.
+Changelings are nearly homogenous in their physiology, however, the formative years of a changeling have a large impact on their future. Choose one of the following changeling heritages at 1st level.
 
 ## Changeling Traveler
 You're an urban nomad, wandering from city to city. You become trained in the Society Skill (or another skill if you were already trained in Society) and gain the Streetwise skill feat. You have experience fitting into the local culture and blending with the common folk, so you're easily able to get a feel for the pulse of the local settlement. You may use the streetwise skill in any settlement in which you have spent at least a day.
@@ -94,17 +94,17 @@ You're an urban nomad, wandering from city to city. You become trained in the So
 While changelings are common in major cities, there are many villages and towns where changelings are treated with fear and suspicion. You might have been born into such a community, possibly never even knowing another changeling. As a hidden changeling, you have crafted a single identity that you consider to be your true face. You gain a +4 circumstance bonus to Impersonate checks to pretend you are of the ancestry which you were raised as. In addition, you gain the adopted ancestry feat for that ancestry.
 
 note(
-While you gain a circumstance bonus to pretend you are of an ancestry, this does not apply to deception checks you make while you are that ancestry. For instance, a human guard might be unable to see that you are not human and are actually a shapeshifted changeling, but might still be able to see that you are not the guard you are pretending to be.
+While you gain a circumstance bonus to pretend you are of an ancestry, this does not apply to deception checks you make while you are that ancestry. For instance, a human guard might be unable to see that you are not human and are a shapeshifted changeling, but might still be able to see that you are not the guard you are pretending to be.
 )
 
 ## Persona Changeling
-You have developed multiple personas that have developed as entirely separate lives - and are connected to the network of changeling personas across Khorvaire. You gain the Different Worlds feat. In addition, when you approach a new community you may already be aware of local changeling personas that you can use. At the GM's discretion, make a DC 15 flat check. If you succeed, you may interact with this settlement as if you had a second identity from the Different Worlds feat, but without the benefit of the lore skill. You could have already established a persona as a priest who will receive sustenance at the local temple, a folk hero who will be sheltered by the common people, or a veteran soldier who can always get a bed at the local garrison. Once this check has been made against a settlement, you may not make it again for another month.
+    You have developed multiple personas that have developed as entirely separate lives - and are connected to the network of changeling personas across Khorvaire. You gain the Different Worlds feat. In addition, when you approach a new community you may already be aware of local changeling personas that you can use. At the GM's discretion, make a DC 15 flat check. If you succeed, you may interact with this settlement as if you had a second identity from the Different Worlds feat, but without the benefit of the lore skill. You could have already established a persona as a priest who will receive
+|
+sustenance at the local temple, a folk hero who will be sheltered by the common people, or a veteran soldier who can always get a bed at the local garrison. Once this check has been made against a settlement, you may not make it again for another month.
 
 ## Watchful Changeling 
 You're experienced with the deceptions of shapeshifters, given that you specialize in it. You are trained in the Deception skill (or another skill if you were already trained in Deception), and gain the Lie To Me skill feat. In addition, you gain a +2 circumstance bonus to detect polymorphed creatures.
-
-=
-
+  
 # Ancestry Feats
 At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Changeling, you select from among the following ancestry feats.
 #### 1st level
@@ -113,7 +113,7 @@ item(
 ## Feat 1
 -
 ; Eberron Changeling
-You can change your skin pattern to more closely match your environment. While in standard cover or in difficult terrain of rubble, snow, or underbrush, you gain the +4 circumstance bonus to your stealth checks to sneak or hide or otherwise avoid detection.
+You can change your skin pattern to more closely match your environment. While in standard cover or difficult terrain of rubble, snow, or underbrush, you gain the +4 circumstance bonus to your stealth checks to sneak or hide or otherwise avoid detection.
 )
 item(
 # Clawed Adaptation
@@ -127,7 +127,11 @@ item(
 ## feat 1
 -
 ; Eberron Changeling
-You excel at navigating social situations and keeping secrets. You gain the trained proficiency rank in Diplomacy and Deception. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Eberron Changeling Lore.
+You excel at navigating social situations and keeping secrets. You gain the trained proficiency rank in Diplomacy and Deception. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also
+)
+=
+item(
+become trained in Eberron Changeling Lore.
 
 **Special** If you are a Persona Changeling, the DC of your checks to find a persona in a settlement is reduced by 2.
 )
@@ -145,11 +149,6 @@ item(
 ; Eberron Changeling
 A lifetime of experience helps you see through disguises. When you come within 10 feet of a creature that is transformed into another form or is Impersonating a specific creature, the GM rolls a secret Perception check for you to realize that the creature is transformed, even if you didn't spend an action to Seek against that creature.
 )
-|
-right(
-## Skin Cant ((++Skin Cant))
- Skin cant is a method of visual communication available only to Changelings, though others may learn to understand it. You can shift your appearance in subtle ways to communicate messages to others who understand the language. This form of communication only has the visual trait.
-)
 item(
 # Skin Cant
 ## feat 1
@@ -157,19 +156,24 @@ item(
 ; Eberron Changeling
 You are familiar with the innate language of changelings and have picked up languages beyond this. You gain the Skin Cant language and an additional common language of your choice. In addition, if you spend a week of downtime training someone, they can learn to pick up on single word messages.
 )
+note(
+# Skin Cant ((++Skin Cant))
+ Skin cant is a method of visual communication available only to Changelings, though others may learn to understand it. You can shift your appearance in subtle ways to communicate messages to others who understand the language. This form of communication only has the visual trait.
+)
 item(
 # The Traveller's Gift
 ## feat 1
 -
 ; Eberron Changeling
 Have you heard of the Traveller? As a changeling whether or not you have, you have developed a knack for the Traveller's talents. Choose one cantrip from the occult spell list. You can cast this spell as an occult innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
-) 
+)
+|
 item(
 # Peronable Performer
 ## feat 1
 -
 ; Eberron Changeling
-Performing for others has always been second nature to you. You gain the Virtuosic Performer skill feat. If the performance you pick is visual, you can augment your performance with a use of shift shape to take on a visually appealing form. If you do so, the circumstance bonus is +2 whether or not you are master in performance. 
+Performing for others has always been second nature to you. You gain the Virtuosic Performer skill feat. If the performance you pick is visual, you can augment your performance with a use of shift shape to take on a visually appealing form. If you do so, the circumstance bonus is +2 whether or not you are a master in performance. 
 )
 item(
 # Wellversed Traveller
@@ -178,7 +182,6 @@ item(
 ; Eberron Changeling
 You have a way of communicating that leaves others hanging on your words. You become trained in Diplomacy (or another skill if you are already trained in Diplomacy). You may pick Bargain Hunter, Bon Mot, Group Impression, or Hobnobber. If you get a critical failure when using the skill feat you picked, it is a failure instead.
 )
-=
 #### 5th level
 item(
 # Climbing Adaptation
@@ -193,15 +196,16 @@ item(
 -
 ; Eberron Changeling
 Your ability to shape change is more than skin deep. When you use Shift Shape, the form you shift into no longer needs to have the same basic arrangement or number of limbs. You can transform into a form similar to any medium creature; humanoid, beast, or otherwise. You can add or remove limbs, digits, or even organs. Any feature added beyond your normal features (such as additional eyes, legs, or hands) is non-functional beyond the basics of keeping up appearances. Any removed features limit your physical abilities respectively. For instance, if you shift your shape to have no limbs then you similarly lose the ability to move and manipulate objects. These transformations can never modify your mental statistics.
-
+)
+=
+item(
 You cannot create non-fleshy materials such as chitin or metal plates. So though you could shape yourself into a construct creature, the material is very clearly flesh and is insufficient to deceive observers.
 
 In addition, your gear does not change shape with you and may not fit the form you choose to transform into if it is significantly different (such as shift shaping from your humanoid form into a wolf).
 )
 note(
-The intent of the deep shift feat is to allow a changeling to take on a visual appearance of any fleshy creature, and perform basic actions for the purposes of deception or performance. The shift should generally not provide any new abilities, movements, or otherwise, that a simple visual change doesn't support. Similarly, it should generally not remove standard abilities, movements, or otherwise of the character unless the new form clearly does not support the continued use of the feature.
+The intent of the deep shift feat is to allow a changeling to take on a visual appearance of any fleshy creature, and perform basic actions for the purposes of deception or performance. The shift should generally not provide any new abilities, movements, or otherwise, that a simple visual change doesn't support. Similarly, it should generally not remove standard abilities, movements, or otherwise of the character unless the new form does not support the continued use of the feature.
 )
-|
 item(
 # Emotional Empathy
 ## Feat 5
@@ -222,7 +226,7 @@ When you begin to fall, you're able to shift your shape to maximize your air res
 
 **Special** If you have the Rapid Shift feat, the trigger is instead when you begin to fall more than 5 feet.
 )
-
+|
 #### 9th level
 item(
 # Amorphous
@@ -245,9 +249,8 @@ item(
 ## Feat 9
 -
 ; Eberron Changeling
-The Traveller's gifts have manifested an ability for you to read others, and see or trouble before it happens. You can cast mind reading once per day as an occult innate spell. When you do so, mind reading loses the verbal and somatic casting requirements, and a critical failure becomes a failure instead.
+The Traveller's gifts have manifested an ability for you to read others, and see or trouble before it happens. You can cast mind reading once per day as an occult innate spell. When you do so, mind-reading loses the verbal and somatic casting requirements, and a critical failure becomes a failure instead.
 )
-=
 item(
 # Rapid Regeneration
 ## Feat 9
@@ -264,9 +267,11 @@ item(
 ; Eberron Changeling
 **Prerequisite** Expert in Performance.
 -
-You are a master of the unique changeling art of skin dancing. You are able to create intricate patterns and even images on your skin, and shift them about in mesmerizing ways. You can achieve effects such lighting coursing up your arms, or and fire dancing in a crown around your brow. 
-
-You gain the Virtuosic Performer skill feat in the specialty of dance (if you already have the Virtuosic Performer in dance, you may choose an additional different specialty). When you use the Virtuosic Performer feat for dance, you gain a +1 status bonus if you augment your performance with a special use of shift shape, or +2 if you are Legendary in Performance. This use counts against the frequency, but lasts for the full duration of your performance.
+You are a master of the unique changeling art of skin dancing. You can create intricate patterns and even images on your skin, and shift them about in mesmerizing ways. You can achieve effects such as
+)
+=
+item(
+lighting coursing up your arms, or and fire dancing in a crown around your brow. You gain the Virtuosic Performer skill feat in the speciality of dance (if you already have the Virtuosic Performer in dance, you may choose an additional different speciality). When you use the Virtuosic Performer feat for dance, you gain a +1 status bonus if you augment your performance with a special use of shift shape, or +2 if you are Legendary in Performance. This use counts against the frequency but lasts for the full duration of your performance.
 
 **Special** Skin dancer counts for the favourable form of the Personable Performer feat as well.
 )
@@ -278,11 +283,10 @@ item(
 ; Eberron Changeling
 **Prerequisite** Deep Shift
 -
-Your ability to change is at a level only seen in true mimics. When you shift shape, you can take on the appearance of any medium creature or object - within practical limits. This transformation doesn't change your statistics in any way, and you don't gain any special abilities of the form you assume (including potential functional features of an object - such as a key, ladder, rope, or crowbar).
+Your ability to change is at a level only seen in true mimics. When you shift shape, you can take on the appearance of any Medium creature or object - within practical limits. This transformation doesn't change your statistics in any way, and you don't gain any special abilities of the form you assume (including potential functional features of an object - such as a key, ladder, rope, or crowbar).
 
 You can recreate non-fleshy materials such as chitin or metal plates such that they are visually and tactilely deceptive to quick inspections. Materials created in this way do not have any functional properties of the material.
 )
-|
 item(
 # Terrifying Shift
 ## Feat 13
@@ -292,6 +296,7 @@ item(
 -
 With a rapid change of your form, you take on a monstrous form for an instant before shifting back. When you Demoralize, you can choose to replace the auditory trait and with the visual trait. You can then attempt a demoralize check against each enemy that can see you within 30 feet.
 )
+|
 #### 17th level
 item(
 # The Traveller's Protection :r:
@@ -300,11 +305,12 @@ item(
 ; Eberron Changeling, secret
 **Frequency** once per form of shift shape
 -
-With your ability to read a situation and change your form in precise and subtle ways, people second-guess whether or not they actually did see through disguise - as if the Traveller protects you still.
+With your ability to read a situation and change your form in precise and subtle ways, people second-guess whether or not they did see through disguise - as if the Traveller protects you still.
 
 If a creature succeeds on a check to see through your impersonation, you become aware of their increasing disbelief. The GM will make you aware that a creature succeeded on their check. You may choose to use the Traveller's protection to force a reroll of the dice to take the lower of the two options. If you do so, their check gains the misfortune trait, and the outcome of this new roll is a secret to you. 
 
 Similarly, if you fail an impersonation check against a creature, you are aware of your blunder. The GM will make you aware that you have failed the check, and you may choose to use the Traveller's protection to force a reroll to take the higher of the two options. If you do so, the check gains the fortune trait, and the outcome of this new roll is a secret to you.
 )
+
 =
 [5] Eberron: Rising from the Last War. Keith Baker 2019
