@@ -8,12 +8,12 @@ head(
 ## Bugbears ((+Bugbears))
 Dhakaani bugbears are known as Guul’dar, “strong folk,” and are celebrated for their strength and courage. Though they appear slow, they are capable of great bursts of strength or speed when necessary. Many yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha. Others instead find themselves at peace in small isolated clans, moving in flow with the nature around them.
 )
+
 Bugbears, for many, are monsters belonging to storybooks and nightmares. Stories speak of bugbears as great hairy beasts that lurk in the shadows - it is the bugbears that lie in the darkness undetected, waiting for the children that strayed off the beaten path or too far from their parents, or for the villagers wandering out at night away from their homes. They drag the foolish and unsuspecting to their den to be devoured alive; worse, if they cut off your head, your soul is bound to Eberron and can never reach Dolurrh. 
 
 These terrible and fearsome stories flowered from small seeds of truth. Most bugbears, despite their size, rely on stealth and the night time to surprise their enemies, and using great bursts of energy to end fights before the victim was aware of the fight to begin with. However, bugbears themselves are no more likely to eat other humanoids than humans themselves. The true bugbears of the forest, unlike those expected from human folklore, tend towards peace and the flow of nature rather than violence. After the Last War, many more stories of stoic bugbear rangers or druids guiding lost troops to safety through impossible terrain have been retold by soldiers. 
 
 Alongside this, new stories of bugbears are being forged by Darguun, a nation that rose from the ashes of the Last War. There are also many stories yet untold of the militant bugbears belonging to the secretive Dhakaani Empire. 
-
 
 ## You might...
 - Present an air of indolence that hides the vicious ferocity you display in battle.
@@ -26,6 +26,7 @@ Alongside this, new stories of bugbears are being forged by Darguun, a nation th
 - Underestimate your silent step - assuming that your great mass could not possibly move as quietly as the stories say.
 
 ## Physical Description...
+
 These stealthy and strong goblinoid creatures can thrive in the mayhem of battle or move slowly with the world around them - regardless they usually conserve their great reserves of energy until needed. Standing between 6 to 8 feet tall and weighing 250 to 300lbs, bugbears outsize most humanoids that they meet. Bugbears are typically extremely muscular, able to lift and move great weights with their long limbs. They are covered in thick short yellowish fur and share the same pointed ears as their goblinoid cousins. Due to their longer limbs, weapons weilded in the hands of bugbears have a greater reach than typical. 
 
 Despite their great size, bugbears show an uncanny ability to sneak up on the unsuspecting. They can use their quiet step and darkvision to move quietly through the night, unnoticed if they so desire.
@@ -40,6 +41,7 @@ The Dhakaani society is bound by philisophy of mu'ut and atcha, both respectivel
 note(
 See Exploring Eberron (p. 96) for more information on Dhakaani Society.
 )
+
 =
 right(
 ## Hit Points
@@ -62,6 +64,7 @@ Humanoid
 ## Darkvision
 You can see in darkness and dim light just as well as you can in bright light, though your vision in darkness is only black and white.
 )
+
 Darguun, on the other hand, is a nation carved out of Cyre by goblinoid mercenaries during the Last War. While bugbears found in this region are likely to still place importance on their physical might and rely on their innate strength, they do not have the same venerence of mu'ut and atcha that characterizes the Dhakaani within their culture. 
 
 Acting as a counterpart to both regions, the druidic bugbears find an alternative path of life, not abandoning their strengths and stealth, but rather using them to meld into the nature surrounding them. These communities of bugbears are smaller and less centralized. Often druids, rangers, or wisdom's guide these communities. 
