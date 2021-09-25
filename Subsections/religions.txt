@@ -1,5 +1,5 @@
 watermark (
-Version 0.18.6
+Version 0.19.0
 )
 title (
 Pathfinders' Guide to Eberron 
@@ -151,11 +151,9 @@ hair and beard, as a sahuagin, as an enormous shark, or as a dragon turtle.
 **Edicts** Embrace the glorious power of the wilds, live free of social or materialistic chains, cause destruction when angered
 **Anathema** bring civilization to intrude on the wild, become civilized
 **Favoured Weapon** Trident
-  
-### The Fury: The Sovereign of Rage and Ruin [NE]
-The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury,
 |
-guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
+### The Fury: The Sovereign of Rage and Ruin [NE]
+The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury, guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
 **Areas of Concern** Anger, extremism, insanity, passion, revenge
 **Alignment** NE
 **Divine Font** Harm
@@ -174,11 +172,11 @@ The Keeper is the patron of those who put personal gain above all else. He guide
 **Divine Font** Harm
 **Divine Ability** Strength or Charisma 
 **Divine Skill** Theivery
+=
+<null>
 **Domains** Death, Decay, Dust, Indulgence, Trickery, Wealth
 **Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
 **Edicts** Gain financial control over others, gather new wealth, count your riches
-=
-<null>
 **Anathema** Allow honour or tradition to prevent you from taking what you want
 **Favoured Weapon** Scythe
   
@@ -196,14 +194,14 @@ Others who follow the Mockery assert that the very idea of honour in war is delu
 **Favoured Weapon** Kama
   
 ### The Shadow: The Sovereign of Magic and Mayhem [CE]
-The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon. 
+The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon.
+|
+<null>
 **Areas of Concern**  Arcane magic, consequence, corruption, darkness, duality
 **Alignment** CE
 **Divine Font** Harm
 **Divine Ability** Constitution or Intelligence 
 **Divine Skill** Arcana
-|
-<null>
 **Domains** Ambition, Change, Darkness, Fate, Knowledge, Magic, Secrecy, Trickery, Truth
 **Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
 **Edicts** Learn and hoard forbidden magic, steal secrets from others
@@ -291,10 +289,12 @@ The elves of Aerenal revere their ancient dead as incarnate deities, seeking adv
 **Divine Skill** Society
 **Domains** Death, Duty, Family, Knowledge, Magic, Perfection, Protection, Repose, Soul, Star, Sun, Undeath, Vigil
 **Cleric Spells** 1st: share lore, 2nd: comprehend language, 3rd: hypercognition
+|
+<null>
 **Edicts** work toward collective transcendence, challenge oppression through education, protect knowledge, seek truth
 **Anathema** destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information
 **Favoured Weapon** Scimitar
-|
+
 # Cults of the Dragon Below [CE] ((++Cults of the Dragon Below))
 -
 The Cults of the Dragon Below consist of a diverse group of fanatical sects that revere the power of the subterranean realms. Some of these cults seek to draw Khyber, the Dragon Below, up from the depths of the world, others traffic with demons conjured from the deep regions, and some seek to consort with the aberrations of the deep. Though little unites these mad cults beyond their reverence for the forbidden powers of Khyber, they are generally neutral evil.

@@ -1,17 +1,18 @@
 watermark (
-Version 0.16
+Version 0.19.0
 )
 title (
 Pathfinder's Guide to Eberron 
 )
 head(
-## Bugbears ((+Bugbears))
+# Bugbears ((+Bugbears))
 Dhakaani bugbears are known as Guul’dar, “strong folk,” and are celebrated for their strength and courage. Though they appear slow, they are capable of great bursts of strength or speed when necessary. Many yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha. Others instead find themselves at peace in small isolated clans, moving in flow with the nature around them.
+-
 )
 
 Bugbears, for many, are monsters belonging to storybooks and nightmares. Stories speak of bugbears as great hairy beasts that lurk in the shadows - it is the bugbears that lie in the darkness undetected, waiting for the children that strayed off the beaten path or too far from their parents, or for the villagers wandering out at night away from their homes. They drag the foolish and unsuspecting to their den to be devoured alive; worse, if they cut off your head, your soul is bound to Eberron and can never reach Dolurrh. 
 
-These terrible and fearsome stories flowered from small seeds of truth. Most bugbears, despite their size, rely on stealth and the night time to surprise their enemies, and using great bursts of energy to end fights before the victim was aware of the fight to begin with. However, bugbears themselves are no more likely to eat other humanoids than humans themselves. The true bugbears of the forest, unlike those expected from human folklore, tend towards peace and the flow of nature rather than violence. After the Last War, many more stories of stoic bugbear rangers or druids guiding lost troops to safety through impossible terrain have been retold by soldiers. 
+These terrible and fearsome stories flowered from small seeds of truth. Most bugbears, despite their size, rely on stealth and the cover of night to surprise their enemies - expending great bursts of energy to end fights before the victim can react. However, bugbears themselves are no more likely to eat other humanoids than humans themselves. The true bugbears of the forest, unlike those expected from human folklore, tend towards peace and the flow of nature rather than violence. After the Last War, many more stories of stoic bugbear rangers or druids guiding lost troops to safety through impossible terrain have been retold by soldiers. 
 
 Alongside this, new stories of bugbears are being forged by Darguun, a nation that rose from the ashes of the Last War. There are also many stories yet untold of the militant bugbears belonging to the secretive Dhakaani Empire. 
 
@@ -27,21 +28,14 @@ Alongside this, new stories of bugbears are being forged by Darguun, a nation th
 
 ## Physical Description...
 
-These stealthy and strong goblinoid creatures can thrive in the mayhem of battle or move slowly with the world around them - regardless they usually conserve their great reserves of energy until needed. Standing between 6 to 8 feet tall and weighing 250 to 300lbs, bugbears outsize most humanoids that they meet. Bugbears are typically extremely muscular, able to lift and move great weights with their long limbs. They are covered in thick short yellowish fur and share the same pointed ears as their goblinoid cousins. Due to their longer limbs, weapons weilded in the hands of bugbears have a greater reach than typical. 
+These stealthy and strong goblinoid creatures can thrive in the mayhem of battle or move slowly with the world around them - regardless they usually conserve their great reserves of energy until needed. Standing between 6 to 8 feet tall and weighing 250 to 300lbs, bugbears outsize most humanoids that they meet. Bugbears are typically extremely muscular, able to lift and move great weights with their long limbs. They are covered in thick short yellowish fur and share the same pointed ears as their goblinoid cousins. Due to their longer limbs, weapons wielded in the hands of bugbears have a greater reach than typical. 
 
 Despite their great size, bugbears show an uncanny ability to sneak up on the unsuspecting. They can use their quiet step and darkvision to move quietly through the night, unnoticed if they so desire.
 
 Bugbears reach physical adulthood around the age of 16, and they can live up to 80 years. For those that strive for glory in battle or perform dangerous manual labour, death by old age is far less common. 
 
 ## Society...
-Of the communities bugbears can belong to, the ones that are primarly goblinoid are: Dhakaan, Darguun, or the isolated druidic communinities found throughout Khorvaire but primarily in the The Khraal. 
-
-The Dhakaani society is bound by philisophy of mu'ut and atcha, both respectively meaning the duty to ones empire and personal honour[1]. The martial culture and rigid caste system of Dhakaan places bugbears in roles of aiding with demanding physical labour and being amongst the strongest warriors. 
-
-note(
-See Exploring Eberron (p. 96) for more information on Dhakaani Society.
-)
-
+Of the communities bugbears can belong to, the ones that are primarily goblinoid are Dhakaan, Darguun, or the isolated druidic communities found throughout Khorvaire but primarily in the Khraal. 
 =
 right(
 ## Hit Points
@@ -65,21 +59,26 @@ Humanoid
 You can see in darkness and dim light just as well as you can in bright light, though your vision in darkness is only black and white.
 )
 
-Darguun, on the other hand, is a nation carved out of Cyre by goblinoid mercenaries during the Last War. While bugbears found in this region are likely to still place importance on their physical might and rely on their innate strength, they do not have the same venerence of mu'ut and atcha that characterizes the Dhakaani within their culture. 
+Dhakaani society is bound by the philosophy of mu'ut and atcha, both respectively meaning the duty to one's empire and personal honour[1]. The martial culture and rigid caste system of Dhakaan places bugbears in roles of aiding with demanding physical labour and being amongst the strongest warriors. 
+note(
+See Exploring Eberron (p. 96) for more information on Dhakaani Society.
+)
+
+Darguun, on the other hand, is a nation carved out of Cyre by goblinoid mercenaries during the Last War. While bugbears found in this region are likely to still place importance on their physical might and rely on their innate strength, they do not have the same venerance of mu'ut and atcha that characterizes the Dhakaani within their culture. 
 
 Acting as a counterpart to both regions, the druidic bugbears find an alternative path of life, not abandoning their strengths and stealth, but rather using them to meld into the nature surrounding them. These communities of bugbears are smaller and less centralized. Often druids, rangers, or wisdom's guide these communities. 
 
-However, bugbears can also be found integrated within human settlements, and needn't originate from strictly goblinoid communities. These bugbears often take up the culture of the nations they are found in, and can play a diversity of roles within them. 
+However, bugbears can also be found integrated within human settlements, and needn't originate from strictly goblinoid communities. These bugbears often take up the culture of the nations they are found in and can play a diversity of roles within them. 
 
 ## Alignment and Religion...
 
-The religion of an individual bugbear depends on the culture in which they were raised. Bugbears of the Dhakaani Empire do not subscribe to a set religion but share the same spiritual connection to Uul Dhakaan, a dreamlike nation that guides the Empire. Alongside this, Dhakaani venerate historical consquests, their previous leaders and warriors, and their past through story-telling. Instead of clerics, their spirituality is guided by the bardic dirge-singers who commemorate the tales of old and those to come.
+The religion of an individual bugbear depends on the culture in which they were raised. Bugbears of the Dhakaani Empire do not subscribe to a set religion but share the same spiritual connection to Uul Dhakaan, a dreamlike nation that guides the Empire. Alongside this, Dhakaani venerate historical conquests, their previous leaders and warriors, and their past through story-telling. Instead of clerics, their spirituality is guided by the bardic dirge-singers who commemorate the tales of old and those to come.
 
 The druidic cultures of the forest-dwelling bugbears are similar to their Dhakaani kin, wherein there is a higher prevalence of ancestor worship, bardic spiritual leaders, although there is less glorification of military feats in their stories.  
 
 There is no unifying religion for the bugbears within Darguun, and the bugbears found in human communities are more likely to subscribe to the populous' religious beliefs. 
 
-All bugbears, especially for those of the Dhakaani empire, lean towards lawful alignments. This can manifest in a tendancy towards organization, whether this is found in centralized or decentralized communities. 
+All bugbears, especially for those of the Dhakaani Empire, lean towards lawful alignments. This can manifest in a tendency towards organization, whether this is found in centralized or decentralized communities. 
 
 ## Names...
 Goblinoid names often feature drawn-out vowel sounds (represented by doubled letters), as seen in the names of both their ancient empire (Dhakaan) and their newborn country (Darguun). Goblins, hobgoblins, and bugbears use the same names and naming conventions, despite their tribal differences.[4]
@@ -90,7 +89,7 @@ Goblinoid names often feature drawn-out vowel sounds (represented by doubled let
 **Female Names:** Aaspar, Aguus, Belaluur, Denaal, Draraar, Duusha, Ekhaas, Eluun, Graal, Gaduul, Hashak, Jheluum, Kelaal, Mulaan, Nasree, Raleen, Razu, Rekseen, Senen, Shedroor, Tajiin, Tuneer, Valii, Wuun
 =
 # Bugbear Heritages
-Bugbears have less variation in their physical stature than goblins, but there are still a few distinct heritages that present in bugbears. Choose one of the following bugbear heritages at 1st level.
+Bugbears have less variation in their physical stature than goblins, but there are still a few distinct heritages that are present in bugbears. Choose one of the following bugbear heritages at 1st level.
 
 ## Ghaal Guul'dar
 You are bigger than most bugbears, and you use that to your advantage. You are trained in Athletics (or another skill if you were already trained in Athletics). In addition, you gain the Assurance general skill feat in the Athletics skill.
@@ -115,19 +114,20 @@ You've studied bugbear traditions and survival tactics. You become trained in At
 item(
 # Bugbear Weapon Familiarity
 ## Feat 1
--a
+-
 ; Bugbear 
-You are trained with the composite longbows, composite shortbows, longbows, shortbows, flails, and war flails.
-
-In addition, you gain access to all uncommon goblin weapons. For the purpose of determining your proficiency, martial goblin weapons are simple weapons and advanced goblin weapons are martial weapons. 
+You are trained with composite longbows, composite shortbows, longbows, shortbows, flails, and war flails.
 )
 |
+item(
+In addition, you gain access to all uncommon goblin weapons. For the purpose of determining your proficiency, martial goblin weapons are simple weapons and advanced goblin weapons are martial weapons. 
+)
 item(
 # Bully
 ## Feat 1
 -
 ; Bugbear 
-Your long limbs and great strength provide you an advantage in physical contests on the battlefield. Whenever you use an Athletics skill with the attack trait on a creature smaller than you, you gain a +1 circumstance bonus.
+Your long limbs and great strength provide you with an advantage in physical contests on the battlefield. Whenever you use an Athletics skill with the attack trait on a creature smaller than you, you gain a +1 circumstance bonus.
 )
 item(
 # Courage
@@ -157,14 +157,14 @@ item(
 ; Bugbear 
 You use bugbears' reputation to your advantage. Against any of the common ancestries of Eberron, you gain a +2 circumstance bonus to intimidation checks.
 )
+=
 item(
 # Vigorous Health
 ## Feat 1
 -
 ; Bugbear 
-Your physique is robust and can withstand blood loss startlingly well. Whenever you would gain the drained condition, you can attempt a DC 17 flat check. On a success, you don’t gain the drained condition.
+Your physique is robust and can withstand blood loss startlingly well. Whenever you would gain the drained condition, you can attempt a DC 17 flat check. On a success, you do not gain the drained condition.
 )
-=
 #### 5th Level
 item(
 # Bugbear Endurance :r:
@@ -175,7 +175,7 @@ item(
 
 **Trigger**  You would be reduced to 0 Hit Points but not immediately killed.
 -
-You stand through wounds that would drop most mortals. Make a DC 10 flat check. On a success you avoid being knocked out and remain at 1 Hit Point, and your wounded condition increases by 1.
+You stand through wounds that would drop most mortals. Make a DC 10 flat check. On a success, you avoid being knocked out and remain at 1 Hit Point, and your wounded condition increases by 1.
 )
 item(
 # Steadfast
@@ -208,7 +208,11 @@ item(
 ## Feat 5
 -
 ; Bugbear 
-You have an extraordinarily long reach - and practice using it. With a combination of lunges and arcing swings you can deliver blows at a distance on the battlefield. Your unarmed attacks gain the reach trait. In addition, you can make any Athletics skill check with the attack trait as if it had the Reach trait.
+You have an extraordinarily long reach - and practice using it. With a combination of lunges and arcing swings you can deliver blows at a distance on the
+)
+|
+item(
+battlefield. Your unarmed attacks gain the reach trait. In addition, you can make Athletics skill checks with the attack trait as if they had the Reach trait.
 )
 item(
 # Work horse
@@ -217,7 +221,6 @@ item(
 ; Bugbear 
 You can use your mass and strength to carry more than most humanoids for longer durations. You gain the Hefty Hauler skill feat. In addition, when you have the encumbered condition, the speed penalty is reduced by 5.
 )
-|
 #### 9th Level
 item(
 # Bugbear fortitude
@@ -248,7 +251,7 @@ item(
 
 **Trigger** An ally within 30 feet of you makes a saving throw against an effect with the fear trait.
 -
-You can use your reaction with a shout to reinforce your ally's courage in battle. If you ally can hear you, your ally gains a +2 circumstance bonus to their save.
+You can use your reaction with a shout to reinforce your ally's courage in battle. If your ally can hear you, your ally gains a +2 circumstance bonus to their save.
 
 **Special** You can use your reaction after you know the result of the check.
 )
@@ -258,7 +261,7 @@ item(
 ## Feat 9
 -
 ; Bugbear 
-Walking speed penalties can't reduce your Speed below 10 feet. In addition when you use the Escape action, critical failures and successes are one step better.
+Walking speed penalties can't reduce your Speed below 10 feet. In addition, when you use the Escape action, critical failures and successes are one step better.
 )
 #### 13th Level
 item(
@@ -281,7 +284,7 @@ item(
 **Prerequisite** Stalker
 -
 ; Bugbear 
-You can move up to your Speed when you use the Sneak action, and you no longer need to have cover or greater cover or be concealed to Hide or Sneak.
+You can move up to your speed when you use the Sneak action, and you no longer need to have cover or greater cover or be concealed to Hide or Sneak.
 )
 #### 17th Level
 item(
@@ -299,6 +302,8 @@ You refuse to fall no matter how many blows land. Bugbear Endurance gains the fo
 
 **Success** As in Bugbear Endurance, but your wounded condition does not increase. 
 )
+  
+|
 =
 [1] Exploring Eberron - Keith Baker pg 109
 [2] Exploring Eberron - Keith Baker pg 99
