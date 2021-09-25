@@ -9,11 +9,12 @@ head(
 Long ago there was a woman named Jes, and she had one hundred children. Her rivals conspired against her and swore to kill her children. Jes begged the Sovereigns for help, but their only answer was the wind and rain. In the depths of her despair, a lonely Traveller took her hand. “I will protect your children if they follow my path. Let them wander the world. They may be shunned and feared, but they will never be destroyed.” Jes agreed, and the Traveller gave her his cloak. When she draped it over her children, their old faces melted away and they could be whoever they wanted to be. And so it remains. Though the children are shunned by all, the gift of the Traveler protects them still.
 -
 )
-Changelings can shift their forms with a thought. Many changelings use this gift as a form of artistic and emotional expression. It’s also an invaluable tool for grifters, spies, and others who wish to deceive. This leads many people to treat changelings with suspicion.
+Known under the moniker of "The Children of Jes", changelings are humanoid creatures with shape-changing abilities. In particular, their abilities allow them to take the form of other humanoid creatures with little limitation on who. Many use their gifts as a form of artistic expression or to convey their current emotional state, adopting certain persona's depending on the context of their moods. However, it does not go unnoticed by many, including some changelings themselves, that their ability is an invaluable tool for grifters, spies, and those whose aims are to deceive. This leads many people to treat changelings with a general suspicion.
 
-Wherever humans live, changelings reside also; the question is whether their presence is known.
+Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, families who keep their true nature hidden from the single-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler. Wherever humans live, changelings reside also; the question is whether they make their presence known.
 
-Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, families who keep their true nature hidden from the single-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler. [5]
+A persona is known as the faces and personalities each changeling chooses to adopt - based on where changelings are born their personas are likely to vary. A changeling born in an isolated community might only possess one persona that they developed, using a single face as they exist on Khorvaire, while those belonging to a community of changelings will have multiple personas and perhaps come to share them with one another, each being "Tamirin the Traveling Seamstress" on different days of the week. 
+[5]
 
 ## You might...
 - Shift your shape to a persona that matches your mood or current activity. Though you, never use a particular form for too long before moving on to the next.
@@ -25,18 +26,18 @@ Changelings are born to one of three paths. A few are raised in stable communiti
 - Don't understand the fluid nature you have with gender, form, or personality.
 |
 ## Physical Description...
-Changelings are typically 5 to 6ft tall, weighing between 120 to 180lbs. Their base form is a nondescript humanoid shape with white skin, hair, and featureless eyes - not unlike a manikin. Beyond this, because of their ability to shift-shape changelings do not have a set physical description.
+Changelings are typically 5 to 6ft tall, weighing between 120 to 180lbs. Their base form is a nondescript humanoid shape with white skin, hair, and featureless eyes - not unlike a mannequin. Beyond this, because of their ability to shift-shape, changelings do not have a set physical description.
 
 ## Society...
-Changeling society is fragmented, and no two groups of changelings have the same culture. See Exploring Eberron pg. 33 for more information about the various types of changeling cultures.
+Changeling society is fragmented, and no two groups of changelings have the same culture. However, for changelings that live in areas where other of their kind reside, an often shared feature is a fluidity in concepts of identity, gender, and personality. Changelings that aim to master the form of shapechanging and mimicry tend to treat each persona as a real being, breathing life into reach persona. Some almost eternal figures of local legend, like the vampires lurking in abandoned fortresses, are instead multi-generational efforts of changeling families, all inheriting the persona when they are deemed ready. Is your changeling adventuring to prove they are worthy of inheriting one of these legendary personas? 
 
 ## Alignment and Religion...
-Changelings tend towards pragmatic neutrality, though few changelings embrace evil. As changelings are primarily products of the culture in which they grow, their alignment tends to match the alignment of their peers. Similarly, for religion, a changeling is likely to follow the dominant faith of their peers. However, most changelings find a connection to the Traveller of the dark six and a draw towards chaotic tendencies as if the Traveller still guides them.
+Changelings tend towards pragmatic neutrality, and few changelings embrace evil. As changelings are primarily products of the culture in which they grow, their moral alignment tends to match the alignment of their peers. Similarly, for religion, a changeling might be inclined to follow the dominant faith of their peers. 
+
+However, there are many changelings who find a connection the the Traveler, and live a life with less consistency and more chaos - almost as if the god of trickery and change guides them. 
 
 ## Names...
-A changeling might use a different name for each mask and persona and adopt new names as easily as they change faces. The true name of a changeling tends to be simple and monosyllabic; however, there are often accents to a changeling’s name that are expressed through shapeshifting, something single-skins will likely miss. So, two changelings might have the name Jin, but one is Jin-with-vivid-blue-eyes and one is Jin-with-golden-nails.
-
-Changelings have a fluid relationship with gender, seeing it as one characteristic to change among many. [5]
+A changeling might use a different name for each mask and persona, and adopt new names as easily as they change faces. The true name of a changeling tends to be simple and monosyllabic. For changelings that share personas with their communities, there are often accents each individual changeling employs that is missed by the single-skins. Two changelings might both play the role of Amel, but one is Amel-with-vivid-blue-eyes and the other is Amel-with-golden-nails.
 
 ### Sample Names
 Changeling Names: Aunn, Bin, Cas, Dox, Fie, Hars, Jin, Lam, Mas, Nix, Ot, Paik, Ruz, Sim, Toox, Vil, Yug
