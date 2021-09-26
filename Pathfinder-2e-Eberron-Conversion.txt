@@ -709,9 +709,11 @@ hair and beard, as a sahuagin, as an enormous shark, or as a dragon turtle.
 **Edicts** Embrace the glorious power of the wilds, live free of social or materialistic chains, cause destruction when angered
 **Anathema** bring civilization to intrude on the wild, become civilized
 **Favoured Weapon** Trident
-|
+  
 ### The Fury: The Sovereign of Rage and Ruin [NE]
-The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury, guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
+The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury,
+|
+guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
 **Areas of Concern** Anger, extremism, insanity, passion, revenge
 **Alignment** NE
 **Divine Font** Harm
@@ -730,11 +732,11 @@ The Keeper is the patron of those who put personal gain above all else. He guide
 **Divine Font** Harm
 **Divine Ability** Strength or Charisma 
 **Divine Skill** Theivery
-=
-<null>
 **Domains** Death, Decay, Dust, Indulgence, Trickery, Wealth
 **Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
 **Edicts** Gain financial control over others, gather new wealth, count your riches
+=
+<null>
 **Anathema** Allow honour or tradition to prevent you from taking what you want
 **Favoured Weapon** Scythe
   
@@ -752,14 +754,14 @@ Others who follow the Mockery assert that the very idea of honour in war is delu
 **Favoured Weapon** Kama
   
 ### The Shadow: The Sovereign of Magic and Mayhem [CE]
-The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon.
-|
-<null>
+The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon. 
 **Areas of Concern**  Arcane magic, consequence, corruption, darkness, duality
 **Alignment** CE
 **Divine Font** Harm
 **Divine Ability** Constitution or Intelligence 
 **Divine Skill** Arcana
+|
+<null>
 **Domains** Ambition, Change, Darkness, Fate, Knowledge, Magic, Secrecy, Trickery, Truth
 **Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
 **Edicts** Learn and hoard forbidden magic, steal secrets from others
@@ -847,12 +849,10 @@ The elves of Aerenal revere their ancient dead as incarnate deities, seeking adv
 **Divine Skill** Society
 **Domains** Death, Duty, Family, Knowledge, Magic, Perfection, Protection, Repose, Soul, Star, Sun, Undeath, Vigil
 **Cleric Spells** 1st: share lore, 2nd: comprehend language, 3rd: hypercognition
-|
-<null>
 **Edicts** work toward collective transcendence, challenge oppression through education, protect knowledge, seek truth
 **Anathema** destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information
 **Favoured Weapon** Scimitar
-
+|
 # Cults of the Dragon Below [CE] ((++Cults of the Dragon Below))
 -
 The Cults of the Dragon Below consist of a diverse group of fanatical sects that revere the power of the subterranean realms. Some of these cults seek to draw Khyber, the Dragon Below, up from the depths of the world, others traffic with demons conjured from the deep regions, and some seek to consort with the aberrations of the deep. Though little unites these mad cults beyond their reverence for the forbidden powers of Khyber, they are generally neutral evil.
@@ -870,15 +870,13 @@ The Cults of the Dragon Below consist of a diverse group of fanatical sects that
 =
 head(
 # Planes of Eberron ((+Planes of Eberron))
-The Thirteen planes of Eberron all influence material plane of Eberron. All life is tied to each of the planes, though some connections may be more noticiable than others. 
+The Thirteen planes all influence the material plane of Eberron. All life is tied to each of the planes, though some connections may be more noticiable than others. 
 -
 )
 The planes of Eberron are complex in nature, and manifest effects on the material plane in the form of Manifest Zones. These manifest zones are frequently the most evident way that a plane interacts with the world, though there are more subtle ways. The following list details all thirteen planes of Eberron, and the effects they might have on your world.
 
 
 For more information on the planes of Eberron, see Exploring Eberron pg 143 onwards.
-
-Note that the traits are important.
 /
 item(
 # Daanvi: The Perfect Order ((++Daanvi))
@@ -903,6 +901,7 @@ There’s a rhythm to Daanvi, a subtle metronome keeping perfect time. If you ac
 -
 Manifest zones of Daanvi are uncommon, those that do manifest typically present one of the plane's properties. Inside the manifest zone, things are unnaturally orderly.
 )
+|
 item(
 # Dal Quor: The Region of Dreams ((++Dal Quor))
 ## Plane
@@ -912,7 +911,7 @@ item(
 
 **Native Inhabitants** Dreamers, Quori
 -
-Dal Quor is both impossibly distant and remarkably close. Tens of thousands of years ago, the giants of Xen’drik shattered the ties between Dal Quor and the Material Plane. Since then, it’s been permanently remote, and no naturally occurring manifest zone to Dal Quor has been discovered. Not even plane shift or astral travel can allow direct contact with the Region of Dreams. And yet, it’s also the closest of the planes—to visit, just close your eyes. Dreaming is a form of spiritual travel, as your mortal consciousness is drawn to Dal Quor. Dal Quor is the realm of dreams, a place of imagination where memory and emotion can shape reality. The stories of Thelanis bring people together in a shared tale; by contrast, the dreams of Dal Quor are unique, individual, and fleeting. They’re defined by our experiences and desires, and we rarely remember them when they’re over. Dreams allows us to sift through our subconscious, and they are ours alone—or at least, they should be... if they aren’t manipulated by an outside force. The denizens of Dal Quor reflect the secondary theme of the plane, and—for now, at least—that theme is nightmares. The quori prey on mortal dreams, twisting them to produce the emotions they crave. This doesn’t mean all dreams are nightmares—but when a quori takes an interest in your dream, it’ll usually become one. [12]
+Dal Quor is both impossibly distant and remarkably close. Tens of thousands of years ago, the giants of Xen’drik shattered the ties between Dal Quor and the Material Plane. Since then, it’s been permanently remote, and no naturally occurring manifest zone to Dal Quor has been discovered. Not even plane shift or astral travel can allow direct contact with the Region of Dreams. And yet, it’s also the closest of the planes—to visit, just close your eyes. Dreaming is a form of spiritual travel, as your mortal consciousness is drawn to Dal Quor.Dal Quor is the realm of dreams, a place of imagination where memory and emotion can shape reality. The stories of Thelanis bring people together in a shared tale; by contrast, the dreams of Dal Quor are unique, individual, and fleeting. They’re defined by our experiences and desires, and we rarely remember them when they’re over. Dreams allows us to sift through our subconscious, and they are ours alone—or at least, they should be... if they aren’t manipulated by an outside force. The denizens of Dal Quor reflect the secondary theme of the plane, and—for now, at least—that theme is nightmares. The quori prey on mortal dreams, twisting them to produce the emotions they crave. This doesn’t mean all dreams are nightmares—but when a quori takes an interest in your dream, it’ll usually become one. [12]
 -
 **Extremely Morphic.** The environment of Dal Quor can shift at any moment. These changes are generally drawn from the mind of the current dreamer, but at the DM’s discretion, the thoughts of adventurers might impact another creature’s dream that they’re currently experiencing.
 
@@ -921,11 +920,13 @@ Dal Quor is both impossibly distant and remarkably close. Tens of thousands of y
 **Flowing Time.** For every 10 minutes that pass in Dal Quor, only 1 minute passes on the Material Plane. While sleeping for 8 hours, a creature could spend 3 days in Dal Quor
 -
 The metaphysical damage caused in the conflict between Dal Quor and the giants of Xen’drik broke the ties between Eberron and Dal Quor. There are no naturally occurring manifest zones to Dal Quor, and even plane shift won’t allow travel there. [13]
-
+)
+=
+item(
 # Dolurrh: The realm of The Dead ((++Dolurrh))
 ## Plane
 -
-; Timeless, Shadow
+; Timeless
 **Moon** Aryth, the Gateway
 
 **Native Inhabitants** The Quick, the Dead, the Lingering
@@ -942,164 +943,6 @@ Endless caverns stretch throughout Dolurrh, bleak passages of gray stone. Wherev
 -
 Dolurrh manifest zones frequently do not possess the plane's properties. However, these zones are frequently exceptionally haunted, though not blighted, as Mabaran zones typically are. Shadows move in disturbing ways, and travelers may hear whispers they can’t quite make out.
 In some Dolurrhi zones, raising the dead can be dangerous; if spells or abilities that raise the dead are used in such a zone, roll on the Dolurrhi Resurrection Mishaps table to determine the result.Dolurrhi zones can also have positive effects. In many zones, it’s easier to return people from the dead, halving the cost of any material components. In others, anyone can cast speak with dead as a ritual that takes an hour to perform, as long as they have a personal connection to the deceased whose corpse they’re questioning.The most dramatic manifest zones are those that serve as gateways to enter the Catacombs of Dolurrh—and hopefully, to return. Opening such a gateway might call for a special ritual or significant sacrifice, perhaps under a particular alignment of the moon Aryth, or when Dolurrh is conterminous.
-)
-=
-item(
-# Fernia: The Sea of Flame ((++Fernia))
-## Plane
--
-; Fire
-**Moon** Eyre, the Anvil
-
-**Moon and Portal Colour** Silver
-
-**Native Inhabitants** Efreet, Dao, Lesser Elementals, Fiends, Celestials
--
-It’s simple to say that Fernia embodies the concept of fire. The plane is filled with magma and flame, from massive volcanoes to cities eternally on the verge of being consumed by fire. But Fernia isn’t about mundane fire; Lamannia is the source of simple, natural flame, and holds volcanoes and fire elementals. Rather, Fernia is about all the things we see in the flame, all the ideas it represents. It has layers reflecting wild destruction, where verdant forests eternally burn. It incorporates industry, with legions of azers forever toiling over fire and forge. And it reflects wild passion, burning emotions that can’t be held in, and glorious spectacle; these are the realm of the efreet, the lords of the Sea of Flame, forever striving to outshine their rivals. [EE 161]
--
-**Planar Effects** While in the plane of Fernia, the following effects apply
-**Burning Bright** When you make a recovery check and you are still dying after applying its effects, make another recovery check. In Fernia, whether you live or die, it’s going to happen quickly!
-**Deadly Heat** All regions of Fernia are subject to temperatures of extreme heat (Core Rulebook page 517), though some regions reach temperatures of incredible heat. All creatures increase their resistance to cold damage by 5.
-**Empowered Fire** Fire spells are enhanced, while cold and water spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the fire trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
-**Fire Energy Ley Line** Fernia is attuned to fire energy, and by tapping into this source you can enhance fire spells using that energy’s power. The strength of this power varies throughout Fernia. (Secrets of Magic pg 214)
-**Fires of Industry** When making a crafting check involving the use of fire (such as cooking or smithing), you gain a +2 item bonus to your check.
--
-**Manifest Zones** Manifest zones of Fernia typically present 1-2 effects, though stronger or weaker zones can vary in number. You can encounter any of the planar effects or of the following effects, though only very rarely does the manifest zone have the effects of the Fire plane trait.
-**Continual Flame** Motes of continual flame are spontaneously generated in this region, typically attached to some vegetation or minerals from the area. These flames persist even if they are removed from the region.
-**Geothermal** The area is dotted with pools of molten earth and fissures of scalding water, from which mephits and elementals emerge with regularity.
-)
-item(
-# Irian: The Eternal Dawn ((++Irian))
-## Plane
--
-; Positive
-**Moon** Barrakas, the Lantern
-
-**Moon and Portal Colour** Bright Grey
-
-**Native Inhabitants** Embers, lumi, celestials, the Architects
--
-In Irian, birds sing in a fertile valley, while a group of settlers work together to raise their first home. Moving further in, you find the gleaming capital of a new empire, where cheering throngs celebrate in the streets. There are dozens of layers in Irian, and each one is a vision of life triumphant. Irian is the dawn that inevitably banishes even the darkest night, the promise of spring triumphing over the coldest winter. It’s the bastion of hope, the promise that life always find a way. [EE 165]
--
-**Planar Effects** While in the plane of Fernia, the following effects apply
-**Positive Power** Positive spells are enhanced, while negative spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the positive trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
-**Negative Void** In order to cast a spell that deals negative damage, a creature must succeed on a flat check with a DC equal to 5 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are lost.
-**Pure Light** There is no darkness in Irian. Any spell, effect, or other situation that would usually create darkness only reduces the lighting to dim light.
-**Life Triumphant** When making a medicine check, you gain a +2 item bonus to your check, and any creature which rests doubles their number of restored hit points. In addition, all non-undead creatures gain a +1 status bonus to saves against fear, poison, and disease effects.
-**Undead Bane** Creatures with the undead trait are sickened 2, they may not reduce this sickened value until they escape the effects of Irian. This has no effect on undead creatures that are sustained by Irian, such as the deathless elves of Aerenal.
-**Positive Energy Ley Line** Irian is attuned to positive energy, and by tapping into this source you can enhance positive spells using that energy’s power. The strength of this power varies throughout Irian. (Secrets of Magic pg 214)
--
-**Manifest Zones** Manifest zones of Irian typically present 1-2 effects, though stronger or weaker zones can vary in number. You can encounter any of the planar effects or of the following effects, though only very rarely does the manifest zone have the effects of the Positive plane trait.
-**Restorative Springs** The waters of a spring hold curative powers — removing disease, healing wounds, even restoring lost senses.
-**Positive Crystals** Clusters of radiant crystals sprout from the earth. These crystals typically emanate the Positive Power planar effect, and some particularly potent crystals even replicate the Positive trait of the plane.
-)
-=
-item(
-# Kythri
-## Plane
--
-; Erratic, Metamorphic
-**Moon** Zarantyr, the Storm
-
-**Native Inhabitants** Wild things, Slaadi, Githzerai
--
-Kythri is commonly imagined as utterly unstable, with landscapes taking shape only to boil away within moments. And this is true of the heart of the realm, known as the Sea of Chaos. But at the edges of the sea, there are islands that linger. The environments of these Shifting Islands steadily and constantly change; a vast desert might be a lush rainforest in a few hours. But the land itself remains constant, and creatures can live on these islands, adapting to the endlessly changing environment
--
-Broken Rhythms. A creature can’t take the exact same action on two consecutive turns. If it previously stood still, it must move. If it previously moved, it can stand still or move a different distance. A creature can cast a spell in two consecutive turns, but it can’t be the same spell. A creature can attack on two consecutive turns, but the second attack must be described as substantially different in style from the one before.
-Fluid in Form. When a creature casts a transmutation spell, its range is doubled; if it has a duration of at least 1 minute but less than 24 hours, the duration is doubled.
-Embrace the Unknown. In order to cast a divination spell of 1st level or higher, a creature must succeed on a spellcasting ability check with a DC equal to 12 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the action is lost. Divination spells cast on other planes can’t affect or target creatures, places, or objects on Kythri.
-The Odds Are Odd. If the d20 roll for an attack is a 1 or a 2, the attack misses regardless of any modifiers or the target’s AC. If the d20 roll for an attack is a 19 or 20, the attack hits regardless of any modifiers or the target’s AC, and is considered a critical hit. If a creature has an ability or item that increases its normal range of critical hits—such as the Champion fighter’s Improved Critical—its range increases by 1.
-Constant Change. Nothing remains exactly the same in Kythri. Whenever a creature finishes a short or long rest, it finds that something changed about it or its possessions. Each player should describe what’s changed about their character; this could be as simple as your cloak changing color or your sword now having a stylish Aundairian design when it was originally Karrnathi. You could choose for the change to be physical—your skin, hairstyle, or sex—or mental—you suddenly hate olives or no longer believe in the Sovereign Host. These changes have 
-no mechanical impact: the coins in your pocket may change in design, but copper coins won’t turn into platinum. If you want a change to have mechanical impact—for example, if your cleric’s faith or race changes and you want your character sheet to reflect that—discuss the possibility with your DM.
-Chaotic Time. Time is fluid in Kythri, inconsistent both with the Material Plane and within its own islands. Adventurers who spend a day in Kythri could find that a year has passed in Eberron, or they could be trapped in Kythri for a year and find that only an hour has passed when they return.
-)
-item(
-# Lamannia
-## Plane
--
-**Moon** Olarune, the Sentinel
-
-**Native Inhabitants** Beasts, Elementals, Humanoids
--
-Lamannia embodies primordial nature, untapped and untamable. It’s often called the Twilight Forest, and is depicted as a realm of colossal trees and massive beasts. However, the forest is just one of the facets of Lamannia. Every natural environment is represented in various layers that exemplify and exaggerate their features. Windswept desert, raging ocean, endless plains—all can be found here. In other planes, these environments are backdrops to the story the realm is telling. In Lamannia, the environment 
-is the story. It doesn’t need the help of fey or fiends to make its point, because the land itself is the point.
--
-Extended Druidic Magic. When a creature casts a druid spell with a duration of 1 minute or longer while in Lamannia, the duration is doubled. Spells with a duration of 24 hours or more are unaffected. A DM could decide to extend this effect to other characters that draw on primal sources of magic, such as a Gatekeeper ranger or a Greensinger bard.
-Indomitable Beasts. Beasts and elementals have a +2 bonus to Constitution and advantage on Wisdom, Intelligence, and Charisma saving throws. Upon its arrival in Lamannia, any elemental or beast that’s charmed or bound in any way is immediately freed from that effect; this can be disastrous for an elemental airship that’s thrown into the plane.
-Elemental Power. When a creature casts a spell that summons or conjures an elemental, it does so as if the spell were cast at a level one higher than the spell slot that was expended.The Land Provides. A creature has advantage on Wisdom (Survival) checks made to forage for food or shelter. In most layers of Lamannia, the vegetation is bountiful and the land sustaining. (While in the Broken Land, it may be very difficult to forage, but you’ll at least have advantage to help you with the roll!)
-Primordial Matter. It’s difficult to destroy or contaminate the matter of Lamannia. All nonmagical food and drink is purified and rendered free of poison and disease. In addition, natural materials such as wood and stone are tougher than their mundane counterparts. When trying to destroy objects made of Lamannian materials, increase the Armor Class suggested in chapter 8 of the Dungeon Master’s Guide by 3, and double the hit points of the object.
-Standard Time. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
-)
-item(
-# Mabar
-## Plane
--
-; Negative, Shadow
-**Moon** Syperos, the Shadow
-**Native Inhabitants** Shadows, Yugoloths and other Immortals, Undead, Dark Powers, Hostages
--
-Early scholars studying reports of Mabar concluded that it was the Plane of Darkness—that this physical property is its defining concept. However, the plane’s eternal gloom is just a symptom of its true nature. Even the brightest day eventually ends in darkness, and Mabar embodies this idea. It’s the shadow that surrounds every island of light, patiently waiting to consume it. It’s entropy, despair, and loss. This isn’t the place where the souls of the living go after death, but rather, it’s the plane of death itself—the hunger that consumes both light and life.
-
-Mabar is the source of negative energy, and the origin of most undead. Manifest zones—and most undead—tied to Mabar consume the life force from the world around them. However, some people maintain that negative energy itself is just a tool, and that the power of Mabar can be harnessed for good
--
-Necrotic Power. A creature has disadvantage on saving throws against necromancy spells. An undead creature has 2 extra hit points per Hit Die and advantage on saving throws against being turned or frightened.
-Radiant Void. In order to cast a spell that deals radiant damage or restores hit points, a creature must succeed on a 
-spellcasting ability check with a DC equal to 10 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the action is lost.
-Eternal Shadows. There is no bright light in Mabar. Any object or effect that would usually create bright light only creates dim light.
-The Hunger of Mabar. Mabar consumes the life force of living things. For every minute a living creature spends in Mabar, it takes 10d6 points of necrotic damage. If this damage reduces a creature to 0 hit points, it immediately dies and its body crumbles into ash. Natives of Mabar, creatures that have resistance or immunity to necrotic damage, and creatures under the effects of a death ward spell are immune to the effects of this property.
-Standard Time. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
-)
-item(
-# Risia
-## Plane
--
-**Moon** Dravago, the Herder
-**Native Inhabitants** Spirits of Ice, Frost Giants and Dwarves
--
-Risia is known as the Plain of Ice, for that’s the vast majority of what’s found within it. Risia is defined by endless arctic wastes, and what appear to be mountains are just peaks of solid ice. But like Fernia, Risia’s appearance can be deceiving. Because it’s filled with glaciers and snow, many sages assume that this is its defining principle. But in Lamannia, there are also endless blizzards and majestic glaciers—ice in its natural state. By comparison, the core ideas that define Risia are isolation, stagnation, and preservation. The endless frozen plane isn’t about snow, it’s about the utter stillness, the empty and unchanging landscape. Risia is sparsely populated, because that’s the point of it; it’s bleak and lonely, a realm in which you could walk for days and never see another creature. Where a desert of sand can at least shift in the breeze, the frozen landscape of Risia is unchanging. Yet, unlike a stone plateau, it reflects a substance that could change at one point—but is now caught, frozen, stagnant.
--
-Lethal Cold. A creature exposed to the cold of Risia must succeed on a DC 10 Constitution saving throw every 10 minutes or gain one level of exhaustion. A creature with resistance or immunity to cold damage automatically succeeds on this saving throw, as does a creature naturally adapted to cold climates or one wearing appropriate protective gear. In addition, all creatures have resistance to fire damage, and a creature that’s usually resistant to fire damage becomes immune to it.
-Empowered Ice. When a creature casts a spell of 1st level or higher, if it deals cold damage, it does so as if cast at a level one higher than the spell slot that was expended.
-Preservation. A creature with 0 hit points becomes stable at the end of its turn, entering a state of suspended animation. If an unconscious creature remains in contact with the ground for more than 1 minute, it’s drawn below the surface and encased in an ice-encrusted stasis. While encased in this way, time ceases to flow for the creature and it doesn’t grow older.
-Stagnation. When a creature finishes a long rest, it doesn’t regain hit points or reduce its exhaustion level. However, it does recover Hit Dice normally and can spend them to regain hit points.
-Stillness of Flesh. Time passes at the same pace as on the Material Plane, and is consistent across its layers. However, the passage of time has no effect on a mortal creature’s body, and creatures don’t age or grow while in Risia. Exhaustion, starvation, and disease merely reduce a creature to 0 hit points, and don’t immediately kill it. Dwarves are immune to this property’s effects, and in Risia they can grow, age, and die, just as they would on the Material Plane.
-)
-item(
-# Shavarath
-## Plane
--
-**Moon** Vult, the Warder
-**Native Inhabitants** Conscripts, Sword Wraiths, Whirling Blades, Angels, Demons, Devils
--
-In Shavarath, angels and devils are locked in endless conflict. Radiant blades spill burning blood, and bolts of force smash angels from the sky. In another layer, champions of justice ride armored dragons, assaulting a titanic airship. In yet another, steel krakens tear apart celestial frigates. There’s only one constant in Shavarath: war.
--
-War Magic. When a creature casts a spell that grants a bonus to AC, attack rolls, or saving throws, or a spell that grants temporary hit points, the duration is doubled. Spells 
-with a duration of 24 hours or more are unaffected.
-Unquenchable Fury. A creature has advantage on saving throws against any spells or abilities that charm a target, as well as against the calm emotions and sanctuary spells. In addition, the duration of these effects are halved, to a minimum duration of 1 round. While a barbarian is raging, its rage can’t be ended early unless it’s knocked unconscious.
-Fight On. On a creature’s turn, it can use a bonus action to spend 1 Hit Die. It rolls the die and adds its Constitution modifier, regaining hit points equal to the total (minimum of 1). Once a creature benefits from this property, it must finish a short or long rest before it can do so again.
-Bloodletting. When a creature scores a critical hit with an attack that deals piercing, slashing, or bludgeoning damage, it can roll one of the attack’s damage dice one extra time and add it to the extra dice of the critical hit.
-Flexible Time. Time’s passage varies between Shavarath’s layers. In many, time passes at the same rate as on the Material Plane; if you spend an hour fighting in the Burning Sky, an hour passes in Eberron. But other layers move at different speeds; you can spend a month in the trenches of Nullius Terram and find that less than three days have passed in Eberron. A creature with proficiency in Arcana can determine the passage of time in their layer by succeeding on a DC 14 Intelligence (Arcana) check.
-)
-item(
-# Syrania
-## Plane
--
-**Moon** Therendor, the Healer
-**Native Inhabitants** 
-)
-item(
-# Thelanis
-## Plane
--
-**Moon** Rhaan, the Book
-**Native Inhabitants** 
-)
-item(
-# Xoriat
-## Plane
--
-**Moon** Lharvion, the Eye
-**Native Inhabitants** 
 )
 =
 head (
@@ -2018,7 +1861,6 @@ If a creature succeeds on a check to see through your impersonation, you become 
 
 Similarly, if you fail an impersonation check against a creature, you are aware of your blunder. The GM will make you aware that you have failed the check, and you may choose to use the Traveller's protection to force a reroll to take the higher of the two options. If you do so, the check gains the fortune trait, and the outcome of this new roll is a secret to you.
 )
-
 =
 head(
 # Gnolls ((+Gnolls))
@@ -5318,7 +5160,7 @@ item(
 ; General, Skill
 **Prerequisites** trained in Crafting
 -
-When you spend downtime to use the Craft activity, due to your proficiency with prototyping and planning ahead (or failing quickly), you may complete crafting projects faster. On a successful Craft check, you may reduce the remaining materials required by 1 day in addition to any further downtime you spend. If you are expert in crafting you may reduce this by 2 days, master by 4 days, and legendary by 8 days.
+When you spend downtime to use the Craft activity, with your proficiency in creating prototypes and planning ahead (or failing quickly), you may complete crafting projects faster. On a successful Craft check, you may reduce the remaining materials required by 1 day in addition to any further downtime you spend. If you are expert in crafting you may reduce this by 2 days, master by 4 days, and legendary by 8 days.
 )
 =
 head(
@@ -6685,33 +6527,104 @@ If the enchantments were replicated, these tools could be put into use by spies 
 =
 head(
 # Spells ((Spells))
-These new spells are a combination of regular spells and focus spells that allow you to interact with the world in new ways.    
+These new spells are a combination of regular spells and focus spells found throughout Eberron that allow you to interact with the world in new ways.
 -
 )
 # Spell Lists
-The following spells are provided by this supplement.
-/
-## Dragonmark Focus
-Level | Name | Effect
---- | :--- | :---
-**1**| **Dragonmarked Guidance**| Provide guidance to another creature with the speciality of your dragonmark.
-**1**| **Warded Resilience**| You substitute your resilience for a creature.
-**1**| **Warded Reflex**| You substitute your reflex for a creature.
-**1**| **Warded Willpower**| You substitute your willpower for a creature.
-**2** | **Dancing Dragonmark** | You cause all dragonmarks in an area to dance on the skin.
-**3** | **Curse Dragonmark** | You curse a dragonmark to be unreliable.
-**5** | **Banish Dragonmark** | You temporarily remove a dragonmark's powers from a creature.
-**4**| **Spell Guard**| Counteract a spell effect.
-**7**| **Summon Living Dragonmark**| Manifest a living form in the shape of your dragonmark. 
+The following spells are provided by this supplement, and accessible to any caster of the respective school.
 
-|
-## Arcane
+## Common Cantrips
+These cantrips are employed in the day to day life of many NPCs in the world of Eberron.
+##### Table 7-1: Common Cantrips
 Level | Name | Effect
 --- | :--- | :---
-**5**|**Fabricate**| Convert raw materials.
-**5**|**Wall of Gears**| Create a wall out of moving parts.
+0 | Boldrei’s Broom | Clean a surface or object.
+0 | Culinary Transmutation | Reheat or cool food.
+0 | Grogan’s Grime | Soil a surface or object.
+0 | Halan’s Dramatic Entrance | Make a dramatic enterance.
+0 | Incendiary Purge | Extinguish a flame.
+0 | Kellan’s Kindling | Ignite a flame.
+0 | Savage Blossom | Create a flower.
+0 | Shol Flame | Modify the appearance of a flame.
+0 | Verran’s Textile Restoration | Clean a cloth or material object.
+0 | Zolan Zest | Give flavour to food.
+1 | Aundair's Silent Sanctum | Create a privacy barrier for conversation.
+1 | Magecraft | Improve your craft.
+
+## Dragonmark Focus
+Dragonmarked heirs channel the powers of these spells. Some marks create similar effects, despite being innately different. Individual houses may refer to their spell effects differently, but these spells are commonly referred to (and behave identically to) the following spells. 
+##### Table 7-2: New Dragonmark Focus Spells
+Level | Name | Effect
+--- | :--- | :---
+1 | Dragonmarked Guidance| Provide guidance to another creature with the speciality of your dragonmark.
+1 | Warded Resilience| You substitute your resilience for a creature.
+1 | Warded Reflex| You substitute your reflex for a creature.
+1 | Warded Willpower| You substitute your willpower for a creature.
+4 | Spell Guard| Counteract a spell effect.
+7 | Summon Living Dragonmark| Manifest a living form in the shape of your dragonmark. 
+|
+## Spells
+These spells are the result of arcane innovation in the world of Khorvaire.
+
+##### Table 7-3: Arcane Spell List
+Level | Name | Effect
+--- | :--- | :---
+Cantrip | Force Blast | Launch a bolt of energy at long range.
+1 | Flash Bang | Create a disorienting blast in an area.
+2 | Dancing Dragonmark | You cause all dragonmarks in an area to dance on the skin.
+3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
+5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
+5 | Fabricate | Convert raw materials.
+5 | Wall of Gears | Create a wall out of moving parts.
+
+##### Table 7-4: Divine Spell List
+Level | Name | Effect
+--- | :--- | :---
+1 | Flash Bang | Create a disorienting blast in an area.
+2 | Dancing Dragonmark | You cause all dragonmarks in an area to dance on the skin.
+3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
+4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
+5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
+
+##### Table 7-5: Occult Spell List
+Level | Name | Effect
+--- | :--- | :---
+1 | Flash Bang | Create a disorienting blast in an area.
+2 | Dancing Dragonmark | You cause all dragonmarks in an area to dance on the skin.
+2 | Jackrabbit Agility | You gain a burst of speed.
+3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
+4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
+5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
 =
+##### Table 7-6: Primal Spell List
+Level | Name | Effect
+--- | :--- | :---
+1 | Flash Bang | Create a disorienting blast in an area.
+2 | Dancing Dragonmark | You cause all dragonmarks in an area to dance on the skin.
+2 | Jackrabbit Agility | You gain a burst of speed.
+3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
+4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
+5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
+
 # Spell Descriptions 
+When selecting spells for your caster, you can additionally select from among the following.
+item(
+# Aundair's Silent Sanctum
+## Cantrip 1
+-
+; Abjuration, Cantrip 
+**Traditions** Arcane, Occult
+
+**Cast** :aa: verbal, somatic
+
+**Area** 5-foot-radius emanation centered on you
+
+**Duration** sustained up to 1 minute
+-
+You create an invisible sphere of energy with a 5-foot emanation. Until the spell ends, it moves with you, centered on you. The sphere muffles sound in both directions. All creatures have a -2 circumstance penalty to hear any sounds originating from the other side of the sphere, in addition, creatures have a +2 circumstance bonus on saves against auditory effects originating from the other side of the sphere.
+-
+**Heightened (3rd)** you may choose the area to be up to a 10-foot-radius emanation centered on you.
+)
 item(
 # Banish Dragonmark
 ## Spell 5
@@ -6725,21 +6638,31 @@ item(
 
 **Saving Throw** Will; **Duration** 1 day
 -
-Developed by the twelve to hunt Aberrant Marks, they found a spell that could disable any dragonmark - not just Aberrant marks. It was determined to be too great a risk to make public. However, these spells have since been acquired by various intelligence agencies, held until the day it may be necessary.
-
+One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
+)
+|
+item(
 You utter a harsh incantation and point a finger at the target. Suddenly, your foe’s dragonmark begins to writhe and separate from its body. They must attempt a Will save.
-
-**Critical Success** the target is unaffected
-
-**Success** the target is drained 1
-
-**Failure** the target is drained 1, and the target may not use any feature, spell, or item with the dragonmark trait. They may attempt a Will save at the end of each of their turns to resume using their dragonmark
-
-**Critical Failure** the target is drained 2, the target may not use any feature, spell, or item with the dragonmark trait until the duration expires
+**Critical Success** the target is unaffected.
+**Success** the target is drained 1.
+**Failure** the target is drained 1, and the target may not use any feature, spell, or item with the dragonmark trait. They may attempt a Will save at the end of each of their turns to resume using their dragonmark.
+**Critical Failure** the target is drained 2, the target may not use any feature, spell, or item with the dragonmark trait until the duration expires.
 -
 **Heightened (+1)** The duration increases by 1 day.
 )
-|
+item(
+# Boldrei’s Broom
+## Cantrip 0
+-
+; Common, Cantrip, Transmutation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You clean an object or surface made from wood, stone, or metal no larger than 1 bulk or 1 cubic foot.
+)
 item(
 # Curse Dragonmark
 ## Spell 3
@@ -6751,20 +6674,38 @@ item(
 
 **Range** 30 feet; **Targets** 1 creature with the Dragonmark trait
 
-**Saving Throw** Will; **Duration** permanent
+**Saving Throw** Will; **Duration** varies
 -
-Developed by the twelve to hunt Aberrant Marks, they found a spell that could disable any dragonmark - not just Aberrant marks. It was determined to be too great a risk to make public. However, these spells have since been acquired by various intelligence agencies, held until the day it may be necessary.
-
+One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
 You trace a pattern in the air with your hand as this spell is cast. In response, the target’s dragonmark seems to twist and curl in.
-
 Every time the target creature attempts to use a feature, spell, or item with the dragonmark trait, they must succeed on a DC 11 flat check or else fail to use it, losing any resources expended.
+**Critical Success** The target is unaffected.
+**Success** The spell lasts for 1 round.
+**Failure** The spell lasts for 1 minute.
+**Critical Failure** The spell has an unlimited duration.
+-
+**Heightened (+1)** the DC of the flat check increases by 1
+)
+=
+item(
+# Culinary Transmutation
+## Cantrip 0
+-
+; Common, Cantrip, Transmutation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You chill or warm up to 1 bulk or 1 cubic foot of nonliving material.
 )
 item(
 # Dancing Dragonmark
 ## Spell 2
 -
 ; Uncommon, Transmutation
-**Traditions** arcane, divine, occult
+**Traditions** arcane, divine, occult, primal
 
 **Cast** :aa: somatic, verbal
 
@@ -6772,81 +6713,236 @@ item(
 
 **Saving Throw** Will; **Duration** sustained 10 minutes
 -
-Developed by the twelve to hunt Aberrant Marks, they found a spell that could disable any dragonmark - not just Aberrant marks. It was determined to be too great a risk to make public. However, these spells have since been acquired by various intelligence agencies, held until the day it may be necessary.
-
-Dragonmarked creatures in the area become nauseated as their marks begin to writhe and dance on their skin. The creature must make a Will save. All creatures without the dragonmark trait automatically critically succeed.
-
-**Critical Success** The creature is unaffected
-
-**Success** The creature is stupefied 1
-
-**Failure** The creature is sickened 1
-
-**Critical Failure** The creature is sickened 2 and fascinated by their mark
+    One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
+    Dragonmarked creatures in the area become nauseated as their marks begin to writhe and dance on their skin. The creature must make a Will save. All creatures without the dragonmark trait automatically critically succeed.
+**Critical Success** The creature is unaffected.
+**Success** The creature is fascinated by their mark.
+**Failure** The creature is sickened 1 and fascinated by their mark.
+**Critical Failure** The creature is sickened 2 and fascinated by their mark.
 )
-=
 item(
-# Dragonmarked Guidance ((+Dragonmarked Guidance))
+# Dragonmarked Guidance
 ## Focus 1
 -
-; Uncommon, Divination, Dragonmark, True Dragonmark
+; Divination, Dragonmark, True Dragonmark
 **Cast** :aa: dragonmark, somatic
 
 **Duration** 1 minute
 
 **Range** touch; **Targets** one willing creature
 -
-
-You may substitute your speciality for the creature for the duration of the spell. When the creature makes the check, the creature may choose to use your modifier rather than their own. This check depends on your mark.
-
+You may substitute your speciality for the creature for the duration of the spell. When the target creature makes the check, the creature may choose to use your modifier rather than their own. This check depends on your mark.
 **Mark of Detection** perception
-
 **Mark of Finding** perception
-
 **Mark of Handling** nature
-
 **Mark of Healing** medicine
-
 **Mark of Hospitality** diplomacy
-
-**Mark of Making** crafting
-
-**Mark of Passage** acrobatics
-
-**Mark of Scribing** lore
-
-**Mark of Sentinel** athletics
-
-**Mark of Shadow** stealth
-
-**Mark of Storm** acrobatics
-
-**Mark of Warding** thievery
-)
-item(
-# Fabricate ((+Fabricate))
-## Spell 5
--
-; Uncommon, Conjuration
-**Cast** :aa: material, dragonmark, somatic, verbal
-
-**Range** 0 feet; **Target** up to 10 cubic feet of material
-
-**Duration** until your next daily preparations.
--
-You can convert raw material of one type into a batch of products equal to the original value of the material. Creatures or magic items cannot be created or transmuted by the fabricate spell. The items made by this spell cannot be greater than twice the level of the cast spell but can be intricate or detailed if you are familiar with the type of item you are constructing. If you work with any minerals, the target and heightened effects are reduced to 1 cubic foot instead of 10 cubic feet.
-
-Objects manufactured in this way are obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. When the spell ends, the item returns to the original raw material.
--
-**Heightened (+1)** The volume you can affect increases by 10 feet cubic feet.
 )
 |
 item(
-# Spell Guard ((+Spell Guard))
+<null> **Mark of Making** crafting
+**Mark of Passage** acrobatics
+**Mark of Scribing** lore
+**Mark of Sentinel** athletics
+**Mark of Shadow** stealth
+**Mark of Storm** acrobatics
+**Mark of Warding** thievery
+)
+item(
+# Fabricate
+## Spell 5
+-
+; Conjuration
+**Traditions** Arcane
+
+**Cast** :aa: material, dragonmark, somatic, verbal
+
+**Range** touch; **Target** up to 10 cubic feet of material
+
+**Duration** until your next daily preparations.
+-
+You can convert raw material of one type into a batch of products of the same material equal to the original value. Creatures or magic items cannot be created or transmuted by the fabricate spell. The items made by this spell cannot be greater than twice the level of the cast spell but can be intricate or detailed if you are familiar with the type of item you are constructing. If you work with any minerals, the target and heightened effects are reduced to 1 cubic foot instead of 10 cubic feet.
+Objects manufactured in this way are obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. When the spell ends, the item returns to the original raw material.
+-
+**Heightened (+1)** The volume you can affect increases by 10 feet cubic feet, and similarly minerals are increased by 1 cubic foot.
+)
+item(
+# Flash Bang
+## Spell 1
+-
+; Auditory, Evocation, Light, Sonic, Visual
+**Traditions** Arcane, Divine, Occult, Primal
+
+**Cast** :aa: somatic, verbal
+
+**Range** 60 feet; **Area** 15-foot burst
+
+**Saving Throw** Fortitude
+-
+A pulse of bright light and energy tears ripples through the air, disrupting creatures caught in the area.
+**Critical Success** The creature is unaffected.
+**Success** The creature is dazzled and deafened for 1 round.
+**Failure** The creature is dazzled and deafened for 1 minute. They may make a Fortitude at the end of each of their turns to end the effect.
+**Critical Failure** The creature is deafened and blinded for 1 minute, and stunned 1.
+)
+=
+item(
+# Force Blast
+## Cantrip 1
+-
+; Attack, Cantrip, Evocation, Force
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 180 feet; **Targets** 1 creature or object
+-
+You unleash a bolt of physical power at a creature or object within range. Make a spell attack roll. The blast deals force damage equal to 1d6 + your spellcasting ability modifier.
+**Critical Success** You deal double damage.
+**Success** You deal full damage.
+-
+**Heightened (+1)** The damage increases by 1d6.
+)
+item(
+# Grogan’s Grime
+## Cantrip 0
+-
+; Common, Cantrip, Conjuration
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You soil an object or space no larger than 1 cubic foot.
+)
+item(
+# Halan’s Dramatic Entrance
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You instantaneously cause an unlocked door or window within 30 feet to fly open or slam shut.
+)
+item(
+# Incendiary Purge
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You extinguish a candle, a torch, or a small campfire.
+)
+item(
+# Kellan’s Kindling
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You light a candle, torch, or small campfire.
+)
+item(
+# Magecraft
+## Cantrip 1
+-
+; Cantrip, Conjuration
+**Traditions** Arcane
+
+**Cast** :aaa: somatic, verbal, material (a set of artisan's tools)
+
+**Duration** sustained up to 10 minute
+-
+)
+|
+item(
+You gain a +1 circumstance bonus to the next check you make with this set of tools. The spell then ends. If you integrate this spell into your downtime crafting activity, this bonus applies to the final crafting check.
+)
+item(
+# Jackrabbit Agility
+## Spell 2
+-
+; Transmutation
+**Traditions** Occult, Primal
+
+**Cast** :aa: somatic, verbal
+
+**Duration** up to 1 minute
+-
+You channel the agility of a jackrabbit to boost your speed. You become quickened 1, you may only use this extra action to Stride or Step.
+-
+**Heightened (6th)** You become quicked 2.
+)
+item(
+# Sai'la's Moonblade
+## Spell 4
+-
+; Evocation, Light
+**Traditions** Divine
+
+**Cast** :a: to :aaa:
+
+**Range** varies; **Targets** 1 creature
+
+**Saving Throw** Fortitude
+-
+Channelling your divine powers, you bring a blade of moonlight down onto a creature you can see. You deal 5d10 positive damage. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.
+
+:a: (somatic) The spell has a range of touch.
+:aa: (somatic, verbal) The spell has a range of 30 feet.
+:aaa: (material, somatic, verbal) The spell has a range of 60 feet and creates a 20-foot burst of blades of moonlight
+
+**Critical Success** The creature is unaffected.
+**Success** The creature takes half damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success worse. 
+**Failure** The creature takes full damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it.
+**Critical Failure** The creature takes double damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success better. 
+-
+**Heightened (+1)** the damage increases by 1d10.
+)
+=
+item(
+# Savage Blossom
+## Cantrip 0
+-
+; Conjuration
+**Traditions** Primal
+
+**Cast** :aa: somatic, verbal, material
+-
+You conjure a small flower from the ground within 10 feet of you. This flower collapses into pedals after 1 day has passed.
+)
+item(
+# Shol Flame
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet; **Duration** 1 minute
+-
+You cause flames to flicker, brighten, dim, or change color for 1 minute.
+)
+item(
+# Spell Guard
 ## Focus 4
 -
 ; Uncommon, Abjuration, Dragonmark, Mark of Sentinel, Mark of Warding
-**Cast** :r: dragonmark, dragonmark, somatic, verbal
+**Cast** :r: dragonmark, somatic, verbal
 
 **Trigger** A creature you can see casts a spell
 
@@ -6857,10 +6953,10 @@ You may immediately make a counteract check against the triggering spell.
 **Heightened (8th)** When you successfully counteract a spell that affects targeted creatures or an area, you can turn that spell’s effect back on its caster. When reflected, the spell affects only the original caster, even if it’s an area spell or it would normally affect more than one creature. The original caster can attempt a save and use other defences against the reflected spell as normal. 
 )
 item(
-# Summon Living Dragonmark ((+Summon Living Dragonmark))
+# Summon Living Dragonmark
 ## Focus 7
 -
-; Uncommon, Conjuration, Dragonmark
+; Conjuration, Dragonmark
 **Cast** :aaa: dragonmark, dragonmark, somatic, verbal
 
 **Range** 30 feet
@@ -6868,14 +6964,16 @@ item(
 **Duration** sustained up to 1 minute
 -
 You summon a writhing mass of energy in a dragonlike form, a three-dimensional projection of your dragonmark. A living dragonmark appears where you designate within the spell’s range. Aberrant mark summons gains the Negative trait, while true mark summons gains the Positive trait.
+)
+|
+item(
 -
 **Heightened (+1)** the level of the Greater Living Dragonmark summoned increases by 2. Its AC, DCs, and Saves increase by the equivalent amount. 
 
 **Heightened (9th)** you summon a Siberys Living Dragonmark instead of a Greater Living Dragonmark
 )
-=
 item(
-# Greater Living Dragonmark ((++Greater Living Dragonmark))
+# Greater Living Dragonmark
 ## Creature 9
 -
 ; N, Medium, Incorporeal, Mindless, Minion, Summoned
@@ -6903,8 +7001,9 @@ item(
 
 **Dragonmark Discharge** :aa: (arcane, evocation, positive/negative) The dragonmark discharges its energy in a blast that deals 12d6 positive or negative depending on the source dragonmark damage in a 40-foot cone (Dragonmark DC of the summoner basic Reflex save). The Greater Living Dragonmark is then destroyed.
 )
+=
 item(
-# Siberys Living Dragonmark ((++Siberys Living Dragonmark))
+# Siberys Living Dragonmark
 ## Creature 13
 -
 ; N, Large, Incorporeal, Mindless, Minion, Summoned
@@ -6932,12 +7031,11 @@ item(
 
 **Dragonmark Discharge** :aa: (arcane, evocation, positive/negative) The dragonmark discharges its energy in a blast that deals 15d6 positive or negative depending on the source dragonmark damage in a 40-foot cone (Dragonmark DC of the summoner basic Reflex save). The Siberys Living Dragonmark can't use Dragonmark Discharge again for 1d4 rounds.
 )
-=
 item(
-# Wall of Gears ((+Wall of Gears))
+# Wall of Gears
 ## Spell 5
 -
-; Uncommon, Conjuration, Bludgeoning
+; Conjuration, Bludgeoning
 **Traditions** arcane
 
 **Cast** :aa: material, somatic, verbal
@@ -6948,19 +7046,21 @@ item(
 
 **Save** basic reflex
 -
-You raise a 6-inch-thick wall of moving iron cogs, wheels, gears, pistons, and assorted mechanical parts up to 60 feet long and 10 feet high. You can shape the wall's path, placing each 5 feet of the wall on the border between squares. The wall doesn't need to stand vertically. You must conjure the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. If you wish, the wall can be of a shorter length or height. Everything on each side of the wall is concealed from creatures on the opposite side.
-
-Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 10, and 30 Hit Points.
-
-Both sides of the wall have hundreds of moving parts that flail out, dealing 4d6 points of bludgeoning damage to all creatures that start their turn or move to within 5 feet of a section of the wall.
+You raise a 6-inch-thick wall of moving iron cogs, wheels, gears, pistons, and assorted mechanical parts
+)
+|
+item(
+up to 60 feet long and 10 feet high. You can shape the wall's path, placing each 5 feet of the wall on the border between squares. The wall doesn't need to stand vertically. You must conjure the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. If you wish, the wall can be of a shorter length or height. Everything on each side of the wall is concealed from creatures on the opposite side.
+Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 10, and 40 Hit Points.
+Both sides of the wall have hundreds of moving parts that flail out, dealing 4d4 points of bludgeoning damage to all creatures that start their turn or move to within 5 feet of a section of the wall.
 -
-**Heightened (+1)** The fire damage increases by 1d6, the Hit Points of each section of the wall increase by 6.
+**Heightened (+1)** The bludgeoning damage increases by 1d4, the Hit Points of each section of the wall increase by 10.
 )
 item(
-# Warded Resilience ((+Warded Resilience))
+# Warded Resilience
 ## Focus 1
 -
-; Uncommon, Abjuration, Dragonmark, Mark of Warding, Mark of Sentinel 
+; Abjuration, Dragonmark, Mark of Warding, Mark of Sentinel 
 **Cast** :aa: dragonmark, somatic
 
 **Duration** 1 minute
@@ -6969,12 +7069,11 @@ item(
 -
 You substitute your resilience for the creature for the duration of the spell, when the creature makes a fortitude save, the creature may choose to use your fortitude save modifier rather than their own.
 )
-|
 item(
-# Warded Reflex ((+Warded Reflex))
+# Warded Reflex
 ## Focus 1
 -
-; Uncommon, Abjuration, Dragonmark, Mark of Detection, Mark of Passage
+; Abjuration, Dragonmark, Mark of Detection, Mark of Passage
 **Cast** :aa: dragonmark, somatic
 
 **Duration** 1 minute
@@ -6984,110 +7083,165 @@ item(
 You substitute your reflex for the creature for the duration of the spell, when the creature makes a reflex save, the creature may choose to use your reflex save rather than their own.
 )
 item(
-# Warded Willpower ((+Warded Willpower))
+# Warded Willpower
 ## Focus 1
 -
-; Uncommon, Abjuration, Dragonmark, Mark of Healing, Mark of Hospitality 
+; Abjuration, Dragonmark, Mark of Healing, Mark of Hospitality 
 **Cast** :aa: dragonmark, somatic
 
 **Duration** 1 minute
 
 **Range** touch; **Targets** one willing creature
 -
-You substitute your willpower for the creature for the duration of the spell, when the creature makes a will save, the creature may choose to use your will save modifier rather than their own.
+You substitute your willpower for the creature for the
 )
 =
 item(
-# Aundair's Silent Sanctum
-## Cantrip 1
-- TODO
+duration of the spell, when the creature makes a will save, the creature may choose to use your will save modifier rather than their own.
 )
 item(
-# Concussive Burst
-## Spell 1
+# Verran’s Textile Restoration
+## Cantrip 0
 -
-; Evocation, Force
+; Common, Cantrip, Evocation
 **Traditions** Arcane
 
 **Cast** :aa: somatic, verbal
 
-**Range** 60 feet; **Area** 40-foot burst
-
-**Saving Throw** Fortitude
+**Range** 5 feet
 -
-A pulse of energy tears ripples through the air, dealing minor damage over a wide area at a spot you designate.
-
-**Success** The creature is unaffected.
-
-**Failure** The creature takes 1d4 damage.
-
-**Critical Failure** The creature takes double damage, and is Deafened 1.
+You clean an object made of cloth or leather no larger than 1 bulk or 1 cubic foot.
 )
 item(
-# Force Blast
-## Cantrip 1
+# Zolan Zest
+## Cantrip 0
 -
-; Attack, Cantrip, Evocation, Force
+; Common, Cantrip, Evocation
 **Traditions** Arcane
+
 **Cast** :aa: somatic, verbal
-**Range** 180 feet; **Targets** 1 creature or object
+
+**Range** 5 feet
 -
-You unleash a bolt of pystical power at a creature or object within range. Make a spell attack roll. The blast deals force damage equal to 1d4 + your spellcasting ability modifier.
-
-
-**Critical Success** You deal double damage.
-
-**Success** You deal full damage.
--
-**Heightened (+1)** The damage increases by 1d4.
+You flavor up to 1 bulk or 1 cubic foot of nonliving material; this lasts for one hour.
 )
-item(
-# Sai'la's Moonblade
-## Spell 4
--
-; Evocation, Light
-**Traditions** divine
-
-**Cast** :a: to :aaa:
-
-**Range** varies; **Targets** 1 creature
-
-**Saving Throw** Fortitude
--
-Channelling your divine powers, you bring a blade of moonlight down onto a creature you can see. You deal 5d10 positive damage. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.
-
-:a: (somatic) The spell has a range of touch.
-:aa: (somatic, verbal) The spell has a range of 30 feet.
-:aaa: (material, somatic, verbal) The spell has a range of 60 feet and creates a 20-foot burst of blades of moonlight
-
-**Critical Success** The creature is unaffected.
-
-**Success** The creature takes half damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success worse. 
-
-**Failure** The creature takes full damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it.
-
-**Critical Failure** The creature takes double damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success better. 
--
-**Heightened (+1)** the damage increases by 1d10.
-)
+|
 =
 head(
 # Monsters and NPCs ((Monsters and NPCs))
 )
-## Magewrights
+# Animals ((+Animals))
+-
+## Dinosaur ((++Dinosaurs))
+<!--clawfoot-->
+http://monster.pf2.tools/v/yfdH7xsJ
+|
+<!--fastieth-->
+http://monster.pf2.tools/v/Cd3z7BdM
+
+## Magebred Animals ((++Magebred animals))
+Magebred animals are the result of intensive breeding programs run by House Vadalis. These animals are much like the standard animal, however, they have improved durability, statisitics, and abilities. To capture this, apply the Elite template to the base animal statblock (Beastiary pg 6). While Vadalis has a large variety of magebred animals, the animals offered in the Equipment section are the ones primarily available to the public. Others may exist however, and use the Elite template as the baseline along with any new feature or abilities as a result of their breeding.
+
+Animal | Base Animal
+--- | : ---
+Magebred Guard Dog | Guard Dog
+Magebred Riding Dog | Riding Dog
+Magebred Riding Horse | Riding Horse
+Magebred Warhorse | Warhorse
+Magebred Pack Animal | Riding Horse, Riding Pony
+Magebred Riding Pony | Riding Pony
+Magebred Warpony | Warpony
+=
+## Valenar Animals
+These animals are valued creatures of the Tairnadal elves. Valenar animals are thought to be the spiritual decendents of elven druids, cursed to forever remain in their animal form during the elven rebellion against the giants. Typically, a Valenar animal will choose its companion, and this is the only way to you can obtain a Valenar animal.
+
+<!--Valenar Riding Horse-->
+https://monster.pf2.tools/v/FHfvBJvq
+|
+<!--Valenar Guard Dog-->
+https://monster.pf2.tools/v/xhWq71vB
+
+<!--Valenar Hawk-->
+https://monster.pf2.tools/v/5zsv15Cs
+=
+# NPCs ((+NPCs))
+## Dragonmarked NPCs ((++Dragonmarked))
+Got marks man TODO
+
+## Magewrights ((++Magewrights))
 The magical economy of Eberron is built on the backs of the magewrights: spellcasters who know a handful of cantrips or rituals that allow them to provide vital services. Wizards are exceptional; their ability to prepare any spell with a few hours of study reflects remarkable talent and versatility. By contrast, a magewright knows few spells, but because of their intense focus on those spells, they’re able to cast them in ways others cannot.
-An artificer is equally exceptional. Most of the people assembling magic items at Cannith forgeholds aren’t artificers; they work using industrialized processes, massive tools that enhance the creation process (like the creation forge), and house resources. These craftspeople couldn’t just create a wand at home alone. By contrast, as an artificer, you are unconventional, using personalized techniques and improvising solutions. 
-Just because you can create any common magic item with little time and effort doesn’t mean that this is typical or that others could duplicate your work. Never forget that in Eberron, player characters are exceptional. Even at low levels, you have potential that the common magewright can’t match. There are also exceptional NPCs, ones who can do things player characters cannot; but remember that as a player character, not everyone who follows your path can match your abilities.
+
+<!--Chef--> 
+https://monster.pf2.tools/v/Dt5jsyhC
+|
+<!--Healer-->
+https://monster.pf2.tools/v/ocqQqr1y
+  
+  
+  
+  
+ 
+ 
+/
+=
+<!--Smith-->
+https://monster.pf2.tools/v/c4fWX4cv
+
+### Building Magewrights
+Magewrights always cast spells of their profession with the Arcane Ritual Spell feature, but can cast cantrips regularly. They own the tools required for their trade, and they are typically higher level in their specialization than their combat challenge. Most magewrights are not trained in combat, and should not be built as such. The following list provides some example magewrights spells and tools for their profession.
+|
+##### Example Magewrights
+Specialty | Skills and Tools | Cantrips | Spells
+--- | :--- | :--- | :---
+Artisan | Artisian's Tools, Crafting | Magecraft | Mending
+Entertainer | Performance | Halan’s Dramatic Entrance, Tialaen Tongue | Illusory Disguise
+Healer | Healer's Tools, Medicine | Stabilize | Heal
+Lamplighter | Lamplighter Wand | Kellan’s Kindling, Shol Flame | -
+Locksmith | Theives' Tools, Theivery, Crafting | Magecraft | Lock, Knock
+Mediator | Perception, Diplomacy | Guidance | Zone of Truth
+
+## Wandslingers ((++Wandslingers))
+As martial magic became widespread in the last war, individuals started training in a new type of fighting: wandslinging. With a cocky bravado these wandslingers carry a force of personality with a quick wand draw to back it up. Most of these wandslingers specialize in a few, but effective, cantrips cast with the aid of their wand. As this new style of fighting became pronounced in Khorvaire, nations began to see specialist wandslingers wielding the magic of their nation and fighting for their cause.
+=
+<!--Cyran Phantasm-->
+http://monster.pf2.tools/v/o92H32Py
+
+### Building Wandslingers
+Wandslingers are martial characters similar to a gunslinger in spirit - though guns might not exist in your Eberron. A wandslinger typically has 1-2 damaging cantrips, and a 1st level damaging spell. Though they call themselves wandslingers, they rarely have access to the types of wands that a player character might. The wands they draw are typically standard arcane foci for casting spells. If creating a higher level wandslinger, consider giving them a magical wand to use instead.
+##### Wandslinging Soldiers
+Wandslinger | Cantrips | Spells
+--- | :--- | :---
+Aundairian Dragoon | force blast, electric arc | concussive burst
+Brelish Firebrand | fire bolt, light | burning hands
+Cyran Phantasm | force blast, shield | magic missle
+Karrnathi Ghoul | chill touch, acid splash | fear
+Thrane Beacon | divine lance, stabilize | horizon thunder sphere
+|
 =
 head(
-# Alternative Rules ((Alternative Rules))
+# Optional Rules ((Optional Rules))
+Recommended and suggested rules from the Gamemastery guide and other sources to change and capture the feel of Eberron.
 -
 )
-Consider the following:
-- Ancestral Paragon because dragonmarks need it.
-- If you disguise yourself as someone with a visible dragonmark, you take a -2 circumstance penalty. Dragonmarks are unique and magical.
-- Forgery: Spells that prevent forgery can be forged. Figure it out. TODO
-- - gunpowered like gunslinger, alchemest bomber, etc... all shards. Shards go boom. Unstable, expensive, insane. Don't do it kids.
+Eberron is a world of swashbuckling adventure, noir mysteries, and can fit most other genres with ease. The following rules help improve both the GM's and the player's experience in Eberron, and capture differences from the assumptions of the world of Golarion.
+
+## World Details
+- Dragonmarks are a unique and magical marking on the flesh of a creature. If you disguise yourself as a creature with a visible dragonmark, you take a -2 circumstance penalty to your attempts to decieve other characters. In addition, cosmetic changes fail to capture the true appearance of a dragonmark - or hide its presence.
+- World levels on NPCs should be kept relatively low. Casting cantrips and 1st level spells is common, 2nd-3rd level is uncommon, casting 4th-5th is rare and primarily on NPCs of note, and beyond 6th should be considered legendary - Unique rarity. Similarly items become increasingly difficult to obtain, and the primary source of high level items may be prototype items or blueprints developed by Cannith or from ancient ruins such as in Xen'drik. See the Services section for more information.
+- Gunpower plays a large part in the pathfinder 2e core rules - the gunslinger, alchemist bomber, and various other items depend on blackpowder. If you keep these items, consider modifying blackpowder to instead be a powdered Eberron Shard substance. It maintains a similar effect, but integrates the arcane nature of Eberron.
+
+## Recommended
+- The optional alignment variants rule of the Gamemastery guide suggests the "Extreme Good and Evil" modification, which is the primary lore design of Eberron. While creatures of the planes such as Daanvi, Irian, or Mabar _are_ strongly aligned creatures, on the material plane, things are a shade of grey. On the material plane, it is strongly suggested you use either the Moral Intentions, or the No Alignment major variants - as to your preference. Many instances of the existing lore fall within these designs: the church of the silver flame is primarily good, however it is responsible for the horrors of the Silver Purge; many dragons are various alignments, not the standard alignment of their colour. It is quite possible to meet a good red dragon, and an evil gold dragon. If alignment is required for a ruling, consider the creature's general behaviour and motivations. Though a creature might generally be good, they are not beholden to always be good, and vice-versa. If you do make these changes, modify alignment damage "Good, Evil, Chaotic, Lawful" to "Radiant, Shadow, Chaos, Order" respectively. All creatures that are not strongly aligned (such as most creatures of the material plane) take no damage from these types, or alternatively consider their general alignment when deciding whether it applies.
+- PCs are part of the world of Eberron, and they have an approximate knowledge of many of the intricacies of where they're from. Consider giving all players a free starting trained lore skill in the history and politics of their nation.
+
+## Consider the following
+- Free Archetype is an optional rule available in the Gamemastery guide. The rule allows characters to become more diverse, and specialize in a greater selection of options. Eberron is a world in need of heroes, and this optional rule allows characters to stand out as increasingly special.
+- Ancestral Paragon is an optional rule available in the Gamemastery guide. If you have a dragonmarked character, you could consider adding this rule to enable the full powers of a dragonmark to manifest while allowing the selection of regular ancestry feats as well. Regular characters can benefit from channeling the archetype of their ancestry, perhaps as a champion of their people (such as a hero of the Valenar elves).
+- Deep backgrounds are an excellent way to increase your player's connection to Eberron. Work with your players to build out their beginings, or allow them to roll. 
+- Ley Lines and Magical Terrain help capture the power of manifest zones. While the Planes entry details a few potential applications of these rules, you can consider enabling all of the features of Ley Lines and Magical Terrain to apply to manifest zones.
+- Pervasive magic captures the wide magic feeling of Eberron. It's suggested that you follow the character creation of pervasive magic, and give NPCs access to the level 0 cantrips detailed in this document or uncommonly level 1 cantrips from any source. However, though magic is pervasive, it is low level. You should consider disregarding Creature Adjustments, and only apply these wide spread cantrips to intelligent humanoids.
+- Hero points enable the heroic last minute changes of luck that are the corner stone of swashbuckling adventure. You could consider increasing the frequency with which you award hero points, and even increasing the maximum number of hero points that a player can hold on to.
+
 =
 
 # Changelog
