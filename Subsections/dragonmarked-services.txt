@@ -16,8 +16,7 @@ Your family is influential and powerful, and you have the connections to fast tr
 |
 note(
 # GM Adjudication
-Whenever a character takes the favoured in House feat, especially in the middle of an ongoing campaign, an explanation is required. If a character has been a constant embarrassment to their house, opinions won’t suddenly 
-change because they went up a level and gained a feat slot. This is a prerequisite of the feat: It needs to be justified, and a GM is free to refuse the request. 
+Whenever a character takes the favoured in House feat, especially in the middle of an ongoing campaign, an explanation is required. If a character has been a constant embarassment to their house, opinions won’t suddenly change because they went up a level and gained a feat slot. This is a prerequisite of the feat: It needs to be justified, and a GM is free to refuse the request. 
 
 # Losing your favour
 Whether by excoration, or actions that have tarnished the reputation of your house, in the event of extrodinary circumstances you might lose the favour of your house. Until you regain the favour of your house, you lose access to any of the benefits granted by the Favoured in House feat. If reconsiliation with the house is not something you desire, you may retrain out of this feat for free with a week of downtime as normal.
@@ -32,11 +31,14 @@ House Cannith has risen to dominate commerce and industry in Khorvaire. For ever
 With its power and creative genius, the House Cannith commands both respect and fear. Despite its accomplishments, however, Cannith stands in turmoil. Unable to agree on a new ruler in the aftermath of the Day of Mourning, the house splintered into three factions, each with its own agenda. This rift has caused unease among the houses and beyond, giving monarchs and entrepreneurs pause even as they cautiously back one of three would-be leaders.
 
 ## Services
-TODO
-The following uses the rules for Services found in the core rule book pg 294. Tinkerer or Fabricator's guild
+In addition to any regular services that House Cannith might provide, such as appropriate services from the core rule book pg 294, Cannith provides the following additional benefits.
 
-- Cannith approved manufacturers can supply or repair any non-magical item of 5th level or lower at cost.
-- Cannith Mark of Making Focus Spells are cast at a 10% discount of the spellcasting services table 6-15.
+Tinkerer or Fabricator's guild
+- will purcase Uncommon, Rare, and Unique items at 65% of Price.
+- will cast any mark of Making Focus Spells are cast at a 10% discount of the spellcasting services table 6-15 in the core rulebook.
+Tinkerer's guild
+- approved manufacturers can repair any common item of 5th level or lower, or any non-magical item below 10th level for 5% of the item's value.
+Fabricator's guild
 
 Cannith Hirelings | Cost
 --- | :---
@@ -152,10 +154,30 @@ Marshals
 ## House Tarkanan
 ## House Tharashk
 ## House Thurranni
+
 ## House Vadalis
+- Description
 
+Mark: Mark of Handling
+- Description
 
+Guilds: Handlers
+- Description
 
+Membership: 
+- Human - By birth or marriage
+- 25% discount on animals, 50% discount on stabling
+- Free pack and riding animals between enclaves
+- Free Orien caravan rides
 
+Services:
+- Provides animals
+- Provides animal gear + supplies + stabling
+- Provides hirelings
 
-
+DC | Favour
+--- | :---
+10 | One free use of the least Mark of Handling; an introduction to a friendly druidic sect in the Eldeen Reaches; free feed and stabling for up to four animals for 1 week at any House Vadalis outpost or enclave; 
+15 | One free use of the lesser Mark of Handling; free feed and stabling for up to four animals for 1 month at any House Vadalis outpost or enclave; the use of a magebred animal (level 3) for 1 week
+20 | One free use of the greater Mark of Handling; free use of a 3rd-level member of the Handlers Guild (least dragonmark) for 1 week; the use of up to four magebred animals (level 7) for 1 week; free feed and stabling for up to four animals for 3 months at any House Vadalis outpost or enclave
+25 | Free use of a 5th-level member of the Handlers Guild (lesser dragonmark) for 1 week; the gift of a magebred animal (level 7); the use of up to four magebred animals for 1 month; free feed and stabling for up to four animals for 6 months at any House Vadalis outpost or enclave 
