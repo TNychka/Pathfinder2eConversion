@@ -1,11 +1,11 @@
 watermark (
-Version 0.19.0
+Version 1.0
 )
 title (
 Pathfinders' Guide to Eberron 
 )
 head (
-# The Pathfinders' Guide to Eberron ((Pathfinder's Guide to Eberron))
+# The Pathfinders' Guide to Eberron ((Pathfinders' Guide to Eberron))
 Train cars crackle with lightning as they thunder on elemental rails through the countryside. Veterans of a hundred-year war now not only defend their fragment of a shattered kingdom, but protect again nameless horrors from apocalyptic mists. Dragonmarked monopolies dominate the trade of the Khorvaire and increasingly push the boundaries of their governing laws. The world is in desperate need of heroes, and only you can answer the call. Welcome to the World of Eberron. This guide will help you run the Eberron Campaign setting using the Pathfinder 2e system.
 -
 )
@@ -13,14 +13,12 @@ Train cars crackle with lightning as they thunder on elemental rails through the
 # What is Eberron? ((+What is Eberron))
 Eberron started with a contest run by Wizards of the Coast to develop a new campaign setting. The winner of the competition was Keith Baker with the Eberron Campaign Setting. In 2005 after developing the setting in concert with Wizards of the Coast, the Eberron campaign setting was published for Dungeons and Dragons 3e. 
 
-Eberron is a pulp action world with widespread magic where morality is a shade of grey. There are many threats in the world of Eberron; some threatening nations, others the world, and few who can stop them. That's where the PCs come in, the need for heroes is desperate, but there is hope.
+Eberron is a pulp action world where morality is a shade of grey, but the call to adventure is always present. Adventure is everywhere, from the continent of Khorvaire: where arcane industry powered a hundred-year-war which now stands in an uneasy truce gone cold war; to Xen'drik where ancient ruins of the giant civilization wait to be discovered; there are many backdrops for a story in Eberron - and equally many dangers. Some of these dangers threaten nations, while others put the fate of the world at risk. Only a few legendary people can ever hope to stand against these threats, which is where the PCs come in. The need for heroes is desperate, but there is hope.
 /
-
-# What is the Pathfinder's Guide to Eberron ((+What is the Pathfinder's Guide to Eberron))
+# Pathfinders' Guide to Eberron ((+Pathfinders' Guide to Eberron))
 
 The Pathfinder's guide to Eberron is a homebrew conversion of the Pathfinder 2e mechanics to support the world and Lore of Eberron. It would be prohibitive to provide all of the lore that Eberron has developed over the years - and any lore provided by this guide would be poorly repeated imitations of better summaries. This guide uses the following books as references and will provide page numbers to learn more. [D&D 3 Eberron Campaign Setting](https://www.dmsguild.com/product/28474/Eberron-Campaign-Setting-3e) by Keith Baker, [Exploring Eberron](https://www.dmsguild.com/product/315887/Exploring-Eberron) by Keith Baker, and the [Eberronicon](https://www.dmsguild.com/product/297249/Eberronicon-A-Pocket-Guide-to-the-World). All of these are available for purchase on the [Dungeon Masters Guild](https://www.dmsguild.com/) and provide all of the background information you might need to run the world of Eberron.
 |
-
 info (
 ## D&D 3 Eberron Campaign Setting
 
@@ -37,15 +35,19 @@ The Eberronicon - A Pocket Guide to the World (EPG) is a community project that 
 /
 
 ## Why Pathfinder 2e? ((++Why Pathfinder 2e))
-Pathfinder 2e's levelling system supports the pulp action and swashbuckling of Eberron well. At low levels, your adventurers will fight against threats to towns or cities, while at high levels these become trivial and adventurers' will be called on to fight one or more of the threats to nations or even the entire world.
+Pathfinder 2e's levelling system supports the pulp action and swashbuckling of Eberron well. At low levels, adventurers will fight against threats to towns or cities, while at high levels these become trivial and adventurers will be called on to fight one or more of the threats to nations or even the entire world.
 
-Not only this, but players will find that with the customization enabled by pathfinder 2e's feat system, they'll be able to build characters far more intricately tied to the lore than ever before. This is most evident in the new dragonmarked system, where it's possible for player to be a member of the dragonmarked houses without ever manifesting a mark!
+Not only this, but players will find that with the customization enabled by pathfinder 2e's feat system, 
+|
+they'll be able to build characters far more intricately tied to the lore than ever before. This is most evident in the new dragonmarked system, where it's possible for player to be a member of the dragonmarked houses without ever manifesting a mark!
 
-Since Eberron was developed for the D&D 3 system, translating mechanics and items to Pathfinder 2e is frequently straightforward. The Pathfinder's Guide to Eberron primarily provides support for Ancestries, Dragonmarks, Equipment, Spells, and conversions of specific mechanics or lore of the world tied to the D&D 3 and D&D 5e. 
+Since Eberron was developed for the D&D 3 system, translating mechanics and items to Pathfinder 2e is frequently indirect. The Pathfinder's Guide to Eberron primarily provides support for Ancestries,
+=
+Dragonmarks, Equipment, Spells, and conversions of specific mechanics or lore of the world tied to the D&D 3 and D&D 5e. In addition, there are new feats and ideas that add to the potential of the Pathfinder 2e system for the world of Eberron.
 
 ### Ancestries
 There are several unique playable Ancestries in Eberron, such as the Bugbear, Eberron Changeling, Kalashtar, Shifter, and Warforged. The Pathfinder's Guide to Eberron provides support for these new ancestries, or ways to play them with the existing Pathfinder 2e ancestries.
-|
+
 With the Pathfinder 2e feats system, there are some feats which tie Golarian lore directly into Ancestry. Suggestions are provided for altering these to fit the world of Eberron (although mechanics are rarely changed). 
 
 ### Dragonmarks
@@ -59,30 +61,60 @@ With the arms race brought about by the last war, and the magic of dragonmarks, 
 
 ### Other
 There are many other details sourced from canon and kanon about running the world of Eberron to its full depth of lore. Eberron is a rich living world, and it can truely shine with some minor tweaks to the Pathfinder 2e system!
+
+## Using this guide
+This guide aims to be as balanced and interesting as possible while using the pathfinder 2e base rules. If something seems too good - or too bad - to be true, it likely is. Work with your GM to figure out a better solution, and if possible submit a question to the
+|
+[Github](https://github.com/TNychka/Pathfinder2eConversion/issues) for clarification or correction. All Uncommon and Rare traits from pathfinder sources should _always_ be verified with your GM. Similarly, this guide aims to tag information with appropriate rarity. These are typically applied to potentially imbalanced options, options that require GM work to integrate with the world, or even options that your GM might decide doesn't exist in their Eberron. If something is Uncommon, Rare, or Unique, you should check with your GM to see how to work it into your character.
+
+note(
+Occasionally, notes are used to clarify design intent of an option, and sometimes explain the rarity of the option.
+)
+
+info(
+Text boxes such as the following are used to provide references for further reading. Inline citations are done with the [X] format which references a citation at the end of the document.
+)
+Beyond this, the world is now yours. Welcome to the world of Eberron.
+
+# Changelog
+**V 1.0.0 - 2021-10-01**
+- Document created
+  
+
+***Legal Disclaimer**: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up to date source for the Eberron community.*
+
+***Additional Disclaimer**: In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind bending corruptions accending from the depths (The Mror Holds decline to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
 =
 
 
 head (
 # The World of Eberron ((The World of Eberron))
-The world of Eberron is an interconnected network of Nations, Territories, and Ancient Empires. Ancient grudges, and fresh wounds simmer in the embers of the last war. Adwill play a major roll in the future of all of them.
+The world of Eberron is an interconnected network of Nations, Territories, and Ancient Empires. Ancient grudges, and fresh wounds simmer in the embers of the last war. Tension are high, and the need for heroes is desperate.
 -
 )
+The world of Eberron is composed of five main continents: Aerenal, Argonessen, Frostfell, Khorvaire, Sarlona, and Xen'drik. Most PCs will start on the continent of Khorvaire, one of the major humanoid population centers of Eberron.
 right (
 # National Lore
 Most PCs will be natives to one of the Nations of Khorvaire. This nationality will likely be an important part of their character, so consider giving each PC a Trained Lore skill for their Nation.
 # Regional Language
 Languages in Eberron are typically based on location rather than Ancestry. When picking languages, consider the languages local to your home region. As a result of this approach to language, it wouldn't be unreasonable to have characters such as a Dwarf that cannot speak Dwarven or an Elf that only speaks Goblin.
 )
-# Nations and Territories((+Nations of Khorvaire))
-As the Last War comes to an end, twelve nations now stand recognized amid the ashes by the Treaty of Thronehold. Although, not all territories are recognized - such as the recently formed Droaam. When building a PC, consider which Nations you lived in, and how the neighbouring nations affected you. How has it affected your past? 
+ 
+# Khorvaire ((+Khorvaire))
 
-For more information on the Nations at a high level: see the Eberronicon (p. 20) or more in-depth in the Eberron Campaign Setting (p. 129). All excerpts are from the Eberron Campaign Setting.
+Khorvaire once stood as the proud human nation of Galifar. Five heirs to the Five nations of Aundair, Thrane, Breland, Cyre, and Karrnath worked as one under the crown. This all came to an end 100 years ago when Thrane, Breland, and Karrnath rejected Cyre's claim to the throne, starting a hundred-year-war that ripped the kingdom of Galifar apart. This war is now known as the Last War.
+
+As the Last War comes to an end, twelve nations now stand recognized amid the ashes by the Treaty of Thronehold. Although, not all territories are recognized - such as the recently formed Droaam. When building a PC, consider which Nations you lived in, and how the neighbouring nations affected you. How has it affected your past? 
+ 
+info(
+For more information on the Nations at a high level: see the **Eberronicon** (P. 20) or more in-depth in the **Eberron Campaign Setting** (p. 129). All the following excerpts are from the Eberron Campaign Setting.
+)
 /
 item(
 # Aundair  ((++Aundair))
 ## Nation
 -
-;Five Nations,Recognized by Thronehold
+; Five Nations, Khorvaire, Recognized by Thronehold
 **Government** Monarchy
 
 **Capital**: Fairhaven (92,500)
@@ -107,12 +139,12 @@ item(
 -
 Aundair is one of the five nations of the original Kingdom of Galifar. Although much of its western forest territory has now become the Eldeen Reaches, Aundair still possesses beautiful swaths of fertile fields that supply the nations of Khorvaire with food and fine wines while large institutions of higher learning output scholars and knowledge.
 )
-
+=
 item(
 # Breland ((++Breland))
 ## Nation
 -
-; Five Nations,Recognized by Thronehold
+; Khorvaire, Five Nations,Recognized by Thronehold
 **Government** Constitutional Monarchy
 
 **Capital** Wroat (80,870)
@@ -137,13 +169,11 @@ item(
 -
 Breland, one of the original Five Nations founded by the human settlers of Khorvaire, mixes a proud agricultural tradition with a more urban and industrial outlook, especially in its massive cities. As with the other Five Nations, Breland’s borders have fluctuated over time. It was named for King Galifar I’s daughter, Brey, in the year 32 YK.
 )
-=
-
 item(
 # Cyre (Destroyed - 994 YK) ((++Cyre))
 ## Nation
 -
-; Five nations, Wasteland
+; Five nations, Khorvaire, Wasteland
 **Government** Kingdom
 
 **Capital** Metrol
@@ -171,7 +201,7 @@ item(
 # Darguun ((++Darguun))
 ## Nation
 -
-; Recognized by thronehold
+; Khorvaire, Recognized by thronehold
 
 **Government** Feudal (official), Tribal (traditional)
 
@@ -184,7 +214,9 @@ item(
 **Religion** Ancestor Worship, Sovereign Host, or the Dark Six.
 -
 **Exports** Mercenaries
-
+)
+=
+item(
 **Houses** House Deneith, House Tharashk
 
 **Factions** The Ghaal'dar, The Marguul, The Heirs of Dhakaan
@@ -193,13 +225,11 @@ item(
 -
 In ages past, hobgoblins and other goblinoids controlled Khorvaire. Over the course of thousands of years a host of goblinoid nations rose and fell. The greatest civilization of this age, the hobgoblin Empire of Dhakaan, bred goblins and bugbears as slaves and warriors. The ancient empire has returned, in a weaker, less influential form, in the new nation of Darguun.
 )
-
-
 item(
 # Demon Wastes ((++Demon Waste))
 ## Territory
 -
-; Wasteland
+; Khorvaire, Wasteland
 **Population** 600,000 (45% humans, 28% orcs, 2% half-orcs, 25% demons (rakshasa, zakya, others))
 
 **Languages:** Common, Orc, Infernal
@@ -210,12 +240,11 @@ item(
 -
 North of the Eldeen Reaches, life gradually seeps out of the earth. Lush forests fade to a broad tableland of dried soil and cracked rock. Further north, the elevation rises into the bleak chain of mountains known as the Shad-owcrags, then drops dramatically. The land beyond, a highland plateau, is broken into badlands, a network of canyons and mesas that forms a natural labyrinth leading out to a plain of blackened sand and volcanic glass. This is the Demon Wastes—the last remnants of the rakshasa civilization that ruled Khorvaire millions of years before the rise of goblinoids or humans. Amid ruins so old that they barely resemble the buildings they once were, fi endish creatures search for fresh blood while ancient forces watch from the shadows. In this realm of death and desolation, long-forgotten treasures and primeval secrets hide in the blasted wastes
 )
-=
-
 item(
 # Droaam ((++Droaam))
 ## Nation
 -
+; Khorvaire
 **Government** Despotic Regime
 
 **Capital** The Great Crag (32,500)
@@ -241,12 +270,17 @@ item(
 
 Droaam is a nation ruled by monsters, established by the Daughters of Sora Kell in 986 YK. Few of the civilized races dare to test its borders. Their connection with the rest of Khorvaire is limited to a single House Orienroadway that passes through Graywall and into The Great Crag, and a beneficial business relationship with House Tharashk, who set up mercenary contracts between the inhabitants of Droaam and the outside world. Recently, the House has acquired permission to mine in Droaam, and they have begun exploitation of the nation's vast Byeshk mines and Eberron Dragonshard fields.
 )
-
+  
+  
+  
+  
+/
+=
 item(
 # The Eldeen Reaches ((++The Eldeen Reaches))
 ## Nation
 -
-; Recognized by Thronehold
+; Khorvaire, Recognized by Thronehold
 
 **Government** Druidic Autocracy
 
@@ -268,12 +302,11 @@ item(
 -
 The Eldeen Reaches cover the northwestern region of Khor-vaire to the Shadowcrag Mountains. The eastern Reaches feature fertile plains and rolling hills, but dense forests cover the majority of the nation. These forests house some of the most primeval trees on the continent, ancient growths that have survived the rise and fall of empires and witnessed the arrival of humans on the shores of Khorvaire. The forces of magic permeate these woods, and strange beasts and mischievous fey roam the land. Many dangers also lurk in the deep woods, and the humanoids who make their homes in these forests don’t always take kindly to visitors.
 )
-
 item(
 # Karrnath ((++Karrnath))
 ## Nation
 -
-; Five nations, Recognized by Thronehold
+; Five nations, Khorvaire, Recognized by Thronehold
 **Government** Monarchy
 
 **Capital** Korth (85,000)
@@ -298,12 +331,11 @@ item(
 -
 Tradition, discipline, and excellence in all things define Karrnath. A nation with a proud military history, it has stood for centuries as the strongest of the Five Nations, producing the finest generals and armies the kingdom of Galifar has ever seen. These qualities proved the nation’s greatest asset, but also its greatest vulnerability, during the Last War. Although the nation never surrendered, an over reliance on military concerns left it unprepared for different kinds of enemies—plague, famine, and intrigue.
 )
-=
 item(
 # The Lhazaar Principalities ((++The Lhazaar Principalities))
 ## Nation
 -
-; Recognized by Thronehold
+; Khorvaire, Recognized by Thronehold
 
 **Government** Confederation of Principalities
 
@@ -316,7 +348,9 @@ item(
 **Religion** Blood of Vol
 -
 **Exports** Ships, Mercenaries, Trade Goods
-
+)
+=
+item(
 **Houses** House Thuranni
 
 **Factions** Prince Ryger’s Seadragons, Prince Mika’s Cloudreavers, The Blood of Vol
@@ -327,12 +361,11 @@ item(
 -
 A loose confederacy of pirate lords, sea barons, and mer-chant princes controls the area east of the Hoarfrost Moun-tains. This strip of the continent’s eastern shore, along with the chain of islands that wraps around the coast and extends north into the Bitter Sea, makes up the region known as the Lhazaar Principalities. Named for the near-mythic explorer who led the humans to Khorvaire some three thousand years ago, the Lhazaar Principalities have always been grouped together—even though the individual princes rarely see themselves as part of a greater whole. 
 )
-
 item(
 # The Mror Holds ((++The Mror Holds))
 ## Nation
 -
-; Recognized by Thronehold
+; Khorvaire, Recognized by Thronehold
 
 **Government** Oligarchy
 
@@ -354,12 +387,11 @@ item(
 -
 Hemmed in by the Ironroot Mountains and the Hoarfrost Mountains on both sides and the Bitter Sea to the northwest much of the establishments of the Mror Holds are located underground. To the east are the Lhazaar Principalities while the Talenta Plains and Karrnath share its western border.
 )
-
 item(
 # Q'Barra ((++Q'Barra))
 ## Nation
 -
-; Recognized by Thronehold
+; Khorvaire, Recognized by Thronehold
 **Government** Feudal
 
 **Capital** Newthrone (23,260)
@@ -380,17 +412,19 @@ item(
 -
 The frontier nation of Q’barra, settled within the past seventy years and recognized by the Thronehold Accords, remains a dangerous, unstable place. Even so, more than a hundred thousand settlers call it home and fight to keep it, despite the troubles and dangers that surround them.
 )
-=
 item(
 # The Shadow Marches ((++The Shadow Marches))
 ## Territory
 -
+; Khorvaire
 **Capital:** Zarash’ak (unofficial) (5,960)
 
 **Population** 500,000 (Orc 55%, Humans 25%, Goblins 10%, Half-orcs 7%, Other 3%)
 
 **Languages:** Orc, Common, Goblin
-
+)
+=
+item(
 **Religion:** The druidic path of the Gatekeepers, Cults of the Dragon Below
 -
 **Exports** Eberron dragonshards, herbs
@@ -401,12 +435,11 @@ item(
 -
 Commonly, the region known as the Shadow Marches conjures images of a fetid backwater where illiterate humans  mingle  with  orcs  and  other  foul  creatures, and practice strange rites by the light of the moons. These images are accurate—to a point. A desolate land of swamps and moors, the Shadow Marches have been orc territory for more than thirty thousand years. The region has suffered through a terrible war against the daelkyr that scarred the land, stranded horrible creatures in the shadows, and divided the orc tribes. The daelkyr were eventually defeated, but the schisms caused by the war remain.
 )
-
 item(
 # The Talenta Plains ((++The Talenta Plains))
 ## Nation
 -
-; Recognized by Thronehold
+; Khorvaire, Recognized by Thronehold
 **Government** Tribal
 
 **Capital** Gatherhold (2,300)
@@ -425,12 +458,11 @@ item(
 -
 The halflings of the Talenta Plains have no cities and no industrialized magic, but they do have dinosaurs. The halflings domesticated the dinosaurs of the plains and use these creatures as mounts, livestock, and beasts of burden. A sacred bond exists between a hunter and mount, and few people are prepared to face a raging halfling barbarian riding a furious clawfoot raptor.
 )
-
 item(
 # Thrane ((++Thrane))
 ## Nation
 -
-; Five Nations, Recognized by Thronehold
+; Five Nations, Khorvaire, Recognized by Thronehold
 **Government** Theocracy 
 
 **Capital** Flamekeep (150,000)
@@ -451,20 +483,20 @@ item(
 -
 The modern Church of the Silver Flame was founded in Thrane, and most of the people of the nation follow this faith. During the Last War, the people of Thrane chose to set aside the rule of the monarchy and to embrace the leadership of the church. For the last seventy years, Thrane has been a theocracy. The head of the state is 11-year-old Jaela Daran, the divinely selected Keeper of the Flame. Jaela depends on the Council of Cardinals to perform the practical work of running the nation.
 )
-=
-
 item(
 # Valenar ((++Valenar))
 ## Nation
 -
-; Recognized by Thronehold
+; Khorvaire, Recognized by Thronehold
 
 **Government** League of Warclans
 
 **Capital** Taer Valaestas (19,060)
 
 **Population** 70,000 (elves 43%, human 28%, half-elves 15%, halflings 5%, hobgoblins 5%, other 4%)
-
+)
+=
+item(
 **Languages** Elven, Common
 
 **Religion** Ancestor worship
@@ -484,7 +516,7 @@ item(
 # Zilargo ((++Zilargo))
 ## Nation
 -
-; Recognized by Thronehold
+; Khorvaire, Recognized by Thronehold
 **Government** Triumvirate
 
 **Capital** Trolanport (27,500)
@@ -503,13 +535,187 @@ item(
 -
 At first glance, the homeland of the gnomes appears to be a paradise. City streets are bright and clean, the universities and libraries are the finest in Khorvaire, everyone seems happy and helpful, and crime is all but unheard of. But Zil society teems with layers of intrigue and blackmail invisible to human eyes. The Trust, a ruthless secret police force, eliminates any threat to society.
 )
+# Sarlona ((+Sarlona))
+Sarlona is a land of ancient civilizations, and the origin of human civilization and culture. After fifteen hundread years of conflict, intrigue, and represion, four nations remain among the many ancient ruins. While there are still holdouts against their power, the Riedra is the strongest among them. The lands are primarily ruled by the Riedran inspiried, which work to extend the grasp of the dreaming dark into the world. Visitors are watched at all times, and the risk to travel to Sarlona is great. If adventurers take the risk, they may be able to find treasures of civilizations long lost.
+
+info(
+For more information on the Sarlona at a high level: see the **Eberronicon** (p. 24) or more in-depth in the **Secrets of Sarlona** (p. 9). All the following excerpts are from Secrets of Sarlona.
+)
+
+item(
+# Adar ((++Adar))
+## Nation
+-
+; Sarlona
+**Government** No formal government
+
+**Capital** Kasshta Keep (unofficial)
+
+**Population** 320,000 (Human 51%, kalashtar 45%, other 4%)
+
+**Lanugages** Riedran
+
+**Religion** Aarakti (Arawai), Braahyn (Balinor), Path of Light
+-
+)
 =
+item(
+**Factions** Keepers of the Word, Storm Guardians, Endseekers
+-
+**Chanaaka** (LG male human) Speaker of the Word (unofficial)
+-
+Adar is as a land plucked from some other realm. Among the mountains that spring from southern Sarlona, manifestations of other worlds and the natural results of such interference conspire to produce a forbidding environ­ment. Yet, amid unforgivin gpeaks and between terrible storms, life thrives and evolves. 
 
- 
+The word Adar means "refuge" in an ancient Riedran dialect; this etymology shows that Adar was named from without. Its people have never been unified—clashes among its mountainfolk continue intermittently, and rancorous debates arise among its mystics. Still, Adar has long been a place of peace and introspection on a
+)
+item(
+continent known for its terrible wars. Only when Adar accepted the strangest refugees of all—renegade quori—did it become a realm beset on all sides by immortal enemies. Adarans must now work together or become instrument of the Inspired. 
+)
+item(
+# Riedra ((++Riedra))
+## Nation
+-
+; Sarlona
+**Government** The Unity
 
+**Capital** Durat Tal (631,022)
 
+**Population** 13,878,000 ((Percent varies by region) Changelings, chosen/inspired, dwarves, half-giants, humans, ogres, shifters, other)
+
+**Lanugages** Riedran
+
+**Religion** The path of inspiration
+-
+**Factions** The Dreaming Dark, The Unity
+-
+Once Sarlona was a land of many nations. These kingdoms had their heroes and gods — a host of proud and unique traditions. Fifteen hundred years ago, a force reached out of nightmare to claim Sarlona. Over the 
+course of two centuries, a dozen nations were shattered by war and psychic subversion. The Inspired rose among the ruins and forged a new kingdom from the wreckage — the vast empire known as Riedra.
+)
+item(
+# Syrkarn ((++Syrkarn))
+## Territory
+-
+; Sarlona
+**Government** None
+
+**Capital** Nderitese (unofficial)
+
+**Population** 260,000 (Human 44%, eneko 42%, half-giant 12%, kalashtar 1%, other 1%)
+
+**Lanugages** Giant, Riedran
+
+**Religion** None, Sovereign Host, or Karrak the Final Guardian
+-
+**Factions** The eyes of Riedra, Various Tribes and Clans
+-
+Five thousand years before the arrival of the Inspired and the present age, the nations now known collectively as Syrkarn were the jewels in the imperial crown of old Sarlona. Today, only ancient stonework and half-forgotten legends mark the fall, passing, and rebirth of this land. Still, to those who have inherited this seemingly inhospitable kingdom, Syrkarn offers a gift denied to both the warring nations of the past and the Inspired-dominated lands of the present. To its people, Syrkarn is the promise of freedom. 
+)
+item(
+# The Tashana Tundra ((++Tashana Tundra))
+## Territory
+-
+; Sarlona
+**Government** None
+
+**Capital** Nasq (unofficial capital of Qiku nation)
+
+**Population** 400,000 (Shifters 70%, dwarves/duergar 20%, humans 5%, half-giants 3%, maenads 2%)
+
+**Lanugages** Riedran
+
+**Religion** Druidic
+-
+)
+=
+item(
+**Exports** Medicinal and magical lichens, herbs, spices
+
+**Factions** The Dreaming Dark, The Unity
+-
+The Tashana Tundra is a land of vast, open spaces and endless sky. Home to the great shifter nation of Sarlona, the Tundra consists mainly of grassy, treeless plains that stretch without interruption from horizon to horizon. For many thousands of years, these seminomadic tribes have roamed the grasslands, isolated from the rest of the world and left in relative peace to contemplate the cold, pure spirit of their ancestral homeland. 
+)
+# The Lands Beyond ((+Lands Beyond))
+The many other continents are composed large unified empires, or near uninhabited wilderness waiting to be explored. The following entries all detail entire continents and their cultures at a high level.
+info(
+For more information on other lands at a high level: see the **Eberronicon** (Aerenal, Argonnessen, Frostfell, Everice p. 19; Xen'drik p. 25) or more in-depth in the **Eberron Campaign Setting** (p. 216). All the following excerpts are from the Eberron Campaign Setting.
+)
+item(
+# Aerenal ((++Aerenal))
+## Continent
+-
+; Kingdom
+**Government** The Sibling Kings, the Undying Court 
+
+**Capital** Shae Cairdal (52,460)
+
+**Population** 2,650,000 (Elves 77%, undying 19%, half-elves 3%, other 1%)
+
+**Lanugages** Elven, Common, Draconic
+
+**Religion** The Undying Court
+-
+**Exports** Crafts, bronzewood, densewood, livewood
+
+**Factions** The Cairdal Blades, The Deathguard, The Tairnadal, The Stillborn
+-
+The island-continent kingdom of the elves radiates with magic. Jungles of bronzewood and densewood blanket the land, and the boundaries between life and death have become blurred and indistinct in the ancient elf civilization. The honored dead of Aerenal walk among the living. The Sibling Kings call upon the ancient lords of the Undying Court for guidance, and the ranks of the elf armies overfl ow with heroes who died in glorious battle. In the depths of the City of the Dead, the elf kings of ages past chart the movement of the Ring of Siberys and prepare for greater days to come.
+)
+item(
+# Argonnessen ((++Argonnessen))
+## Continent
+-
+; Continent
+**Government** The Eyes of Chronepsis
+
+**Capital Region** The Great Aerie
+
+**Population** 261,310 (dragons 18%, other 82%)
+
+**Lanugages** Draconic
+
+**Religion** Chronepsis, The Sovreign Host
+-
+**Factions** The Conclave, The Eyes of Chronepsis, The Light of Siberys, The Chamber
+-
+Argonnessen, the land of the dragons, remains a mystery to most of the rest of Eberron. Few have dared explore the huge continent, and those who have set out to see the great cities of the dragons have never returned to share their tales. Even the Aerenal elves, who battled the dragons in ages past, have never seen more than a glimpse of the continent’s interior.
+)
+item(
+# Frostfell ((++Frostfell))
+## Continent
+-
+; Continent
+
+North of Khorvaire, beyond the icy coldness of the Bitter Sea, the barren Frostfell covers the top of the world. This land of perpetual winter is locked in ice and snow. Sometimes, when winter gets the upper hand, storms
+)
+=
+item(
+blow out of the Frostfell and temporarily turn other regions into semblances of this frozen waste. The dwarves believe they originated in this frozen land, and legends of strange monsters, unrestrained demons, and hordes of undead are featured in tales of the Frostfell. The only known expedition to reach the ice plains and snow-covered peaks and return to tell the tale was led by Lord Boroman ir’Dayne of the Wayfinder Foundation. More often, the  Frostfell sends bitterly cold winds, snowstorms, and great icebergs to punish the southern lands.
+)
+item(
+# Xen'drik ((++Xen'drik))
+## Continent
+-
+; Continent
+**Capital Region** Stormreach (unofficial)
+
+**Lanugages** Common, Elven, Giant
+-
+It rises out of the mist to the south of Khorvaire, beyond Shargon’s Teeth and the Thunder Sea. Today, Xen’drik is a continent of secrets and mystery, a wild place full of promise and danger. In the distant past, Xen’drik was home to a great civilization of giants, and the remains of these kingdoms hide within the dense jungles of the continent. Giants of all types still roam the jungles and mountains of Xen’drik, but they are primitive and disorganized compared to the society of the distant past. The elves of Aerenal also trace their origin to these mysterious shores, and the dark-skinned elves called drow still live among the ruins of the giant civilization.
+)
+  
+  
+  
+  
+  
+  
+  
+##### Map 1-1: The World of Eberron ((+Map of Eberron))
+![Eberron World Map](https://media-waterdeep.cursecdn.com/attachments/7/510/world-map-full.jpg)
+_Source: Eberron Rising from the Last War. Keith Baker._
+/
+=
 # Languages((+Languages))
-The following languages are present in the world of Eberron. Typically, most humanoids in the world of Eberron will speak at least one of the common languages. Uncommon languages are less frequently spoken in the world, and may only be found in isolated cultures. Exotic languages exist, but are frequently a language of extra-planar entities. 
+The following languages are present in the world of Eberron. Most humanoids in the world of Eberron speak at least one of the common languages. Uncommon languages are typically only be found in isolated cultures. Exotic languages exist, but are typically the language of extra-planar entities. 
 
 ##### Table 1-1: Common Languages ((++Common Languages))
 Language | Main Speakers | Script
@@ -537,7 +743,6 @@ Orcish | The Gatekeepers, Orcs | Goblin
 Riedran | Lower classes of Sarlona | Old Common
 
 All of these languages are uncommon, available to only PCs who had access to speakers of the language. All the following languages recieve the Uncommon trait, replacing the Rare trait if present.
-
 
 ##### Table 1-3: Exotic Languages ((++Exotic Languages))
 Language | Main Speakers | Script
@@ -709,11 +914,9 @@ hair and beard, as a sahuagin, as an enormous shark, or as a dragon turtle.
 **Edicts** Embrace the glorious power of the wilds, live free of social or materialistic chains, cause destruction when angered
 **Anathema** bring civilization to intrude on the wild, become civilized
 **Favoured Weapon** Trident
-  
-### The Fury: The Sovereign of Rage and Ruin [NE]
-The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury,
 |
-guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
+### The Fury: The Sovereign of Rage and Ruin [NE]
+The Fury is a silent whisper that can drive you to doubt or despair. She is reckless rage and an all-consuming passion. Instinct is the voice of the Fury, guiding us when rational thought fails. And she is the Sovereign of revenge, promising vengeance to those willing to surrender to her. Her father the Devourer embodies the devastating power of the storm outside us; the Fury is the storm that rages within us, the wild emotions we fight to control. Revered by those whose passion consumes their lives, she is commonly portrayed as a half-elf, sometimes as a drow, and occasionally as a snakelike wyrm of Khyber. 
 **Areas of Concern** Anger, extremism, insanity, passion, revenge
 **Alignment** NE
 **Divine Font** Harm
@@ -733,10 +936,10 @@ The Keeper is the patron of those who put personal gain above all else. He guide
 **Divine Ability** Strength or Charisma 
 **Divine Skill** Theivery
 **Domains** Death, Decay, Dust, Indulgence, Trickery, Wealth
-**Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
-**Edicts** Gain financial control over others, gather new wealth, count your riches
 =
 <null>
+**Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
+**Edicts** Gain financial control over others, gather new wealth, count your riches
 **Anathema** Allow honour or tradition to prevent you from taking what you want
 **Favoured Weapon** Scythe
   
@@ -756,12 +959,12 @@ Others who follow the Mockery assert that the very idea of honour in war is delu
 ### The Shadow: The Sovereign of Magic and Mayhem [CE]
 The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon. 
 **Areas of Concern**  Arcane magic, consequence, corruption, darkness, duality
+|
+<null>
 **Alignment** CE
 **Divine Font** Harm
 **Divine Ability** Constitution or Intelligence 
 **Divine Skill** Arcana
-|
-<null>
 **Domains** Ambition, Change, Darkness, Fate, Knowledge, Magic, Secrecy, Trickery, Truth
 **Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
 **Edicts** Learn and hoard forbidden magic, steal secrets from others
@@ -850,9 +1053,11 @@ The elves of Aerenal revere their ancient dead as incarnate deities, seeking adv
 **Domains** Death, Duty, Family, Knowledge, Magic, Perfection, Protection, Repose, Soul, Star, Sun, Undeath, Vigil
 **Cleric Spells** 1st: share lore, 2nd: comprehend language, 3rd: hypercognition
 **Edicts** work toward collective transcendence, challenge oppression through education, protect knowledge, seek truth
+|
+<null>
 **Anathema** destroy knowledge, disrespect the traditions of those around you, willfully spread ignorance or wrong information
 **Favoured Weapon** Scimitar
-|
+
 # Cults of the Dragon Below [CE] ((++Cults of the Dragon Below))
 -
 The Cults of the Dragon Below consist of a diverse group of fanatical sects that revere the power of the subterranean realms. Some of these cults seek to draw Khyber, the Dragon Below, up from the depths of the world, others traffic with demons conjured from the deep regions, and some seek to consort with the aberrations of the deep. Though little unites these mad cults beyond their reverence for the forbidden powers of Khyber, they are generally neutral evil.
@@ -866,84 +1071,6 @@ The Cults of the Dragon Below consist of a diverse group of fanatical sects that
 **Edicts** Create darkness, sow discord among allies, misuse positions of authority by steering events toward apocalyptic ends (varies)
 **Anathema** none
 **Favoured Weapon** Great Pick (varies)
-
-=
-head(
-# Planes of Eberron ((+Planes of Eberron))
-The Thirteen planes all influence the material plane of Eberron. All life is tied to each of the planes, though some connections may be more noticiable than others. 
--
-)
-The planes of Eberron are complex in nature, and manifest effects on the material plane in the form of Manifest Zones. These manifest zones are frequently the most evident way that a plane interacts with the world, though there are more subtle ways. The following list details all thirteen planes of Eberron, and the effects they might have on your world.
-
-
-For more information on the planes of Eberron, see Exploring Eberron pg 143 onwards.
-/
-item(
-# Daanvi: The Perfect Order ((++Daanvi))
-## Plane
--
-; LN, Flowing
-**Moon** Nymm, the Crown
-
-**Native Inhabitants** Modrons, Inevitables, Angels, Devils
--
-There’s a rhythm to Daanvi, a subtle metronome keeping perfect time. If you act without thinking, you unconsciously move to the beat. The streets may be crowded, but everyone walks at the same pace, every foot striking the ground at the same moment. It takes a conscious effort to break this rhythm, change the pattern, stand out from the crowd. Your instincts push you to fall in line, match the pattern, be part of the great machine.This is Daanvi, the Perfect Order. It represents the triumph of law over lawlessness, of discipline over chaos. From the perfectly structured insect hives to the inevitable tribunals that judge every mortal action, this is a triumph of order. On the one hand, Daanvi shows how structure and discipline can create enduring systems, and how laws are the backbone of prosperous civilization. On the other hand, it can crush individuality and innovation. It shows that laws can serve justice, but they can also pose an endless series of obstacles, or even be the tools of tyrants. Daanvi encompasses all of these paths. It shows the benefits of law and order—and the risks of taking them too far. [11]
--
-**Plane of Truth.** A creature can’t tell a deliberate lie. It can avoid answering questions, or be evasive in its answers, as long as it remains within the boundaries of the truth.
-
-**Impeded Illusion.** When a creature casts an illusion spell that has a duration of 1 minute or longer, the duration is halved.
-
-**The Eyes of the Law.** When a creature casts a divination spell, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
-
-**No Chance.** The first time in a round (or any time outside of combat) that a creature makes an attack roll, ability check, or saving throw (other than a recovery check), treat the roll as a 10. If the creature has advantage or disadvantage on that roll, it only rolls one die, and treats the other one as a 10.
-
-**Flowing Time.** For every 10 minutes that pass in Daanvi, only 1 minute passes in the Material Plane. So if a creature spends 10 days arguing a case before a Daanvian court, less than a day has passed on Eberron.
--
-Manifest zones of Daanvi are uncommon, those that do manifest typically present one of the plane's properties. Inside the manifest zone, things are unnaturally orderly.
-)
-|
-item(
-# Dal Quor: The Region of Dreams ((++Dal Quor))
-## Plane
--
-; Subjective Gravity, Flowing, Metamorphic 
-**Moon** Crya (believed to be destroyed)
-
-**Native Inhabitants** Dreamers, Quori
--
-Dal Quor is both impossibly distant and remarkably close. Tens of thousands of years ago, the giants of Xen’drik shattered the ties between Dal Quor and the Material Plane. Since then, it’s been permanently remote, and no naturally occurring manifest zone to Dal Quor has been discovered. Not even plane shift or astral travel can allow direct contact with the Region of Dreams. And yet, it’s also the closest of the planes—to visit, just close your eyes. Dreaming is a form of spiritual travel, as your mortal consciousness is drawn to Dal Quor.Dal Quor is the realm of dreams, a place of imagination where memory and emotion can shape reality. The stories of Thelanis bring people together in a shared tale; by contrast, the dreams of Dal Quor are unique, individual, and fleeting. They’re defined by our experiences and desires, and we rarely remember them when they’re over. Dreams allows us to sift through our subconscious, and they are ours alone—or at least, they should be... if they aren’t manipulated by an outside force. The denizens of Dal Quor reflect the secondary theme of the plane, and—for now, at least—that theme is nightmares. The quori prey on mortal dreams, twisting them to produce the emotions they crave. This doesn’t mean all dreams are nightmares—but when a quori takes an interest in your dream, it’ll usually become one. [12]
--
-**Extremely Morphic.** The environment of Dal Quor can shift at any moment. These changes are generally drawn from the mind of the current dreamer, but at the DM’s discretion, the thoughts of adventurers might impact another creature’s dream that they’re currently experiencing.
-
-**Extended Illusion.** When a creature casts an illusion spell with a duration of 1 minute or longer, the duration is doubled. Spells with a duration of 24 hours or more are unaffected.
-
-**Flowing Time.** For every 10 minutes that pass in Dal Quor, only 1 minute passes on the Material Plane. While sleeping for 8 hours, a creature could spend 3 days in Dal Quor
--
-The metaphysical damage caused in the conflict between Dal Quor and the giants of Xen’drik broke the ties between Eberron and Dal Quor. There are no naturally occurring manifest zones to Dal Quor, and even plane shift won’t allow travel there. [13]
-)
-=
-item(
-# Dolurrh: The realm of The Dead ((++Dolurrh))
-## Plane
--
-; Timeless
-**Moon** Aryth, the Gateway
-
-**Native Inhabitants** The Quick, the Dead, the Lingering
--
-Endless caverns stretch throughout Dolurrh, bleak passages of gray stone. Wherever you go, shadowy figures reach toward you, imploring, but you feel only the faintest chill as their insubstantial fingers pass through you. Mist pools around your feet, and as you press forward, you realize this swirling mist is moaning. This is no natural phenomenon; these are the remnants of souls who have forgotten themselves. This is Dolurrh. It’s not the embodiment of the idea of death or dying, both of which are reflected in Mabar. Rather, Dolurrh is where mortal souls go after their bodies die, where memories fade and lives are forgotten. [14]
--
-**Eternal Ennui.** When a creature enters Dolurrh, it immediately increases its doomed condition. While in Dolurrh, this doomed condition can’t be removed by rest or by any other means. It’s immediately removed when the creature leaves Dolurrh. Creatures native to Dolurrh are immune to this property’s effects.
-
-**Impeded Magic.** In order to cast a spell of 1st level or higher, a creature must succeed on a flat check of DC 5 + spell level. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are expended.
-
-**Inevitable Entrapment.** Whenever a creature finishes a short or long rest, it must make a DC 12 Wisdom saving throw. On a failed save, it gains one level of ennui. Each time it makes this saving throw, the DC increases by 1. Whenever a creature ends a 24-hour period without finishing a long rest, it must make this saving throw as if it had just finished a rest, but its roll is made with disadvantage. Creatures native to Dolurrh are immune to this property’s effects.
-
-**Timeless.** Time passes at the same rate as on the Material Plane, and is consistent across its layers. Creatures can benefit from resting, suffer damage, and die. However, a creature on Dolurrh doesn’t age, and doesn’t need to eat, sleep, or drink.
--
-Dolurrh manifest zones frequently do not possess the plane's properties. However, these zones are frequently exceptionally haunted, though not blighted, as Mabaran zones typically are. Shadows move in disturbing ways, and travelers may hear whispers they can’t quite make out.
-In some Dolurrhi zones, raising the dead can be dangerous; if spells or abilities that raise the dead are used in such a zone, roll on the Dolurrhi Resurrection Mishaps table to determine the result.Dolurrhi zones can also have positive effects. In many zones, it’s easier to return people from the dead, halving the cost of any material components. In others, anyone can cast speak with dead as a ritual that takes an hour to perform, as long as they have a personal connection to the deceased whose corpse they’re questioning.The most dramatic manifest zones are those that serve as gateways to enter the Catacombs of Dolurrh—and hopefully, to return. Opening such a gateway might call for a special ritual or significant sacrifice, perhaps under a particular alignment of the moon Aryth, or when Dolurrh is conterminous.
-)
 =
 head (
 # Ancestries ((Ancestries))
@@ -986,166 +1113,178 @@ Beastkin* | -
 # Core Ancestries ((++Core Ancestries))
 Pathfinder 2e integrates a significant amount of Golarian lore into the mechanics and feats of core ancestries. While all of the mechanics are solid, the flavour associated with the ancestries and their feats occassionally diverge from the flavour or lore of Eberron. In the majority of cases it is close enough to Eberron that it doesn't warrant a rewrite, however you should consider modifying the flavour of your PC to fit the world of Eberron. As always, work with your GM if you are unsure.
 
-This guide doesn't aim to provide information about the Ancestries, but instead guidance about implementing their mechanics in the world.
+This guide doesn't aim to provide information about
+|
+the Ancestries, but instead guidance about implementing their mechanics in the world.
 
 For more information about the Ancestries of Eberron, see the Eberronicon entries.
 
 The Pathfinder 2e mapping is denoted in brackets if necessary. All of the following ancestries note their rarity, which replaces any pre-existing rarity trait if it exists.
-|
+
 ## Bugbears
 Bugbears are **uncommon** in the world of Eberron. Bugbears (also referred to as the Guul'dar) in Eberron are primarily residents of the nation of Darguun and Droaam, and less monsterous than is typical of the Bugbears in Pathfinder 2e.
 
 The Bugbear Ancestry is provided in this document.
-
+info(
 For more information on Goblinoids of Eberron, see Exploring Eberron (p. 96). 
-
+)
 ## Dwarves
 Dwarves are **common** in the world of Eberron. Dwarves of Eberron are well represented by the Pathfinder 2e implementation.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Dwarves Ancestry.
-
+info(
 For more information on the Dwarves, see Exploring Eberron (p.112)
-
+)
 ## Drow
 Drow are an Ancestry that are something of a hot topic. Drow in Eberron (like all Ancestries) are not inherently tied to any specific alignment. Drow do exist in Eberron, primarily on the continent of Xen'drik. It would not be unreasonable (although it would be uncommon) to see Drow on the continent of Khorvaire. Drow are **uncommon** in the world of Eberron.
 
 If playing a Drow, use the Elf Ancestry with one of the Cavern Elf, Seer Elf, or Whisper Elf.
-
-For more information on the drow, see the Eberronicon (p. 8).
-
+=
 note(
 The use of these Heritages for Drow does not preclude their use with Non-Drow Elves. With GM permission, you could also use any Elf Heritage to play a Drow.
 )
-
+info(
+For more information on the drow, see the Eberronicon (p. 8).
+)
 ## Eberron Changelings
 The Changelings presented in the Pathfinder 2e rules, and Eberron Changelings are significantly different in their lore and mechanical implementation. While Pathfinder 2e changelings are the decendents of Hags, Eberron changelings are a unique shapeshifting Ancestry. Changelings are **uncommon** in the world of Eberron.
 
 The Eberron Changeling Ancestry is provided in this document.
-
+info(
 For more information on Changelings of Eberron, see Exploring Eberron (p. 33). 
-=
+)
 ## Elves
 Elves are **common** in the world of Eberron. Elves of Eberron are well represented by the Pathfinder 2e implementation.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Elf Ancestry.
-
+info(
 For more information on Elves of Eberron, see Eberron Campaign Setting (p. 14).
-
+)
 ## Gnolls
 Gnolls are **uncommon** in the world of Eberron. Gnolls in Eberron are close, but not quite the same as the Pathfinder 2e implementation. Gnolls of Eberron are instead a pact of clans that has managed to break free of the bindings of the Overlords, and has developed as a fiercely independent mercenary culture.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Gnoll Ancestry, detailed as a new Eberron Gnoll ancestry.
-
+info(
 For more information on Gnolls of Eberron, see Exploring Eberron (p. 93.)
-
+)
 ## Gnomes
-Gnomes are **common** in the world of Eberron. Pathfinder 2e gnomes are significantly more Fey aligned than the standard Eberron gnome, which results in feats and heritages that don't quite align with the Eberron vision of gnomes. However, these differences are primarily lore based and relatively easily adjusted. 
+Gnomes are **common** in the world of Eberron. Pathfinder 2e gnomes are significantly more Fey
+|
+aligned than the standard Eberron gnome, which results in feats and heritages that don't quite align with the Eberron vision of gnomes. However, these differences are primarily lore based and relatively easily adjusted. 
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e gnome ancestry.
-
+info(
 For more information on Gnomes of Eberron, see Eberron Campaign Setting (p. 14).
-
+)
 ## Goblins
 Goblins are **common** in the world of Eberron. Pathfinder 2e has made significant modifications to the Goblin Ancestry to provide additional flavour. While this deviates from the world of Eberron, it adds additional fun lore for the DM to work with that should be fairly simple to integrate into the world. Goblins (also referred to as the Golin'dar) in Eberron are primarily residents of the nation of Darguun and Droaam.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e goblin Ancestry.
-
+info(
 For more information on Goblinoids of Eberron, see Exploring Eberron (p. 96). 
-|
+)
 ## Half-Elves
 Half-Elves are **common** in the world of Eberron. Also called Khoravar, the vast majority of Khoravar are the decendents of two Half-Elves rather than a Human and Elf parent. While Pathfinder 2e provides the rules to apply the Half-Elf ancestry to non-human Ancestries, this should be considered **rare**.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e half-elf heritage.
-
+info(
 For more information on Khoravar of Eberron, see Eberron Campaign Setting (p. 15). 
-
+)
 ## Half-Orcs
 Half-Orcs are **common** in the world of Eberron. Half-Orcs lineages are more varied than the Half-Elves. It is as likely as not that your parents were Human and Orc as both Half-Orc. While Pathfinder 2e provides the rules to apply the Half-Orc ancestry to non-human Ancestries, this should be considered **uncommon**.
-
+=
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e half-orc heritage.
-
+info(
 For more information on Khoravar of Eberron, see Eberron Campaign Setting (p. 16). 
-
+)
 ## Halflings
 Halflings are **common** in the world of Eberron. Halflings of Eberron are well represented by the Pathfinder 2e implementation.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e halfling Ancestry.
-
+info(
 For more information on Halflings, see Eberron Campaign Setting (p. 16).
-
+)
 ## Hobgoblins
 Hobgoblins are **uncommon** in the world of Eberron. Hobgoblins (also referred to as the Ghaal'dar) in Eberron are primarily residents of the nation of Darguun and Droaam, and less monsterous than is typical of the Hobgoblins in Pathfinder 2e. Pathfinder 2e has made significant modifications to the hobgoblins ancestry to provide additional flavour. This deviates from the world of Eberron, and unlike the goblin, these changes are more difficult to integrate with the world of Eberron.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Hobgoblins Ancestry.
-
+info(
 For more information on Goblinoids of Eberron, see Exploring Eberron (p. 96). 
-=
-
+)
 ## Humans
 Humans are **common** in the world of Eberron. Humans of Eberron are well represented by the Pathfinder 2e implementation.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Humans Ancestry.
-
+info(
 For more information on Humans, see Eberron Campaign Setting (p. 12).
-
+)
 ## Kalashtar
-Kalashtar are **uncommon** in the world of Eberron. Kalashtar are a unique Ancestry to Eberron. Kalashtar were born with a bond to an otherworldly being. They have memories of a life they've never lived, vision of battling fiends and an endless struggle against darkness. 
+Kalashtar are **uncommon** in the world of Eberron. Kalashtar
+|
+are a unique Ancestry to Eberron. Kalashtar were born with a bond to an otherworldly being. They have memories of a life they've never lived, vision of battling fiends and an endless struggle against darkness. 
 
 The Kalashtar Ancestry is provided in this document.
-
+info(
 For more information on Kalashtar, see Exploring Eberron (p. 40). 
-
+)
 ## Kobolds
 Kobolds are **common** in the world of Eberron. Kobolds of Eberron are well represented by the Pathfinder 2e implementation.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Kobolds Ancestry.
-
+info(
 For more information on Kobolds, see the Eberronicon (p. 14).
-
+)
 ## Lizardfolk
 Lizardfolk are **uncommon** in the world of Eberron. Lizardfolk of Eberron are well represented by the Pathfinder 2e implementation.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Lizardfolk Ancestry.
-
+info(
 For more information on Kobolds, see the Eberronicon (p. 15).
-
+)
 ## Orcs
 Orcs are **common** in the world of Eberron. Orcs of Eberron are well represented by the Pathfinder 2e implementation. Orcs of Eberron have deep history with the world, which warrants a read.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e orc Ancestry.
-
+info(
 For more information on Orcs, see the Eberronicon (p. 15).
-|
-
+)
 ## Shifters (Beastkin)
-Shifters are **uncommon** in the world of Eberron. Shifters are well represented by applying the Beastkin versatile heritage to the Human Ancestry. When you chose your animal type, the Shifters of Eberron are primarily of the following animalistic traits. Beasthide (Bear, Boar); Longtooth (Tiger, Wolf); Swiftstride (Tiger, Rat, Leopard); Wildhunt (Wolf, Rat, Tiger); Cliffwalk (Monkey); Razorclaw (Leopard. Tiger). Other Beastkin animals presented by the Core Pathfinder 2e rules should be considered **rare**.
+Shifters are **uncommon** in the world of Eberron. Shifters are well represented by applying the Beastkin versatile heritage to the Human Ancestry. When you chose your animal type, the Shifters of Eberron are
+=
+primarily of the following animalistic traits. Beasthide (Bear, Boar); Longtooth (Tiger, Wolf); Swiftstride (Tiger, Rat, Leopard); Wildhunt (Wolf, Rat, Tiger); Cliffwalk (Monkey); Razorclaw (Leopard. Tiger). Other Beastkin animals presented by the Core Pathfinder 2e rules should be considered **rare**.
 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Lizardfolk Ancestry.
 
 note(
-Shifters are native to the deepest parts of the Eldeen Reaches, it is likely that many of the variations of Shifters are yet undiscovered. As such, consider allowing the PCs to play Catfolk, Ratfolk, Kitsune, Tengu, or Shoony Ancestries as Shifters of Eberron who are more integrated with their animalistic traits.
+Shifters are native to the deepest parts of the Eldeen Reaches, it is possible that some variations of Shifters are yet unknown to Khorvaire. As such, consider allowing the PCs to play Catfolk, Ratfolk, Kitsune, Tengu, or Shoony Ancestries as Shifters of Eberron who are more integrated with their animalistic traits.
 )
-
+info(
+For more information on Shifters, see the Eberronicon (p. 16).
+)
 ## Warforged
 Warforged are **common** in the world of Eberron. Warforged are a unique Ancestry to Eberron. Warforged were created as soldiers of war, and now as the last war ends many of them have lost their purpose. Consider what this means for you.
 
-Warforged will likely use the Automatron Ancestry in the Guns and Gears rule set. As such, this document does not yet provide any way to play a warforged.
-
-For more information on Warforged, see Exploring Eberron (p. 45.)
-=
+Warforged are a work in progress, that will be added in the next document update (current version 1.0). For the time being, consider the Automatron ancestry provided in Gun and Gears, or one of the Warforged homebrews of /r/Pathfinder2eCreations.
+info(
+For more information on Warforged, see Exploring Eberron (p. 45)
+)
+  
 # Versatile Ancestries ((++Versatile Ancestries))
 There exist instances of canon NPCs throughout the world of with the following Versatile Ancestries, as such they are Uncommon in rarity. However, the following Ancesties are typically the result of unique circumstances around the birth of a child. 
 
 ## Aasimar
 Aasimar of Eberron are well represented by the Pathfinder 2e implementation.
-
+info(
 For more information on Aasimar, see Exploring Eberron (p. 77)
-
+)
+|
 ## Tieflings
 Tieflings of Eberron are well represented by the Pathfinder 2e implementation.
 
+info(
 For more information on Tieflings, see the Eberronicon (p. 16).
-
+)
+  
 # Exotic Ancestries ((++Exotic Ancestries))
 note (
 # Dragonborn
@@ -1158,77 +1297,81 @@ The following Ancestries exist in Pathfinder 2e, however they do not have any eq
 An ancestry native to the depths of the Thunder Sea. While much of the Ancesty's lore does not apply in Eberron, the mechanics are sound.
 
 For more information, see Exploring Eberron (p. 127).
-|
+
 ## Aphorite
 An ancestry native to the Plane of Daanvi, or one of Daanvi's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 149).
-
+)
 ## Catfolk
 A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
 
 ## Changeling
-Not much needs to change to implement Pathfinder Changelings in Eberron. However, given the overlap in naming and uncommon nature of the Ancestry, it is denoted as exotic. If using Pathfinder Changelings, consider them entirely distinct from Eberron Changelings.
+Not much needs to change to implement Pathfinder Changelings in Eberron. However, given the overlap in naming and uncommon nature of the Ancestry, it is
+=
+denoted as exotic. If using Pathfinder Changelings, consider them entirely distinct from Eberron Changelings.
 
 ## Dhampir
 An ancestry native to the Plane of Mabar, or one of Mabar's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 177).
-
+)
 ## Duskwalker
 An ancestry native to the Plane of Dolurrh, or one of Dolurrh's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 156).
+)
 
 ## Fetchling
 An ancestry native to the Plane of Mabar or Dolurrh, or one of Mabar's or Dolurrh's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 156, 177).
-
+)
 ## Ganzi
 An ancestry native to the Plane of Kythri, or one of Kythri's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 169).
-
+)
 ## Grippli
 As an Ancestry native to the depths of Q'barra, Xen'drik, or Eldeen Reaches.
 
 ## Ifrit
 An ancestry native to the Plane of Fernia, or one of Fernia's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 161).
-=
+)
 ## Kitsune
 One possibility is as a unique sub-ancestry of Shifter native to the Eldeen Reaches. Alternatively Kitsune could be an ancestry native to the continent of Sarlona. 
 
 ## Leshy
 As an Ancestry native to the depths of Q'barra, Xen'drik, Eldeen Reaches, or natives of the plane of Lammina or one of its manifest zones.
-
+info(
 For more information on Lamannia, see Exploring Eberron (p.173).
-
+)
+|
 ## Oread
 Oreads are difficult to place. Consider them as an ancestry native to the Plane of Risia, or the Plane of Fernia. If not from the plane itself, then one of the respective manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 161, 182).
-
+)
 ## Ratfolk
 A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
 
 ## Suli
 Suli are difficult to place. Consider them as an ancestry native to the Plane of Risia, the Plane of Fernia, the Plane of Kythri, or the Plane of Lamannia. If not from the plane itself, then one of the respective manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 161, 169, 173, 182).
-
+)
 ## Sylph
 An ancestry native to the Plane of Syrania, or one of Syrania's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 189).
-|
+)
 ## Undine
 An ancestry native to the Plane of Risia, or the Plane of Lamannia. If not from the plane itself, then one of the respective manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 173, 182).
-
+)
 ## Tengu
 A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
 
@@ -1236,10 +1379,12 @@ A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Pr
 Given the conflict an Android presents with the Warforged Ancestry, and that Eberron is entirely cut off from the Multiverse - Androids are discouraged. However - as always - talk to your GM about having an Android as an advanced Warforged experiment or prototype.
 
 ## Fleshwarp
-An ancestry native to the Plane of Xoriat, or one of Xoriat's manifest zones. Alternatively, you could be the result of one of Mordain the Fleshweaver's experiments. 
-
+An ancestry native to the Plane of Xoriat, or one of Xoriat's manifest zones. Alternatively, you could be
+=
+the result of one of Mordain the Fleshweaver's experiments. 
+info(
 For more information, see Exploring Eberron (p. 199).
-
+)
 ## Shoony
 A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
 
@@ -1250,8 +1395,42 @@ For more information, see Exploring Eberron (p. 194).
 
 ## Strix
 An ancestry native to the Plane of Syrania, or one of Syrania's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 189).
+)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+|
 =
 head(
 # Bugbears ((+Bugbears))
@@ -2621,20 +2800,6 @@ item(
 Your understanding of the path of light and the realm of Dal Quor has become such that you can use them to your advantage - even without exposing yourself to the dark. You can cast Dream Council or Possession once per day as occult innate spells. 
 )
 =
-# Equipment ((+Equipment)) 
--
-Kalashtar may acquire and use the following equipment. 
-
-item( 
-# Psionic Focus 
-## Item 3 
--
-; Kalashtar, Invested, Magical 
-**Usage** worn 
--
-This item is a small amulet manufactured by the Kalashtar to focus their psionic powers. You may apply fundamental weapon runes to this amulet. Any runes applied to this amulet also manifest on the psi-blades manifested by your kalashtar feat.  
-)
-=
 head(
 # Dwarves ((+Modified Ancestries))
 # ((++Dwarves))
@@ -2734,6 +2899,7 @@ item(
 ; Halfling
 You have learned how to use your sling and boomerang to fell enormous creatures. When you hit on an attack with a sling or Talenta Boomerang against a Large or larger creature, increase the size of the weapon damage die by one step.
 )
+|
 item(
 # Halfling Weapon Trickster
 ## Feat 1
@@ -2741,7 +2907,6 @@ item(
 ; Halfling
 You favor traditional halfling weapons, so you've learned how to use them more effectively. You have the trained proficiency with the sling, halfling sling staff, Talenta Boomerang, and shortsword. You gain access to all uncommon halfling weapons. For the purpose of determining your proficiency, martial halfling weapons are simple weapons and advanced halfling weapons are martial weapons.
 )
-|
 # Humans ((++Humans))
 -
 ## Lore Adjustments
@@ -6530,7 +6695,7 @@ head(
 These new spells are a combination of regular spells and focus spells found throughout Eberron that allow you to interact with the world in new ways.
 -
 )
-# Spell Lists
+# Spell Lists ((+Spell Lists))
 The following spells are provided by this supplement, and accessible to any caster of the respective school.
 
 ## Common Cantrips
@@ -6606,7 +6771,7 @@ Level | Name | Effect
 4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
 5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
 
-# Spell Descriptions 
+# Spell Descriptions ((+Spell Descriptions))
 When selecting spells for your caster, you can additionally select from among the following.
 item(
 # Aundair's Silent Sanctum
@@ -7125,6 +7290,37 @@ item(
 -
 You flavor up to 1 bulk or 1 cubic foot of nonliving material; this lasts for one hour.
 )
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 |
 =
 head(
@@ -7134,10 +7330,10 @@ head(
 -
 ## Dinosaur ((++Dinosaurs))
 <!--clawfoot-->
-http://monster.pf2.tools/v/yfdH7xsJ
+https://monster.pf2.tools/v/yfdH7xsJ
 |
 <!--fastieth-->
-http://monster.pf2.tools/v/Cd3z7BdM
+https://monster.pf2.tools/v/Cd3z7BdM
 
 ## Magebred Animals ((++Magebred animals))
 Magebred animals are the result of intensive breeding programs run by House Vadalis. These animals are much like the standard animal, however, they have improved durability, statisitics, and abilities. To capture this, apply the Elite template to the base animal statblock (Beastiary pg 6). While Vadalis has a large variety of magebred animals, the animals offered in the Equipment section are the ones primarily available to the public. Others may exist however, and use the Elite template as the baseline along with any new feature or abilities as a result of their breeding.
@@ -7165,9 +7361,6 @@ https://monster.pf2.tools/v/xhWq71vB
 https://monster.pf2.tools/v/5zsv15Cs
 =
 # NPCs ((+NPCs))
-## Dragonmarked NPCs ((++Dragonmarked))
-Got marks man TODO
-
 ## Magewrights ((++Magewrights))
 The magical economy of Eberron is built on the backs of the magewrights: spellcasters who know a handful of cantrips or rituals that allow them to provide vital services. Wizards are exceptional; their ability to prepare any spell with a few hours of study reflects remarkable talent and versatility. By contrast, a magewright knows few spells, but because of their intense focus on those spells, they’re able to cast them in ways others cannot.
 
@@ -7238,21 +7431,15 @@ Eberron is a world of swashbuckling adventure, noir mysteries, and can fit most 
 - Free Archetype is an optional rule available in the Gamemastery guide. The rule allows characters to become more diverse, and specialize in a greater selection of options. Eberron is a world in need of heroes, and this optional rule allows characters to stand out as increasingly special.
 - Ancestral Paragon is an optional rule available in the Gamemastery guide. If you have a dragonmarked character, you could consider adding this rule to enable the full powers of a dragonmark to manifest while allowing the selection of regular ancestry feats as well. Regular characters can benefit from channeling the archetype of their ancestry, perhaps as a champion of their people (such as a hero of the Valenar elves).
 - Deep backgrounds are an excellent way to increase your player's connection to Eberron. Work with your players to build out their beginings, or allow them to roll. 
+=
 - Ley Lines and Magical Terrain help capture the power of manifest zones. While the Planes entry details a few potential applications of these rules, you can consider enabling all of the features of Ley Lines and Magical Terrain to apply to manifest zones.
 - Pervasive magic captures the wide magic feeling of Eberron. It's suggested that you follow the character creation of pervasive magic, and give NPCs access to the level 0 cantrips detailed in this document or uncommonly level 1 cantrips from any source. However, though magic is pervasive, it is low level. You should consider disregarding Creature Adjustments, and only apply these wide spread cantrips to intelligent humanoids.
 - Hero points enable the heroic last minute changes of luck that are the corner stone of swashbuckling adventure. You could consider increasing the frequency with which you award hero points, and even increasing the maximum number of hero points that a player can hold on to.
-
-=
-
-# Changelog
-V 0.1
-- Document created
-
-*Disclaimer: In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind bending corruptions accending from the depths (The Mror Holds decline to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
-
-*Legal Disclaimer: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up to date source for the Eberron community.*
-
-# References
+  
+  
+  
+  
+# References ((References))
 [1] Exploring Eberron - Keith Baker pg 109
 [2] Exploring Eberron - Keith Baker pg 99
 [3] Exploring Eberron - Keith Baker pg 109
