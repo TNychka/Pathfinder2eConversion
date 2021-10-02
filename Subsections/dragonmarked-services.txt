@@ -1,8 +1,5 @@
-watermark (
-Version 0.19.0
-)
-title (
-Pathfinder's Guide to Eberron 
+head(
+# Dragonmarked Houses
 )
 item(
 # Favoured in House

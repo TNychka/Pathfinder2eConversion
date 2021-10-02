@@ -1,0 +1,53 @@
+head(
+# Feats ((Feats))
+The following feats are accessible to most characters in Eberron, allowing you to connect to the world of Eberron and all it has to offer.
+-
+)
+## General Feats ((+General Feats))
+These feats are general feats available to anyone regardless of ancestry or background.
+item(
+# Education ((++Education))
+## Feat 1
+-
+; General
+**Prerequisite** you may only take this feat at 1st level
+-
+Some lands hold the pen in higher regard than the sword. In your youth, you received the benefit of several years of formal schooling. You become trained in one skill and an additional lore of your choice. At 5th level, you become an expert in the lore.
+)
+item(
+# Researcher ((++Researcher))
+## Feat 1
+-
+; General
+-
+You can use your Knowledge skills to extract information from books, scrolls, and other repositories of facts and figures. You become trained in Academia Lore. When you research a topic, you can treat the result of your check as one step better. 
+)
+item(
+# Wand Mastery ((++Wand Master))
+## Feat 5
+-
+; General
+When you overcharge a wand, make a DC 10 flat check. On a failure, the wand is broken. On a critical failure, the wand is destroyed.
+)
+## Skill ((+Skill Feats))
+These feats are general skill feats available to anyone regardless of ancestry or background.
+### Crafting
+item(
+# Exceptional Artisan ((++Exceptional Artisan))
+## Feat 1
+-
+; General, Skill
+**Prerequisites** trained in Crafting
+-
+When you spend downtime to use the Craft activity, you need only spend 3 days at work at which point you attempt a Crafting check.
+)
+|
+item(
+# Proficient Prototyper ((++Proficient Prototyper))
+## Feat 1
+-
+; General, Skill
+**Prerequisites** trained in Crafting
+-
+When you spend downtime to use the Craft activity, with your proficiency in creating prototypes and planning ahead (or failing quickly), you may complete crafting projects faster. On a successful Craft check, you may reduce the remaining materials required by 1 day in addition to any further downtime you spend. If you are an expert in crafting you may reduce this by 2 days, master by 4 days, and legendary by 8 days.
+)

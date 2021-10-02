@@ -1,9 +1,3 @@
-watermark (
-Version 0.19.0
-)
-title (
-Pathfinders' Guide to Eberron 
-)
 head(
 # Dragonmarks ((Dragonmarks))
 With a flash from the Dragonmark of a Dennith heir, the swing of a blade is deflected at the last moment. As a peace negotiation comes to a close, the glow of a Mark of Detection stops a hidden blade from ending it in war. Dragonmarks are powers that the heirs of twelve houses use to empower their skillset and specialize in their fields.
@@ -112,7 +106,7 @@ item(
 ; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Greater Mark
 -
-You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as an valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional dragonmark focus spell and an additional dragonmark focus point.
+You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional dragonmark focus spell and an additional dragonmark focus point.
 )
 
 =
@@ -888,7 +882,7 @@ item(
 -
 With a subtle manipulation of the powers of your mark, you can assist a creature in resisting maladies and wounds.
     The creature gains a +1 status bonus to any healing it receives. If the creature is making a saving throw against a persistent effect, poison, or a disease, it gains a +1 status bonus to its save (and this spell counts for assisted recovery against persistent effects). If the creature has the dying condition, it loses the dying condition, though it remains unconscious at 0 Hit Points.
-    The target is then immune to Guidance of the Healer for 1 hour.
+    The target is then immune to the Guidance of the Healer for 1 hour.
 -
 **Heightened (+2)** The status bonus to healing received increases by 1
 
@@ -1291,7 +1285,7 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
-When you cast the Cantrip of the Courier, you can choose to Know Direction or Light. Cantrip of the Courier gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+When you cast the Cantrip of the Courier, you can choose to Know Direction or Light. The Cantrip of the Courier gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
 A spell cast by Cantrip of the Courier doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
@@ -1379,7 +1373,7 @@ Your dragonmark sustains your allies' endurance, enabling longer travel. You and
 =
 head(
 # Mark of Scribing ((+Mark of Scribing))
-The Mark of Scribing deals with communication—both the written and spoken word. A gnome who bears the mark can feel words as though they are living creatures, struggling to make their meaning known. The mark provides a range of gifts. It translates languages, but it also allows its bearer to communicate with others at a distance.
+The Mark of Scribing deals with communication-both the written and spoken word. A gnome who bears the mark can feel words as though they are living creatures, struggling to make their meaning known. The mark provides a range of gifts. It translates languages, but it also allows its bearer to communicate with others at a distance.
 -
 )
 The Mark of Scribing is a Gnome Heritage. By picking this Heritage at first level you gain access to all of the Mark of Scribing ancestry feats.
@@ -1970,7 +1964,7 @@ With a concentrated effort to bend the powers of your mark, you can replicate th
 =
 head(
 # Aberrant Mark ((+Aberrant Mark))
-The twelve dragonmarks are predictable, and their powers are generally constructive. But there is another kind of dragonmark, which is dangerous to both the bearer and the people around them. Aberrant dragonmarks can appear on members of any race, at any age, regardless of bloodline. No two aberrant dragonmarks are exactly alike—even if they grant the same power, they manifest in different ways.
+The twelve dragonmarks are predictable, and their powers are generally constructive. But there is another kind of dragonmark, which is dangerous to both the bearer and the people around them. Aberrant dragonmarks can appear on members of any race, at any age, regardless of bloodline. No two aberrant dragonmarks are exactly alike-even if they grant the same power, they manifest in different ways.
 -
 )
 right(
@@ -2191,174 +2185,3 @@ When building the Heightened Level list, spells should be placed at the heighten
   
   
 /
-=
-head(
-# Backgrounds ((Backgrounds))
-These backgrounds allow you to create a character tied to the world of dragonmarks, explaining how they may relate to their house.
-)
-
-##### Table 2-1 House Skills 
-House | Skill | Feat
---- | :--- | :---
-Cannith | Crafting | Specialty Crafting
-Deneith | Athletics | Armor Assist*
-Ghallanda | Diplomacy | Group Impression
-Phiarlan | Performance | Fascinating Performance
-Jorasco | Medicine | Inoculation
-Kundarak | Crafting | Crafter's Appraisal
-Lyrandar | Acrobatics | Steady Balance
-Medani | Deception | Lie to Me
-Orien | Survival | Terrain Expertise
-Sivis | Society | Multilingual
-Tarkanan | Stealth | Experienced Smuggler
-Tharashk | Survival | Experienced Tracker
-Thuranni | Stealth | Terrain Stalker
-Vadalis | Nature | Train Animal
-. *Due to your extensive training, you always succeed on the check to put on armour
-/
-item(
-# Excoriate ((+Excoriate))
-## Background
--
-; Rare
-The dragonmarked houses have their own laws, some older than Galifar. An heir who violates the laws of a house is made an excoriate: stripped of the house name and forbidden from drawing on house resources. An excoriate must surrender their signet ring, any other property that can be claimed as a gift of the house, and the name of both house and family. Their likeness is circulated through the major enclaves of the house. Heirs of their house are forbidden to provide them with aid or succour, and the other houses typically shun excoriates of any line. Excoriation is a rare punishment but is often a fate worse than prison for a dragonmarked heir. 
-    Choose three ability boosts. One must be to Intelligence or Wisdom, and two are free ability boosts.
-    You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
-Any dragonmarked member of your house who knows of your status is automatically unfriendly toward you, as are most members of other dragonmarked houses
-)
-|
-item(
-who are aware that you are a excoriate. You are typically refused service in establishments owned by your house or its guilds. Members of your house are forbidden from providing you with any sort of aid or support. You may not use
-)
-item(
-the name of your house or family. Should you present yourself as a member of your house, you could be prosecuted for fraud. In addition, you cannot make use of feats that require the support of your house for training, such as the favoured in House feat, or Dragonmarked Scion archetype.
-)
-item(
-# House Orphan ((+House Orphan))
-## Background
--
-The Korth Edicts prevent members of a dragonmarked house from holding land, a noble title, or rank in a national military. Over the centuries, many dragonmarked heirs have chosen to give up their birthright to be freed from the edicts. During the Last War, many idealistic heirs left their houses to fight for one of the Five Nations. Others have married into noble families, whether for love or greed. 
-    Depending on their reasons for departure, an orphan could have a specific set of enemies within their house or might have had a perfectly amicable parting of the ways. However, an orphan is restricted
-)
-=
-item(
-from using their family or house name. They might not be an outcast, but they have surrendered their birthright just the same. It is more difficult for an orphan to gain access to house training such as the Dragonmarked Scion, but not impossible. Outside of the house, you decided to choose your own path.
-    Choose two ability boosts. One must be to Charisma or Wisdom, and one is a free ability boost.
-    You gain the Skill Training skill feat, and you're trained in the Lore of Dragonmarked Houses.
-)
-
-item(
-# House Scion ((+House Scion))
-## Background
--
-The scion is a member of a dragonmarked house that embraces their heritage but keeps their distance from the administration of the house.
-    A dragonmarked scion bears the name of their house and, if they carry a dragonmark, can use the honorary title of lord. A scion can obtain room and board at any house enclave, though they are expected to put in a few hours of work in exchange. The scion does not have access to any special resources, but can usually find work at a guild business.
-    Choose two ability boosts. One must be to Charisma or Intelligence, and one is a free ability boost.
-    You've trained the skill related to your house (table 1-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
-)
-item(
-# House Agent ((+House Agent))
-## Background
--
-; Uncommon
-Every dragonmarked house is involved in dozens of schemes and plots. Some of these are deep secrets that could threaten the existence of the house if exposed; others are practical quests designed to turn a profit. Agents take on assignments requested by their house: they are adventurers who dedicate their lives to expanding the power and influence of their dragonmarked families. An agent can be called into the service of their house at any time, but how this servitude affects the rest of the party is an important question.
-
-A dragonmarked agent bears the name of their house and, if they carry a dragonmark, can use the honorary title of lord. A house agent and their companions can always find free room and board at any house enclave. At the GM’s discretion, a trusted agent might be paid a regular salary by their house, or receive information,
-)
-|
-item(
-transportation, and supplies as necessary to complete an assignment.
-
-Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
-
-You've trained the skill related to your house (table 1-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
-)
-item(
-# Foundling
-## Background
--
-Characters can develop dragonmarks only by virtue of blood ties to a dragonmarked house, and many dragonmarked discover their lineage only after the mark appears. Some are the descendants of excoriates, while others are the product of a doomed romance. Whatever their stories, these foundlings carry dragonmarks but have no connection to their houses. 
-All the dragonmarked houses seek to identify and recruit foundlings. A house might occasionally refuse to accept a foundling, typically in cases involving descendants of truly infamous excoriates. As a rule, though, the houses all want to expand their ranks.
-
-Choose two ability boosts. One must be to Charisma or Wisdom, and one is a free ability boost.
-
-Despite never receiving formal training, your dragonmarked blood has inclined you to learn the skill related to your house. Without the formal training of your house, however, you instead develop a Lore related to that skill rather than the dragonmarked houses. 
-)
-=
-head(
-# Archetypes ((Archetypes))
-These new archetypes allow you to interact with your dragonmark and grow its power alongside your own
--
-)
-## Dragonmarked Scion ((+Dragonmarked Scion))
-Through intense dedication and focus, a dragonmarked scion trains to master their mark. With time and effort, this can result in the development of their mark to greater heights.
-
-item(
-# Dragonmarked Scion Dedication
-## Feat 2
--
-; Archetype, Dedication, Dragonmark
-**Prerequisites** A Dragonmark
--
-You train to empower your mark and the reserves of power that you can draw on. You can select an additional dragonmarked focus spell to cast. In addition, if you spend a week of downtime retraining, you can switch your known dragonmark focus spells for different dragonmark focus spells that you have access to. Your house provides this retraining free of charge.
-)
-item(
-# Dragonmarked Study
-## Feat 2
--
-; Archetype, Dragonmark
-**Prerequisites** Dragonmarked Scion Dedication
--
-You study to hold more of your powers in mind, you may pick another dragonmark focus spell from your list. This spell can be up to the maximum level you can currently cast. 
-**Special** you may pick this feat multiple times, each time picking a different focus spell.
-)
-item(
-# Dragonmarked Power
-## Feat 6
--
-; Archetype, Dragonmark
-**Prerequisites** Dragonmarked Scion Dedication
--
-The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1. In addition, you may pick another dragonmark focus spell from your list. This spell can be up to the maximum level you can currently cast. 
-**Special** you may pick this feat multiple times, each time picking a different focus spell.
-)
-|
-item(
-# Lesser Dragonmarked Scion
-## Feat 6
--
-; Archetype, Dragonmark
-**Prerequisites** Dragonmarked Scion Dedication, Least Mark
--
-You have trained to develop your talents and your dragonmark. You gain the Lesser Dragonmark feat.
-**Special** Since this manifests a physical change in the powers and size of your dragonmark, you may not retrain out of this feat.
-)
-item(
-# Dragonmarked Focus
-## Feat 10
--
-; Archetype, Dragonmark
-As your control over your mark increases, you are better able to restore your energy. If you have spent at least 2 Dragonmarked Focus Points since the last time you Refocused, you recover 2 Dragonmarked Focus Points when you Refocus instead of 1.
-)
-item(
-# Greater Dragonmarked Scion
-## Feat 14
--
-; Archetype, Dragonmark
-**Prerequisites** Dragonmarked Scion Dedication, Lesser Mark
--
-You have trained to develop your talents and your dragonmark. You gain the Greater Dragonmark feat.
-**Special** Since this manifests a physical change in the powers and size of your dragonmark, you may not retrain out of this feat.
-)
-item(
-# Dragonmarked Wellspring
-## Feat 16
--
-; Archetype, Dragonmark
-As you approach mastery over your mark, energy seems to return to you naturally. . If you have spent at least 3 Dragonmark Focus Points since the last time you Refocused, you recover 3 Dragonmark Focus Points when you Refocus instead of 1.
-)
-note(
-There is no way to elevate your dragonmark to Siberys through training with the Dragonmarked Scion Archetype. How and who Siberys marks choose to appear on remains a mystery. At the moment it seems the only deciding factor in  whether the mark will appear is fate.
-)
-=
-[10] Exploring Eberron Keith Baker pg 260

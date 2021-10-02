@@ -1,0 +1,75 @@
+head(
+# Archetypes ((Archetypes))
+These new archetypes allow you to interact with your dragonmark and grow its power alongside your own
+-
+)
+## Dragonmarked Scion ((+Dragonmarked Scion))
+Through intense dedication and focus, a dragonmarked scion trains to master their mark. With time and effort, this can result in the development of their mark to greater heights.
+
+item(
+# Dragonmarked Scion Dedication
+## Feat 2
+-
+; Archetype, Dedication, Dragonmark
+**Prerequisites** A Dragonmark
+-
+You train to empower your mark and the reserves of power that you can draw on. You can select an additional dragonmarked focus spell to cast. In addition, if you spend a week of downtime retraining, you can switch your known dragonmark focus spells for different dragonmark focus spells that you have access to. Your house provides this retraining free of charge.
+)
+item(
+# Dragonmarked Study
+## Feat 2
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication
+-
+You study to hold more of your powers in mind, you may pick another dragonmark focus spell from your list. This spell can be up to the maximum level you can currently cast. 
+**Special** you may pick this feat multiple times, each time picking a different focus spell.
+)
+item(
+# Dragonmarked Power
+## Feat 6
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication
+-
+The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1. In addition, you may pick another dragonmark focus spell from your list. This spell can be up to the maximum level you can currently cast. 
+**Special** you may pick this feat multiple times, each time picking a different focus spell.
+)
+|
+item(
+# Lesser Dragonmarked Scion
+## Feat 6
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication, Least Mark
+-
+You have trained to develop your talents and your dragonmark. You gain the Lesser Dragonmark feat.
+**Special** Since this manifests a physical change in the powers and size of your dragonmark, you may not retrain out of this feat.
+)
+item(
+# Dragonmarked Focus
+## Feat 10
+-
+; Archetype, Dragonmark
+As your control over your mark increases, you are better able to restore your energy. If you have spent at least 2 Dragonmarked Focus Points since the last time you Refocused, you recover 2 Dragonmarked Focus Points when you Refocus instead of 1.
+)
+item(
+# Greater Dragonmarked Scion
+## Feat 14
+-
+; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication, Lesser Mark
+-
+You have trained to develop your talents and your dragonmark. You gain the Greater Dragonmark feat.
+**Special** Since this manifests a physical change in the powers and size of your dragonmark, you may not retrain out of this feat.
+)
+item(
+# Dragonmarked Wellspring
+## Feat 16
+-
+; Archetype, Dragonmark
+As you approach mastery over your mark, energy seems to return to you naturally. . If you have spent at least 3 Dragonmark Focus Points since the last time you Refocused, you recover 3 Dragonmark Focus Points when you Refocus instead of 1.
+)
+note(
+There is no way to elevate your dragonmark to Siberys through training with the Dragonmarked Scion Archetype. How and who Siberys marks choose to appear on remains a mystery. At the moment it seems the only deciding factor in whether the mark will appear is fate.
+)

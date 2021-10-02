@@ -3,7 +3,7 @@ head(
 These new spells are a combination of regular spells and focus spells found throughout Eberron that allow you to interact with the world in new ways.
 -
 )
-# Spell Lists
+# Spell Lists ((+Spell Lists))
 The following spells are provided by this supplement, and accessible to any caster of the respective school.
 
 ## Common Cantrips
@@ -14,7 +14,7 @@ Level | Name | Effect
 0 | Boldrei’s Broom | Clean a surface or object.
 0 | Culinary Transmutation | Reheat or cool food.
 0 | Grogan’s Grime | Soil a surface or object.
-0 | Halan’s Dramatic Entrance | Make a dramatic enterance.
+0 | Halan’s Dramatic Entrance | Make a dramatic entrance.
 0 | Incendiary Purge | Extinguish a flame.
 0 | Kellan’s Kindling | Ignite a flame.
 0 | Savage Blossom | Create a flower.
@@ -79,7 +79,7 @@ Level | Name | Effect
 4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
 5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
 
-# Spell Descriptions 
+# Spell Descriptions ((+Spell Descriptions))
 When selecting spells for your caster, you can additionally select from among the following.
 item(
 # Aundair's Silent Sanctum
@@ -90,13 +90,13 @@ item(
 
 **Cast** :aa: verbal, somatic
 
-**Area** 5-foot-radius emanation centered on you
+**Area** 5-foot-radius emanation centred on you
 
 **Duration** sustained up to 1 minute
 -
-You create an invisible sphere of energy with a 5-foot emanation. Until the spell ends, it moves with you, centered on you. The sphere muffles sound in both directions. All creatures have a -2 circumstance penalty to hear any sounds originating from the other side of the sphere, in addition, creatures have a +2 circumstance bonus on saves against auditory effects originating from the other side of the sphere.
+You create an invisible sphere of energy with a 5-foot emanation. Until the spell ends, it moves with you, centred on you. The sphere muffles sound in both directions. All creatures have a -2 circumstance penalty to hear any sounds originating from the other side of the sphere, in addition, creatures have a +2 circumstance bonus on saves against auditory effects originating from the other side of the sphere.
 -
-**Heightened (3rd)** you may choose the area to be up to a 10-foot-radius emanation centered on you.
+**Heightened (3rd)** you may choose the area to be up to a 10-foot-radius emanation centred on you.
 )
 item(
 # Banish Dragonmark
@@ -189,9 +189,9 @@ item(
     One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
     Dragonmarked creatures in the area become nauseated as their marks begin to writhe and dance on their skin. The creature must make a Will save. All creatures without the dragonmark trait automatically critically succeed.
 **Critical Success** The creature is unaffected.
-**Success** The creature is fascinated by their mark.
-**Failure** The creature is sickened 1 and fascinated by their mark.
-**Critical Failure** The creature is sickened 2 and fascinated by their mark.
+**Success** The creature is fascinated by its mark.
+**Failure** The creature is sickened 1 and fascinated by its mark.
+**Critical Failure** The creature is sickened 2 and fascinated by its mark.
 )
 item(
 # Dragonmarked Guidance
@@ -237,7 +237,7 @@ item(
 You can convert raw material of one type into a batch of products of the same material equal to the original value. Creatures or magic items cannot be created or transmuted by the fabricate spell. The items made by this spell cannot be greater than twice the level of the cast spell but can be intricate or detailed if you are familiar with the type of item you are constructing. If you work with any minerals, the target and heightened effects are reduced to 1 cubic foot instead of 10 cubic feet.
 Objects manufactured in this way are obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. When the spell ends, the item returns to the original raw material.
 -
-**Heightened (+1)** The volume you can affect increases by 10 feet cubic feet, and similarly minerals are increased by 1 cubic foot.
+**Heightened (+1)** The volume you can affect increases by 10 feet cubic feet, and similarly, minerals are increased by 1 cubic foot.
 )
 item(
 # Flash Bang
@@ -256,7 +256,7 @@ A pulse of bright light and energy tears ripples through the air, disrupting cre
 **Critical Success** The creature is unaffected.
 **Success** The creature is dazzled and deafened for 1 round.
 **Failure** The creature is dazzled and deafened for 1 minute. They may make a Fortitude at the end of each of their turns to end the effect.
-**Critical Failure** The creature is deafened and blinded for 1 minute, and stunned 1.
+**Critical Failure** The creature is deafened and blinded for 1 minute and stunned 1.
 )
 =
 item(
@@ -408,7 +408,7 @@ item(
 
 **Range** 5 feet; **Duration** 1 minute
 -
-You cause flames to flicker, brighten, dim, or change color for 1 minute.
+You cause flames to flicker, brighten, dim, or change colour for 1 minute.
 )
 item(
 # Spell Guard
@@ -596,6 +596,37 @@ item(
 
 **Range** 5 feet
 -
-You flavor up to 1 bulk or 1 cubic foot of nonliving material; this lasts for one hour.
+You flavour up to 1 bulk or 1 cubic foot of nonliving material; this lasts for one hour.
 )
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
 |

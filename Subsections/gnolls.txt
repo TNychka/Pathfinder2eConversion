@@ -1,9 +1,3 @@
-watermark (
-Version 0.19.0
-)
-title (
-Pathfinder's Guide to Eberron 
-)
 head(
 # Gnolls ((+Gnolls))
 Powerfully-built humanoids that bear resemblance to hyenas, gnolls are cunning warriors and hunters. Their frightening visage and efficient tactics have given them an ill-starred reputation.
@@ -18,7 +12,7 @@ There are still gnolls that remained bound to the overlords, lacking the freedom
 
 ## You might...
 - Always try to work smarter, not harder.
-- Be very physically demonstrative—often hugging, punching, or licking your friends.
+- Be very physically demonstrative-often hugging, punching, or licking your friends.
 - Chew through scraps and bones others would throw away.
 |
 ## Others Probably...
@@ -27,21 +21,21 @@ There are still gnolls that remained bound to the overlords, lacking the freedom
 - Respect the brutal efficiency of your hunting style.
 
 ## Physical Description...
-A typical gnoll stands over seven feet in height, but this is belied by their hunched posture. Males and females are similar in appearance, and other species have difficulty telling them apart. Gnolls have thick fur over their bodies; depending on clan, this can be uniform in colour or broken up with spots or stripes. Their eyes are yellow or green and gleam with reflected light. While these are common traits, the fiendish heritage of gnolls sometimes manifests itself in its appearance. An unusual gnoll could have glowing red eyes, fur with stripes that glow like flames, or other unusual traits. Typically these don’t grant special abilities, though you could attribute a class ability or feat to such a mutation. [6]
+A typical gnoll stands over seven feet in height, but this is belied by their hunched posture. Males and females are similar in appearance, and other species have difficulty telling them apart. Gnolls have thick fur over their bodies; depending on clan, this can be uniform in colour or broken up with spots or stripes. Their eyes are yellow or green and gleam with reflected light. While these are common traits, the fiendish heritage of gnolls sometimes manifests itself in its appearance. An unusual gnoll could have glowing red eyes, fur with stripes that glow like flames, or other unusual traits. Typically these don’t grant special abilities, though you could attribute a class ability or feat to such a mutation. [49]
 
 ## Society...
 The Znir gnolls include a dozen different clans, each of which holds distinct traditions. Once the clans were devoted to different faces of the overlords, but when they shattered their statues, each clan chose one of the moons. All gnolls skillfully hunt and fight, but the Barrakas are known to be the finest trackers of the Pact; the Aryth, the deadliest archers; the Olarune, the strongest warriors and most forceful in the vanguard. Typically, mercenary units are comprised of gnolls of a single clan, assigned based on the nature of the task that lies ahead, and contracts are usually negotiated for a period based on cycles of the clan’s moon.
 
 The clans maintain distinct territories within the Znir region, but all gnolls are welcome around the hearth of any clan; the Znir take pains to crush any tension that arises between the clans. Shamans and leaders from each clan maintain a council at the Znir, around the idols their ancestors broke. Here they mediate disputes, assign contracts to clans, and allocate funds
 =
-and equipment. The Eyre clan has honed their skills as smiths and tanners, and they craft much of the equipment used by the Znir gnolls—though there is still a strong tradition of scavenging among the Znir, and warriors often claim trophies from fallen foes. [6]
+and equipment. The Eyre clan has honed their skills as smiths and tanners, and they craft much of the equipment used by the Znir gnolls-though there is still a strong tradition of scavenging among the Znir, and warriors often claim trophies from fallen foes. [49]
 
 ## Alignment and Religion...
 
-Gnolls have very strong pack instincts, and an unsentimental matter-of-fact approach to life, and prioritize results over methods.[7] They instinctively work together in combat and think nothing of placing themselves in harm’s way to protect their kin. If a gnoll character adopts a group of adventurers as their temporary pack, these things apply to the other characters — but the gnoll will be surprised and angry if their non-gnoll packmates don’t show them the same respect. This means the typical gnoll trends towards a Lawful alignment, but good and evil depend on the current terms of their contract. [8]
+Gnolls have very strong pack instincts, and an unsentimental matter-of-fact approach to life, and prioritize results over methods. [50] They instinctively work together in combat and think nothing of placing themselves in harm’s way to protect their kin. If a gnoll character adopts a group of adventurers as their temporary pack, these things apply to the other characters - but the gnoll will be surprised and angry if their non-gnoll packmates don’t show them the same respect. This means the typical gnoll trends towards a Lawful alignment, but good and evil depend on the current terms of their contract. [51]
 
 ## Names...
-A Gnoll's most important identifier is its whoop. While deceptively short, a whoop includes a range of ultrasonic inflexions that indicate clan, a personal identifier, and a suggestion of family affiliation (the Znir trace lineage through the mother). Because it’s impossible for most non-gnolls to properly replicate a whoop, gnolls also use contract names—names intended to be used with clients and other outsiders. There is a basic structure of contract names used by all gnolls; the inflexion of the name indicates gender, though few people recognize this if they don’t speak Gnoll. The Znir typically attach clan names to a formal introduction: “Ghyrryn Barrakas, Znir.”[7]
+A Gnoll's most important identifier is its whoop. While deceptively short, a whoop includes a range of ultrasonic inflexions that indicate clan, a personal identifier, and a suggestion of family affiliation (the Znir trace lineage through the mother). Because it’s impossible for most non-gnolls to properly replicate a whoop, gnolls also use contract names-names intended to be used with clients and other outsiders. There is a basic structure of contract names used by all gnolls; the inflexion of the name indicates gender, though few people recognize this if they don’t speak Gnoll. The Znir typically attach clan names to a formal introduction: “Ghyrryn Barrakas, Znir.” [50]
 
 ### Sample gnoll contract names
 Dagnyr, Dhyrn, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Gnyrl, Hyrn, Lhoryn, Lhyr, Lhyrl, Mognyr, Myrl, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych
@@ -314,7 +308,7 @@ item(
 ; Gnoll
 **Trigger** You attempt a saving throw against a divine magical effect, but you haven't rolled yet.
 -
-The Znir pact shattered the images of the fiends they once served and swore they would allow no one—not chib, god, or demon—to hold dominion over them. Channelling the power of your ancestors, you ferociously resist divine magic. You gain a +2 circumstance bonus against divine spells, and if you roll a critical failure on the saving throw against that spell, you get a failure instead.
+The Znir pact shattered the images of the fiends they once served and swore they would allow no one-not chib, god, or demon-to hold dominion over them. Channelling the power of your ancestors, you ferociously resist divine magic. You gain a +2 circumstance bonus against divine spells, and if you roll a critical failure on the saving throw against that spell, you get a failure instead.
 )
 |
 item(
@@ -383,33 +377,3 @@ item(
 ; Gnoll
 You have trained relentlessly to become the best in your field. You may pick an additional feat from your class of 13th level or lower.
 )
-
-=
-head(
-### Weapons ((+Weapons))
-)
-Uncommon Advanced  Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
---- | :---: | :---: | :---: | :---: | :---:
-Myrnaxe | 4 gp | - | 2 | - | - | Gnoll, Special*
-Myrnaxe - Axe | 2 gp | 1d10 S | 1| 2 | Axe | Gnoll, Forceful, Sweep, Attached to Myrnaxe - Spearhead
-Myrnaxe - Spearhead | 2 gp | 1d8 P | 1 | 1 | Spear | Gnoll, Deadly (d12), Two-Hand (d10), Attached to Myrnaxe - Axe
-. *See Myrnaxe entry
-
-##### Table 2-2: Ranged Weapons ((++Ranged Weapons))
-Uncommon Advanced Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
---- | :---: | :---: | :---: | :---: | :---:
-Great bow | 5gp | 1d8 P | 150 ft. | 0 | 2 | 1+ | Bow| Fatal d10, propulsive, gnoll, volley 45 ft.
-10 Greatarrows | 2sp | - | - | - | - | - | Ammunition | -
-/
-## Weapon Traits
-  **Gnoll:** The Znir consider these weapons to be a signature weapon of their pact and don’t sell them to outsiders. The only way to acquire a gnoll weapon is to be given one or to take it from a fallen foe.
-  
-## Weapon Descriptions
-  **Great bow** Despite its name - the great bow is not significantly larger than a normal longbow. However, the draw of the weapon is deceptively heavy. Great bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles significantly faster, resulting in greater penetrating power. You must have at least 14 strength and use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to great bows unless otherwise stated. To craft a great bow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
-  
-  **Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Depending on the wielder's stance, the myrnaxe is either functionally a battleaxe or a spear. A user may switch between the sides of the myrnaxe with an interact action. If you have the critical specialization effect of either weapon group of the Myrnaxe, you gain the critical specialization if the other side only while using a Myrnaxe.
-  Myrnaxes are composed of two attached items: the Myrnaxe - Axe, and the Myrnaxe - Spearhead. It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk—thus maximizing its versatility against multiple foes. When crafting a myrnaxe, both sides are manufactured at the same time, using their respective crafting costs for material, and forming a completed Myrnaxe when finished. Each side of the weapon gains the effect of its respective precious material. You may not wield individual halves of the Myrnaxe.
-=
-[6] Exploring Eberron. Keith Baker. Pg. 93
-[7] Exploring Eberron. Keith Baker. Pg. 212
-[8] Exploring Eberron. Keith Baker. Pg. 95

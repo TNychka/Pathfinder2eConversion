@@ -1,9 +1,3 @@
-watermark (
-Version 0.19.0
-)
-title (
-Pathfinders' Guide to Eberron 
-)
 head(
 # Weapons, Armour, and Adventuring Gear ((Weapons, Armour, and Adventuring Gear))
 The world of Eberron is built on both arcane and mundane innovation, much of it powered by House Cannith. The following equipment has been developed in Eberron, whether by a specific culture, ancient civilization, or by the research funds of a nation's war machine.
@@ -69,13 +63,13 @@ leaves. This special process enables the many primal practitioners of the world 
 
 **Boomerang, Xen'drik:** The drow of Xen'drik use three-pronged bladed boomerangs to hunt prey. Some adventurers and explorers learn to use the weapon while operating in the Xen'drik jungles, but few outside the drow communities ever master the intricacies of the Xen'drik boomerang.
 
-**Double-Bladed Scimitar:** The Double-Bladed Scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result, the double-bladed scimitar is an expensive weapon — few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might
+**Double-Bladed Scimitar:** The Double-Bladed Scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. Forged with techniques honed over centuries, these blades are strong, sharp, and remarkably light. Each scimitar is a masterpiece, and as a result, the double-bladed scimitar is an expensive weapon - few though ever have the opportunity to purchase one. A Valenar blade in the hands of a non-elf is generally assumed to have been stolen or looted from a fallen foe, and a Valenar elf might
 |
 feel entitled to demand its return or challenge the bearer to prove they’re worthy to wield it.
 
 **Gnoll bow:** Though the gnoll bow is not significantly larger than a normal longbow, the draw of the weapon is deceptively heavy. Great bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles significantly faster, resulting in greater penetrating power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to gnoll bows unless otherwise stated. To craft a gnoll bow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
 
-**Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Depending on the wielder's stance, the myrnaxe is either functionally a battleaxe or a spear. A user may switch between the sides of the myrnaxe with an interact action. The myrnaxe has the damage, hands, group, and weapon traits of the side in user.  Myrnaxes are composed of two attached items: the Myrnaxe - Axe, and the Myrnaxe - Spearhead. It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk—thus maximizing its versatility against multiple foes. When crafting a myrnaxe, both sides are manufactured at the same time, using their respective crafting costs for material, and forming a completed Myrnaxe when finished. Each side of the weapon gains the effect of its respective precious material. You may not wield individual halves of the Myrnaxe.
+**Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Depending on the wielder's stance, the myrnaxe is either functionally a battleaxe or a spear. A user may switch between the sides of the myrnaxe with an interact action. The myrnaxe has the damage, hands, group, and weapon traits of the side in user.  Myrnaxes are composed of two attached items: the Myrnaxe - Axe, and the Myrnaxe - Spearhead. It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk-thus maximizing its versatility against multiple foes. When crafting a myrnaxe, both sides are manufactured at the same time, using their respective crafting costs for material, and forming a completed Myrnaxe when finished. Each side of the weapon gains the effect of its respective precious material. You may not wield individual halves of the Myrnaxe.
 
 **Sharrash:** Similar to a scythe, the Talenta Sharrash developed by the halflings of the Plains consists of a sicklelike blade at the end of a long pole.
 
@@ -452,7 +446,7 @@ head(
 Much of the influence of the dragonmarked houses is based on a simple principle: it’s easier to amplify an existing magical effect, such as that of a dragonmark, than to create the same effect from nothing. Over the course of centuries, House Cannith and the Twelve have developed items that focus and enhance the powers of the mark to produce powerful, reliable effects.
 -
 )
-Dragonmark focus items are rarely sold in stores. They can only be created using proprietary tools, and are produced exclusively by House Cannith and the Twelve for use by trusted agents of the dragonmarked houses. So while many Medani inquisitives wear Medi spectacles, they acquired them through service to the house, not by purchasing them with gold. While a dragonmark focus item usually has the same general appearance as the item whose effects it duplicates, it bears the image of the required mark somewhere on the item and often carries the sigil of the associated house. Siberys dragonshards are a vital component of focus items, most including a shard in some form. [10]
+Dragonmark focus items are rarely sold in stores. They can only be created using proprietary tools, and are produced exclusively by House Cannith and the Twelve for use by trusted agents of the dragonmarked houses. So while many Medani inquisitives wear Medi spectacles, they acquired them through service to the house, not by purchasing them with gold. While a dragonmark focus item usually has the same general appearance as the item whose effects it duplicates, it bears the image of the required mark somewhere on the item and often carries the sigil of the associated house. Siberys dragonshards are a vital component of focus items, most including a shard in some form. [54]
 
 The following items are Dragonmark focus items. They function identically to the duplicated item, however, their level is reduced by 1. The price, but no other statistics are similarly reduced to the new level. All these items gain the Invested, and Dragonmark trait. You may only invest in the item if you have the requisite dragonmark.
 
@@ -622,7 +616,7 @@ item(
 -
 While they are almost trivially simple to produce, these charms are critically important to the warding services of House Kundarak. When a character uses the Mark of Warding to cast alarm, arcane lock, glyph of warding, or any other warding spell which selects targets and ignores the caster, they can invest ownership of the spell into a keycharm. Whoever holds the charm is considered to be the caster of the spell for purposes of bypassing its effects (or receiving the mental alert from an alarm).
     The charm has no inherent powers, and if the spell it is linked to expires, it is considered to be a mundane 
-object—although a dragonmarked character could link it to a new warding spell. 
+object-although a dragonmarked character could link it to a new warding spell. 
 -
 **Craft Requirements** Crafter must have the Mark of Warding.
 )
@@ -777,7 +771,7 @@ item(
 -
 **Usage** varies by armour; **Bulk** varies by armour
 -
-It’s easier to wear than normal armour, reducing the Strength score necessary to ignore its check penalty by 2. Unlike darkwood, bronzewood can be used instead of metal to fashion armour — it is somewhat shapeable during manufacturing. 
+It’s easier to wear than normal armour, reducing the Strength score necessary to ignore its check penalty by 2. Unlike darkwood, bronzewood can be used instead of metal to fashion armour - it is somewhat shapeable during manufacturing. 
 -
 **Type** standard-grade bronzewood armour; **Level** 12; **Price** 1,600 gp + 160 gp per Bulk; **Craft Requirements** at least 200 gp of bronzewood + 20 gp per Bulk
 -
@@ -848,7 +842,7 @@ item(
 ## Material 2+
 -
 ; Precious
-Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr—including dolgaunts, dolgrims, and mind flayers—are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk. Byeshk is difficult to work into armour, and it offers no significant advantage over iron armour.
+Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr-including dolgaunts, dolgrims, and mind flayers-are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk. Byeshk is difficult to work into armour, and it offers no significant advantage over iron armour.
 -
  **Type** byeshk chunk; **Level** 0; **Price** 10 gp; **Bulk** L
  **Type** byeshk ingot; **Level** 0; **Price** 100 gp; **Bulk** 1
@@ -874,7 +868,7 @@ item(
 ## Material 0+
 -
 ; Precious
-This exceptionally hard wood, native to Aerenal, is useful in the manufacture of armour and weapons. Unlike most woods, bronzewood can be used instead of metal to fashion heavy armour and weapons — it is somewhat shapeable during manufacturing, and it keeps a sharp edge. 
+This exceptionally hard wood, native to Aerenal, is useful in the manufacture of armour and weapons. Unlike most woods, bronzewood can be used instead of metal to fashion heavy armour and weapons - it is somewhat shapeable during manufacturing, and it keeps a sharp edge. 
 -
  **Type** Bronzewood branch; **Level** 0; **Price** 500 gp; **Bulk** L
  **Type** Bronzewood lumber; **Level** 0; **Price** 5,000 gp; **Bulk** 1
@@ -950,7 +944,7 @@ item(
 ## Material 0+
 -
 ; Precious
-Eberron dragonshards also called bloodstones, are found encased in geode like stone shells—egg-shaped rocks perhaps a foot across. These stone shells usually lie just below the surface of the ground, covered by 2 to 10 feet of dirt and sediment, but always above the bedrock layer. Since Eberron dragonshards are not found buried within rock, most shard fields are in lowlands, as opposed to mountains or rocky barrens.
+Eberron dragonshards also called bloodstones, are found encased in geode like stone shells-egg-shaped rocks perhaps a foot across. These stone shells usually lie just below the surface of the ground, covered by 2 to 10 feet of dirt and sediment, but always above the bedrock layer. Since Eberron dragonshards are not found buried within rock, most shard fields are in lowlands, as opposed to mountains or rocky barrens.
 -
  **Type** unproccessed small eberron shards (up to 2 inches); **Level** 0; **Price** 4 sp; **Bulk** -
 -
@@ -1282,7 +1276,7 @@ item(
 
 **Price** 5 gp
 -
-A final messenger is a tiny homunculus—a delicate winged creature designed to facilitate communication between warforged soldiers during the Last War. If you are a warforged, you can invest in the Final Messenger item to hold a final messenger and integrate it into your body. While it is part of your body, the messenger cannot be targeted by any attack. You can only have one messenger attached to your body at a time.
+A final messenger is a tiny homunculus-a delicate winged creature designed to facilitate communication between warforged soldiers during the Last War. If you are a warforged, you can invest in the Final Messenger item to hold a final messenger and integrate it into your body. While it is part of your body, the messenger cannot be targeted by any attack. You can only have one messenger attached to your body at a time.
 
 A final messenger holds four pieces of data, accessible only to the warforged it is attached to:
 - A destination for the messenger. This can be very specific (a particular apartment in Sharn) or more general (an open marketplace).
