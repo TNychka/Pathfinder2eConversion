@@ -1,11 +1,5 @@
-watermark (
-Version 0.19.0
-)
-title (
-Pathfinder's Guide to Eberron 
-)
 head(
-# Classes ((+Classes))
+# Classes ((Classes))
 Classes define how you play your character and how you might interact with the world of Eberron. Pathfinder 2e supports a wide variety of exciting classes to choose from, and this document will help you fit them into the world of Eberron.
 -
 )

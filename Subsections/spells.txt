@@ -1,0 +1,632 @@
+head(
+# Spells ((Spells))
+These new spells are a combination of regular spells and focus spells found throughout Eberron that allow you to interact with the world in new ways.
+-
+)
+# Spell Lists ((+Spell Lists))
+The following spells are provided by this supplement, and accessible to any caster of the respective school.
+
+## Common Cantrips
+These cantrips are employed in the day to day life of many NPCs in the world of Eberron.
+##### Table 7-1: Common Cantrips
+Level | Name | Effect
+--- | :--- | :---
+0 | Boldrei’s Broom | Clean a surface or object.
+0 | Culinary Transmutation | Reheat or cool food.
+0 | Grogan’s Grime | Soil a surface or object.
+0 | Halan’s Dramatic Entrance | Make a dramatic entrance.
+0 | Incendiary Purge | Extinguish a flame.
+0 | Kellan’s Kindling | Ignite a flame.
+0 | Savage Blossom | Create a flower.
+0 | Shol Flame | Modify the appearance of a flame.
+0 | Verran’s Textile Restoration | Clean a cloth or material object.
+0 | Zolan Zest | Give flavour to food.
+1 | Aundair's Silent Sanctum | Create a privacy barrier for conversation.
+1 | Magecraft | Improve your craft.
+
+## Dragonmark Focus
+Dragonmarked heirs channel the powers of these spells. Some marks create similar effects, despite being innately different. Individual houses may refer to their spell effects differently, but these spells are commonly referred to (and behave identically to) the following spells. 
+##### Table 7-2: New Dragonmark Focus Spells
+Level | Name | Effect
+--- | :--- | :---
+1 | Dragonmarked Guidance| Provide guidance to another creature with the speciality of your dragonmark.
+1 | Warded Resilience| You substitute your resilience for a creature.
+1 | Warded Reflex| You substitute your reflex for a creature.
+1 | Warded Willpower| You substitute your willpower for a creature.
+4 | Spell Guard| Counteract a spell effect.
+7 | Summon Living Dragonmark| Manifest a living form in the shape of your dragonmark. 
+|
+## Spells
+These spells are the result of arcane innovation in the world of Khorvaire.
+
+##### Table 7-3: Arcane Spell List
+Level | Name | Effect
+--- | :--- | :---
+Cantrip | Force Blast | Launch a bolt of energy at long range.
+1 | Flash Bang | Create a disorienting blast in an area.
+2 | Dancing Dragonmark | You cause all dragonmarks in an area to dance on the skin.
+3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
+5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
+5 | Fabricate | Convert raw materials.
+5 | Wall of Gears | Create a wall out of moving parts.
+
+##### Table 7-4: Divine Spell List
+Level | Name | Effect
+--- | :--- | :---
+1 | Flash Bang | Create a disorienting blast in an area.
+2 | Dancing Dragonmark | You cause all dragonmarks in an area to dance on the skin.
+3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
+4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
+5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
+
+##### Table 7-5: Occult Spell List
+Level | Name | Effect
+--- | :--- | :---
+1 | Flash Bang | Create a disorienting blast in an area.
+2 | Dancing Dragonmark | You cause all dragonmarks in an area to dance on the skin.
+2 | Jackrabbit Agility | You gain a burst of speed.
+3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
+4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
+5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
+=
+##### Table 7-6: Primal Spell List
+Level | Name | Effect
+--- | :--- | :---
+1 | Flash Bang | Create a disorienting blast in an area.
+2 | Dancing Dragonmark | You cause all dragonmarks in an area to dance on the skin.
+2 | Jackrabbit Agility | You gain a burst of speed.
+3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
+4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
+5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
+
+# Spell Descriptions ((+Spell Descriptions))
+When selecting spells for your caster, you can additionally select from among the following.
+item(
+# Aundair's Silent Sanctum
+## Cantrip 1
+-
+; Abjuration, Cantrip 
+**Traditions** Arcane, Occult
+
+**Cast** :aa: verbal, somatic
+
+**Area** 5-foot-radius emanation centred on you
+
+**Duration** sustained up to 1 minute
+-
+You create an invisible sphere of energy with a 5-foot emanation. Until the spell ends, it moves with you, centred on you. The sphere muffles sound in both directions. All creatures have a -2 circumstance penalty to hear any sounds originating from the other side of the sphere, in addition, creatures have a +2 circumstance bonus on saves against auditory effects originating from the other side of the sphere.
+-
+**Heightened (3rd)** you may choose the area to be up to a 10-foot-radius emanation centred on you.
+)
+item(
+# Banish Dragonmark
+## Spell 5
+-
+; Uncommon, Transmutation, Incapacitation
+**Traditions** arcane, divine, occult, primal
+
+**Cast** :aa: somatic, verbal
+
+**Range** 30 feet; **Targets** 1 creature with the Dragonmark trait
+
+**Saving Throw** Will; **Duration** 1 day
+-
+One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
+)
+|
+item(
+You utter a harsh incantation and point a finger at the target. Suddenly, your foe’s dragonmark begins to writhe and separate from its body. They must attempt a Will save.
+**Critical Success** the target is unaffected.
+**Success** the target is drained 1.
+**Failure** the target is drained 1, and the target may not use any feature, spell, or item with the dragonmark trait. They may attempt a Will save at the end of each of their turns to resume using their dragonmark.
+**Critical Failure** the target is drained 2, the target may not use any feature, spell, or item with the dragonmark trait until the duration expires.
+-
+**Heightened (+1)** The duration increases by 1 day.
+)
+item(
+# Boldrei’s Broom
+## Cantrip 0
+-
+; Common, Cantrip, Transmutation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You clean an object or surface made from wood, stone, or metal no larger than 1 bulk or 1 cubic foot.
+)
+item(
+# Curse Dragonmark
+## Spell 3
+-
+; Uncommon, Curse, Transmutation
+**Traditions** arcane, divine, occult, primal
+
+**Cast** :aa: somatic, verbal
+
+**Range** 30 feet; **Targets** 1 creature with the Dragonmark trait
+
+**Saving Throw** Will; **Duration** varies
+-
+One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
+You trace a pattern in the air with your hand as this spell is cast. In response, the target’s dragonmark seems to twist and curl in.
+Every time the target creature attempts to use a feature, spell, or item with the dragonmark trait, they must succeed on a DC 11 flat check or else fail to use it, losing any resources expended.
+**Critical Success** The target is unaffected.
+**Success** The spell lasts for 1 round.
+**Failure** The spell lasts for 1 minute.
+**Critical Failure** The spell has an unlimited duration.
+-
+**Heightened (+1)** the DC of the flat check increases by 1
+)
+=
+item(
+# Culinary Transmutation
+## Cantrip 0
+-
+; Common, Cantrip, Transmutation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You chill or warm up to 1 bulk or 1 cubic foot of nonliving material.
+)
+item(
+# Dancing Dragonmark
+## Spell 2
+-
+; Uncommon, Transmutation
+**Traditions** arcane, divine, occult, primal
+
+**Cast** :aa: somatic, verbal
+
+**Range** 30 feet; **Targets** 15-foot burst
+
+**Saving Throw** Will; **Duration** sustained 10 minutes
+-
+    One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
+    Dragonmarked creatures in the area become nauseated as their marks begin to writhe and dance on their skin. The creature must make a Will save. All creatures without the dragonmark trait automatically critically succeed.
+**Critical Success** The creature is unaffected.
+**Success** The creature is fascinated by its mark.
+**Failure** The creature is sickened 1 and fascinated by its mark.
+**Critical Failure** The creature is sickened 2 and fascinated by its mark.
+)
+item(
+# Dragonmarked Guidance
+## Focus 1
+-
+; Divination, Dragonmark, True Dragonmark
+**Cast** :aa: dragonmark, somatic
+
+**Duration** 1 minute
+
+**Range** touch; **Targets** one willing creature
+-
+You may substitute your speciality for the creature for the duration of the spell. When the target creature makes the check, the creature may choose to use your modifier rather than their own. This check depends on your mark.
+**Mark of Detection** perception
+**Mark of Finding** perception
+**Mark of Handling** nature
+**Mark of Healing** medicine
+**Mark of Hospitality** diplomacy
+)
+|
+item(
+<null> **Mark of Making** crafting
+**Mark of Passage** acrobatics
+**Mark of Scribing** lore
+**Mark of Sentinel** athletics
+**Mark of Shadow** stealth
+**Mark of Storm** acrobatics
+**Mark of Warding** thievery
+)
+item(
+# Fabricate
+## Spell 5
+-
+; Conjuration
+**Traditions** Arcane
+
+**Cast** :aa: material, dragonmark, somatic, verbal
+
+**Range** touch; **Target** up to 10 cubic feet of material
+
+**Duration** until your next daily preparations.
+-
+You can convert raw material of one type into a batch of products of the same material equal to the original value. Creatures or magic items cannot be created or transmuted by the fabricate spell. The items made by this spell cannot be greater than twice the level of the cast spell but can be intricate or detailed if you are familiar with the type of item you are constructing. If you work with any minerals, the target and heightened effects are reduced to 1 cubic foot instead of 10 cubic feet.
+Objects manufactured in this way are obviously temporarily conjured, and thus can't be sold or passed off as a genuine item. When the spell ends, the item returns to the original raw material.
+-
+**Heightened (+1)** The volume you can affect increases by 10 feet cubic feet, and similarly, minerals are increased by 1 cubic foot.
+)
+item(
+# Flash Bang
+## Spell 1
+-
+; Auditory, Evocation, Light, Sonic, Visual
+**Traditions** Arcane, Divine, Occult, Primal
+
+**Cast** :aa: somatic, verbal
+
+**Range** 60 feet; **Area** 15-foot burst
+
+**Saving Throw** Fortitude
+-
+A pulse of bright light and energy tears ripples through the air, disrupting creatures caught in the area.
+**Critical Success** The creature is unaffected.
+**Success** The creature is dazzled and deafened for 1 round.
+**Failure** The creature is dazzled and deafened for 1 minute. They may make a Fortitude at the end of each of their turns to end the effect.
+**Critical Failure** The creature is deafened and blinded for 1 minute and stunned 1.
+)
+=
+item(
+# Force Blast
+## Cantrip 1
+-
+; Attack, Cantrip, Evocation, Force
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 180 feet; **Targets** 1 creature or object
+-
+You unleash a bolt of physical power at a creature or object within range. Make a spell attack roll. The blast deals force damage equal to 1d6 + your spellcasting ability modifier.
+**Critical Success** You deal double damage.
+**Success** You deal full damage.
+-
+**Heightened (+1)** The damage increases by 1d6.
+)
+item(
+# Grogan’s Grime
+## Cantrip 0
+-
+; Common, Cantrip, Conjuration
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You soil an object or space no larger than 1 cubic foot.
+)
+item(
+# Halan’s Dramatic Entrance
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You instantaneously cause an unlocked door or window within 30 feet to fly open or slam shut.
+)
+item(
+# Incendiary Purge
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You extinguish a candle, a torch, or a small campfire.
+)
+item(
+# Kellan’s Kindling
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You light a candle, torch, or small campfire.
+)
+item(
+# Magecraft
+## Cantrip 1
+-
+; Cantrip, Conjuration
+**Traditions** Arcane
+
+**Cast** :aaa: somatic, verbal, material (a set of artisan's tools)
+
+**Duration** sustained up to 10 minute
+-
+)
+|
+item(
+You gain a +1 circumstance bonus to the next check you make with this set of tools. The spell then ends. If you integrate this spell into your downtime crafting activity, this bonus applies to the final crafting check.
+)
+item(
+# Jackrabbit Agility
+## Spell 2
+-
+; Transmutation
+**Traditions** Occult, Primal
+
+**Cast** :aa: somatic, verbal
+
+**Duration** up to 1 minute
+-
+You channel the agility of a jackrabbit to boost your speed. You become quickened 1, you may only use this extra action to Stride or Step.
+-
+**Heightened (6th)** You become quicked 2.
+)
+item(
+# Sai'la's Moonblade
+## Spell 4
+-
+; Evocation, Light
+**Traditions** Divine
+
+**Cast** :a: to :aaa:
+
+**Range** varies; **Targets** 1 creature
+
+**Saving Throw** Fortitude
+-
+Channelling your divine powers, you bring a blade of moonlight down onto a creature you can see. You deal 5d10 positive damage. The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters.
+
+:a: (somatic) The spell has a range of touch.
+:aa: (somatic, verbal) The spell has a range of 30 feet.
+:aaa: (material, somatic, verbal) The spell has a range of 60 feet and creates a 20-foot burst of blades of moonlight
+
+**Critical Success** The creature is unaffected.
+**Success** The creature takes half damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success worse. 
+**Failure** The creature takes full damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it.
+**Critical Failure** The creature takes double damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success better. 
+-
+**Heightened (+1)** the damage increases by 1d10.
+)
+=
+item(
+# Savage Blossom
+## Cantrip 0
+-
+; Conjuration
+**Traditions** Primal
+
+**Cast** :aa: somatic, verbal, material
+-
+You conjure a small flower from the ground within 10 feet of you. This flower collapses into pedals after 1 day has passed.
+)
+item(
+# Shol Flame
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet; **Duration** 1 minute
+-
+You cause flames to flicker, brighten, dim, or change colour for 1 minute.
+)
+item(
+# Spell Guard
+## Focus 4
+-
+; Uncommon, Abjuration, Dragonmark, Mark of Sentinel, Mark of Warding
+**Cast** :r: dragonmark, somatic, verbal
+
+**Trigger** A creature you can see casts a spell
+
+**Frequency** The strain of bending your dragonmark to counter a spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
+-
+You may immediately make a counteract check against the triggering spell.
+-
+**Heightened (8th)** When you successfully counteract a spell that affects targeted creatures or an area, you can turn that spell’s effect back on its caster. When reflected, the spell affects only the original caster, even if it’s an area spell or it would normally affect more than one creature. The original caster can attempt a save and use other defences against the reflected spell as normal. 
+)
+item(
+# Summon Living Dragonmark
+## Focus 7
+-
+; Conjuration, Dragonmark
+**Cast** :aaa: dragonmark, dragonmark, somatic, verbal
+
+**Range** 30 feet
+
+**Duration** sustained up to 1 minute
+-
+You summon a writhing mass of energy in a dragonlike form, a three-dimensional projection of your dragonmark. A living dragonmark appears where you designate within the spell’s range. Aberrant mark summons gains the Negative trait, while true mark summons gains the Positive trait.
+)
+|
+item(
+-
+**Heightened (+1)** the level of the Greater Living Dragonmark summoned increases by 2. Its AC, DCs, and Saves increase by the equivalent amount. 
+
+**Heightened (9th)** you summon a Siberys Living Dragonmark instead of a Greater Living Dragonmark
+)
+item(
+# Greater Living Dragonmark
+## Creature 9
+-
+; N, Medium, Incorporeal, Mindless, Minion, Summoned
+**Perception** +15; Darkvision
+
+**Languages** -
+
+**Str** +4, **Dex** +6, **Con** +5, **Int** -5, **Wis** +0, **Cha** -5
+
+**Summoner Bound** The Living Dragonmark is created of the essence of its dragonmarked summoner. It cannot move more than 40 feet from its summoner. If the Living Dragonmark and summoner become more than 40 feet apart, the Living Dragonmark must immediately use its Summoner Return reaction or else be destroyed.
+
+**Summoner Focus** The summoner of the Living Dragonmark may use the dragonmark as the point of origin for any dragonmark focus spell they cast. If the Living Dragonmark is destroyed, any ongoing magical effects originating from the mark end.
+-
+**AC** 27; **Fort** +19, **Ref** +20, **Will** +15; +1 status to all saves vs. magic
+
+**HP** 120; **Immunities** death effects, disease, doomed, mental, nonlethal attacks, paralyzed, poison, precision, unconscious; **Resistances** physical 10
+
+**Summoner Return** :r: (conjuration, teleportation); The Living Dragonmark teleports back to its summoner, arriving in an empty space of its choice adjacent to the summoner.
+-
+**Speed** fly 30 feet
+
+**Melee** :a: slam +21 (agile), **Damage** 2d10+13 force
+
+**Ranged** :a: force bolt +21, **Damage** 2d8+11 force
+
+**Dragonmark Discharge** :aa: (arcane, evocation, positive/negative) The dragonmark discharges its energy in a blast that deals 12d6 positive or negative depending on the source dragonmark damage in a 40-foot cone (Dragonmark DC of the summoner basic Reflex save). The Greater Living Dragonmark is then destroyed.
+)
+=
+item(
+# Siberys Living Dragonmark
+## Creature 13
+-
+; N, Large, Incorporeal, Mindless, Minion, Summoned
+**Perception** +22; Darkvision
+
+**Languages** -
+
+**Str** +5, **Dex** +8, **Con** +7, **Int** -5, **Wis** +2, **Cha** -5
+
+**Summoner Bound** The Living Dragonmark is created of the essence of its dragonmarked summoner. It cannot move more than 80 feet from its summoner. If the Living Dragonmark and summoner become more than 80 feet apart, the Living Dragonmark must immediately use its Summoner Return reaction or else be destroyed.
+
+**Summoner Focus** The summoner of the Living Dragonmark may use the dragonmark as the point of origin for any dragonmark focus spell they cast. If the Living Dragonmark is destroyed, any ongoing magical effects originating from the mark end.
+-
+**AC** 33; **Fort** +24, **Ref** +25, **Will** +20; +1 status to all saves vs. magic
+
+**HP** 190; **Immunities** death effects, disease, doomed, mental, nonlethal attacks, paralyzed, poison, precision, unconscious; **Resistances** physical 10
+
+**Summoner Return** :r: (conjuration, teleportation); The Living Dragonmark teleports back to its summoner, arriving in an empty space of its choice adjacent to the summoner.
+-
+**Speed** fly 40 feet
+
+**Melee** :a: slam +27 (agile), **Damage** 3d10+16 force
+
+**Ranged** :a: force bolt +27, **Damage** 3d8+14 force
+
+**Dragonmark Discharge** :aa: (arcane, evocation, positive/negative) The dragonmark discharges its energy in a blast that deals 15d6 positive or negative depending on the source dragonmark damage in a 40-foot cone (Dragonmark DC of the summoner basic Reflex save). The Siberys Living Dragonmark can't use Dragonmark Discharge again for 1d4 rounds.
+)
+item(
+# Wall of Gears
+## Spell 5
+-
+; Conjuration, Bludgeoning
+**Traditions** arcane
+
+**Cast** :aa: material, somatic, verbal
+
+**Range** 120 feet
+
+**Duration** 1 minute
+
+**Save** basic reflex
+-
+You raise a 6-inch-thick wall of moving iron cogs, wheels, gears, pistons, and assorted mechanical parts
+)
+|
+item(
+up to 60 feet long and 10 feet high. You can shape the wall's path, placing each 5 feet of the wall on the border between squares. The wall doesn't need to stand vertically. You must conjure the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. If you wish, the wall can be of a shorter length or height. Everything on each side of the wall is concealed from creatures on the opposite side.
+Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 10, and 40 Hit Points.
+Both sides of the wall have hundreds of moving parts that flail out, dealing 4d4 points of bludgeoning damage to all creatures that start their turn or move to within 5 feet of a section of the wall.
+-
+**Heightened (+1)** The bludgeoning damage increases by 1d4, the Hit Points of each section of the wall increase by 10.
+)
+item(
+# Warded Resilience
+## Focus 1
+-
+; Abjuration, Dragonmark, Mark of Warding, Mark of Sentinel 
+**Cast** :aa: dragonmark, somatic
+
+**Duration** 1 minute
+
+**Range** touch; **Targets** one willing creature
+-
+You substitute your resilience for the creature for the duration of the spell, when the creature makes a fortitude save, the creature may choose to use your fortitude save modifier rather than their own.
+)
+item(
+# Warded Reflex
+## Focus 1
+-
+; Abjuration, Dragonmark, Mark of Detection, Mark of Passage
+**Cast** :aa: dragonmark, somatic
+
+**Duration** 1 minute
+
+**Range** touch; **Targets** one willing creature
+-
+You substitute your reflex for the creature for the duration of the spell, when the creature makes a reflex save, the creature may choose to use your reflex save rather than their own.
+)
+item(
+# Warded Willpower
+## Focus 1
+-
+; Abjuration, Dragonmark, Mark of Healing, Mark of Hospitality 
+**Cast** :aa: dragonmark, somatic
+
+**Duration** 1 minute
+
+**Range** touch; **Targets** one willing creature
+-
+You substitute your willpower for the creature for the
+)
+=
+item(
+duration of the spell, when the creature makes a will save, the creature may choose to use your will save modifier rather than their own.
+)
+item(
+# Verran’s Textile Restoration
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You clean an object made of cloth or leather no larger than 1 bulk or 1 cubic foot.
+)
+item(
+# Zolan Zest
+## Cantrip 0
+-
+; Common, Cantrip, Evocation
+**Traditions** Arcane
+
+**Cast** :aa: somatic, verbal
+
+**Range** 5 feet
+-
+You flavour up to 1 bulk or 1 cubic foot of nonliving material; this lasts for one hour.
+)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+|

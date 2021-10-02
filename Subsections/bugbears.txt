@@ -1,9 +1,3 @@
-watermark (
-Version 0.19.0
-)
-title (
-Pathfinder's Guide to Eberron 
-)
 head(
 # Bugbears ((+Bugbears))
 Dhakaani bugbears are known as Guul’dar, “strong folk,” and are celebrated for their strength and courage. Though they appear slow, they are capable of great bursts of strength or speed when necessary. Many yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha. Others instead find themselves at peace in small isolated clans, moving in flow with the nature around them.
@@ -59,7 +53,7 @@ Humanoid
 You can see in darkness and dim light just as well as you can in bright light, though your vision in darkness is only black and white.
 )
 
-Dhakaani society is bound by the philosophy of mu'ut and atcha, both respectively meaning the duty to one's empire and personal honour[1]. The martial culture and rigid caste system of Dhakaan places bugbears in roles of aiding with demanding physical labour and being amongst the strongest warriors. 
+Dhakaani society is bound by the philosophy of mu'ut and atcha, both respectively meaning the duty to one's empire and personal honour[46]. The martial culture and rigid caste system of Dhakaan places bugbears in roles of aiding with demanding physical labour and being amongst the strongest warriors. 
 note(
 See Exploring Eberron (p. 96) for more information on Dhakaani Society.
 )
@@ -81,7 +75,7 @@ There is no unifying religion for the bugbears within Darguun, and the bugbears 
 All bugbears, especially for those of the Dhakaani Empire, lean towards lawful alignments. This can manifest in a tendency towards organization, whether this is found in centralized or decentralized communities. 
 
 ## Names...
-Goblinoid names often feature drawn-out vowel sounds (represented by doubled letters), as seen in the names of both their ancient empire (Dhakaan) and their newborn country (Darguun). Goblins, hobgoblins, and bugbears use the same names and naming conventions, despite their tribal differences.[4]
+Goblinoid names often feature drawn-out vowel sounds (represented by doubled letters), as seen in the names of both their ancient empire (Dhakaan) and their newborn country (Darguun). Goblins, hobgoblins, and bugbears use the same names and naming conventions, despite their tribal differences. [47]
 
 ### Sample Names
 **Male Names:** Aruget, Chetiin, Daavn, Dabrak, Dagii, Drevduul, Duulan, Fenic, Gudruun, Haluun, Haruuc, Jhazaal, Kallaad, Krakuul, Krootad, Mazaan, Munta, Nasaar, Rakari, Reksiit, Tariic, Taruuzh, Thuun, Vanii, Vanon, Wuudaraj
@@ -304,8 +298,3 @@ You refuse to fall no matter how many blows land. Bugbear Endurance gains the fo
 )
   
 |
-=
-[1] Exploring Eberron - Keith Baker pg 109
-[2] Exploring Eberron - Keith Baker pg 99
-[3] Exploring Eberron - Keith Baker pg 109
-[4] Eberron Rising from the Last War - Keith Baker pg 25
