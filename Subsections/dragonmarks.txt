@@ -498,7 +498,7 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
-    When you cast the Cantrip of Detection, you can choose Detect Magic or Read Aura. Cantrip of Detection gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+    When you cast the Cantrip of Detection you can choose Detect Magic or Read the Air. Cantrip of Detection gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of Detection doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
@@ -612,7 +612,7 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
-    When you cast the Cantrip of Finding, you can choose Detect Magic, or Know Direction. Cantrip of Finding gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+    When you cast the Cantrip of Finding you can choose Detect Magic or Know Direction. Cantrip of Finding gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of Finding doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
@@ -721,8 +721,8 @@ item(
 ; Cantrip, Dragonmark, Mark of Handling
 **Cast** see replicated spell; dragonmark, somatic
 -
-With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
-    When you cast the Cantrip of the Handler, you can choose Daze or Tanglefoot. Cantrip of the Handler gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
+    When you cast the Cantrip of the Handler you can choose Protect Companion or Tame. Cantrip of the Handler gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of the Handler doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
@@ -759,7 +759,8 @@ item (
 
 **Duration** sustained up to 1 minute
 -
-You call upon your dragonmark's power to calm animal emotions and aid your interactions with animals. When you Cast the Spell, unwilling targets must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.
+You call upon your dragonmark's power to calm animal emotions and aid your interactions with animals. 
+    When you Cast the Spell, unwilling targets must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.
     You can Dismiss the spell. If you use hostile actions against the target, the spell ends. If the spell ends before the full duration, the creature reverts to its original attitude. If the spell is sustained for the full duration, the effects remain and the spell ends.
 
 **Critical Success** The target's Attitude towards you decreases by one step. This does not revert if dismissed early.
@@ -790,9 +791,11 @@ item(
 
 **Range** 30 feet; **Targets** 1 willing creature
 
-**Duration** 1 minute
+**Duration** sustained 1 minute
 -
 Grant a willing creature a +1 status bonus to Dexterity-based checks and DCs, and Strength-based rolls and DCs. This includes AC, Reflex saves, ranged attack rolls, melee attack rolls, and skill checks using Acrobatics, Athletics, Stealth, and Thievery.
+-
+**Heightened (+3)** The status bonus increases by 1
 )
 =
 item(
@@ -1531,7 +1534,9 @@ item(
 
 **Duration** until the start of your next turn
 -
-With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Sentinel, you can choose one of the following spells to immediately take effect. Forbidding Ward, or Shield.
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
+    When you cast the Cantrip of the Sentinel you can choose Forbidding Ward or Shield. Cantrip of the Sentinel gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+    A spell cast by Cantrip of the Sentinel doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
 item(
@@ -1660,7 +1665,9 @@ item(
 ; Cantrip, Dragonmark, Mark of Shadow<null>
 **Cast** see replicated spell; dragonmark, somatic
 -
-With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Shadow, you can choose one of the following spells to immediately take effect. Dancing Lights, or Ghost Sound.
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
+    When you cast the Cantrip of the Shadow you can choose Dancing Lights or Ghost Sound. Cantrip of the Shadow gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+    A spell cast by Cantrip of the Shadow doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 =
 item(
@@ -1752,10 +1759,8 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
-
-When you cast the Cantrip of the Storm, you can choose Electric Arc or Know Direction. Cantrip of the Storm gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
-
-A spell cast by Cantrip of the Storm doesn’t require material or verbal components but always requires a dragonmark and somatic component.
+    When you cast the Cantrip of the Storm you can choose Electric Arc or Gale Blast. Cantrip of the Storm gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
+    A spell cast by Cantrip of the Storm doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
 item (
@@ -1879,7 +1884,9 @@ item(
 
 **Duration** until the start of your next turn
 -
-With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Guard, you can choose one of the following spells to immediately take effect. Forbidding Ward, or Sigil.
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
+    When you cast the Cantrip of the Guard you can choose Forbidding Ward or Sigil. Cantrip of the Guard gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
+    A spell cast by Cantrip of the Guard doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
 item (
@@ -1982,11 +1989,11 @@ If you manifest a mark, you will begin to gain access to the following aberrant 
 ### Aberrant Feedback ((++Aberrant Feedback))
 One of the reasons that aberrant marks are so feared, is their potential for causing unintentional harm resulting from their use. The Aberrant Feedback trait applies to most spells that an aberrant mark can cast. 
 
-After you cast a focus spell with the Aberrant Feedback trait, you must you must make a Fortitude save against your dragonmark DC. On a critical failure, you become drained 1. If the save is a natural 1, a random creature within 30 feet of the caster (potentially including the caster) takes 1d4 persistent [acid, cold, fire, bleeding, poision] damage of the GM's choice. This is in addition to increasing the caster's drained condition. The number of damage dice increases to two with a Lesser Mark, three with a Greater Mark, and four with a Siberys Mark.
+After you cast a focus spell with the Aberrant Feedback trait, you must you must make a Will save against your dragonmark DC. On a critical failure, you increase your drained condition by 1. If the save is a natural 1, a random creature within 30 feet of the caster (potentially including the caster) takes 1d4 persistent acid, cold, fire, bleeding, or poision damage of the GM's choice. This is in addition to increasing the caster's drained condition. The number of damage dice increases to two with a Lesser Mark, three with a Greater Mark, and four with a Siberys Mark.
 
 note(
 #### Consider the following
-If Aberrant Feedback is undesirable for your play style, consider awarding the Aberrant Control feat for free or with training from House Tarkanan or another Aberrant Marked creature. 
+If Aberrant Feedback is undesirable for your play style, consider awarding the Aberrant Control feat for free or with training from House Tarkanan or by learning from another Aberrant Marked NPC. 
 
 Alternatively, if you wish to keep Aberrant Feedback but simplify your combat loop, ignore the natural 1 clause of Aberrant Feedback.
 )
@@ -2060,10 +2067,8 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
-
-When you cast the Aberrant Cantrip, you can choose Chill Touch or Daze. Aberrant Cantrip gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
-
-A spell cast by Aberrant Cantrip doesn’t require material or verbal components but always requires a dragonmark and somatic component.
+    When you cast the Aberrant Cantrip, you can choose Chill Touch or Daze. Aberrant Cantrip gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
+    A spell cast by Aberrant Cantrip doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 =
 item(
@@ -2077,8 +2082,7 @@ item(
 
 **Duration** 10 minutes
 -
-You reshape the dragonmark to make it look like another true dragonmark or even mask its presence. This spell physically alters your dragonmark's appearance to either hide it on your skin or look like a different mark of equal or lesser power to a quick inspection. If you modify it to appear as another dragonmark, you do not gain any of the spell-like abilities of the other mark.
-
+You reshape the dragonmark to make it look like another true dragonmark or even mask its presence. This spell physically alters your dragonmark's appearance to either hide it on your skin or look like a different mark of equal or lesser power to a quick inspection. If you modify it to appear as another dragonmark, you do not gain any of the abilities of the other mark.
 If you use any dragonmark focus spell with the Aberrant Feedback trait, this spell ends.
 -
 **Heightened (+1)** the duration increases by 5 minutes
