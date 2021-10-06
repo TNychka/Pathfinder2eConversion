@@ -1,5 +1,5 @@
 head( 
-# Kalashtar ((+Kalashtar)) 
+# Kalashtar ((++Kalashtar)) 
 Kalashtar are born with a bond to an otherworldly being. They have memories of lives never lived, visions of combat with fiends that they never fought, and the sense of an endless struggle against darkness. For all the pain and suffering in the world, the Kalashtar know that there is a path to light.  Some faceless enemies would hunt all the Kalashtar down and would see their bloodlines eradicated. The Kalashtar's path to light is a dangerous one, as death awaits in the shadows. 
 -
 ) 

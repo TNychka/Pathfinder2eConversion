@@ -57,9 +57,10 @@ right(
 # Manifesting a Dragonmark
     Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. 
     Children are not born with their marks. Rather, a dragonmark most often appears in response to a stressful situation in which the powers of the mark could prove useful. A Deneith heir feels her dragonmark flare to life as her best friend would take a mortal wound. A Lyrandar scion instinctively dashes across the ropes of a storm-tossed ship, and in an instant of burning pain, their mark appears. However, this is not exclusively the case. Sometimes marks will appear later in life, or even never manifest.
-    If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities. Though most marks start as least marks, some will manifest a lesser mark or even greater mark without explanation. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If you do not meet the prerequisites or level of the dragonmarked feat, it gains the Rare trait.
+    If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities.
+# Bypassing Prerequisites
+    Though most marks start as least marks, some will manifest a lesser mark or even greater mark without explanation. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If you do not meet the prerequisites or level of the dragonmarked feat, it gains the Rare trait. Siberys marks in particular have been known to manifest on entirely unmarked individuals.
 )
-
 #### 1st Level
 item(
 # Least Mark ((++Least Mark))
@@ -108,9 +109,7 @@ item(
 -
 You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional dragonmark focus spell and an additional dragonmark focus point.
 )
-
 =
-
 ## Dragonmark general feats ((+Dragonmarked General Feats))
 The following feats are available to all ancestries unless otherwise denoted by a Dragonmark trait or a Mark trait. When you gain a general feat, you may additionally select from among one of the following feats as long as you meet the Trait requirements and prerequisites.
 #### 1st Level ((++1st Level))
