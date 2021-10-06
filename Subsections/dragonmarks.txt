@@ -47,8 +47,7 @@ With a flash from the Dragonmark of a Dennith heir, the swing of a blade is defl
 
 **Mark of Warding:** This mark heritage is unique to the Mark of Warding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Warding trait, in which case you ignore any other specific mark heritage traits.
 
-**True Dragonmark:** These marks always have the same shape, manifest a consistent set of powers across all marks of the same type, and are generally constructive in nature. Feats with the True Dragonmark trait are only manifested by the Mark of Finding, Mark of Handling, Mark of Healing, Mark of Hospitality, Mark of Making, Mark of Passage, Mark of Scribing, Mark of Sentinel, Mark of Shadow, Mark of Storm, or Mark of Warding traits. If you have any of these traits, you may select feats with the True Dragonmark trait.
-
+**True Dragonmark:** These marks always have the same shape, manifest a consistent set of powers across all marks of the same type, and are generally constructive in nature. All dragonmarks except the Aberrant marked have this trait. If you possess the True Dragonmark trait, you may select feats and use items with the True Dragonmark trait.
 =
 ## Dragonmarked Heritage Feats ((+Dragonmarked Heritage Feats))
 If you have the dragonmarked heritage trait, you may pick from any of the following feats as Ancestry feats.
@@ -124,7 +123,7 @@ item(
 
 **Trigger** you fail a craft check.
 -
-The stubborn persistence you developed with Cannith training can sometimes salvage a failed construction. If you roll a failure on a craft check, you can reroll the check. You may select the better of the two rolls.
+The stubborn persistence you developed with Cannith training can sometimes salvage a failed construction. If you fail a craft check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Deneith Battle Fortitude :f:
@@ -137,7 +136,7 @@ item(
 
 **Trigger** you fail an athletics check.
 -
-Your rigorous training of battlefield manoeuvres lets you push through failures. If you roll a failure on an athletics check, you can reroll the check. You may select the better of the two rolls.
+Your rigorous training of battlefield manoeuvres lets you push through failures. If you fail an athletics check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Deneith Battle Stance
@@ -155,7 +154,7 @@ item(
 
 **Trigger** you fail a perception check.
 -
-Your eye for detail is enhanced by your training with house Medani. If you roll a failure on a perception check, you can reroll the check. You may select the better of the two rolls.
+Your eye for detail is enhanced by your training with house Medani. If you fail a perception check, you can reroll the check. You may select the better of the two rolls.
 )
 |
 item(
@@ -169,7 +168,7 @@ item(
 
 **Trigger** you fail a diplomacy check.
 -
-Formal training with house Ghallanda allows you to upkeep your social grace. If you roll a failure on a Diplomacy check, you can reroll the check. You may select the better of the two rolls.
+Formal training with house Ghallanda allows you to upkeep your social grace. If you fail a Diplomacy check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Jorasco Treatment :f:
@@ -182,14 +181,14 @@ item(
 
 **Trigger** you fail a medicine check.
 -
-Your training in the infirmaries of Jorasco improves your skill with medicine. If you roll a failure on a Medicine check, you can reroll the check. You may select the better of the two rolls.
+Your training in the infirmaries of Jorasco improves your skill with medicine. If you fail a Medicine check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Kundarak Insight
 ## Feat 1
 -
 ; General, Mark of Warding, Skill
-The development of Kundarak interests has granted you insight into the placement of structure wards and defences. You also become trained in Security lore. At 3rd, 7th, and 15th levels, you gain an additional skill increase to Security lore.
+The development of Kundarak interests has granted you insight into the placement of structure wards and defences. You also become trained in Security lore. At 3rd, 6th, and 13th levels, you gain an additional skill increase to Security lore.
 )
 note(
 # Security lore 
@@ -214,7 +213,7 @@ item(
 
 **Trigger** you fail an acrobatics check.
 -
-Hard training on ships in all conditions improves your balance. If you roll a failure on an acrobatics check, you can reroll the check. You may select the better of the two rolls.
+Hard training on ships in all conditions improves your balance. If you fail an acrobatics check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Mark of Vengeance
@@ -248,7 +247,7 @@ item(
 
 **Trigger** you fail a performance check.
 -
-Your training with house Phiarlan grants you a stage presence that masks your mistakes. If you roll a failure on a performance check, you can reroll the check. You may select the better of the two rolls.
+Your training with house Phiarlan grants you a stage presence that masks your mistakes. If you fail a performance check, you can reroll the check. You may select the better of the two rolls.
 )
 |
 item(
@@ -262,7 +261,7 @@ item(
 
 **Trigger** you fail a Decipher Writing, Learn a Spell, Craft a Scroll, or Create Forgery check.
 -
-Your training grants an eye and hand for scribing words, magical and mundane. If you roll a failure on a Decipher Writing, Learn a Spell, Create Forgery check, or Craft check to produce a Scroll, you can reroll the check. You may select the better of the two rolls. 
+Your training grants an eye and hand for scribing words, magical and mundane. If you fail a Decipher Writing, Learn a Spell, Create Forgery check, or Craft check to produce a Scroll, you can reroll the check. You may select the better of the two rolls. 
 )
 item(
 # Shield of Siberys
@@ -282,7 +281,7 @@ item(
 
 **Trigger** you fail a survival check.
 -
-Your training with Tharashk provided you with the training to make the best of a bad survival situation. If you roll a failure on a Survival check, you can reroll the check. You may select the better of the two rolls.
+Your training with Tharashk provided you with the training to make the best of a bad survival situation. If you fail a Survival check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Thuranni Spectre :f:
@@ -295,7 +294,7 @@ item(
 
 **Trigger** you fail a stealth check.
 -
-Your training with house Thuranni grants you an understanding of using the light and shadow around you to your advantage. If you roll a failure on a stealth check, you can reroll the check. You may select the better of the two rolls.
+Your training with house Thuranni grants you an understanding of using the light and shadow around you to your advantage. If you fail a stealth check, you can reroll the check. You may select the better of the two rolls.
 )
 =
 item(
@@ -309,7 +308,7 @@ item(
 
 **Trigger** you fail a nature check.
 -
-Your training with animals and nature improves your ties to the primal world. If you roll a failure on a Nature check, you can reroll the check. You may select the better of the two rolls.
+Your training with animals and nature improves your ties to the primal world. If you fail a Nature check, you can reroll the check. You may select the better of the two rolls.
 )
 #### 3rd Level  ((++3rd Level))
 item(
