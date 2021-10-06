@@ -103,7 +103,7 @@ You're experienced with the deceptions of shapeshifters, given that you speciali
 At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Changeling, you select from among the following ancestry feats.
 #### 1st level
 item(
-# Camoflauge
+# Camouflage
 ## Feat 1
 -
 ; Eberron Changeling
@@ -274,7 +274,7 @@ item(
 # Marvelous Mimic
 ## Feat 13
 -
-; Eberron Changeling
+; Uncommon, Eberron Changeling
 **Prerequisite** Deep Shift
 -
 Your ability to change is at a level only seen in true mimics. When you shift shape, you can take on the appearance of any Medium creature or object - within practical limits. This transformation doesn't change your statistics in any way, and you don't gain any special abilities of the form you assume (including potential functional features of an object - such as a key, ladder, rope, or crowbar).
