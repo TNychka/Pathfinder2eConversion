@@ -68,7 +68,7 @@ A kalashtar name adds a personal prefix to the name of the quori spirit within t
 **Kalashtar Names:** Coratash, Dalavash, Dolishara, Halakosh, Khoratari, Koratana, Lanhareth, Molavakri, Nevitash, Sorashana, Torashtai, Valakhad, Vishara 
 
 item(
-# Link minds 
+# Link mind 
 ## Cantrip 1 
 -
 ; Uncommon, Cantrip, Concentrate, Illusion, Kalashtar, Mental 
@@ -76,12 +76,12 @@ item(
 
 **Range** 30 feet; **Targets** 1 creature 
 
-**Duration** sustained 1 hour 
+**Duration** 10 minutes 
 -
 You link your mind with a creature you can see, allowing two-way communication with a creature while they are in range. This link lasts for up to 1 hour if you choose to sustain the effect, or until the target is outside the range. You can communicate basic ideas telepathically with creatures using shared mental imagery even if you don't share a language.
 You may only have one active Link Mind in this way at a time. 
 -
-**Heightened (+1)** The range increases by 15ft. 
+**Heightened (+1)** The range increases by 15ft, and the duration increases by 10 minutes. 
 )
 /
 
@@ -164,14 +164,14 @@ item(
 ## Feat 1 
 -
 ; Kalashtar 
-You can communicate your directed messages with greater power. The range of Link Mind is doubled, and you no longer need to see the creature to target them with link mind. Though you do not need to see them, they cannot be Unnoticed or Undetected to you when you initiate your link mind. 
+You can communicate your directed messages with greater power. The range of Link Mind is doubled, and you no longer need to see the creature to target them with link mind. Though you do not need to see them, they cannot be Unnoticed or Undetected to you when you initiate your Link Mind. 
 )
 item(
 # Deep Sleep 
 ## Feat 1 
 -
 ; Kalashtar 
-As a Kalashtar, your trance allows you a more robust recovery and resistance to forced sleep. You gain a +2 circumstance bonus to all saving throws against sleep effects and effects that cause or alter dreams. 
+As a Kalashtar, your trance allows you a more robust recovery and greater resistance to forced sleep. You gain a +2 circumstance bonus to all saving throws against sleep effects and effects that cause or alter dreams. 
 In addition, sleep is more restorative for you. You regain HP equal to your Constitution modifier times double your level instead of just times your level, and you reduce any drained and doomed conditions you have by 2 instead of by 1. 
 )
 item( 
@@ -179,7 +179,7 @@ item(
 ## Feat 1 
 -
 ; Kalashtar 
-You can link your mind to others with ease. Mind link loses the concentrate trait, and no longer needs to be sustained. 
+You can link your mind to others with ease. Mind link loses the concentrate trait, and has a casting time of :a:, and loses the somatic component.
 )
 |
 item(
@@ -194,7 +194,7 @@ item(
 ## Feat 1 
 -
 ; Kalashtar 
-One of the basic exercises of the Kalashtar is to practice seeing the world in front of you, for what it truly is. You can see through manipulations of reality with greater ease than most. You gain a +2 circumstance bonus to disbelieve illusions. 
+One of the basic exercises of the Kalashtar is to practice seeing the world in front of you for what it truly is. You can see through manipulations of reality with greater ease than most. You gain a +2 circumstance bonus to disbelieve illusions. 
 )
 item( 
 # Psi-Blades :a: 
@@ -222,15 +222,15 @@ You have practised the art of nimbly dancing through the shadows to remain unnot
 )
 =
 item( 
-# Quori Hunter 
+# Edgewalker
 ## Feat 1 
 -
 ; Kalashtar 
-You have dedicated yourself to a more direct form of problem resolution against the foes of the path of light. You gain a +1 circumstance bonus to saving throws against quori and the inspired, and you gain a +1 circumstance bonus to damage with weapons and unarmed attacks. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. 
+You have trained to fight extraplanar threats to Eberron. You gain a +1 circumstance bonus to saving throws against extraplanar creatures, and you gain a +1 circumstance bonus to damage with weapons and unarmed attacks against them. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. 
 )
 #### 5th Level 
 item( 
-# Broad communications 
+# Broad Link 
 ## Feat 5 
 -
 ; Kalashtar 
@@ -252,27 +252,6 @@ item(
 ; Kalashtar 
 You are in tune with your mind, and the spirit within. Others who would seek to control you seem to need to struggle against an otherworldly force. You gain a +1 circumstance bonus to Will saving throws against mental effects. If you roll a success on your saving throw against a mental effect that would make you controlled, you get a critical success instead. 
 )
-item( 
-# Enrage :a: 
-## Feat 5 
--
-; Kalashtar, Emotion, Mental 
-**Prerequisites** Du'ulora Kalashtar heritage 
-
-**Frequency** once per hour 
--
-As a creature succumbs to its feelings of anger and hate, your control over them grows. Choose a hostile foe within 30 feet, that creature must make a Will save against your innate occult DC. 
-)
-|
-item(
-**Critical Success** The creature resists your taunt.
-
-**Success**  For its next turn the creature will prefer to target you if it is a reasonable course of action.
-
-**Failure** For its next turn if the creature can target you but chooses to target something else, it becomes stupefied 1 until the start of its next turn. 
-
-**Critical Failure** For its next turn if the creature can target you, it cannot willingly target other creatures. If it cannot target you, it becomes stupefied 2 until the start of its next turn. 
-)
 item(
 # Manipulate Desires 
 ## Feat 5
@@ -282,14 +261,18 @@ item(
 -
 Like the quori that guides you, you have learned how to manipulate other creatures based on their desires. You can cast charm once per day as a 1st-level occult innate spell. 
 ) 
-item( 
-# Kalaraq Leader 
-## Feat 5 
+item(
+# Kalaraq Guardian :r:
+## Feat 5
 -
-; Kalashtar 
-**Prerequisites** Kalaraq Kalashtar heritage 
+; Kalashtar
+**Prerequisites** Kalaraq Kalashtar heritage
+) 
+|
+item(
+**Trigger** An ally under the effects of your Link Minds is hit by an attack or must make a saving throw, and the +1 circumstance bonus will change the level of success.
 -
-The Kalaraq are the natural leaders of the Quori and can guide their followers to stand resolute. When you link your mind to at least one ally, you can choose one of them to gain a +1 circumstance bonus to AC and saving throws. 
+The Kalaraq are the natural leaders of the Quori and can guide their followers to stand resolute. While an ally is under the effects of your Link Minds, you can choose to grant them a +1 circumstance bonus to their AC or saving throw.
 )
 item(
 # Sense Alignment 
@@ -300,14 +283,36 @@ You can pick up on the auras of other creatures, letting you foresee potential t
 )
 #### 9th Level 
 item( 
+# Enrage :a: 
+## Feat 5 
+-
+; Kalashtar, Emotion, Mental 
+**Prerequisites** Du'ulora Kalashtar heritage 
+
+**Frequency** once per hour 
+-
+As a creature succumbs to its feelings of anger and hate, your control over them grows. Choose a hostile foe within 30 feet, that creature must make a Will save against your innate occult DC. 
+
+**Critical Success** The creature resists your taunt.
+
+**Success**  On the creature's turn, it must spend 1 of its actions to attack you if it can, or in the pursuit of being able to attack you.
+
+**Failure** The creature becomes Stupefied 1. On the creature's turn, it must spend 2 of its actions to attack you if it can, or in the pursuit of being able to attack you.
+
+**Critical Failure** The creature becomes Stupefied 1. On the creature's turn, it must spend all of its actions to attack you if it can, or in the pursuit of being able to attack you.
+)
+item( 
 # Feedback 
 ## Feat 9 
 -
 ; Kalashtar 
-You are a master of your mind and have used that mastery to turn it into a minefield for everyone else. You can cast Animus Mine as an innate 2nd level spell once per day. At 13th level, this spell is heightened to 3rd level, and at 17th level, this spell is heightened to 4th level. 
-Whenever you place any Animus Mine on yourself, you can suppress the effects of the mine for 1 round as a free action to allow someone to safely use a mental effect on you. 
+You are a master of your mind and have used that mastery to ward it against invaders. You can cast Animus Mine as an innate 2nd level spell once per day. At 13th level, this spell is heightened to 3rd level, and
 )
 =
+item(
+at 17th level, this spell is heightened to 4th level.
+    Whenever you place any Animus Mine on yourself, you can suppress the effects of the mine for 1 round as a free action to allow someone to safely use a mental effect on you. 
+)
 item( 
 # Mental Fortress 
 ## Feat 9 
@@ -344,15 +349,18 @@ Your quori spirit sustains the powers that you project into the world. You immed
 )
 #### 13th Level 
 item(
-# Distributed communications 
+# Distributed Spirit 
 ## Feat 13 
 -
 ; Kalashtar 
-**Prerequisite** Broad communications 
+**Prerequisite** Broad Link
 -
-You have perfected your telepathic communication abilities and can maintain conversations with ease. Your link mind can target up to 6 creatures at once. While creatures are linked and in range, these creatures can converse not only with you but with each other target of the mind link. If the targets of mind link are directly communicating with each other they must share a language.  
+You have perfected your telepathic communication abilities and can maintain conversations with ease. Your Link Mind can target up to 6 creatures at once. While creatures are linked and in range, these
 )
 |
+item(
+creatures can converse not only with you but with each other target of the Link Mind. If the targets of Link Mind are directly communicating with each other they must share a language.  
+)
 item( 
 # Aura Sense
 ## Feat 13
@@ -373,5 +381,5 @@ item(
 ## Feat 17 
 -
 ; Kalashtar 
-Your understanding of the path of light and the realm of Dal Quor has become such that you can use them to your advantage - even without exposing yourself to the dark. You can cast Dream Council or Possession once per day as occult innate spells. 
+The control you have over your dreams lets you extend them to others, intercepting their travels to Dal Quor. You can cast Dream Council or Possession once per day as occult innate spells. 
 )
