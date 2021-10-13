@@ -1,0 +1,111 @@
+head(
+# Warforged ((++Warforged))
+Trained from the instant they were constructed, until the moment they were deployed, warforged were invented and born for war. As the war came to an end, warforged were recognized and granted their rights as humanoids by the Treaty of Thronehold. Now, they are soldiers who's only purpose has come to and end, and must find meaning in a world that has no further need for them.
+-
+)
+right(
+## Hit Points
+8
+
+## Size
+Medium
+
+## Speed
+25 feet
+
+## Ability Boosts
+Determined by Heritage
+Free
+Free
+
+## Ability Flaw
+Charisma
+
+## Languages
+Common
+Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from Dwarvish, Elvish, Gnomish, Goblin, Halfling, and any other languages to which you have access (such as the languages prevalent in your region).
+
+## Traits
+Warforged
+Humanoid
+
+## Living Construct
+
+)
+Built as mindless machines to fight in the Last War, the warforged developed sentience as a side effect of the arcane experiments that sought to make them the ultimate weapons of destruction. With each successive model that emerged from the creation forges of House Cannith, the warforged evolved until they became a new kind of creature—living constructs.Warforged are renowned for their combat prowess, their size, and their single-minded focus. They make steadfast allies and fearsome enemies. Earlier warforged models are true constructs; some of these remnants of the Last War appear in monstrous varieties, such as the warforged titan.
+## You might...
+The warforged were made to fight in the Last War, and they continue to fulfill their purpose with distinction. They fi ght fi ercely and usually without remorse, displaying adaptability impossible for mindless constructs. Now that the war has ended, the warforged seek to adapt to life in this era of relative peace. Some have settled easily into new roles as artisans or laborers, while others wander as adventurers or even continue fighting the Last War despite the return of peace.
+## Others Probably...
+
+## Physical Description...
+Warforged appear as massive humanoids molded from a composite of materials—obsidian, iron, stone, darkwood, silver, and organic material—though they move with a surprising grace and flexibility. Flexible plates connected by fibrous bundles make up the body of a warforged, topped by a mostly featureless head. 
+Warforged have no physical distinction of gender; all of them have a basically muscular, sexless body shape. In personality, some warforged seem more masculine or feminine, but different people might judge the same warforged in different ways. The warforged themselves seem unconcerned with matters of gender. They do not age naturally, though their bodies do decay slowly even as their minds improve through learning and experience.
+Unique among constructs, warforged have learned to modify their bodies through magic and training. Many warforged are adorned with heavier metal plates than those their creator originally endowed them with. This customized armor, built-in weaponry, and other enhancements to their physical form help to differentiate one warforged from another.
+
+## Society...
+
+=
+## Alignment and Religion...
+Warforged are generally neutral. They were built to fight, not to wonder whether fighting is right. Though they are perfectly capable of independent thought and moral speculation, most choose not to wrestle with ethical ideals.
+
+Just as most warforged are not inclined to align themselves with any particular moral or ethical philosophy, few show much interest in religion. Some warforged have found a kind of answer to the questions of their existence by taking up the cause of one religion or another, but these remain a small (if rather vocal) minority among their kind. A larger number gravitate to a messianic fi gure called the Lord of Blades. This powerful leader gathers a cultlike following of disaffected warforged by preaching a return to the Mournland and rebellion against the “weak-fleshed” races
+
+## Names...
+Warforged do not name themselves and only recently have begun to understand the need of other races to have names for everything. Many accept whatever names others see fit to give them, and warforged traveling with humans often are referred to by nicknames. Some warforged, however, have come to see having a name as a defining moment of their new existence, and thus search long and hard for the perfect name to attach to themselves.
+
+### Sample warforged names
+
+=
+# Warforged Heritages
+class | name
+--- | :---
+Alchemist | Chemist
+Barbarian | Juggernaut
+Bard | Enchanter
+Champion | Valkyrie
+Cleric | Divine
+Druid | Evolution
+Fighter | Infantry
+Gunslinger | Artillerist
+Inventor | Engineer
+Investigator | Agent
+Magus | Marauder
+Monk | Martial
+Oracle | Seer
+Ranger | Pathfinder
+Rogue | Shinobi
+Sorcerer | Living Wand
+Summoner | Conjurer
+Swashbuckler | Dauntless
+Witch | Spirit
+Wizard | Arcane
+|
+Type | Prototype Purpose
+--- | :---
+Evolution | Prototype Scout
+Seer | Prototype Espionage
+Conjurer | Prototype Melee Wand
+Dauntless | Prototype Skirmisher
+Spirit | Prototype Ranged Wand
+
+
+Type | Soldier Purpose
+--- | ---
+Chemist | Quartermaster
+Juggernaut | Heavy
+Enchanter | Morale
+Valkyrie | Heavy
+Divine | Support
+Infantry | Light
+Artillerist | Ranged
+Engineer | Field Defenses
+Agent | Martial Law, Counter-espionage
+Marauder | Melee Wand
+Pathfinder | Scout
+Shinobi | Scout
+Living Wand | Ranged Wand
+Arcane | Ranged Wand
+
+
+=
+# Warforged Feats

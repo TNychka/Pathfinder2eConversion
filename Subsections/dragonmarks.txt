@@ -47,8 +47,7 @@ With a flash from the Dragonmark of a Dennith heir, the swing of a blade is defl
 
 **Mark of Warding:** This mark heritage is unique to the Mark of Warding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Warding trait, in which case you ignore any other specific mark heritage traits.
 
-**True Dragonmark:** These marks always have the same shape, manifest a consistent set of powers across all marks of the same type, and are generally constructive in nature. Feats with the True Dragonmark trait are only manifested by the Mark of Finding, Mark of Handling, Mark of Healing, Mark of Hospitality, Mark of Making, Mark of Passage, Mark of Scribing, Mark of Sentinel, Mark of Shadow, Mark of Storm, or Mark of Warding traits. If you have any of these traits, you may select feats with the True Dragonmark trait.
-
+**True Dragonmark:** These marks always have the same shape, manifest a consistent set of powers across all marks of the same type, and are generally constructive in nature. All dragonmarks except the Aberrant marked have this trait. If you possess the True Dragonmark trait, you may select feats and use items with the True Dragonmark trait.
 =
 ## Dragonmarked Heritage Feats ((+Dragonmarked Heritage Feats))
 If you have the dragonmarked heritage trait, you may pick from any of the following feats as Ancestry feats.
@@ -57,9 +56,10 @@ right(
 # Manifesting a Dragonmark
     Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. 
     Children are not born with their marks. Rather, a dragonmark most often appears in response to a stressful situation in which the powers of the mark could prove useful. A Deneith heir feels her dragonmark flare to life as her best friend would take a mortal wound. A Lyrandar scion instinctively dashes across the ropes of a storm-tossed ship, and in an instant of burning pain, their mark appears. However, this is not exclusively the case. Sometimes marks will appear later in life, or even never manifest.
-    If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities. Though most marks start as least marks, some will manifest a lesser mark or even greater mark without explanation. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If you do not meet the prerequisites or level of the dragonmarked feat, it gains the Rare trait.
+    If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities.
+# Bypassing Prerequisites
+    Though most marks start as least marks, some will manifest a lesser mark or even greater mark without explanation. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If you do not meet the prerequisites or level of the dragonmarked feat, it gains the Rare trait. Siberys marks in particular have been known to manifest on entirely unmarked individuals.
 )
-
 #### 1st Level
 item(
 # Least Mark ((++Least Mark))
@@ -108,9 +108,7 @@ item(
 -
 You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional dragonmark focus spell and an additional dragonmark focus point.
 )
-
 =
-
 ## Dragonmark general feats ((+Dragonmarked General Feats))
 The following feats are available to all ancestries unless otherwise denoted by a Dragonmark trait or a Mark trait. When you gain a general feat, you may additionally select from among one of the following feats as long as you meet the Trait requirements and prerequisites.
 #### 1st Level ((++1st Level))
@@ -125,7 +123,7 @@ item(
 
 **Trigger** you fail a craft check.
 -
-The stubborn persistence you developed with Cannith training can sometimes salvage a failed construction. If you roll a failure on a craft check, you can reroll the check. You may select the better of the two rolls.
+The stubborn persistence you developed with Cannith training can sometimes salvage a failed construction. If you fail a craft check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Deneith Battle Fortitude :f:
@@ -138,7 +136,7 @@ item(
 
 **Trigger** you fail an athletics check.
 -
-Your rigorous training of battlefield manoeuvres lets you push through failures. If you roll a failure on an athletics check, you can reroll the check. You may select the better of the two rolls.
+Your rigorous training of battlefield manoeuvres lets you push through failures. If you fail an Athletics check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Deneith Battle Stance
@@ -156,7 +154,7 @@ item(
 
 **Trigger** you fail a perception check.
 -
-Your eye for detail is enhanced by your training with house Medani. If you roll a failure on a perception check, you can reroll the check. You may select the better of the two rolls.
+Your eye for detail is enhanced by your training with house Medani. If you fail a perception check, you can reroll the check. You may select the better of the two rolls.
 )
 |
 item(
@@ -170,7 +168,7 @@ item(
 
 **Trigger** you fail a diplomacy check.
 -
-Formal training with house Ghallanda allows you to upkeep your social grace. If you roll a failure on a Diplomacy check, you can reroll the check. You may select the better of the two rolls.
+Formal training with house Ghallanda allows you to upkeep your social grace. If you fail a Diplomacy check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Jorasco Treatment :f:
@@ -183,14 +181,14 @@ item(
 
 **Trigger** you fail a medicine check.
 -
-Your training in the infirmaries of Jorasco improves your skill with medicine. If you roll a failure on a Medicine check, you can reroll the check. You may select the better of the two rolls.
+Your training in the infirmaries of Jorasco improves your skill with medicine. If you fail a Medicine check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Kundarak Insight
 ## Feat 1
 -
 ; General, Mark of Warding, Skill
-The development of Kundarak interests has granted you insight into the placement of structure wards and defences. You also become trained in Security lore. At 3rd, 7th, and 15th levels, you gain an additional skill increase to Security lore.
+The development of Kundarak interests has granted you insight into the placement of structure wards and defences. You also become trained in Security lore. At 3rd, 6th, and 13th levels, you gain an additional skill increase to Security lore.
 )
 note(
 # Security lore 
@@ -215,7 +213,7 @@ item(
 
 **Trigger** you fail an acrobatics check.
 -
-Hard training on ships in all conditions improves your balance. If you roll a failure on an acrobatics check, you can reroll the check. You may select the better of the two rolls.
+Hard training on ships in all conditions improves your balance. If you fail an Acrobatics check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Mark of Vengeance
@@ -249,7 +247,7 @@ item(
 
 **Trigger** you fail a performance check.
 -
-Your training with house Phiarlan grants you a stage presence that masks your mistakes. If you roll a failure on a performance check, you can reroll the check. You may select the better of the two rolls.
+Your training with house Phiarlan grants you a stage presence that masks your mistakes. If you fail a performance check, you can reroll the check. You may select the better of the two rolls.
 )
 |
 item(
@@ -263,7 +261,7 @@ item(
 
 **Trigger** you fail a Decipher Writing, Learn a Spell, Craft a Scroll, or Create Forgery check.
 -
-Your training grants an eye and hand for scribing words, magical and mundane. If you roll a failure on a Decipher Writing, Learn a Spell, Create Forgery check, or Craft check to produce a Scroll, you can reroll the check. You may select the better of the two rolls. 
+Your training grants an eye and hand for scribing words, magical and mundane. If you fail a Decipher Writing, Learn a Spell, Create Forgery check, or Craft check to produce a Scroll, you can reroll the check. You may select the better of the two rolls. 
 )
 item(
 # Shield of Siberys
@@ -283,7 +281,7 @@ item(
 
 **Trigger** you fail a survival check.
 -
-Your training with Tharashk provided you with the training to make the best of a bad survival situation. If you roll a failure on a Survival check, you can reroll the check. You may select the better of the two rolls.
+Your training with Tharashk provided you with the training to make the best of a bad survival situation. If you fail a Survival check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Thuranni Spectre :f:
@@ -296,7 +294,7 @@ item(
 
 **Trigger** you fail a stealth check.
 -
-Your training with house Thuranni grants you an understanding of using the light and shadow around you to your advantage. If you roll a failure on a stealth check, you can reroll the check. You may select the better of the two rolls.
+Your training with house Thuranni grants you an understanding of using the light and shadow around you to your advantage. If you fail a stealth check, you can reroll the check. You may select the better of the two rolls.
 )
 =
 item(
@@ -310,7 +308,7 @@ item(
 
 **Trigger** you fail a nature check.
 -
-Your training with animals and nature improves your ties to the primal world. If you roll a failure on a Nature check, you can reroll the check. You may select the better of the two rolls.
+Your training with animals and nature improves your ties to the primal world. If you fail a Nature check, you can reroll the check. You may select the better of the two rolls.
 )
 #### 3rd Level  ((++3rd Level))
 item(
@@ -332,7 +330,7 @@ item(
 ## Feat 3
 -
 ; Aberrant Mark, General, Dragonmark
-Your aberrant dragonmark gives you a natural affinity for vermin. When you use a spell that can target individual animals such as possession or summon animal, you may ignore the swarm mind immunity of swarms, and target swarms as an individual creature.
+Your aberrant dragonmark gives you a natural affinity for vermin. When you use a spell that can target individual animals such as Possession or Summon Animal, you may ignore the swarm mind immunity of swarms, and target swarms as an individual creature.
 )
 item(
 # Scribe's Eye
@@ -475,13 +473,13 @@ head(
 The Mark of Detection is an inquisitive's dream. It sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues others might miss. By actively drawing on its powers, the bearer can detect poisons and study the energies of magic.
 -
 )
-The Mark of Detection manifests on the Khoravar of Eberron. Khoravar are half-elves by lineage, but use the pathfinder rules of half-elves as a heritage of the human ancestry. When you pick the human ancestry, you may pick this heritage. By picking this heritage at first level, you gain access to all of the mark of detection ancestry feats and the potential of manifesting a dragonmark.
+The Mark of Detection manifests on the Khoravar of Eberron. Khoravar are half-elves by lineage, but use the pathfinder rules of half-elves as a heritage of the human ancestry. When you pick the human ancestry, you may pick this heritage. By picking this heritage at first level, you gain access to all of the Mark of Detection ancestry feats and the potential of manifesting a dragonmark.
 ## Mark of Detection [Half-Elf Heritage] ((+Mark of Detection))
 At least one of your parents is a half-elf descendant of a mark of detection bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the dragonmarked heritage trait, mark of detection trait, and low-light vision. In addition, you can pick elf, half-elf, human, dragonmarked heritage, and mark of detection feats whenever you gain an ancestry feat.
 ## Mark of Detection Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of detection focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Detection traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Detection, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Detection traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Hyperfocus
@@ -490,7 +488,7 @@ Level | Spell
 4 | Know the Enemy
 
 ### New Focus Spells
-As a member of the Mark of Detection, you may select also select from among the following focus spells.
+As a member of the Mark of Detection, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of Detection
@@ -500,7 +498,7 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
-    When you cast the Cantrip of Detection, you can choose Detect Magic or Read Aura. Cantrip of Detection gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+    When you cast the Cantrip of Detection you can choose Detect Magic or Read the Air. Cantrip of Detection gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of Detection doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
@@ -594,7 +592,7 @@ At least one of your parents is a half-orc descendant of the mark of finding blo
 If you manifest a mark, you will begin to gain access to the following mark of finding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Finding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Finding, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Finding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Hyperfocus
@@ -604,7 +602,7 @@ Level | Spell
 5 | Hunter's Vision
 
 ### New Focus Spells
-As a member of the Mark of Finding, you may select also select from among the following focus spells.
+As a member of the Mark of Finding, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of Finding
@@ -614,7 +612,7 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
-    When you cast the Cantrip of Finding, you can choose Detect Magic, or Know Direction. Cantrip of Finding gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+    When you cast the Cantrip of Finding you can choose Detect Magic or Know Direction. Cantrip of Finding gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of Finding doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
@@ -705,7 +703,7 @@ At least one of your parents is a human descendant of the Mark of Handling blood
 ## Mark of Handling Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of handling focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Handling traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Handling, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Handling traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Heal Animal
@@ -714,7 +712,7 @@ Level | Spell
 3 | Beastmaster Trance
 4 | Enlarge Companion
 ### New Focus Spells
-As a member of the Mark of Handling, you may select also select from among the following focus spells.
+As a member of the Mark of Handling, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Handler
@@ -723,8 +721,8 @@ item(
 ; Cantrip, Dragonmark, Mark of Handling
 **Cast** see replicated spell; dragonmark, somatic
 -
-With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
-    When you cast the Cantrip of the Handler, you can choose Daze or Tanglefoot. Cantrip of the Handler gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
+    When you cast the Cantrip of the Handler you can choose Protect Companion or Tame. Cantrip of the Handler gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of the Handler doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
@@ -761,7 +759,8 @@ item (
 
 **Duration** sustained up to 1 minute
 -
-You call upon your dragonmark's power to calm animal emotions and aid your interactions with animals. When you Cast the Spell, unwilling targets must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.
+You call upon your dragonmark's power to calm animal emotions and aid your interactions with animals. 
+    When you Cast the Spell, unwilling targets must attempt a Will save, with a +4 circumstance bonus if you or your allies recently threatened it or used hostile actions against it.
     You can Dismiss the spell. If you use hostile actions against the target, the spell ends. If the spell ends before the full duration, the creature reverts to its original attitude. If the spell is sustained for the full duration, the effects remain and the spell ends.
 
 **Critical Success** The target's Attitude towards you decreases by one step. This does not revert if dismissed early.
@@ -792,9 +791,11 @@ item(
 
 **Range** 30 feet; **Targets** 1 willing creature
 
-**Duration** 1 minute
+**Duration** sustained 1 minute
 -
 Grant a willing creature a +1 status bonus to Dexterity-based checks and DCs, and Strength-based rolls and DCs. This includes AC, Reflex saves, ranged attack rolls, melee attack rolls, and skill checks using Acrobatics, Athletics, Stealth, and Thievery.
+-
+**Heightened (+3)** The status bonus increases by 1
 )
 =
 item(
@@ -858,7 +859,7 @@ At least one of your parents is a halfling descendant of the Mark of Healing blo
 ## Mark of Healing Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of healing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Healing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Healing, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Healing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Life Boost
@@ -868,7 +869,7 @@ Level | Spell
 10 | Revival
 
 ### New Focus Spells
-As a member of the Mark of Handling, you may select also select from among the following focus spells.
+As a member of the Mark of Handling, you may select also select from among the following new focus spells.
 item(
 # Guidance of the Healer
 ## Cantrip 2
@@ -970,7 +971,7 @@ At least one of your parents is a halfling descendant of the Mark of Hospitality
 ## Mark of Hospitality Focus Spells
 If you manifest a mark, you will begin to gain access to the following Mark of Hospitality focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Hospitality traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Hospitality, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Hospitality traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Charming Touch
@@ -979,7 +980,7 @@ Level | Spell
 1 | Sweet Dream
 4 | Unity 
 ### New Focus Spells
-As a member of the Mark of Hospitality, you may select also select from among the following focus spells.
+As a member of the Mark of Hospitality, you may select also select from among the following new focus spells.
 /
 item(
 # Homely Touch
@@ -1098,7 +1099,7 @@ At least one of your parents is a Human descendant of the Mark of Making bloodli
 If you manifest a mark, you will begin to gain access to the following Mark of Making focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Making traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Making, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Making traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Object Memory
@@ -1106,7 +1107,7 @@ Level | Spell
 4 | Tireless Worker
 
 ### New Focus Spells
-As a member of the Mark of Making, you may select also select from among the following focus spells.
+As a member of the Mark of Making, you may select also select from among the following new focus spells.
 /
 item (
 # Maker's Gift
@@ -1265,7 +1266,7 @@ At least one of your parents is a Human descendant of the Mark of Passage bloodl
 If you manifest a mark, you will begin to gain access to the following mark of passage focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Passage traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Passage, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Passage traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1275,7 +1276,7 @@ Level | Spell
 4 | Traveler's Transit
 
 ### New Focus Spells
-As a member of the Mark of Passage, you may select also select from among the following focus spells.
+As a member of the Mark of Passage, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Courier
@@ -1385,7 +1386,7 @@ At least one of your parents is a Gnome descendant of the Mark of Scribing blood
 If you manifest a mark, you will begin to gain access to the following mark of scribing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Scribing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Scribing, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Scribing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1396,7 +1397,7 @@ Level | Spell
 4 | Transcribe Moment
 
 ### New Focus Spells
-As a member of the Mark of Scribing, you may select also select from among the following focus spells.
+As a member of the Mark of Scribing, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Messenger
@@ -1509,7 +1510,7 @@ At least one of your parents is a Human descendant of the Mark of Sentinel blood
 If you manifest a mark, you will begin to gain access to the following mark of sentinel focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Sentinel traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Sentinel, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Sentinel traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1520,7 +1521,7 @@ Level | Spell
 4 | Unity
 
 ### New Focus Spells
-As a member of the Mark of Sentinel, you may select also select from among the following focus spells.
+As a member of the Mark of Sentinel, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Sentinel
@@ -1533,7 +1534,9 @@ item(
 
 **Duration** until the start of your next turn
 -
-With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Sentinel, you can choose one of the following spells to immediately take effect. Forbidding Ward, or Shield.
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
+    When you cast the Cantrip of the Sentinel you can choose Forbidding Ward or Shield. Cantrip of the Sentinel gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+    A spell cast by Cantrip of the Sentinel doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
 item(
@@ -1627,7 +1630,7 @@ At least one of your parents is an Elf descendant of the Mark of Shadow bloodlin
 If you manifest a mark, you will begin to gain access to the following mark of shadow focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Shadow traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Shadow, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Shadow traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
@@ -1639,7 +1642,7 @@ Level | Focus Spell
 5 | Shadow Jump
 
 ### New Focus Spells
-As a member of the Mark of Shadow, you may select also select from among the following focus spells.
+As a member of the Mark of Shadow, you may select also select from among the following new focus spells.
 /
 item(
 # Become Shadow
@@ -1662,7 +1665,9 @@ item(
 ; Cantrip, Dragonmark, Mark of Shadow<null>
 **Cast** see replicated spell; dragonmark, somatic
 -
-With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Shadow, you can choose one of the following spells to immediately take effect. Dancing Lights, or Ghost Sound.
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
+    When you cast the Cantrip of the Shadow you can choose Dancing Lights or Ghost Sound. Cantrip of the Shadow gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
+    A spell cast by Cantrip of the Shadow doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 =
 item(
@@ -1732,7 +1737,7 @@ At least one of your parents is a half-elf descendant of a Mark of Storm bloodli
 If you manifest a mark, you will begin to gain access to the following mark of storm focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Storm traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Storm, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Storm traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Focus Spell | Source
 --- | :---
@@ -1744,7 +1749,7 @@ Focus Spell | Source
 4 | Stormwind Flight | Core
 
 ### New Focus Spells
-As a member of the Mark of Storm, you may select also select from among the following focus spells.
+As a member of the Mark of Storm, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Storm
@@ -1754,10 +1759,8 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
-
-When you cast the Cantrip of the Storm, you can choose Electric Arc or Know Direction. Cantrip of the Storm gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
-
-A spell cast by Cantrip of the Storm doesn’t require material or verbal components but always requires a dragonmark and somatic component.
+    When you cast the Cantrip of the Storm you can choose Electric Arc or Gale Blast. Cantrip of the Storm gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
+    A spell cast by Cantrip of the Storm doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
 item (
@@ -1858,7 +1861,7 @@ At least one of your parents is a Dwarf descendant of the Mark of Warding bloodl
 If you manifest a mark, you will begin to gain access to the following mark of warding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 /
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Warding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Warding, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Warding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell | Source
 --- | :--- | :---
@@ -1868,7 +1871,7 @@ Level | Focus Spell | Source
 5 | Spellmaster's Ward |  Pathfinder Society Guide
 
 ### New Focus Spells
-As a member of the Mark of Warding, you may select also select from among the following focus spells.
+As a member of the Mark of Warding, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Guard
@@ -1881,7 +1884,9 @@ item(
 
 **Duration** until the start of your next turn
 -
-With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. When you cast Cantrip of the Guard, you can choose one of the following spells to immediately take effect. Forbidding Ward, or Sigil.
+With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
+    When you cast the Cantrip of the Guard you can choose Forbidding Ward or Sigil. Cantrip of the Guard gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
+    A spell cast by Cantrip of the Guard doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 |
 item (
@@ -1916,7 +1921,7 @@ item(
 **Duration** until the next time you make your daily preparations
 -
 You draw upon your powers of warding to guard the presence of an item. Once the spell has been cast, you can choose to make the item come under the effects of Invisible Item If the target is magical, you can choose to also have it appear as entirely non-magical.
-    If a caster uses detect magic or read aura of an equal or higher level than this spell, the GM can roll a secret counteract check for them to see the presence of this ward.
+    If a caster uses Detect Magic or Read Aura of an equal or higher level than this spell, the GM can roll a secret counteract check for them to see the presence of this ward.
     If a creature interacts with the item, you immediately become aware of this fact.
 -
 **Heightened (3rd)** You may target 1 object of 1 bulk or less.
@@ -1984,17 +1989,17 @@ If you manifest a mark, you will begin to gain access to the following aberrant 
 ### Aberrant Feedback ((++Aberrant Feedback))
 One of the reasons that aberrant marks are so feared, is their potential for causing unintentional harm resulting from their use. The Aberrant Feedback trait applies to most spells that an aberrant mark can cast. 
 
-After you cast a focus spell with the Aberrant Feedback trait, you must you must make a Fortitude save against your dragonmark DC. On a critical failure, you become drained 1. If the save is a natural 1, a random creature within 30 feet of the caster (potentially including the caster) takes 1d4 persistent [acid, cold, fire, bleeding, poision] damage of the GM's choice. This is in addition to increasing the caster's drained condition. The number of damage dice increases to two with a Lesser Mark, three with a Greater Mark, and four with a Siberys Mark.
+After you cast a focus spell with the Aberrant Feedback trait, you must make a Will save against your dragonmark DC. On a critical failure, you increase your drained condition by 1. If the save is a natural 1, a random creature within 30 feet of the caster (potentially including the caster) takes 1d4 persistent acid, cold, fire, bleeding, or poison damage of the GM's choice. This is in addition to increasing the caster's drained condition. The number of damage dice increases to two with a Lesser Mark, three with a Greater Mark, and four with a Siberys Mark.
 
 note(
 #### Consider the following
-If Aberrant Feedback is undesirable for your play style, consider awarding the Aberrant Control feat for free or with training from House Tarkanan or another Aberrant Marked creature. 
+If Aberrant Feedback is undesirable for your play style, consider awarding the Aberrant Control feat for free or with training from House Tarkanan or by learning from another Aberrant Marked NPC. 
 
 Alternatively, if you wish to keep Aberrant Feedback but simplify your combat loop, ignore the natural 1 clause of Aberrant Feedback.
 )
 =
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, Aberrant Mark, and Aberrant Feedback traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As an Aberrant Marked character, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, Aberrant Mark, and Aberrant Feedback traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
@@ -2007,7 +2012,7 @@ Level | Focus Spell
 7 | Shadow's Web
 
 ### New Focus Spells
-As an Aberrant Marked, you may select also select from among the following focus spells.
+As an Aberrant Marked character, you may select also select from among the following new focus spells.
 /
 item (
 # Induce Chaos
@@ -2062,10 +2067,8 @@ item(
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
-
-When you cast the Aberrant Cantrip, you can choose Chill Touch or Daze. Aberrant Cantrip gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
-
-A spell cast by Aberrant Cantrip doesn’t require material or verbal components but always requires a dragonmark and somatic component.
+    When you cast the Aberrant Cantrip, you can choose Chill Touch or Daze. Aberrant Cantrip gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
+    A spell cast by Aberrant Cantrip doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
 =
 item(
@@ -2079,8 +2082,7 @@ item(
 
 **Duration** 10 minutes
 -
-You reshape the dragonmark to make it look like another true dragonmark or even mask its presence. This spell physically alters your dragonmark's appearance to either hide it on your skin or look like a different mark of equal or lesser power to a quick inspection. If you modify it to appear as another dragonmark, you do not gain any of the spell-like abilities of the other mark.
-
+You reshape the dragonmark to make it look like another true dragonmark or even mask its presence. This spell physically alters your dragonmark's appearance to either hide it on your skin or look like a different mark of equal or lesser power to a quick inspection. If you modify it to appear as another dragonmark, you do not gain any of the abilities of the other mark.
 If you use any dragonmark focus spell with the Aberrant Feedback trait, this spell ends.
 -
 **Heightened (+1)** the duration increases by 5 minutes

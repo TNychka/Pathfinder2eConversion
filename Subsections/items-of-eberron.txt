@@ -604,6 +604,8 @@ item(
 **Usage** ; **Bulk** 2
 -
 A Ghallanda Cauldron is a fortified and enchanted cooking device commonly used by Ghallanda inns. When using a Ghallanda Cauldron, you may prepare food with unnatural speed and skill. You can heat, cool, flavour, and cook the raw contents added to the cauldron with enough precision to recreate the tastes of herbs and spices you don't have access to. You gain a +1 item bonus to craft food and drink, and may do so in half the time.
+-
+**Craft Requirements** Crafter must have the Mark of Hospitality.
 )
 item(
 # Keycharm
@@ -689,8 +691,10 @@ item(
 **Price** 3000 gp; **Weight** permanent structure
 -
 This marble slab acts as a channel for the powers of the Mark of Healing. 
-
-A character who possesses a lesser Mark of Healing or better can use the altar in their resurrect ritual to target a creature resting on the altar. If the character does so, they may use their mark of healing dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Medicine, Society, or their Mark of Healing dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+    A character who possesses a lesser Mark of Healing or better can use the altar in their resurrect ritual to target a creature resting on the altar. If the character does so, they may use their Mark of Healing dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Medicine, Society, or their Mark of Healing dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+    The character must still provide the material components for the resurrection spell.
+-
+**Craft Requirements** Crafter must have the Mark of Healing.
 )
 |
 item(
@@ -701,13 +705,9 @@ item(
 **Price** 3000 gp; **Weight** permanent structure
 -
 These large towers allow bearers of the Mark of Storms to control the local weather. 
-
-A character who possesses a lesser Mark of Storms or better can use the tower in their control weather ritual to target the surrounding area. If the character does so, they may use their mark of storms dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Survival, or their Mark of Storms dragonmark spell modifier.
-)
-item(
-The character must still provide the material components for the resurrection spell.
+    A character who possesses a lesser Mark of Storms or better can use the tower in their Control Weather ritual to target the surrounding area. If the character does so, they may use their Mark of Storms dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the Storm Spire the secondary casters may choose to use Survival, or their Mark of Storms dragonmark spell modifier.
 -
-**Craft Requirements** Crafter must have the Mark of Healing
+**Craft Requirements** Crafter must have the Mark of Storms.
 )
 item(
 # Astral Beacon
@@ -717,17 +717,12 @@ item(
 **Price** 1000 gp; **Weight** permanent structure
 -
 Tied to the Mark of Passage, this object acts as a magical beacon to Orien heirs slipping through the Astral Plane. An astral beacon is an 8-inch sphere formed from silver and crystal, with the dragonshard at the core; it is often encased in lead or embedded in the floor of a chamber to prevent enemies from stealing or smashing the sphere.
-
-A character with the Mark of Passage using any feature with the teleportation trait may double the range of the teleportation effect as long as the destination point is within 10 feet of an astral beacon. In addition, for the purposes of teleport, selecting a location within 10 feet of an astral beacon is always accurate within 20 feet no matter the distance travelled.
-
-In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation
+    A character with the Mark of Passage using any feature with the teleportation trait may double the range of the teleportation effect as long as the destination point is within 10 feet of an astral beacon. In addition, for the purposes of teleport, selecting a location within 10 feet of an astral beacon is always accurate within 20 feet no matter the distance travelled.
+    In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
+-
+**Craft Requirements** Crafter must have the Mark of Passage.
 )
 =
-item(
-circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
--
-**Craft Requirements** Crafter must have the Mark of Passage
-)
 item(
 # Extended Ward
 ## Item 10
@@ -735,7 +730,10 @@ item(
 ; Magical, Mark of Warding, Dragonmark, Structure
 **Price** 1000 gp; **Weight** permanent structure
 -
-The Extended Ward holds are relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. It is frequently difficult to differentiate from a houseward. This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an additional 10 minutes of cast time on an area that contains the Extended Ward or on a person or object within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning.
+The Extended Ward holds a relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from a houseward. 
+    This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an extended additional 10 minutes of casting time within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning. It may only sustain one such spell at a time.
+-
+**Craft Requirements** Crafter must have the Mark of Warding.
 )
 item(
 # Houseward
@@ -744,18 +742,13 @@ item(
 ; Magical, Mark of Warding, Dragonmark, Structure
 **Price** 2000 gp; **Weight** permanent structure
 -
-While the dragonshard core is quite small, the houseward itself is a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. It is frequently difficult to differentiate from an Extended Ward.
-
-A character who possesses a lesser Mark of Warding or better can use the Houseward in their Ward Domain ritual to target an area centred around the houseward. If the character does so, they may use their mark of warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two
+While the dragonshard core is quite small, the Houseward itself is a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from an Extended Ward. 
+    A character who possesses a lesser Mark of Warding or better can use the Houseward in their Ward Domain ritual to target an area centred around the Houseward. If the character does so, they may use their Mark of Warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+    The character must still provide the material components for the Ward Domain spell.
+-
+**Craft Requirements** Crafter must have the Mark of Warding.
 )
 |
-item(
-secondary casters must still not perform the same check.
-
-The character must still provide the material components for the ward domain spell.
--
-**Craft Requirements** Crafter must have the Mark of Healing
-)
 =
 head(
 # Magic Items ((Magic Items))

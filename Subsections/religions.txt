@@ -19,9 +19,9 @@ A deity of fertility, plant life, and abundance, Arawai is neutral good. She cla
 **Divine Skill** Nature
 **Domains** Earth, family, healing, nature, stars, sun, passion, toil, water
 |
-**Cleric Spells** 1st: temporary tool, 2nd: shape wood, 3rd: wall of thorns
+<null> **Cleric Spells** 1st: temporary tool, 2nd: shape wood, 3rd: wall of thorns.
 **Edicts** Encourage hard work that benefits all, ensure the health of crops and vegetation, protect forests and farmland from ravagers.
-**Anathema** Destroy healthy crops, waste food, refuse to help others in your community
+**Anathema** Destroy healthy crops, waste food, refuse to help others in your community.
 **Favoured Weapon** morningstar
 ### Aureon: God of Law and Knowledge
 A deity of lore and magic, Aureon is lawful neutral. The patron of all arcane spellcasters, as well as sages, librarians, and scribes, he often appears as a gnome or human wizard in ancient texts, and occasionally as a majestic blue dragon. [26]
@@ -32,13 +32,13 @@ A deity of lore and magic, Aureon is lawful neutral. The patron of all arcane sp
 **Divine Skill** Arcana
 **Domains** Duty, Fate, Knowledge, Magic, Truth
 **Cleric Spells** 1st: mage armour, 3rd: zone of truth, 7th: contingency
-**Edicts** seek out lost lore, to make discoveries, and increase their magical power.
-**Anathema** fail to stop abuses of magic or hunt down lawbreakers and dangerous creatures of wild magic.
+**Edicts** Seek out lost lore, to make discoveries, and increase their magical power.
+**Anathema** Fail to stop abuses of magic or hunt down lawbreakers and dangerous creatures of wild magic.
 **Favoured Weapon** Staff
 =
 ### Balinor: God of Beasts and the Hunt [N]
-A neutral nature deity associated with hunting and animal life, Balinor claims hunters, druids, barbarians, and rangers among his followers, since he appears as both a protector of nature and an exemplar of gently taking what one needs for sustenance from nature’s bounty. Usually portrayed as a burly human, sometimes as a crude but good-natured half-orc, and occasionally as a stalking green dragon. 
-**Areas of Concern** Animals, the hunt. [27]
+A neutral nature deity associated with hunting and animal life, Balinor claims hunters, druids, barbarians, and rangers among his followers, since he appears as both a protector of nature and an exemplar of gently taking what one needs for sustenance from nature’s bounty. Usually portrayed as a burly human, sometimes as a crude but good-natured half-orc, and occasionally as a stalking green dragon. [27]
+**Areas of Concern** Animals, the hunt.
 **Alignment** N
 **Divine Font** Heal
 **Divine Ability** Strength or Wisdom
@@ -46,7 +46,7 @@ A neutral nature deity associated with hunting and animal life, Balinor claims h
 **Domains** Air, Nature, Earth, Might
 **Cleric Spells** 1st: pass without trace, 2nd: invisibility, 3rd: animal vision
 **Edicts** Hunt and maintain the health of the forest, provide for your community, slay creatures terrorizing an area.
-**Anathema** Take more than needed from the wilderness, hunt an animal for sport
+**Anathema** Take more than needed from the wilderness, hunt an animal for sport.
 **Favoured Weapon** Battleaxe
   
 ### Boldrei: Goddess of Community and Hearth [LG]
@@ -58,12 +58,12 @@ Boldrei, the lawful good deity of community, is invoked as a protector of villag
 **Divine Skill** Diplomacy
 **Domains** Cities, duty, family, protection, truth
 **Cleric Spells** 1st: share lore, 4th: shape stone, 5th: wall of stone 
-**Edicts** seek to improve yourself and your community, trust those you work with, encourage cooperation
-**Anathema** betray another's trust, place conflict between ideological differences over people's lives
+**Edicts** Seek to improve yourself and your community, trust those you work with, encourage cooperation.
+**Anathema** Betray another's trust, harm your community, place conflict of ideological differences over people's lives.
 **Favoured Weapon** Spear
 |
 ### Dol Arrah: Goddess of Honor and Sacrifice [LG]
-Dol Arrah, the lawful good deity of honourable combat, self-sacrifice, and sunlight, manifests as a peacemaker, a careful planner, and a strategist. She serves as the patron of paladins, generals, and diplomats who fight their battles with words. In addition, in her role as a sun god, she brings light to pierce the darkest places of the world. She is commonly represented as a human or half-elf knight shining with holy radiance, and sometimes as a red dragon perched on a cloud.  [29]
+Dol Arrah, the lawful good deity of honourable combat, self-sacrifice, and sunlight, manifests as a peacemaker, a careful planner, and a strategist. She serves as the patron of paladins, generals, and diplomats who fight their battles with words. In addition, in her role as a sun god, she brings light to pierce the darkest places of the world. She is commonly represented as a human or half-elf knight shining with holy radiance, and sometimes as a red dragon perched on a cloud. [29]
 **Areas of Concern** Honor, sacrifice, light, the sun, diplomacy
 **Alignment** LG
 **Divine Font** Heal
@@ -71,12 +71,12 @@ Dol Arrah, the lawful good deity of honourable combat, self-sacrifice, and sunli
 **Divine Skill** Diplomacy
 **Domains** Confidence, Duty, Freedom, Might, Protection, Sun, Truth, Vigil, Zeal
 **Cleric Spells** 1st: mage armor, 4th: creation, 7th: true target
-**Edicts** Seek those that break oaths and enforce just restitution, uphold your promises
-**Anathema** Lie, dishonour yourself or your family, shirk your duties, break an oath
+**Edicts** Seek those that break oaths and enforce just restitution, uphold your promises.
+**Anathema** Lie, dishonour yourself or your family, shirk your duties, break an oath.
 **Favoured Weapon** Halberd
   
 ### Dol Dorn: God of Strength at Arms [CG]
-The chaotic good deity of war, Dol Dorn appears as a paragon of physical perfection who promotes bodily strength as well as martial training. Most often depicted as a heavily muscled human, sometimes as a dwarf or a half-orc, and occasionally as a silver dragon.  [30]
+The chaotic good deity of war, Dol Dorn appears as a paragon of physical perfection who promotes bodily strength as well as martial training. Most often depicted as a heavily muscled human, sometimes as a dwarf or a half-orc, and occasionally as a silver dragon. [30]
 **Areas of Concern** Physical perfection, strength, martial prowess
 **Alignment** CG
 **Divine Font** Heal
@@ -84,12 +84,12 @@ The chaotic good deity of war, Dol Dorn appears as a paragon of physical perfect
 **Divine Skill** Athletics
 **Domains** Confidence, Duty, Might, Perfection, Protection, Zeal
 **Cleric Spells** 1st: endure, 3rd: haste, 4th: stoneskin
-**Edicts** Offer your strength to aid others, protect those weaker than you
-**Anathema** Engage in petty showcases of strength, use your strength to take advantage of others
+**Edicts** Offer your strength to aid others, protect those weaker than you.
+**Anathema** Engage in petty showcases of strength, use your strength to take advantage of others.
 **Favoured Weapon** Longsword
 =
 ### Kol Korran: God of Trade and Wealth [N]
-Merchants, traders, and thieves revere Kol Korran, the neutral deity of trade and money-as might anyone who has money or wants more. He is depicted as a fat, cheerful human or dwarf in fine clothes. A few ancient representations of him show a white dragon lying on a bed of ice-blue gemstones.  [31]
+Merchants, traders, and thieves revere Kol Korran, the neutral deity of trade and money-as might anyone who has money or wants more. He is depicted as a fat, cheerful human or dwarf in fine clothes. A few ancient representations of him show a white dragon lying on a bed of ice-blue gemstones. [31]
 **Areas of Concern** Wealth, money, trade, commerce, theft
 **Alignment** N
 **Divine Font** Heal or Harm
@@ -97,12 +97,12 @@ Merchants, traders, and thieves revere Kol Korran, the neutral deity of trade an
 **Divine Skill** Society
 **Domains** Ambition, Cities, Travel, Wealth
 **Cleric Spells** 1st: shattering gem, 4th: creation, 7th: magnificent mansion
-**Edicts** gather new wealth, count your riches, opening up new trade routes, or discovering and retrieving items of great worth.
-**Anathema** allow those who steal from you to go unpunished
+**Edicts** Gather new wealth, count your riches, open up new trade routes, discover and retrieve items of great worth.
+**Anathema** Allow those who steal from you to go unpunished, forgo simple opportunities to gain riches.
 **Favoured Weapon** Mace
   
 ### Olladra: Goddess of Feast and Good Fortune [NG]
-Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral good deity of luck and plenty. She is often depicted as a young halfling, sometimes as an elderly human, and occasionally as a black dragon.  [32]
+Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral good deity of luck and plenty. She is often depicted as a young halfling, sometimes as an elderly human, and occasionally as a black dragon. [32]
 **Areas of Concern** Good fortune, feast, plenty
 **Alignment** NG
 **Divine Font** Heal
@@ -110,8 +110,8 @@ Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral
 **Divine Skill** Performance
 **Domains** Freedom, Indulgence, Luck
 **Cleric Spells** 1st: anticipate peril, 2nd: Lucky Number, 3rd: Perseis's Precautions
-**Edicts** Live life freely, drink
-**Anathema** Refuse a reasonable bet or duel
+**Edicts** Live life freely, drink, host generously, take chances.
+**Anathema** Refuse a reasonable bet, be miserly with your hospitality.
 **Favoured Weapon** Sickle
 |
 ### Onatar: God of Artifice and the Forge [NG]
@@ -123,8 +123,8 @@ Onatar, the neutral good deity of crafts, industry, and fire, is the patron of a
 **Divine Skill** Crafting
 **Domains** Creation, Fire, Toil
 **Cleric Spells**  1st: temporary tool, 4th: creation, 7th: duplicate foe
-**Edicts** craft new creations, pay attention to details, share achievements
-**Anathema** carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes
+**Edicts** Craft new creations, pay attention to details, share achievements.
+**Anathema** Carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes.
 **Favoured Weapon** Warhammer
 =
 # The Dark Six [NE] ((++The Dark Six))
@@ -141,8 +141,8 @@ The Devourer is the tsunami that overwhelms the tallest ship, the wildfire that 
 **Divine Skill** Nature
 **Domains** Change, Cold, Decay, Destruction, Dust, Lightning, Nature, Plague, Void, Water
 **Cleric Spells** 1st: gust of wind, 3rd: lightning bolt, 5th: control water
-**Edicts** Embrace the glorious power of the wilds, live free of social or materialistic chains, cause destruction when angered
-**Anathema** bring civilization to intrude on the wild, become civilized
+**Edicts** Embrace the glorious power of the wilds, live free of social or materialistic chains.
+**Anathema** Bring civilization to intrude on the wild, become civilized.
 **Favoured Weapon** Trident
 |
 ### The Fury: The Sovereign of Rage and Ruin [NE]
@@ -154,8 +154,8 @@ The Fury is a silent whisper that can drive you to doubt or despair. She is reck
 **Divine Skill** Intimidation
 **Domains** Ambition, Delirium, Destruction, Freedom, Might, Pain, Passion, Zeal
 **Cleric Spells** 1st: true strike, 3rd: fireball, 4th: dimension door
-**Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance from those who wrong you
-**Anathema** Allow a slight to go unanswered, show humility or fear
+**Edicts** Convey yourself with regal dignity, claim what you desire and deserve, seek vengeance upon those who wrong you.
+**Anathema** Allow a slight to go unanswered, show humility or fear.
 **Favoured Weapon** Rapier
   
 ### The Keeper: The Sovereign of Death and Decay [NE]
@@ -167,10 +167,9 @@ The Keeper is the patron of those who put personal gain above all else. He guide
 **Divine Skill** Theivery
 **Domains** Death, Decay, Dust, Indulgence, Trickery, Wealth
 =
-<null>
-**Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
-**Edicts** Gain financial control over others, gather new wealth, count your riches
-**Anathema** Allow honour or tradition to prevent you from taking what you want
+<null> **Cleric Spells** 1st: ill omen, 2nd: shatter, 6th: phantasmal calamity
+**Edicts** Gain financial control over others, gather new wealth, count your riches.
+**Anathema** Allow honour or tradition to prevent you from taking what you want, fail to take opportunities to increase your wealth.
 **Favoured Weapon** Scythe
   
 ### The Mockery: The Sovereign of Betrayal and Bloodshed [NE]
@@ -182,23 +181,22 @@ Others who follow the Mockery assert that the very idea of honour in war is delu
 **Divine Skill** Deception
 **Domains** Confidence, Destruction, Might, Pain, Passion, Trickery, Tyranny, Zeal
 **Cleric Spells** 1st: penumbral shroud, 3rd: invisibility sphere, 6th: mislead
-**Edicts** Seize any opportunity that would benefit you, solve your problems With Violence, hide your true intentions
-**Anathema** Beg for help or mercy, let a slight go unanswered
+**Edicts** Seize any opportunity that would benefit you, solve your problems with violence, hide your true intentions.
+**Anathema** Beg for help or mercy, let a slight go unanswered.
 **Favoured Weapon** Kama
   
 ### The Shadow: The Sovereign of Magic and Mayhem [CE]
 The Shadow, the literal shadow of Aureon, gained a life of its own as the price of his arcane mastery. Chaotic Evil, the Shadow devotes its energy to dark magic and the corruption of nature. Many evil wizards and sorcerers revere the Shadow, and many of the monsters of Droaam invoke its name as well. It is usually depicted as a shadow, but sometimes (particularly in Droaam) as a shadow dragon. [38]
 **Areas of Concern**  Arcane magic, consequence, corruption, darkness, duality
 |
-<null>
-**Alignment** CE
+<null> **Alignment** CE
 **Divine Font** Harm
 **Divine Ability** Constitution or Intelligence 
 **Divine Skill** Arcana
 **Domains** Ambition, Change, Darkness, Fate, Knowledge, Magic, Secrecy, Trickery, Truth
 **Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
-**Edicts** Learn and hoard forbidden magic, steal secrets from others
-**Anathema** Destroy forbidden lore, reveal the entirety of a secret
+**Edicts** Learn and hoard forbidden magic, steal secrets from others.
+**Anathema** Destroy forbidden lore, reveal the entirety of a secret.
 **Favoured Weapon** staff
   
 ### The Traveler: The Sovereign of Chaos and Change [CN]
@@ -210,8 +208,8 @@ The most mysterious of the Dark Six, the Traveler is chaotic neutral and seems t
 **Divine Skill** Survival
 **Domains** Change, Creation, Fate, Freedom, Knowledge, Secrecy, Travel, Trickery
 **Cleric Spells** 1st: illusory disguise, 2nd: invisibility, 3rd: nondetection, 4th: private sanctum
-**Edicts** Live life freely, manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions
-**Anathema** Refuse a reasonable bet, let social pressure change your behaviour
+**Edicts** Live life freely, manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions.
+**Anathema** Refuse a reasonable bet, let social pressure change your behaviour.
 **Favoured Weapon** scimitar
 = 
 # The Silver Flame [LG] ((++The Silver Flame))
@@ -224,8 +222,8 @@ In a world where deadly supernatural evil is a concrete fact of existence, the C
 **Divine Skill** Religion
 **Domains** Confidence, Duty, Fire, Freedom, Might, Protection, Repose, Sun, Truth, Vigil, Zeal
 **Cleric Spells** 1st: anticipate peril, 3rd: fireball, 4th: fire shield
-**Edicts** free others from oppression, release harmful tethers be they physical or spiritual, work toward your best self and inspire others to follow
-**Anathema** allow tyrants to escape punishment after their reign ends, enslave or oppress others, prevent others from honestly expressing themselves
+**Edicts** Free others from oppression, defend the innocent from evil, work toward your best self and inspire others to follow.
+**Anathema** Allow evil to spread unchecked, enslave or oppress others, dishonor yourself or disgrace others.
 **Favoured Weapon** longbow
   
 # The Blood of Vol [LN] ((++The Blood of Vol))
@@ -240,8 +238,8 @@ after death; at least they can do some good. [41]
 **Divine Skill** Occultism
 **Domains** Ambition, Change, Confidence, Death, Decay, Duty, Knowledge, Magic, Pain, Perfection, Protection, Repose, Secrecy, Soul, Undeath, Vigil
 **Cleric Spells** 1st animate dead, 3rd: haste, 6th: dominate
-**Edicts** Strive to unlock the potential within yourself, encourage others to strive toward their potential for greatness
-**Anathema** sacrifice your life, fail to work toward goals or grow in skill, relax excessively or give in to sloth, blemish a soul
+**Edicts** Strive to unlock the potential within yourself, encourage others to strive toward their potential for greatness.
+**Anathema** Sacrifice your life, fail to work toward goals or grow in skill, relax excessively or give in to sloth, blemish a soul.
 **Favoured Weapon** dagger
   
 # The Path of Light [LN] ((++The Path of Light))
@@ -254,8 +252,8 @@ The kalashtar of Adar follow no deity, but they do revere a universal force of p
 **Divine Skill** Diplomacy
 **Domains** Change, Dreams, Freedom, Knowledge, Perfection, Protection, Repose
 **Cleric Spells** 1st: jump, 3rd: haste, 4th: stoneskin
-**Edicts** be humble; help others perfect themselves; hone your body, mind, and spirit to a more perfect state; practice discipline
-**Anathema** abandon a companion in need, dishonour yourself, repeatedly fail to maintain self-control
+**Edicts** Be humble; help others perfect themselves; hone your body, mind, and spirit to a more perfect state; practice discipline.
+**Anathema** Abandon a companion in need, dishonour yourself, repeatedly fail to maintain self-control.
 **Favoured Weapon** Fist
 
 # The Spirits of the Past [N] ((++The Spirits of the Past))
@@ -270,8 +268,8 @@ worship the spirits of the warriors of Xen’drik—elves who fell long before t
 **Divine Skill** Athletics
 **Domains** Confidence, Destruction, Might, Protection, Zeal
 **Cleric Spells** 1st: true strike, 2nd: enlarge, 4th: weapon storm
-**Edicts** Strive to uphold the ideals of your ancestor spirit, practice with a weapon every day, destroy the undead
-**Anathema** Become or create undead, fail to strive to uphold your ancestor spirit, dishonour yourself, parlay with trucebreakers
+**Edicts** Strive to uphold the ideals of your ancestor spirit, practice with a weapon every day, destroy the negative undead.
+**Anathema** Become or create undead, fail to strive to uphold your ancestor spirit, dishonour yourself, parlay with oathbreakers.
 **Favoured Weapon** Double Scimitar
   
 # The Undying Court [NG] ((++The Undying Court))
@@ -284,10 +282,10 @@ The elves of Aerenal revere their ancient dead as incarnate deities, seeking adv
 **Divine Skill** Society
 **Domains** Death, Duty, Family, Knowledge, Magic, Perfection, Protection, Repose, Soul, Star, Sun, Undeath, Vigil
 **Cleric Spells** 1st: share lore, 2nd: comprehend language, 3rd: hypercognition
-**Edicts** work toward collective transcendence, challenge oppression through education, protect knowledge, seek truth
-**Anathema** destroy knowledge, disrespect the
+**Edicts** Work toward collective transcendence of the court, seek to prove yourself worthy of immortality, go to death with dignity.
+**Anathema** Disrespect the dead or the traditions of
 |
-traditions of those around you, willfully spread ignorance or wrong information
+those around you, be cowardly in the face of death.
 **Favoured Weapon** Scimitar
  
 # Cults of the Dragon Below [CE] ((++Cults of the Dragon Below))
@@ -301,5 +299,5 @@ The Cults of the Dragon Below consist of a diverse group of fanatical sects that
 **Domains** Abomination, Cold, Darkness, Death, Decay, Delirium, Destruction, Dust, Earth, Indulgence, Knowledge, Nightmares, Pain, Passion, Plague, Secrecy, Sorrow, Soul, Swarm, Time, Trickery, Tyranny, Undeath, Void, Wyrmkin
 **Cleric Spells** 1st: grim tendrils, 4th: nightmare, 5th: summon entity (varies)
 **Edicts** Create darkness, sow discord among allies, misuse positions of authority by steering events toward apocalyptic ends (varies)
-**Anathema** none
+**Anathema** None (varies)
 **Favoured Weapon** Great Pick (varies)

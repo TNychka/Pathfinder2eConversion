@@ -1,11 +1,11 @@
 watermark (
-Version 1.0
+Version 1.0.6
 )
 title (
-Pathfinders' Guide to Eberron 
+Pathfinder's Guide to Eberron 
 )
 head (
-# The Pathfinders' Guide to Eberron ((Pathfinders' Guide to Eberron))
+# The Pathfinder's Guide to Eberron ((Pathfinder's Guide to Eberron))
 Train cars crackle with lightning as they thunder on elemental rails through the countryside. Veterans of a hundred-year war now not only defend their fragment of a shattered kingdom but protect against nameless horrors from apocalyptic mists. Dragonmarked monopolies dominate the trade of the Khorvaire and increasingly push the boundaries of their governing laws. The world is in desperate need of heroes, and only you can answer the call. Welcome to the World of Eberron. This guide will help you run the Eberron Campaign setting using the Pathfinder 2e system.
 -
 )
@@ -33,7 +33,6 @@ Exploring Eberron (EE) independent book developed by Keith Baker focused on the 
 The Eberronicon - A Pocket Guide to the World (EPG) is a community project that provides a high-level summary of the world of Eberron and all of the lore to date.
 )
 /
-
 ## Why Pathfinder 2e? ((++Why Pathfinder 2e))
 Pathfinder 2e's levelling system supports the pulp action and swashbuckling of Eberron well. At low levels, adventurers will fight against threats to towns or cities, while at high levels these become trivial and adventurers will be called on to fight one or more of the threats to nations or even the entire world.
 
@@ -121,7 +120,7 @@ item(
 
 **Languages:** Common, Draconic, Elf, Halfling
 
-**Religion:** Silver Flame, Sovereign Host
+**Religion:** Sovereign Host, Silver Flame
 -
 **Exports** Wine, cheese, grains, agriculture, books
 
@@ -206,7 +205,7 @@ item(
 
 **Languages** Goblin, Common, Draconic
 
-**Religion** Ancestor Worship, Sovereign Host, or the Dark Six.
+**Religion** Dark Six, Sovereign Host
 -
 **Exports** Mercenaries
 
@@ -229,7 +228,7 @@ item(
 
 **Languages:** Common, Orc, Infernal
 
-**Religion:** Some Variation of Fiendish worship.
+**Religion:** Some Variation of Fiendish worship
 -
 **Factions** The Lords of Dust, The Maruk Ghaash'kala, The Moon Reavers, Night Hags, The Plaguebearers
 -
@@ -248,7 +247,7 @@ item(
 
 **Languages** Goblin, Common, Orc, Giant, Gnoll, Draconic, and various monster languages, not all of which have been studied
 
-**Religion** The Dark Six
+**Religion** Dark Six
 -
 **Exports** Mercenary services, byeshk
 
@@ -279,7 +278,7 @@ item(
 
 **Languages** Common, Elven, Orc, Gnome
 
-**Religion** Various druidic sects, the Cult of the Dragon Below, the Sovereign Host
+**Religion** Various druidic sects, the Sovereign Host, Cults of the Dragon Below
 -
 **Exports** Agriculture, Animal Husbandry
 
@@ -334,7 +333,7 @@ item(
 
 **Languages** Common, Gnome, Dwarven, Elven, Halfling
 
-**Religion** Blood of Vol
+**Religion** Agnostic, Blood of Vol
 -
 **Exports** Ships, Mercenaries, Trade Goods
 
@@ -364,7 +363,7 @@ item(
 
 **Languages** Dwarven, Common, Orc, Gnomish
 
-**Religion** Sovereign Host, The Mockery, Dragon Below
+**Religion** Sovereign Host, The Mockery, Cults of the Dragon Below
 -
 **Exports** Banking, Precious and Non-Precious Metals
 
@@ -464,7 +463,7 @@ item(
 
 **Languages** Common, Draconic, Dwarven, Elven, Halfling
 
-**Religion** The Silver Flame
+**Religion** Silver Flame, Sovereign Host
 -
 **Exports**  Fine crafts, fruit, livestock, missionaries, textiles, wool
 
@@ -547,7 +546,7 @@ item(
 
 **Languages** Riedran
 
-**Religion** Aarakti (Arawai), Braahyn (Balinor), Path of Light
+**Religion** Path of Light, Aarakti (Arawai), Braahyn (Balinor)
 -
 **Factions** Keepers of the Word, Storm Guardians, Endseekers
 -
@@ -573,7 +572,7 @@ item(
 
 **Languages** Riedran
 
-**Religion** The path of inspiration
+**Religion** Path of Inspiration
 -
 **Factions** The Dreaming Dark, The Unity
 -
@@ -592,7 +591,7 @@ item(
 
 **Languages** Giant, Riedran
 
-**Religion** None, Sovereign Host, or Karrak the Final Guardian
+**Religion** Agnostic, Sovereign Host, Karrak the Final Guardian
 -
 **Factions** The eyes of Riedra, Various Tribes and Clans
 -
@@ -612,7 +611,7 @@ item(
 
 **Languages** Riedran
 
-**Religion** Druidic
+**Religion** Druidic Sects
 -
 )
 item(
@@ -932,7 +931,7 @@ Shifters are **uncommon** in the world of Eberron. Shifters are well represented
 =
 primarily of the following animalistic traits. Beasthide (Bear, Boar); Longtooth (Tiger, Wolf); Swiftstride (Tiger, Rat, Leopard); Wildhunt (Wolf, Rat, Tiger); Cliffwalk (Monkey); Razorclaw (Leopard. Tiger). Other Beastkin animals presented by the Core Pathfinder 2e rules should be considered **rare**.
 
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Lizardfolk Ancestry.
+This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Beastkin Ancestry.
 
 note(
 Shifters are native to the deepest parts of the Eldeen Reaches, it is possible that some variations of Shifters are yet unknown to Khorvaire. As such, consider allowing the PCs to play Catfolk, Ratfolk, Kitsune, Tengu, or Shoony Ancestries as Shifters of Eberron who are more integrated with their animalistic traits.
@@ -1111,6 +1110,7 @@ For more information, see Exploring Eberron (p. 189).
   
 |
 =
+#<null> ((+New Ancestries))
 <!--# Bugbears-->
 https://scribe.pf2.tools/v/R6QVPJql
 =
@@ -1133,7 +1133,7 @@ The origin of the dwarves is shrouded in mystery. Some of their legends tell of 
 ## Lore Adjustments
 The following details have modified lore to fit more closely to Eberron.
 - References to the Forgefather should instead be to Onatar, though Dwarves are not necessarily beholden to the Sovereign host. (Anvil Dwarf)
-- References to Kols should be instead to Boldrei, though Dwarves are not necessarily beholden to the Sovereign host. (Oathkeeper Dwarf):()
+- References to Kols should be instead to Boldrei, though Dwarves are not necessarily beholden to the Sovereign host. (Oathkeeper Dwarf)
 ## Dwarf Heritage Modifications
 The following heritages have modified lore to fit more closely to Eberron.
 ### Elemental Heart Dwarf

@@ -1,5 +1,5 @@
 head(
-# Bugbears ((+Bugbears))
+# Bugbears ((++Bugbears))
 Dhakaani bugbears are known as Guul’dar, “strong folk,” and are celebrated for their strength and courage. Though they appear slow, they are capable of great bursts of strength or speed when necessary. Many yearn to prove their mettle on the battlefield, risking their lives to earn the glory known as atcha. Others instead find themselves at peace in small isolated clans, moving in flow with the nature around them.
 -
 )

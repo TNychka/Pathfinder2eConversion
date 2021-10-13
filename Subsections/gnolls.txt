@@ -1,5 +1,5 @@
 head(
-# Gnolls ((+Gnolls))
+# Gnolls ((++Gnolls))
 Powerfully-built humanoids that bear resemblance to hyenas, gnolls are cunning warriors and hunters. Their frightening visage and efficient tactics have given them an ill-starred reputation.
 -
 )
