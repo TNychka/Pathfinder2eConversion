@@ -107,7 +107,7 @@ item(
 ## Feat 1
 -
 ; Eberron Changeling
-You can change your skin pattern to more closely match your environment. While in cover or difficult terrain - including rubble, snow, or underbrush - you gain a +1 status bonus to your stealth checks to sneak, hide, or otherwise avoid detection.
+You can change your skin pattern to more closely match your environment. While in cover you gain a +1 status bonus to your stealth checks to sneak, hide, or otherwise avoid detection.
 )
 item(
 # Clawed Adaptation
