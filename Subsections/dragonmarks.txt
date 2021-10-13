@@ -136,7 +136,7 @@ item(
 
 **Trigger** you fail an athletics check.
 -
-Your rigorous training of battlefield manoeuvres lets you push through failures. If you fail an athletics check, you can reroll the check. You may select the better of the two rolls.
+Your rigorous training of battlefield manoeuvres lets you push through failures. If you fail an Athletics check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Deneith Battle Stance
@@ -213,7 +213,7 @@ item(
 
 **Trigger** you fail an acrobatics check.
 -
-Hard training on ships in all conditions improves your balance. If you fail an acrobatics check, you can reroll the check. You may select the better of the two rolls.
+Hard training on ships in all conditions improves your balance. If you fail an Acrobatics check, you can reroll the check. You may select the better of the two rolls.
 )
 item(
 # Mark of Vengeance
@@ -330,7 +330,7 @@ item(
 ## Feat 3
 -
 ; Aberrant Mark, General, Dragonmark
-Your aberrant dragonmark gives you a natural affinity for vermin. When you use a spell that can target individual animals such as possession or summon animal, you may ignore the swarm mind immunity of swarms, and target swarms as an individual creature.
+Your aberrant dragonmark gives you a natural affinity for vermin. When you use a spell that can target individual animals such as Possession or Summon Animal, you may ignore the swarm mind immunity of swarms, and target swarms as an individual creature.
 )
 item(
 # Scribe's Eye
@@ -473,13 +473,13 @@ head(
 The Mark of Detection is an inquisitive's dream. It sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues others might miss. By actively drawing on its powers, the bearer can detect poisons and study the energies of magic.
 -
 )
-The Mark of Detection manifests on the Khoravar of Eberron. Khoravar are half-elves by lineage, but use the pathfinder rules of half-elves as a heritage of the human ancestry. When you pick the human ancestry, you may pick this heritage. By picking this heritage at first level, you gain access to all of the mark of detection ancestry feats and the potential of manifesting a dragonmark.
+The Mark of Detection manifests on the Khoravar of Eberron. Khoravar are half-elves by lineage, but use the pathfinder rules of half-elves as a heritage of the human ancestry. When you pick the human ancestry, you may pick this heritage. By picking this heritage at first level, you gain access to all of the Mark of Detection ancestry feats and the potential of manifesting a dragonmark.
 ## Mark of Detection [Half-Elf Heritage] ((+Mark of Detection))
 At least one of your parents is a half-elf descendant of a mark of detection bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the dragonmarked heritage trait, mark of detection trait, and low-light vision. In addition, you can pick elf, half-elf, human, dragonmarked heritage, and mark of detection feats whenever you gain an ancestry feat.
 ## Mark of Detection Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of detection focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Detection traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Detection, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Detection traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Hyperfocus
@@ -488,7 +488,7 @@ Level | Spell
 4 | Know the Enemy
 
 ### New Focus Spells
-As a member of the Mark of Detection, you may select also select from among the following focus spells.
+As a member of the Mark of Detection, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of Detection
@@ -592,7 +592,7 @@ At least one of your parents is a half-orc descendant of the mark of finding blo
 If you manifest a mark, you will begin to gain access to the following mark of finding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Finding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Finding, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Finding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Hyperfocus
@@ -602,7 +602,7 @@ Level | Spell
 5 | Hunter's Vision
 
 ### New Focus Spells
-As a member of the Mark of Finding, you may select also select from among the following focus spells.
+As a member of the Mark of Finding, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of Finding
@@ -703,7 +703,7 @@ At least one of your parents is a human descendant of the Mark of Handling blood
 ## Mark of Handling Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of handling focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Handling traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Handling, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Handling traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Heal Animal
@@ -712,7 +712,7 @@ Level | Spell
 3 | Beastmaster Trance
 4 | Enlarge Companion
 ### New Focus Spells
-As a member of the Mark of Handling, you may select also select from among the following focus spells.
+As a member of the Mark of Handling, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Handler
@@ -859,7 +859,7 @@ At least one of your parents is a halfling descendant of the Mark of Healing blo
 ## Mark of Healing Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of healing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Healing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Healing, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Healing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Life Boost
@@ -869,7 +869,7 @@ Level | Spell
 10 | Revival
 
 ### New Focus Spells
-As a member of the Mark of Handling, you may select also select from among the following focus spells.
+As a member of the Mark of Handling, you may select also select from among the following new focus spells.
 item(
 # Guidance of the Healer
 ## Cantrip 2
@@ -971,7 +971,7 @@ At least one of your parents is a halfling descendant of the Mark of Hospitality
 ## Mark of Hospitality Focus Spells
 If you manifest a mark, you will begin to gain access to the following Mark of Hospitality focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Hospitality traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Hospitality, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Hospitality traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Charming Touch
@@ -980,7 +980,7 @@ Level | Spell
 1 | Sweet Dream
 4 | Unity 
 ### New Focus Spells
-As a member of the Mark of Hospitality, you may select also select from among the following focus spells.
+As a member of the Mark of Hospitality, you may select also select from among the following new focus spells.
 /
 item(
 # Homely Touch
@@ -1099,7 +1099,7 @@ At least one of your parents is a Human descendant of the Mark of Making bloodli
 If you manifest a mark, you will begin to gain access to the following Mark of Making focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Making traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Making, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Making traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Object Memory
@@ -1107,7 +1107,7 @@ Level | Spell
 4 | Tireless Worker
 
 ### New Focus Spells
-As a member of the Mark of Making, you may select also select from among the following focus spells.
+As a member of the Mark of Making, you may select also select from among the following new focus spells.
 /
 item (
 # Maker's Gift
@@ -1266,7 +1266,7 @@ At least one of your parents is a Human descendant of the Mark of Passage bloodl
 If you manifest a mark, you will begin to gain access to the following mark of passage focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Passage traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Passage, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Passage traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1276,7 +1276,7 @@ Level | Spell
 4 | Traveler's Transit
 
 ### New Focus Spells
-As a member of the Mark of Passage, you may select also select from among the following focus spells.
+As a member of the Mark of Passage, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Courier
@@ -1386,7 +1386,7 @@ At least one of your parents is a Gnome descendant of the Mark of Scribing blood
 If you manifest a mark, you will begin to gain access to the following mark of scribing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Scribing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Scribing, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Scribing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1397,7 +1397,7 @@ Level | Spell
 4 | Transcribe Moment
 
 ### New Focus Spells
-As a member of the Mark of Scribing, you may select also select from among the following focus spells.
+As a member of the Mark of Scribing, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Messenger
@@ -1510,7 +1510,7 @@ At least one of your parents is a Human descendant of the Mark of Sentinel blood
 If you manifest a mark, you will begin to gain access to the following mark of sentinel focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Sentinel traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Sentinel, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Sentinel traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1521,7 +1521,7 @@ Level | Spell
 4 | Unity
 
 ### New Focus Spells
-As a member of the Mark of Sentinel, you may select also select from among the following focus spells.
+As a member of the Mark of Sentinel, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Sentinel
@@ -1630,7 +1630,7 @@ At least one of your parents is an Elf descendant of the Mark of Shadow bloodlin
 If you manifest a mark, you will begin to gain access to the following mark of shadow focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Shadow traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Shadow, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Shadow traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
@@ -1642,7 +1642,7 @@ Level | Focus Spell
 5 | Shadow Jump
 
 ### New Focus Spells
-As a member of the Mark of Shadow, you may select also select from among the following focus spells.
+As a member of the Mark of Shadow, you may select also select from among the following new focus spells.
 /
 item(
 # Become Shadow
@@ -1737,7 +1737,7 @@ At least one of your parents is a half-elf descendant of a Mark of Storm bloodli
 If you manifest a mark, you will begin to gain access to the following mark of storm focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Storm traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Storm, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Storm traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Focus Spell | Source
 --- | :---
@@ -1749,7 +1749,7 @@ Focus Spell | Source
 4 | Stormwind Flight | Core
 
 ### New Focus Spells
-As a member of the Mark of Storm, you may select also select from among the following focus spells.
+As a member of the Mark of Storm, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Storm
@@ -1861,7 +1861,7 @@ At least one of your parents is a Dwarf descendant of the Mark of Warding bloodl
 If you manifest a mark, you will begin to gain access to the following mark of warding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 /
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Warding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Warding, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Warding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell | Source
 --- | :--- | :---
@@ -1871,7 +1871,7 @@ Level | Focus Spell | Source
 5 | Spellmaster's Ward |  Pathfinder Society Guide
 
 ### New Focus Spells
-As a member of the Mark of Warding, you may select also select from among the following focus spells.
+As a member of the Mark of Warding, you may select also select from among the following new focus spells.
 /
 item(
 # Cantrip of the Guard
@@ -1921,7 +1921,7 @@ item(
 **Duration** until the next time you make your daily preparations
 -
 You draw upon your powers of warding to guard the presence of an item. Once the spell has been cast, you can choose to make the item come under the effects of Invisible Item If the target is magical, you can choose to also have it appear as entirely non-magical.
-    If a caster uses detect magic or read aura of an equal or higher level than this spell, the GM can roll a secret counteract check for them to see the presence of this ward.
+    If a caster uses Detect Magic or Read Aura of an equal or higher level than this spell, the GM can roll a secret counteract check for them to see the presence of this ward.
     If a creature interacts with the item, you immediately become aware of this fact.
 -
 **Heightened (3rd)** You may target 1 object of 1 bulk or less.
@@ -1989,7 +1989,7 @@ If you manifest a mark, you will begin to gain access to the following aberrant 
 ### Aberrant Feedback ((++Aberrant Feedback))
 One of the reasons that aberrant marks are so feared, is their potential for causing unintentional harm resulting from their use. The Aberrant Feedback trait applies to most spells that an aberrant mark can cast. 
 
-After you cast a focus spell with the Aberrant Feedback trait, you must you must make a Will save against your dragonmark DC. On a critical failure, you increase your drained condition by 1. If the save is a natural 1, a random creature within 30 feet of the caster (potentially including the caster) takes 1d4 persistent acid, cold, fire, bleeding, or poision damage of the GM's choice. This is in addition to increasing the caster's drained condition. The number of damage dice increases to two with a Lesser Mark, three with a Greater Mark, and four with a Siberys Mark.
+After you cast a focus spell with the Aberrant Feedback trait, you must make a Will save against your dragonmark DC. On a critical failure, you increase your drained condition by 1. If the save is a natural 1, a random creature within 30 feet of the caster (potentially including the caster) takes 1d4 persistent acid, cold, fire, bleeding, or poison damage of the GM's choice. This is in addition to increasing the caster's drained condition. The number of damage dice increases to two with a Lesser Mark, three with a Greater Mark, and four with a Siberys Mark.
 
 note(
 #### Consider the following
@@ -1999,7 +1999,7 @@ Alternatively, if you wish to keep Aberrant Feedback but simplify your combat lo
 )
 =
 ### Additional Focus Spells
-You may select also select from among the following focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, Aberrant Mark, and Aberrant Feedback traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As an Aberrant Marked character, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, Aberrant Mark, and Aberrant Feedback traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
@@ -2012,7 +2012,7 @@ Level | Focus Spell
 7 | Shadow's Web
 
 ### New Focus Spells
-As an Aberrant Marked, you may select also select from among the following focus spells.
+As an Aberrant Marked character, you may select also select from among the following new focus spells.
 /
 item (
 # Induce Chaos
