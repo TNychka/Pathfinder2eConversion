@@ -90,33 +90,36 @@ The abilities and the personalities of kalashtar are heavily influenced by their
 
 ## Du'ulora Kalashtar 
 The fiendish du'ulora spirit inhabits your bloodline and is one that feeds on rage and aggression. You choose one of the following paths.
-### Du'ulora Aggravator 
-You learn to channel others' anger to blind your enemies with rage and increase the adrenaline and focus of those you support. You may cast either Bane or Bless as an occult innate spell once per day.
-|
- 
 **Special** If at any point you gain access to the Moment of Clarity feat through class or archetype, you automatically gain it from this heritage.
+### Du'ulora Aggravator 
+You learn to channel others' anger to blind your enemies with rage. You become trained in Intimidation (or another skill if you were already trained in Diplomacy). In addition, when you use the Feint action, you may make an Intimidation check
+|
+instead of making a Deception check.
+### Du'ulora Battle Spirit
+You learn to increase the adrenaline and focus of those you support in the heat of battle. You may use your aid reaction on any allies under the effect of your Link Minds to assist in Athletics checks or Attack rolls. After you do so, your Link Minds ends on that ally.
 
 ## Hashalaq Kalashtar
 The hashalaq quori is a force that feeds on doubt and desire. You can choose one of the following paths.  
 ### Hashalaq Seducer
-You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). You gain the Group Impression skill feat. In addition, when you make a group impression you can increase the number of targets by half rounded up.
+You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). When you Make an Impression you gain a +2 circumstance bonus to your check and a +1 circumstance bonus to your Requests of Helpful NPCs.
+
 ### Hashalaq Insightful 
-You become trained in Deception (or another skill if you were already trained in Deception). You gain the Lie to Me skill feat. In addition, you gain a +2 circumstance bonus against any attempt to lie to you. 
+You become trained in Deception (or another skill if you were already trained in Deception). You gain the Lie to Me skill feat. In addition, you gain a +1 circumstance bonus against any attempt to lie to you.
 = 
 ### Hashalaq Deciever  
-You become trained in Deception (or another skill if you were already trained in Deception). You gain the Charming Liar skill feat. In addition, you gain a +1 circumstance bonus to your deception checks. 
+You become trained in Deception (or another skill if you were already trained in Deception). You gain the Charming Liar skill feat. In addition, you gain a +1 circumstance bonus to your deception checks.
 ## Kalaraq Kalashtar 
 Kalaraq are the natural leaders of the quori, spirits of pride and ambition. Though rarest of the kalashtar spiritual lineages, you depend on your allies as they depend on you. You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). You must also choose one of the following paths.  
 ### Kalaraq Commander  
-Inhabiting the leader of the quori, you can extend your psionic abilities to test the willpower of those who oppose you. You can cast Command as an innate occult spell once per day.  
+Inhabiting a leader spirit of the quori, you exhibit a force of charisma that persuades others to listen to what you say. You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). You gain the Group Impression skill feat. In addition, when you make a group impression you can increase the number of targets by half rounded up.
 ### Kalaraq Supporter 
-If you are using the stamina variant rules, you gain the Encouraging Words skill feat (even without meeting the level prerequisites) and a +1 circumstance bonus when you use the feat. Otherwise, you gain the following Encouraging Words action. 
+If you are using the stamina variant rules, you gain the Encouraging Words skill feat (even without meeting the level prerequisites). Otherwise, you gain the following Encouraging Words action. 
 item( 
 # Encouraging Words :a: 
 ## Feat 1
 -
 ; Auditory, Kalashtar, Linguistic, Mental
-**Requirements** The target ally lost hp within the last round
+**Requirements** The target ally lost hp within the last round.
 -
 You give an ally within 30 feet a quick boost of encouragement, helping them recover. Attempt a Diplomacy check. The DC is usually the same as a treat wounds check, though the GM might adjust it based on the circumstances. If you have expert proficiency in Diplomacy, you can instead attempt a DC 20 check to increase the Temporary Hit Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Temporary Hit Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Temporary Hit Points by 25.
 
@@ -130,7 +133,7 @@ No matter the result, the ally is temporarily immune to your Encouraging Words f
 item(
 **Critical Failure** Your words fall flat, the ally is temporarily immune to Encouraging Words for 1 day.
 
-**Special** The Temporary Hit Points gained through this action can never add up to be greater than the total Hit Points that a creature has lost. If the recipient receives additional healing, the temporary hit points from this source are reduced by an equal amount to maintain this balance.
+**Special** The temporary hit points gained through this action can never be greater than the total hit points that a creature has lost. If the recipient receives healing which would make the temporary hit points greater than total hit points lost, the temporary hit points from this source are reduced to be equal to total hit points lost.
 )
 note( 
 # Stamina System
@@ -143,7 +146,7 @@ The tsucora are the quori of classic nightmares, feeding on terror. If you have 
 ### Tsucora Intimidator
 You become trained in intimidation (or another skill if you were already trained in intimidation) and gain the Intimidating Glare feat. When you use the Demoralize action, you can instead bend the target's mind to inspire fear. If you do so, Demoralize gains the mental trait rather than the visual trait.  
 ### Tsucora Emancipator
-You gain the ability to control and dampen the influence fear has over you, and your allies. You can cast Remove Fear as an innate occult spell once per day. 
+You gain the ability to control and dampen the influence fear has over you, and your allies. Allies under the effect of your Link Minds gain a +1 status bonus to their saves against effects with the Fear trait.
 note( 
 For more information on the various quori bonds, see Exploring Eberron pg 41.  
 ) 
@@ -179,7 +182,7 @@ item(
 ## Feat 1 
 -
 ; Kalashtar 
-You can link your mind to others with ease. Mind link loses the concentrate trait, and has a casting time of :a:, and loses the somatic component.
+You can link your mind to others with ease. Mind link loses the concentrate trait and has a casting time of :a:, and loses the somatic component.
 )
 |
 item(
