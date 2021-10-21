@@ -1,24 +1,25 @@
 head(
 # Dragonmarks ((Dragonmarks))
-With a flash from the Dragonmark of a Dennith heir, the swing of a blade is deflected at the last moment. As a peace negotiation comes to a close, the glow of a Mark of Detection stops a hidden blade from ending it in war. Dragonmarks are powers that the heirs of twelve houses use to empower their skillset and specialize in their fields.
+With a flash from the Dragonmark of a Deneith heir, the swing of a blade is deflected at the last moment. As a peace negotiation comes to a close, the glow of a Mark of Detection stops a hidden blade from ending it in war. Dragonmarks are powers that the heirs of twelve houses use to empower their skillset and specialize in their fields.
 -
 )
-    Dragonmarks are arcane symbols marked on the skin seven of Khorvaire's common races. They are more intricate than a birthmark but more distinct than a tattoo. Dragonmarks are weaved of blue, green, and purple streaks so vivid, that they seem to glow even without producing light. Scholars still aren't sure as to the origins of Dragonmarks, yet their effect on the world is undeniable. 
+    Dragonmarks are arcane symbols marked on the skin of seven of Khorvaire's common races. They are more intricate than a birthmark but more distinct than a tattoo. Dragonmarks are weaved of blue, green, and purple streaks so vivid, that they seem to glow even without producing light. Scholars still aren't sure as to the origins of Dragonmarks, yet their effect on the world is undeniable. 
+    Of the thirteen true dragonmarks that once existed, twelve true dragonmarks remain. As marks manifested on the peoples of Khorvaire, they did so exclusively in specific bloodlines. Each of these bloodlines has since joined with all other bloodlines of the same type of mark to form a dragonmarked house - gaining complete monopoly over the use of their mark in the world. With the power of their marks, these powerful houses now control large pieces of the economy of Khorvaire. Though each house is bound by the laws of the Korth Edict, in the wake of the last war these laws are being tested. If you bear a mark, it is up to you to decide how you relate to these powerful dragonmarked dynasties.
 
-    Of the thirteen true dragonmarks that once existed, twelve true dragonmarks remain. As marks manifested on the peoples of Khorvaire, they did so exclusively in specific bloodlines. Each of these bloodlines has since joined with other bloodlines of the same mark to form a house. With the power of their marks, these powerful houses control large pieces of the economy of Khorvaire.  Though each house is bound by the laws of the Korth Edict, in the wake of the last war these laws are being tested. If you bear a mark, it is up to you to decide how you relate to these powerful dragonmarked dynasties.
+## Dragonmarks ((+Dragonmarks))
+    Dragonmarks provide arcane power related to a specific and limited area of specialization. Depending on its type, a dragonmark will produce effects related to Detection, Finding, Handling, Healing, Hospitality, Making, Passage, Scribing, Sentinel, Storm, or Warding. The powers manifested by dragonmarks are spell-like effects, the variety and strength of these powers increase with your power, and the size of the dragonmark itself. These powers granted to you by your dragonmark, are in the form of Dragonmark Spells. 
 
-## Dragonmark Focus Spells ((+Dragonmark Focus Spells))
-    Dragonmarks are unique in that they provide arcane specialization in specific and limited areas. Since it is possible to have focus points from multiple sources, any source that provides focus points with the dragonmark trait cannot be combined with any focus point sources that do not have the dragonmark trait. The reverse is also true. Dragonmark focus points should effectively be considered a unique pool, with a unique proficiency rank for spell attack rolls and spell DCs. All dragonmark focus spells are considered to be of the arcane tradition. When you gain a dragonmark focus pool, while most dragonmarks use charisma as their spellcasting ability modifier, you may choose to instead use either intelligence or wisdom. This choice cannot be changed.
-    
-    Generally, dragonmarks follow all the rules for focus spells that appear on page 300 of the Core Rule book, including heightening, refocusing, and multiple point sources. Dragonmark focus spells don't require spell slots, and you can't cast them using spell slots. Certain feats can give you more dragonmark focus spells and increase the size of your dragonmark focus pool, though your dragonmark focus pool can never hold more than 3 dragonmark focus points. It costs 1 dragonmark focus point to cast a dragonmark focus spell. You refill your dragonmark focus pool during your daily preparations, and you can regain 1 dragonmark focus point by spending 10 minutes using the refocus activity to recharge the powers of your dragonmark. Dragonmark focus spells are automatically heightened to half your level rounded up unless otherwise noted - such as by limitations of the power of your mark. You can't cast a focus spell if its minimum level is greater than the maximum heightened level of your dragonmark focus spells. 
-    
-    Many dragonmark focus spells require the dragonmark component. This component is supplied by the dragonmark itself, and so long as nothing is interfering with the dragonmark's powers, the component is automatically provided for the casting of the spell. When the dragonmark component is provided, it is evidently visible as the dragonmark glows with a dim light and shifts about on the caster's skin. 
-
+### Dragonmark Spells
+    Your Dragonmark grants you special arcane spells called Dragonmark Spells, which are a special type of focus spell. It costs 1 Dragonmark Focus Point from your Dragonmark Focus Pool to cast a Dragonmark Focus Spell. When you select a Dragonmarked Heritage, you do not start with a Dragonmark Focus Pool. Specific dragonmark feats will grant a Dragonmark Focus Pool, Dragonmark Proficiency Modifiers, new Dragonmark Focus Points, or new Dragonmark Focus Spells. You refill your Dragonmark Focus Pool during your daily preparations, and you regain 1 Dragonmark Focus Point by spending 10 minutes using the Refocus activity to recharge the powers of your dragonmark.
+    Dragonmark Focus Spells are automatically heightened to half your level rounded up unless otherwise noted - such as by the feats which grant you your dragonmark powers. You can't cast or learn a Dragonmark Focus Spell if its minimum level is greater than the level at which you cast your Dragonmark Focus Spells. Though certain feats grant you more Dragonmark Focus Spells and increase the size of your Dragonmark Focus Pool, your Dragonmark Focus Pool can never hold more than 3 Dragonmark Focus Points. The full rules for focus spells are found on page 300 of the CRB, or [here on AONPRD](https://2e.aonprd.com/Rules.aspx?ID=276). All dragonmark focus spells are considered to be of the arcane tradition. When you gain a Dragonmark Focus Pool, while most dragonmarks use Charisma as their spellcasting ability modifier, you may choose to instead use either Intelligence or Wisdom. You may not change which spellcasting ability modifier you use once you have selected it.
+    Dragonmarks are unique in that they provide arcane specialization in specific and limited areas, and do not interact with regular focus spells in any way. Any spells or feats with the Dragonmark Trait may not be used in conjunction with spells or feats without the Dragonmark trait. Similarly, since it is possible to have focus points from multiple sources, any source that provides focus points or focus spells with the dragonmark trait cannot be combined with focus point sources or focus spells without the dragonmark trait. The reverse is also true. Dragonmark focus points should effectively be considered a unique pool, with its own unique set of focus spells, and its own proficiency rank for spell attack rolls and spell DCs.
+    Many Dragonmark Focus Spells require the dragonmark component. This component is supplied by the dragonmark itself, and so long as nothing is interfering with the dragonmark's powers, the component is automatically provided for the casting of the spell. When the dragonmark component is provided, it is evidently visible as the dragonmark glows with a dim light and shifts about on the caster's skin. 
+=
 ## Dragonmark Traits ((+Dragonmark Traits))
 **Aberrant Mark:** This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits.
 
 **Aberrant Feedback:** The use of your Aberrant powers can be overwhelming. See the Aberrant Mark feedback section for more information.
-=
+
 **Dragonmark:**  Feats, Items, and Spells with this trait are powered by your dragonmark and require that you have the dragonmark trait to interact with them. Creatures with this trait have manifested a dragonmark.
 
 **Dragonmarked Heritage:** When you select your heritage as one of the dragonmarked bloodlines, you gain this trait. This does not necessarily mean you have a dragonmark, only that you have the potential to develop and use one. You may only pick feats with this trait if you have the dragonmarked heritage trait.
@@ -32,7 +33,7 @@ With a flash from the Dragonmark of a Dennith heir, the swing of a blade is defl
 **Mark of Healing:** This mark heritage is unique to the Mark of Healing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Healing trait, in which case you ignore any other specific mark heritage traits.
 
 **Mark of Hospitality:** This mark heritage is unique to the Mark of Hospitality Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Hospitality trait, in which case you ignore any other specific mark heritage traits.
-
+|
 **Mark of Making:** This mark heritage is unique to the Mark of Detection Making. You may only select feats and cast spells with this Trait if you possess the Mark of Making trait, in which case you ignore any other specific mark heritage traits.
 
 **Mark of Passage:** This mark heritage is unique to the Mark of Passage. You may only select feats and cast spells with this Trait if you possess the Mark of Passage trait, in which case you ignore any other specific mark heritage traits.
@@ -48,65 +49,66 @@ With a flash from the Dragonmark of a Dennith heir, the swing of a blade is defl
 **Mark of Warding:** This mark heritage is unique to the Mark of Warding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Warding trait, in which case you ignore any other specific mark heritage traits.
 
 **True Dragonmark:** These marks always have the same shape, manifest a consistent set of powers across all marks of the same type, and are generally constructive in nature. All dragonmarks except the Aberrant marked have this trait. If you possess the True Dragonmark trait, you may select feats and use items with the True Dragonmark trait.
-=
+
 ## Dragonmarked Heritage Feats ((+Dragonmarked Heritage Feats))
 If you have the dragonmarked heritage trait, you may pick from any of the following feats as Ancestry feats.
-
+=
 right(
 # Manifesting a Dragonmark
-    Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. 
+Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. 
     Children are not born with their marks. Rather, a dragonmark most often appears in response to a stressful situation in which the powers of the mark could prove useful. A Deneith heir feels her dragonmark flare to life as her best friend would take a mortal wound. A Lyrandar scion instinctively dashes across the ropes of a storm-tossed ship, and in an instant of burning pain, their mark appears. However, this is not exclusively the case. Sometimes marks will appear later in life, or even never manifest.
     If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities.
 # Bypassing Prerequisites
-    Though most marks start as least marks, some will manifest a lesser mark or even greater mark without explanation. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If you do not meet the prerequisites or level of the dragonmarked feat, it gains the Rare trait. Siberys marks in particular have been known to manifest on entirely unmarked individuals.
+Though most marks start as Least Marks, some will manifest a Lesser Mark or even Greater Mark without explanation. Siberys marks in particular have been known to manifest on previously unmarked individuals. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If the prerequisites or level of the dragonmarked feat is not met, it gains the Rare trait. When bypassing requirements in this way, assume that each of the prerequisite feats has also been gained for the purposes of Dragonmark Pool size and Dragonmark Focus Spell selection. 
 )
 #### 1st Level
 item(
 # Least Mark ((++Least Mark))
 ## Feat 1
 -
-; Dragonmarked Heritage
-You gain a Dragonmark focus pool of 1. You become trained in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are Dragonmark automatically heightened to half your level rounded up, to a maximum of 3. You gain the dragonmark trait.
+; Uncommon, Dragonmarked Heritage
+You gain a Dragonmark Focus Pool of 1 and select a new Dragonmark Focus Spell. You become trained in Dragonmark Arcane attack rolls and DCs, and you must select your spellcasting ability modifier from Intelligence, Wisdom, or Charisma. Your dragonmark spells are Dragonmark automatically heightened to half your level rounded up, to a maximum of 3. You gain the Dragonmark trait.
 )
 #### 5th Level
 item(
 # Lesser Mark ((++Lesser Mark))
 ## Feat 5
 -
-; Dragonmarked Heritage
+; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Least Mark
 -
-Your dragonmark grows along with your powers. You become Expert Proficiency in Dragonmark attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, to a maximum of 6.
+Your dragonmark grows along with your powers. You become Expert Proficiency in Dragonmark attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, to a maximum of 6. You gain an additional Dragonmark Focus Spell, but do not gain an additional Dragonmark Focus Point.
 )
 #### 9th Level
 item(
 # Lesser Dragonmarked Reserve
 ## Feat 9
 -
-; Dragonmarked Heritage
+; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Lesser Mark
 -
-The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1. In addition, you may pick another dragonmark focus spell from your list. This spell can be up to the maximum level you can currently cast. 
+The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1. In addition, you may pick another dragonmark focus spell.
 )
 #### 13th Level
 item(
 # Greater Mark ((++Greater Mark))
 ## Feat 13
 -
-; Dragonmarked Heritage
+; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Lesser Mark
 -
-You become Master Proficiency in Dragonmark attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, to a maximum of 8. You gain an additional dragonmark focus spell, but do not gain an additional focus point.
+You become Master Proficiency in Dragonmark attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, to a maximum of 8. You gain an additional Dragonmark Focus Spell, but do not gain an additional Dragonmark Focus Point. 
 )
 #### 17th Level
 item(
 # Siberys Mark ((++Siberys Mark))
 ## Feat 17
 -
-; Uncommon, Dragonmarked Heritage
-**Prerequisites:** Greater Mark
+; Rare, Dragonmarked Heritage
 -
-You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional dragonmark focus spell and an additional dragonmark focus point.
+)
+item(
+You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional Dragonmark Focus Point and an additional Dragonmark Focus Point.
 )
 =
 ## Dragonmark general feats ((+Dragonmarked General Feats))
@@ -479,7 +481,7 @@ At least one of your parents is a half-elf descendant of a mark of detection blo
 ## Mark of Detection Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of detection focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-As a member of the Mark of Detection, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Detection traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Detection, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Detection traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Hyperfocus
@@ -592,7 +594,7 @@ At least one of your parents is a half-orc descendant of the mark of finding blo
 If you manifest a mark, you will begin to gain access to the following mark of finding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-As a member of the Mark of Finding, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Finding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Finding, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Finding traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Hyperfocus
@@ -703,7 +705,7 @@ At least one of your parents is a human descendant of the Mark of Handling blood
 ## Mark of Handling Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of handling focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-As a member of the Mark of Handling, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Handling traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Handling, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Handling traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Heal Animal
@@ -859,7 +861,7 @@ At least one of your parents is a halfling descendant of the Mark of Healing blo
 ## Mark of Healing Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of healing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-As a member of the Mark of Healing, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Healing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Healing, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Healing traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Life Boost
@@ -971,7 +973,7 @@ At least one of your parents is a halfling descendant of the Mark of Hospitality
 ## Mark of Hospitality Focus Spells
 If you manifest a mark, you will begin to gain access to the following Mark of Hospitality focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 ### Additional Focus Spells
-As a member of the Mark of Hospitality, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Hospitality traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Hospitality, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Hospitality traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Charming Touch
@@ -1099,7 +1101,7 @@ At least one of your parents is a Human descendant of the Mark of Making bloodli
 If you manifest a mark, you will begin to gain access to the following Mark of Making focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-As a member of the Mark of Making, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Making traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Making, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Making traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Spell
 --- | :---
 1 | Object Memory
@@ -1266,7 +1268,7 @@ At least one of your parents is a Human descendant of the Mark of Passage bloodl
 If you manifest a mark, you will begin to gain access to the following mark of passage focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-As a member of the Mark of Passage, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Passage traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Passage, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Passage traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1386,7 +1388,7 @@ At least one of your parents is a Gnome descendant of the Mark of Scribing blood
 If you manifest a mark, you will begin to gain access to the following mark of scribing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-As a member of the Mark of Scribing, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Scribing traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Scribing, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Scribing traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1510,7 +1512,7 @@ At least one of your parents is a Human descendant of the Mark of Sentinel blood
 If you manifest a mark, you will begin to gain access to the following mark of sentinel focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-As a member of the Mark of Sentinel, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Sentinel traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Sentinel, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Sentinel traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Spell
 --- | :---
@@ -1630,7 +1632,7 @@ At least one of your parents is an Elf descendant of the Mark of Shadow bloodlin
 If you manifest a mark, you will begin to gain access to the following mark of shadow focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-As a member of the Mark of Shadow, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Shadow traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Shadow, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Shadow traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
@@ -1737,7 +1739,7 @@ At least one of your parents is a half-elf descendant of a Mark of Storm bloodli
 If you manifest a mark, you will begin to gain access to the following mark of storm focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
 ### Additional Focus Spells
-As a member of the Mark of Storm, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Storm traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Storm, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Storm traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Focus Spell | Source
 --- | :---
@@ -1861,7 +1863,7 @@ At least one of your parents is a Dwarf descendant of the Mark of Warding bloodl
 If you manifest a mark, you will begin to gain access to the following mark of warding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 /
 ### Additional Focus Spells
-As a member of the Mark of Warding, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, and Mark of Warding traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As a member of the Mark of Warding, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Warding traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell | Source
 --- | :--- | :---
@@ -1999,7 +2001,7 @@ Alternatively, if you wish to keep Aberrant Feedback but simplify your combat lo
 )
 =
 ### Additional Focus Spells
-As an Aberrant Marked character, you may select from among the following Pathfinder focus spells. If you do so they lose the class, archetype, and school trait if they have it, and gain the Arcane, Dragonmark, Aberrant Mark, and Aberrant Feedback traits. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+As an Aberrant Marked character, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Aberrant Mark traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
