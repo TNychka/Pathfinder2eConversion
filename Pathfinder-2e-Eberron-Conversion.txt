@@ -1,5 +1,5 @@
 watermark (
-Version 1.0.6
+Version 1.0.8
 )
 title (
 Pathfinder's Guide to Eberron 
@@ -946,15 +946,17 @@ Warforged are a work in progress, that will be added in the next document update
 info(
 For more information on Warforged, see Exploring Eberron (p. 45)
 )
+  
+  
+  
+  
 note (
 # Dragonborn  ((+++Dragonborn Note))
 Dragonborn are an addition to the world of Eberron as of D&D 4e. Given that they are unique to D&D, that Paizo has (intentionally) avoided implementing their statistics, and that Dragonborn are a late introduction to the world of Eberron, this document does not note them as a Core race and will not provide statistics. If the dragonborn are particularly interesting to you, consider either of the Lizardfolk or Kobold Ancestry which have established cultures in Eberron. As always, talk to your GM.
 )
-  
-# Versatile Ancestries ((++Versatile Ancestries))
-There exist instances of canon NPCs throughout the
 |
-world of Eberron with the following Versatile Ancestries, as such they are Uncommon in rarity. However, the following Ancestries are typically the result of unique circumstances around the birth of a child. 
+# Versatile Ancestries ((++Versatile Ancestries))
+There exist instances of canon NPCs throughout the world of Eberron with the following Versatile Ancestries, as such they are Uncommon in rarity. However, the following Ancestries are typically the result of unique circumstances around the birth of a child. 
 
 ## Aasimar ((+++Aasimar))
 Aasimar of Eberron are well represented by the Pathfinder 2e implementation.
@@ -968,32 +970,42 @@ Tieflings of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Tieflings, see the Eberronicon (p. 16).
 )
+  
 # Exotic Ancestries ((++Exotic Ancestries))
 The following Ancestries exist in Pathfinder 2e, however, they do not have any equivalent (or common equivalent) in the world of Eberron. If an Ancestry isn't directly noted in this document, it should be considered an Exotic Ancestry. All Exotic Ancestries gain the Rare trait, replacing other rarity traits they may have. The following are all suggestions about how you might be able to integrate them into your Eberron.
+
+## Android
+Given the conflict that an Android presents with the Warforged Ancestry, and that Eberron is entirely cut off from the Multiverse - Androids are discouraged. However - as always - talk to your GM about having an Android as an advanced Warforged experiment or prototype.
+
+## Aphorite
+An ancestry native to the Plane of Daanvi, or one of Daanvi's manifest zones. 
+info(
+For more information, see Exploring Eberron (p. 149).
+)
+
+## Automatron
+The custom Warforged ancestry presented in this guide is heavily based off of the Automatron ancestry. Given the conflict that an Automatron presents with the Warforged Ancestry, and that Eberron is entirely
+=
+cut off from the Multiverse - Automatrons are discouraged. However - as always - talk to your GM about having an Automatron as an advanced Warforged experiment or prototype.
 
 ## Azarketi
 An ancestry native to the depths of the Thunder Sea. While much of the Ancestry's lore does not apply in Eberron, the mechanics are sound.
 info(
 For more information, see Exploring Eberron (p. 127).
 )
-## Aphorite
-An ancestry native to the Plane of Daanvi, or one of Daanvi's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 149).
-)
+
 ## Catfolk
 Consider them a unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities. Alternatively you could consider them to be a mortal bloodline of the Rakshasa, similar to Tieflings.
 
 ## Changeling
-Not much needs to change to implement Pathfinder
-=
-Changelings in Eberron. However, given the overlap in naming and uncommon nature of the Ancestry, it is denoted as exotic. If using Pathfinder Changelings, consider them entirely distinct from Eberron Changelings.
+Not much needs to change to implement Pathfinder Changelings in Eberron. However, given the overlap in naming and uncommon nature of the Ancestry, it is denoted as exotic. If using Pathfinder Changelings, consider them entirely distinct from Eberron Changelings.
 
 ## Dhampir
 An ancestry native to the Plane of Mabar, or one of Mabar's manifest zones. 
 info(
 For more information, see Exploring Eberron (p. 177).
 )
+
 ## Duskwalker
 An ancestry native to the Plane of Dolurrh, or one of Dolurrh's manifest zones. 
 info(
@@ -1005,11 +1017,19 @@ An ancestry native to the Plane of Mabar or Dolurrh, or one of Mabar's or Dolurr
 info(
 For more information, see Exploring Eberron (p. 156, 177).
 )
+
+## Fleshwarp
+An ancestry native to the Plane of Xoriat, or one of Xoriat's manifest zones. Alternatively, you could be the result of one of Mordain the Fleshweaver's experiments. 
+info(
+For more information, see Exploring Eberron (p. 199).
+)
+|
 ## Ganzi
 An ancestry native to the Plane of Kythri, or one of Kythri's manifest zones. 
 info(
 For more information, see Exploring Eberron (p. 169).
 )
+
 ## Grippli
 As an Ancestry native to the depths of Q'barra, Xen'drik, or Eldeen Reaches.
 
@@ -1018,6 +1038,7 @@ An ancestry native to the Plane of Fernia, or one of Fernia's manifest zones.
 info(
 For more information, see Exploring Eberron (p. 161).
 )
+
 ## Kitsune
 One possibility is as a unique sub-ancestry of Shifter native to the Eldeen Reaches. Alternatively, Kitsune could be an ancestry native to the continent of Sarlona. 
 
@@ -1026,12 +1047,19 @@ As an Ancestry native to the depths of Q'barra, Xen'drik, Eldeen Reaches, or nat
 info(
 For more information on Lamannia, see Exploring Eberron (p.173).
 )
-|
+
 ## Oread
 Oreads are difficult to place. Consider them as an ancestry native to the Plane of Risia, or the Plane of Fernia. If not from the plane itself, then one of the respective manifest zones. 
 info(
 For more information, see Exploring Eberron (p. 161, 182).
 )
+
+## Poppet
+Poppets are small constructs granted a spark of life. This could fit into the world of Eberron in nearly any location where some random happenstance infused a small construct with sentient life. You could consider being the result of the mourning - a soul fused with one of their toys as the mists swept the land, you could consider simply being an advanced creation of your artificer, or you could consider yourself as a story book creature from the planes of Thelanis.
+info(
+For more information, see Exploring Eberron (p. 194).
+)
+=
 ## Ratfolk
 A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
 
@@ -1040,41 +1068,35 @@ Suli are difficult to place. Consider them as an ancestry native to the Plane of
 info(
 For more information, see Exploring Eberron (p. 161, 169, 173, 182).
 )
+
 ## Sylph
 An ancestry native to the Plane of Syrania, or one of Syrania's manifest zones. 
 info(
 For more information, see Exploring Eberron (p. 189).
 )
-## Undine
-An ancestry native to the Plane of Risia, or the Plane of Lamannia. If not from the plane itself, then one of the respective manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 173, 182).
-)
-## Tengu
-A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
 
-## Android
-Given the conflict that an Android presents with the Warforged Ancestry, and that Eberron is entirely cut off from the Multiverse - Androids are discouraged. However - as always - talk to your GM about having an Android as an advanced Warforged experiment or prototype.
-
-## Fleshwarp
-An ancestry native to the Plane of Xoriat, or one of Xoriat's manifest zones. Alternatively, you could be
-=
-the result of one of Mordain the Fleshweaver's experiments. 
-info(
-For more information, see Exploring Eberron (p. 199).
-)
 ## Shoony
 A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
 
 ## Sprite
 An ancestry native to the Plane of Thelanis, or one of Thelanis's manifest zones. 
-
+info(
 For more information, see Exploring Eberron (p. 194).
+)
 
 ## Strix
 An ancestry native to the Plane of Syrania, or one of Syrania's manifest zones. 
 info(
 For more information, see Exploring Eberron (p. 189).
+)
+
+## Tengu
+A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
+
+## Undine
+An ancestry native to the Plane of Risia, or the Plane of Lamannia. If not from the plane itself, then one of the respective manifest zones. 
+info(
+For more information, see Exploring Eberron (p. 173, 182).
 )
   
   
