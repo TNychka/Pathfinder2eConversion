@@ -1,5 +1,5 @@
 watermark (
-Version 1.0.7
+Version 1.0.8
 )
 title (
 Pathfinder's Guide to Eberron 
