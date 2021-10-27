@@ -208,7 +208,7 @@ Magebred Animal | |
      Magebred Warpony | 16 sp per day  | 48 gp (level 2)
 Valenar Riding Horse | 3 sp per day | 20 gp* (level 3)
 Valenar Guard Dog | 3 cp per day | 1 gp* (level 3)
-. * Valenar elves do not sell their animals. However on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
+. * Valenar elves do not sell their animals. However on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted. Price provided for GM balance use.
 /
 **Carver:** A close relative of the clawfoot, a carver is a predatory dinosaur, about the size of a heavy horse, native to the Talenta Plains. Known in some worlds as the deinonychus, it is listed in the monsters section of this guide.
 
@@ -279,7 +279,29 @@ The Thurimbar rod is a magical instrument developed by the gnomes of Zilargo.
 )
 ## Common Consumables
 item(
-# Breath of Siberys
+# Siberys powder
+## Item 0+
+-
+; Uncommon, Alchemical, Consumable
+**Ammunition** round
+
+**Activate** :a: Interact
+-
+Siberys powder is a volatile and explosive alchemical substance commonly used in the production of firearm munitions. Siberys powder becomes inert and useless when wet and must be kept in a sealed, water-tight container.
+-
+**Type** dose or round; **Level** 0; **Price** 1cp
+The smallest unit of siberys powder that still has a simple use, a dose can be a simple package paper parcel around siberys powder or it can be packaged with a metal bullet or pellet to be used as ammunition. When ignited with an arcane spark or mundane fire, a dose of siberys powder explodes. This isn't powerful enough to deal damage but it makes a loud sound and could trigger further explosions. A fuse for a dose can be created with a few twists of paper and causes the dose to explode the round after it's lit.
+-
+**Type** horn; **Level** 2; **Price** 5 gp
+A horn contains 500 doses worth of siberys powder. A horn can be detonated by leaving a small trail of siberys powder and then lighting it. Each 5-foot square requires one dose of siberys powder to create a trail through. As long as the horn is mostly full (at least 400 doses remaining) it can be detonated to deal 1d6 fire damage in a 5-foot burst (DC 16 basic Reflex save). It takes 1 round per 15 feet of powder trail laid down for a horn to detonate after the trail is lit. If multiple horns detonate simultaneously, it can increase the area of the explosion, but the damage in overlapping areas doesn't increase.
+-
+**Type** keg; **Level** 6; **Price** 50 gp
+A keg contains 5,000 doses of siberys powder and can be detonated in the same way as a horn. As long as the keg is mostly full (at least 4,000 doses remaining) this deals 3d6 fire damage in a 20-foot burst (DC 20 basic Reflex save). Detonating multiple kegs can increase the area, but not the damage, of this effect; detonating a keg and any horns at the same time in an overlapping area also doesn't increase the damage. 
+-
+**Crafting Requirements** The initial raw materials must be half eberron shards by value.
+)
+item(
+# Refined Breath of Siberys
 ## Item 1+
 -
 ; Consumable, Magical
@@ -287,7 +309,7 @@ item(
 
 **Activate** :a: Interact
 -
-This is a small globe containing a highly refined solution of dragonshards held in a suspended state. When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
+While still volatile and unstable explosive arcana component, additional refinement has created a small globe containing a highly refined solution of dragonshards held in a suspended state. While suspended in this globe, it is protected from water. When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
 Charges | Level | Price
 --- | :---: | :---: 
 1 | 2 | 4 GP
@@ -301,7 +323,7 @@ Charges | Level | Price
 9 | 17 | 3000 GP
 10 | 19 | 8000 GP
 -
-**Crafting Requirements** The initial raw materials must be half processed siberys shards by value.
+**Crafting Requirements** The initial raw materials must be half processed eberron shards by value.
 )
 =
 note(
@@ -557,12 +579,41 @@ item(
 **Usage** worn; **Bulk** L
 -
 Dragonmark reservoirs are always embedded with a Siberys dragonshard, but come in many forms, most commonly an amulet or bracelet bearing the design of the house crest. Each reservoir is tied to a specific dragonmark, such as the Mark of Healing or the Mark of Making, and you can only attune to it if you possess that dragonmark.
-)
-|
-item(
 **Activation** :aa: Interact; **Frequency** Once per day; **Effect** your dragonmark focus pool restores one point, as if you had completed the refocus activity.
 -
 **Craft Requirements** at least 62 gp of siberys shards 
+)
+|
+## Greater Dragonmark Focus Items ((+Greater Dragonmark Focus Items))
+These items are developed by the individual houses of the twelve to amplify the powers of their mark. The creation of these items are frequently house trademark secrets, and to construct your own without their approval would be a major disservice to the house (if you managed to find the crafting recipe). Members of the house with sufficient reputation, or who are Favoured in House, may be able to access these items in specific house enclaves. Members with sufficiently high favour may even gain the house's approval to construct these items.
+item(
+# Altar of Resurrection
+## Item 13
+-
+; Uncommon, Dragonmark, Magical, Mark of Healing, Structure
+**Price** 3000 gp; **Weight** permanent structure
+-
+This marble slab acts as a channel for the powers of the Mark of Healing. 
+    A character who possesses a lesser Mark of Healing or better can use the altar in their resurrect ritual to target a creature resting on the altar. If the character does so, they may use their Mark of Healing dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Medicine, Society, or their Mark of Healing dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+    The character must still provide the material components for the resurrection spell.
+-
+**Craft Requirements** Crafter must have the Mark of Healing, and at least 25% of the value must be Refined Greater Siberys Shards.
+)
+item(
+# Astral Beacon
+## Item 10
+-
+; Magical, Mark of Passage, Dragonmark, Structure
+**Price** 1000 gp; **Weight** permanent structure
+-
+Tied to the Mark of Passage, this object acts as a magical beacon to Orien heirs slipping through the Astral Plane. An astral beacon is an 8-inch sphere formed from silver and crystal, with the dragonshard at the core; it is often encased in lead or embedded in the floor of a chamber to prevent enemies from stealing or smashing the sphere.
+)
+=
+item(
+    A character with the Mark of Passage using any feature with the teleportation trait may double the range of the teleportation effect as long as the destination point is within 10 feet of an astral beacon. In addition, for the purposes of teleport, selecting a location within 10 feet of an astral beacon is always accurate within 20 feet no matter the distance travelled.
+    In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
+-
+**Craft Requirements** Crafter must have the Mark of Passage, and at least 25% of the value must be Refined Greater Siberys Shards.
 )
 item(
 # Bag of Bounty
@@ -598,6 +649,9 @@ Small dragonshards are embedded in the lining of this leather bag, which is desi
 **Capacity** 100 Bulk
 
 **Shelf-life** 25 times normal perishable expiration
+)
+|
+item(
 -
 **Type** Bag of Bounty (Type IV); **Level** 14; 
 
@@ -607,9 +661,69 @@ Small dragonshards are embedded in the lining of this leather bag, which is desi
 
 **Shelf-life** no expiration
 -
-**Craft Requirements** Crafter must have the Mark of Hospitality; At least 10% of the crafting material value must be Siberys shards.
+**Craft Requirements** Crafter must have the Mark of Hospitality; At least 10% of the crafting material value must be Refined Siberys shards.
+)
+item(
+# Bracelet of Comfort
+## Item 7
+-
+; Dragonmark, Invested, Magical, Mark of Hospitality
+**Price** 300 gp
+
+**Usage** worn; **Bulk** -
+-
+This bauble enhances the effect of the Mark of Hospitality. 
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You Cast Cozy Cabin as a 3rd level spell, but the spell gains the following additional properties.
+- The shelter walls are formed from cobblestone.
+- The shelter extradimensionally larger, becoming 30 feet on each side on the interior.
+- The furnishings in the shelter include four comfortable beds, two armchairs, a dining table, a writing desk, a bookshelf, a mirror, and a covered latrine, and a small fireplace holding a magical fire. There is a basin for bathing, although water is not provided.
+- The caster can set the tone of the decor. The shelter can include a carpet or wall hangings, but like the furniture these objects disappear if they are removed from the shelter.
+-
+**Craft Requirements** Crafter must have the Mark of Hospitality; At least 10% of the crafting material value must be Refined Siberys shards.
+)
+item(
+# Collar of the Wild Bond
+## Item 9+
+-
+; Dragonmark, Invested, Magical, Mark of Handling
+**Price** 600 gp
+
+**Usage** held in 1 hand; **Bulk** L
+-
+This leather collar is studded with small dragonshards attuned to the Mark of Handling. Each collar of the wild bond has an associated key — a small dragonshard embedded in a metal disk.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You Cast Dominate targeting an Animal or Beast wearing the collar, using your Dragonmark spell DC.
+Using the power of the Mark of Handling, you can use the disk to dominate the creature that is wearing the collar. This does not require the character to expend the power of his mark, Dominate loses the
 )
 =
+item(
+Incapacitation trait, and the duration lasts for as long as the target creature continues to wear the collar and remains within 120 feet.
+-
+**Type** Collar of the Wild Bond; **Level** 9; 
+
+**Price** 600 gp;
+
+**Spell Level** Dominate is cast as a 6th level spell.
+-
+**Type** Greater Collar of the Wild Bond; **Level** 17; 
+
+**Price** 13,000  gp;
+
+**Spell Level** Dominate is cast as a 10th level spell.
+-
+**Craft Requirements** Crafter must have the Mark of Handling; At least 20% of the crafting material value must be Refined Medium or Larger Siberys shards.
+)
+item(
+# Extended Ward
+## Item 10
+-
+; Dragonmark, Magical, Mark of Warding, Structure
+**Price** 1000 gp; **Weight** permanent structure
+-
+The Extended Ward holds a relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from a houseward. 
+    This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an extended additional 10 minutes of casting time within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning. It may only sustain one such spell at a time.
+-
+**Craft Requirements** Crafter must have the Mark of Warding.
+)
 item(
 # Ghallanda Cauldron
 ## Item 3
@@ -617,11 +731,66 @@ item(
 ; Dragonmark, Invested, Magical, Mark of Hospitality
 **Price** 55 gp
 
-**Usage** ; **Bulk** 2
+**Usage** Cooking Implement; **Bulk** 2
 -
 A Ghallanda Cauldron is a fortified and enchanted cooking device commonly used by Ghallanda inns. When using a Ghallanda Cauldron, you may prepare food with unnatural speed and skill. You can heat, cool, flavour, and cook the raw contents added to the cauldron with enough precision to recreate the tastes of herbs and spices you don't have access to. You gain a +1 item bonus to craft food and drink, and may do so in half the time.
 -
 **Craft Requirements** Crafter must have the Mark of Hospitality.
+)
+|
+item(
+# Helm of the Sentinel
+## Item 11+
+-
+; Dragonmark, Invested, Magical, Mark of Sentinel
+**Usage** worn helm; **Bulk** L
+-
+A multitude of eyes are engraved on the surface of this helmet. The pupils are tiny dragonshards attuned to the Mark of Sentinel. 
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You Cast Contingency, expending a Dragonmark focus point, and preparing one of your Dragonmark Focus spells.
+The contingency is negated if the character removes the helm, and the helm can only have one contingency active at a time.
+-
+**Type** Least Helm of the Sentinel; **Level** 11; 
+
+**Price** 1,250 gp;
+
+**Spell Level** Contingency is cast as a 7th level spell, the heightened level of the stored dragonmark spell is 4th.
+-
+**Type** Lesser Helm of the Sentinel; **Level** 13; 
+
+**Price** 2,600 gp;
+
+**Spell Level** **Spell Level** Contingency is cast as an 8th level spell, the heightened level of the stored dragonmark spell is 5th.
+-
+**Type** Greater Helm of the Sentinel; **Level** 15; 
+
+**Price** 6,000 gp;
+
+**Spell Level** **Spell Level** Contingency is cast as a 9th level spell, the heightened level of the stored dragonmark spell is 6th.
+-
+**Type** Siberys Helm of the Sentinel; **Level** 17; 
+
+**Price** 13,500 gp;
+
+**Spell Level** **Spell Level** Contingency is cast as a 10th level spell, the heightened level of the stored dragonmark spell is 7th.
+-
+**Craft Requirements** Crafter must have the Mark of Sentinel; At least 20% of the crafting material value must be Refined Medium or Larger Siberys shards.
+)
+item(
+# Houseward
+## Item 12
+-
+; Magical, Mark of Warding, Dragonmark, Structure
+**Price** 2000 gp; **Weight** permanent structure
+-
+While the dragonshard core is quite small, the Houseward itself is a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from an Extended Ward. 
+    A character who possesses a lesser Mark of Warding or better can use the Houseward in their
+)
+=
+item(
+    Ward Domain ritual to target an area centred around the Houseward. If the character does so, they may use their Mark of Warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+    The character must still provide the material components for the Ward Domain spell.
+-
+**Craft Requirements** Crafter must have the Mark of Warding.
 )
 item(
 # Keycharm
@@ -638,12 +807,11 @@ object-although a dragonmarked character could link it to a new warding spell.
 -
 **Craft Requirements** Crafter must have the Mark of Warding.
 )
-
 item(
 # Kundar chains
 ## Item 4+
 -
-; Magical, Mark of Warding, Dragonmark
+; Dragonmark, Magical, Mark of Warding
 **Usage** held in 2 hands; **Bulk** L
 -
 These special manacles can contain even the most difficult of captives. They are applied and function as normal manacles, however, the manacles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.
@@ -695,24 +863,6 @@ In a Sivis message station, a gnome is always on duty by the speaking stone, lis
 -
 **Craft Requirements** Crafter must have the Mark of Scribing.
 )
-
-## Greater Dragonmark Focus Items ((+Greater Dragonmark Focus Items))
-These items are developed by the individual houses of the twelve to amplify the powers of their mark. The creation of these items are frequently house trademark secrets, and to construct your own without their approval would be a major disservice to the house (if you managed to find the crafting recipe). Members of the house with sufficient reputation, or who are Favoured in House, may be able to access these items in specific house enclaves. Members with sufficiently high favour may even gain the house's approval to construct these items in exchange for the house's shared use of the item. 
-
-item(
-# Altar of Resurrection
-## Item 13
--
-; Uncommon, Magical, Mark of Healing, Dragonmark, Structure
-**Price** 3000 gp; **Weight** permanent structure
--
-This marble slab acts as a channel for the powers of the Mark of Healing. 
-    A character who possesses a lesser Mark of Healing or better can use the altar in their resurrect ritual to target a creature resting on the altar. If the character does so, they may use their Mark of Healing dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Medicine, Society, or their Mark of Healing dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
-    The character must still provide the material components for the resurrection spell.
--
-**Craft Requirements** Crafter must have the Mark of Healing.
-)
-|
 item(
 # Storm Spire
 ## Item 15
@@ -724,45 +874,6 @@ These large towers allow bearers of the Mark of Storms to control the local weat
     A character who possesses a lesser Mark of Storms or better can use the tower in their Control Weather ritual to target the surrounding area. If the character does so, they may use their Mark of Storms dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the Storm Spire the secondary casters may choose to use Survival, or their Mark of Storms dragonmark spell modifier.
 -
 **Craft Requirements** Crafter must have the Mark of Storms.
-)
-item(
-# Astral Beacon
-## Item 10
--
-; Magical, Mark of Passage, Dragonmark, Structure
-**Price** 1000 gp; **Weight** permanent structure
--
-Tied to the Mark of Passage, this object acts as a magical beacon to Orien heirs slipping through the Astral Plane. An astral beacon is an 8-inch sphere formed from silver and crystal, with the dragonshard at the core; it is often encased in lead or embedded in the floor of a chamber to prevent enemies from stealing or smashing the sphere.
-    A character with the Mark of Passage using any feature with the teleportation trait may double the range of the teleportation effect as long as the destination point is within 10 feet of an astral beacon. In addition, for the purposes of teleport, selecting a location within 10 feet of an astral beacon is always accurate within 20 feet no matter the distance travelled.
-    In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
--
-**Craft Requirements** Crafter must have the Mark of Passage.
-)
-=
-item(
-# Extended Ward
-## Item 10
--
-; Magical, Mark of Warding, Dragonmark, Structure
-**Price** 1000 gp; **Weight** permanent structure
--
-The Extended Ward holds a relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from a houseward. 
-    This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an extended additional 10 minutes of casting time within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning. It may only sustain one such spell at a time.
--
-**Craft Requirements** Crafter must have the Mark of Warding.
-)
-item(
-# Houseward
-## Item 12
--
-; Magical, Mark of Warding, Dragonmark, Structure
-**Price** 2000 gp; **Weight** permanent structure
--
-While the dragonshard core is quite small, the Houseward itself is a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from an Extended Ward. 
-    A character who possesses a lesser Mark of Warding or better can use the Houseward in their Ward Domain ritual to target an area centred around the Houseward. If the character does so, they may use their Mark of Warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
-    The character must still provide the material components for the Ward Domain spell.
--
-**Craft Requirements** Crafter must have the Mark of Warding.
 )
 |
 =
