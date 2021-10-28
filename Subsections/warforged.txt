@@ -14,27 +14,30 @@ Medium
 25 feet
 
 ## Ability Boosts
-Determined by Heritage
-Free
+Constitution
+Heritage Boost
 Free
 
-## Ability Flaw
+## Ability Flaws
 Charisma
 
 ## Languages
 Common
-Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from Dwarvish, Elvish, Gnomish, Goblin, Halfling, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from Dwarvish, Elvish, Gnomish, Goblin, Halfling, and any other common languages to which you have access (such as the languages prevalent in your region).
 
 ## Traits
 Warforged
-Humanoid
+Construct
 
 ## Living Construct
-
+Your physiological needs are different than those of living creatures. You don't need to eat, drink, or breathe. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being unconscious. Much like with sleeping, if you go too long without entering your standby state, you become fatigued and can't recover until you enter standby for 2 hours.
 )
-Built as mindless machines to fight in the Last War, the warforged developed sentience as a side effect of the arcane experiments that sought to make them the ultimate weapons of destruction. With each successive model that emerged from the creation forges of House Cannith, the warforged evolved until they became a new kind of creature—living constructs.Warforged are renowned for their combat prowess, their size, and their single-minded focus. They make steadfast allies and fearsome enemies. Earlier warforged models are true constructs; some of these remnants of the Last War appear in monstrous varieties, such as the warforged titan.
+
+Built as mindless machines to fight in the Last War, the warforged developed sentience as a side effect of the arcane experiments that sought to make them the ultimate weapons of destruction. With each successive model that emerged from the creation forges of House Cannith, the warforged evolved until they became a new kind of creature—living constructs. Warforged are renowned for their combat prowess, their size, and their single-minded focus. They make steadfast allies and fearsome enemies. Earlier warforged models are true constructs; some of these remnants of the Last War appear in monstrous varieties, such as the warforged titan.
+
 ## You might...
-The warforged were made to fight in the Last War, and they continue to fulfill their purpose with distinction. They fi ght fi ercely and usually without remorse, displaying adaptability impossible for mindless constructs. Now that the war has ended, the warforged seek to adapt to life in this era of relative peace. Some have settled easily into new roles as artisans or laborers, while others wander as adventurers or even continue fighting the Last War despite the return of peace.
+The warforged were made to fight in the Last War, and they continue to fulfill their purpose with distinction. They fight fiercely and usually without remorse, displaying adaptability impossible for mindless constructs. Now that the war has ended, the warforged seek to adapt to life in this era of relative peace. Some have settled easily into new roles as artisans or laborers, while others wander as adventurers or even continue fighting the Last War despite the return of peace.
+
 ## Others Probably...
 
 ## Physical Description...
@@ -45,10 +48,14 @@ Unique among constructs, warforged have learned to modify their bodies through m
 ## Society...
 
 =
+right(
+## Living Core
+Your body is formed of both wood and steel which by the powers of the creation forge are granted life. This life energy flows through you much like the blood of humanoids. As a result, you are a living creature. You don't have the typical construct immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via positive energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin dying when reduced to 0 Hit Points.
+)
 ## Alignment and Religion...
 Warforged are generally neutral. They were built to fight, not to wonder whether fighting is right. Though they are perfectly capable of independent thought and moral speculation, most choose not to wrestle with ethical ideals.
 
-Just as most warforged are not inclined to align themselves with any particular moral or ethical philosophy, few show much interest in religion. Some warforged have found a kind of answer to the questions of their existence by taking up the cause of one religion or another, but these remain a small (if rather vocal) minority among their kind. A larger number gravitate to a messianic fi gure called the Lord of Blades. This powerful leader gathers a cultlike following of disaffected warforged by preaching a return to the Mournland and rebellion against the “weak-fleshed” races
+Just as most warforged are not inclined to align themselves with any particular moral or ethical philosophy, few show much interest in religion. Some warforged have found a kind of answer to the questions of their existence by taking up the cause of one religion or another, but these remain a small (if rather vocal) minority among their kind. A larger number gravitate to a messianic figure called the Lord of Blades. This powerful leader gathers a cultlike following of disaffected warforged by preaching a return to the Mournland and rebellion against the “weak-fleshed” races
 
 ## Names...
 Warforged do not name themselves and only recently have begun to understand the need of other races to have names for everything. Many accept whatever names others see fit to give them, and warforged traveling with humans often are referred to by nicknames. Some warforged, however, have come to see having a name as a defining moment of their new existence, and thus search long and hard for the perfect name to attach to themselves.
@@ -57,55 +64,78 @@ Warforged do not name themselves and only recently have begun to understand the 
 
 =
 # Warforged Heritages
-class | name
---- | :---
-Alchemist | Chemist
-Barbarian | Juggernaut
-Bard | Enchanter
-Champion | Valkyrie
-Cleric | Divine
-Druid | Evolution
-Fighter | Infantry
-Gunslinger | Artillerist
-Inventor | Engineer
-Investigator | Agent
-Magus | Marauder
-Monk | Martial
-Oracle | Seer
-Ranger | Pathfinder
-Rogue | Shinobi
-Sorcerer | Living Wand
-Summoner | Conjurer
-Swashbuckler | Dauntless
-Witch | Spirit
-Wizard | Arcane
-|
-Type | Prototype Purpose
---- | :---
-Evolution | Prototype Scout
-Seer | Prototype Espionage
-Conjurer | Prototype Melee Wand
-Dauntless | Prototype Skirmisher
-Spirit | Prototype Ranged Wand
+## Labourer Warforged
+Your body is designed to endure physical hardships or perform hard labor for long periods of time. You become trained in Athletics (or another skill if you're already trained in Athletics), and you gain the Hefty Hauler skill feat.
+Boost Str.
 
+## Artifice Warforged
+Designed to construct field defenses, create works of art, complex tools, or maintain advanced machinery. You become trained in Crafting (or another skill if you're already trained in Crafting), and you gain the Specialty Crafting skill feat in a specialty of your choice.
+Boost Int. 
 
-Type | Soldier Purpose
---- | ---
-Chemist | Quartermaster
-Juggernaut | Heavy
-Enchanter | Morale
-Valkyrie | Heavy
-Divine | Support
-Infantry | Light
-Artillerist | Ranged
-Engineer | Field Defenses
-Agent | Martial Law, Counter-espionage
-Marauder | Melee Wand
-Pathfinder | Scout
-Shinobi | Scout
-Living Wand | Ranged Wand
-Arcane | Ranged Wand
+## Skirmisher  Warforged
+Designed to execute hit and run skirmish tactics. You have a 30 foot move speed.
+Boost Dex.
+
+## Vanguard  Warforged
+Designed as a foot soldier, you're trained in all simple and martial weapons.
+Boost Str or Dex.
+
+## Juggernaut  Warforged
+Designed to take hits and keep moving. Sporting a bulkier, powerful design, your body has been designed for combat. You have a bulky, humanoid shape. You gain 10 Hit Points from your ancestry instead of 8 and gain a +1 circumstance bonus to Athletics checks to Shove or Trip foes.
+Boost Str
+
+## Living Wand  Warforged
+Designed to channel arcane magic, you have a more powerful integration of arcane power. You gain one cantrip from the arcane spell list. You can cast this spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+Boost Int.
+
+## Envoy  Warforged
+Designed for diplomacy, raised with a multitude of linguistic proficiencies. You learn two new languages, chosen from common languages and any uncommon languages you have access to. These languages take the same form (signed or spoken) as your other languages. If you select the Multilingual feat, you learn three new languages instead of two.
+(No Cha Flaw) or Boost Wis
+
+## Hunter  Warforged
+Designed for assassination/scouting, your ears are finely tuned, able to detect even the slightest whispers of sound. As long as you can hear normally, you can use the Seek action to sense undetected creatures in a 60-foot cone instead of a 30-foot cone. You also gain a +2 circumstance bonus to locate undetected creatures that you could hear within 30 feet with a Seek action.
+Boost Dex or Wis
+
+## Prototype Warforged [Uncommon]
+A unique design, you choose what you were created for. You become trained in a skill, and a 1st level skill feat. 
+Boost Free (Except Con)
+
 
 
 =
 # Warforged Feats
+item(
+# Warforged Lore
+## Feat 1
+-
+; Warforged
+You have come to better understand the process that made your body and the magic that powers it. You gain the trained proficiency rank in Arcana and Crafting. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Warforged Lore.
+
+**Enhancement** Your gain greater understanding. Increase your proficiency rank in either Arcana or Crafting, as well as Warforged Lore, to expert. If you were already an expert in the chosen skill, increase your rank to master instead.
+)
+item(
+# War plating
+## Feat 1
+-
+; Warforged
+Your body is designed to be particularly resilient. The plates that compose your armor are considered medium armor in the plate armor group and grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a speed penalty of –5 feet, and a Strength value of 16. You can never wear other armor or remove your armor; however, you still don't become fatigued from sleeping. Finally, you can etch armor runes onto your body as normal.
+
+**Enhancement** Your chassis becomes difficult to overcome. You gain the Chassis Deflection reaction.
+)
+item(
+# Chassis Deflection :r:
+-
+**Trigger** A critical hit deals physical damage to youAttempt a DC 17 flat check. If you are successful, the attack becomes a normal hit.
+-
+Attempt a DC 17 flat check. If you are successful, the attack becomes a normal hit.
+)
+item(
+# Night Vision
+## Feat 1
+-
+; Warforged
+
+Your eye has been magically enhanced to pierce darkness. You gain low-light vision.
+
+**Enhancement** Your eye has been magically enhanced to pierce darkness. You gain darkvision.
+)
