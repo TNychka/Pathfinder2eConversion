@@ -221,7 +221,7 @@ Valenar Guard Dog | 3 cp per day | 1 gp* (level 3)
 **Valenar Animals:** Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honour, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted. Valenar animals are provided in the monsters section of this guide.
 |
 =
-# Magic Gear ((+Magic Gear))
+# Equipment ((+Equipment))
 Eberron is a world built on a widespread arcane industry. As a result, low-level magic items and spells are relatively easily accessible. The following magical items may be of use to adventurers, but are not necessarily the only ones that exist. There are also a number of more "mundane" magical items that aid common folk with their day to day tasks. Brooms that sweep with the snap of your fingers, Everbright lanterns that glow without fuel, or more. The following items, though magical, should not be considered typical magical items as rewards. These items should be relatively (except in the case of uncommon) easily available in most places.
 
 Town Size | Magic Level | Item Level
@@ -238,7 +238,7 @@ Metropolis | 5th level | 13th level
 note(
 Magic level listed is the suggested maximum that could be found, and may not be present or accessible to adventurers. Beyond 3rd level spells, 4th and 5th level capable casters are likely rare or unique NPCs who may be entirely unavailable, or unwilling, to meet adventurers. 6th and 7th level capable casters are considered a Unique rarity, and a GM should always consider how such a powerful NPC is present in the world. Higher-level items may be theorized about in the arcane centres of Khorvaire, and blueprints might be available, but the odds of finding items of 10th level or beyond available for retail is unlikely.
 )
-## Common Items
+## Common Equipment
 The following items are likely not of interest to adventurers but are of value to the common folk of the world.
 item(
 # Bright Basin
@@ -277,7 +277,9 @@ item(
 The Thurimbar rod is a magical instrument developed by the gnomes of Zilargo.
 **Activate** :aa: Interact (10 minutes); **Effect** While holding the rod, you can produce auditory illusions that unerringly replicate the sound of any instrument, with the sound emanating from the rod. If you use the Thurimbar rod itself to perform, you can produce unearthly music, unlike any natural instrument.
 )
-## Common Consumables
+## Consumable Equipment
+The following equipment is commonly available to most adventurers.
+### Arcana Equipment
 item(
 # Breath of Siberys
 ## Item 1+
@@ -287,7 +289,10 @@ item(
 
 **Activate** :a: Interact
 -
-This is a small globe containing a highly refined solution of dragonshards held in a suspended state. When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
+While still volatile and unstable explosive arcana component, additional refinement has created a small globe containing a highly refined solution of dragonshards held in a suspended state. While suspended in this globe, it is protected from water. When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave, but not a wand), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
+)
+=
+item(
 Charges | Level | Price
 --- | :---: | :---: 
 1 | 2 | 4 GP
@@ -301,12 +306,38 @@ Charges | Level | Price
 9 | 17 | 3000 GP
 10 | 19 | 8000 GP
 -
-**Crafting Requirements** The initial raw materials must be half processed siberys shards by value.
+**Crafting Requirements** The initial raw materials must be half processed eberron shards by value.
 )
-=
 note(
 It is important to qualify that while Cannith engineers are working on solving the overcharging problem, there are no solutions yet. In the event a charge of the Breath of Siberys is applied to a magic item with charges remaining, the item is subject to overcharging. The next time that a charge is expended from the item, roll a DC 10 flat check. On a success, the item is broken. On a failure, the item is destroyed.
 )
+item(
+# Siberys powder
+## Item 0+
+-
+; Uncommon, Alchemical, Consumable
+**Ammunition** round
+
+**Activate** :a: Interact
+-
+Siberys powder is a volatile and explosive alchemical substance commonly used in the production of firearm munitions. Siberys powder becomes inert and useless when wet and must be kept in a sealed, water-tight container.
+-
+**Type** dose or round; **Level** 0; **Price** 1cp
+The smallest unit of siberys powder that still has a simple use, a dose can be a simple package paper parcel around siberys powder or it can be packaged with a metal bullet or pellet to be used as ammunition. When ignited with an arcane spark or mundane fire, a dose of siberys powder explodes. This isn't powerful enough to deal damage but it makes a loud sound and could trigger further explosions. A fuse for a dose can be created with a few twists of paper and causes the dose to explode the round after it's lit.
+-
+**Type** horn; **Level** 2; **Price** 5 gp
+A horn contains 500 doses worth of siberys powder. A horn can be detonated by leaving a small trail of siberys powder and then lighting it. Each 5-foot square requires one dose of siberys powder to create a trail through. As long as the horn is
+)
+|
+item(
+mostly full (at least 400 doses remaining) it can be detonated to deal 1d6 fire damage in a 5-foot burst (DC 16 basic Reflex save). It takes 1 round per 15 feet of powder trail laid down for a horn to detonate after the trail is lit. If multiple horns detonate simultaneously, it can increase the area of the explosion, but the damage in overlapping areas doesn't increase.
+-
+**Type** keg; **Level** 6; **Price** 50 gp
+A keg contains 5,000 doses of siberys powder and can be detonated in the same way as a horn. As long as the keg is mostly full (at least 4,000 doses remaining) this deals 3d6 fire damage in a 20-foot burst (DC 20 basic Reflex save). Detonating multiple kegs can increase the area, but not the damage, of this effect; detonating a keg and any horns at the same time in an overlapping area also doesn't increase the damage. 
+-
+**Crafting Requirements** The initial raw materials must be half eberron shards by value.
+)
+### Magical Components
 item(
 # Cathier Spleen
 ## Item 3
@@ -333,6 +364,7 @@ item(
 -
 The covadish plant grows on the island of Aerenal, where it is highly valued by the elves for its necromantic properties. When used as a material component (adding the material component to the spell if it doesn't already have it) for a Necromancy spell, the covadish leaves heighten the spell level by 1 up to the maximum level you can cast.
 )
+=
 item(
 # Dragonseye acorn
 ## Item 4
@@ -346,7 +378,6 @@ item(
 -
 The dragonseye oak grows in Q’barra and its acorn aids in the casting of certain evocation spells. When used as a material component (adding the material
 )
-|
 item(
 component to the spell if it doesn't already have it) for an evocation spell with the acid, cold, electricity, fire, or sonic trait you gain a circumstance bonus to damage equal to half the level of the spell rounded up.
 )
@@ -387,9 +418,12 @@ item(
 
 **Activate** :a: interact; **Trigger** You cast a spell with the death trait
 -
-The herb known as kieros grows only in the region of Aerenal known as the Madwood. When used as a material component (adding the material component to the spell if it doesn't already have it) for any spell with the death trait, any creature affected by the spell increases its doomed condition by 1.
+The herb known as kieros grows only in the region of Aerenal known as the Madwood. When used as a material component (adding the material component
 )
-=
+|
+item(
+to the spell if it doesn't already have it) for any spell with the death trait, any creature affected by the spell increases its doomed condition by 1.
+)
 item(
 # Laskin Horn
 ## Item 6
@@ -429,7 +463,7 @@ item(
 -
 The masthin plant, native to the jungles of Q’barra, produces natural intoxicants during its early growth and often attracts animals in the wild. When used as a material component (adding the material component to the spell if it doesn't already have it) for any enchantment spell that targets an animal or beast, the Masthin Shoots double the spell’s duration.
 )
-|
+=
 item(
 # Narstone
 ## Item 6
@@ -456,6 +490,30 @@ item(
 -
 The reath vine is a parasite that grows on trees in the Eldeen Reaches. When used as a material component (adding the material component to the spell if it doesn't already have it) for a spell, any creatures with the plant trait take a -1 item penalty to their saves against this spell.
 )
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+|
 =
 head(
 # Dragonmark Focus Items ((Dragonmark Focus Items))
