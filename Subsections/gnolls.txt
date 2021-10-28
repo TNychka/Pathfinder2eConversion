@@ -199,6 +199,7 @@ item(
 -
 ; Gnoll
 **Frequency** once per round
+
 **Prerequisites** Aryth, Nymm, Olarune, Vult, or Zarantyr clan heritage.
 -
 With the aid of your allies, you hone in on vital points of the enemy. On a successful melee strike, you can deal an extra 1d4 extra precision damage to any creature that’s within reach of at least two of your allies.
