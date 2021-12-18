@@ -28,15 +28,15 @@ With the arms race brought about by the last war, and the magic of dragonmarks, 
 ### Other
 This guide also provides details about running the world of Eberron to the full extent  are some what minor guides for building NPCs and PCs that fit the rich lore of the world.
 
-# Questions + Contributing
+# Questions
 Your input is greatly appreciated! I want to make contributing to this project as easy as possible. If you have questions, ideas, or suggestions, please feel free to open a new issue for the maintainer to address.
 
-To use these files, copy paste the entire file into https://scribe.pf2.tools/. You can adjust and modify the file to see formatting changes live and ensure that everything renders correctly. When that's complete, send the entire text back for review. 
+# Contributing
+To use these files, copy paste each of the files into their own document at https://scribe.pf2.tools/. If modifying the main file Pathfinder-2e-Eberron-Conversion.txt you will need to change the subsection hyperlinks to reference your own documents, otherwise your changes won't be reflected. From here, adjust and modify the file to see formatting changes live and ensure that everything renders correctly. When that's complete, send the entire text back for review using a pull request. 
 
-The subsections folder contains the same information as the complete document, but managed in smaller chunks. If you are making adjustments, you should prefer to modify the subsections rather than the main document. The maintainer ensures that the subsections and main document are always in agreement and it is easier to merge in one direction. There is a watermark at the top of each which denotes the current version of the document. The highest version is the one with the most recent changes, ensure that you check the versions of subsections and the main document - the subsections are frequently newer.
+The subsections folder contains individual pieces of the complete document managed in smaller chunks. If you are making adjustments, you will probably be modifying one of these subsections rather than the main document. 
 
-If you've done the modifications yourself feel free to directly submit a Pull Request for review. If you don't want to go through the hassle of figuring out github pull requests but would still like to submit, open a new issue with the new content and we'll do our best to add it in and credit you.
-
+If you don't want to go through the hassle of figuring out github pull requests but would still like to submit, open a new issue with the new content and we'll do our best to add it in and credit you.
 
 ### License
 By contributing, you agree that your contributions will be licensed under the OGL.
