@@ -37,7 +37,7 @@ right(
 ## Size
 Medium
 ## Speed
-20 feet
+25 feet
 ## Ability Boosts
 Strength
 Free
