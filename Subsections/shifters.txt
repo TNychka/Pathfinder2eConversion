@@ -1,6 +1,6 @@
 head(
 # Shifters ((++Shifters))
-Shifters are an ancestry descended from humans and natural werecreatures. Shifters cannot completely change like their were-counterparts but can shift to take on the features of the animal inherent to their bloodline. From this animal, a Shifters gains extraordinary abilities, such as deadly fangs, refined senses, speed, and other such traits.
+Shifters are an ancestry descended from humans and natural werecreatures. Shifters cannot completely change like their were-counterparts but can shift to take on the features of the animal inherent to their bloodline. From this animal, a shifter gains extraordinary abilities, such as deadly fangs, refined senses, speed, and other such traits.
 -
 )
 Shifters are a diverse ancestry that combines the traits of their human and animal blood, not unlike a were-creature. With the ability to draw on their inherent animal to temporarily shift into a more feral version of themselves, they are sometimes also referred to as the were-touched. Shifters are no longer related to the werecreatures or humans that are believed to have started the ancestry and have become a distinct ancestry with unique cultures and traditions. Despite the large distinction between Shifters and Werecreatures, the similarities between the two lead to their persecution during the fifty-year crusade against werecreatures less than two centuries ago. Since then, most shifters across Khorvaire prefer to live in enclaves or districts of other shifters.
@@ -16,7 +16,7 @@ Shifters are a diverse ancestry that combines the traits of their human and anim
 - Have difficulty relating to the strong emotions you can feel.
 
 ## Physical Description...
-Shifters are humanoid in shape, but their were-ancestry gives shifters a distinctly lithe form compared to humans. While walking, shifters tend to move in springs and leaps rather than simply. Their faces and bodies typically show traits of their inherent animal, such as longer fangs, pointed ears, feline eyes, or other such features. Their bodies - especially their legs and forearms - are typically covered in more hair than a human, bordering on a fur-like covering.
+Shifters are humanoid in shape, but their were-ancestry gives shifters a distinctly lithe form compared to humans. While travelling, shifters tend to move in springs and leaps rather than simply walking along side their humanoid companions. Their faces and bodies typically show traits of their inherent animal, such as longer fangs, pointed ears, feline eyes, or other such features. Their bodies - especially their legs and forearms - are typically covered in more hair than a human, bordering on a fur-like covering.
 |
 They typically stand using only the front of their clawed feet, creating semi-digitigrade stance.
 
