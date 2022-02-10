@@ -943,7 +943,7 @@ For more information on Shifters, see the Eberronicon (p. 16).
 ## Warforged  ((+++Warforged))
 Warforged are **common** in the world of Eberron. Warforged are a unique Ancestry to Eberron. Warforged were created as soldiers of war, and now as the last war ends many of them have lost their purpose. Consider what this means for you.
 
-Warforged are a work in progress, that will be added in the next document update (current version 1.0). For the time being, consider the Automatron ancestry provided in Gun and Gears, or one of the Warforged homebrews of /r/Pathfinder2eCreations.
+The warforged ancestry is provided in this document.
 info(
 For more information on Warforged, see Exploring Eberron (p. 45)
 )
@@ -1148,6 +1148,9 @@ https://scribe.pf2.tools/v/ZhZBvBqQ
 =
 <!--Shifters-->
 https://scribe.pf2.tools/v/vBjr7BMV
+=
+<!--Warforged-->
+https://scribe.pf2.tools/v/bmXjCPvf
 =
 head(
 # Dwarves ((+Modified Ancestries))

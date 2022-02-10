@@ -1,8 +1,9 @@
 head(
 # Warforged ((++Warforged))
-Trained from the instant they were constructed, until the moment they were deployed, warforged were invented and born for war. As the war came to an end, warforged were recognized and granted their rights as humanoids by the Treaty of Thronehold. Now, they are soldiers who's only purpose has come to and end, and must find meaning in a world that has no further need for them.
+Trained from the instant they were constructed, until the moment they were deployed, warforged were invented and born for war. As the war came to an end, warforged were recognized and granted their rights as humanoids by the Treaty of Thronehold. Now, they are soldiers whose only purpose has come to an end and must find meaning in a world that has no further need for them.
 -
 )
+
 right(
 ## Hit Points
 8
@@ -13,99 +14,485 @@ Medium
 ## Speed
 25 feet
 
-## Ability Boosts
-Determined by Heritage
-Free
-Free
-
-## Ability Flaw
-Charisma
-
 ## Languages
 Common
-Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from Dwarvish, Elvish, Gnomish, Goblin, Halfling, and any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from Dwarvish, Elvish, Gnomish, Goblin, Halfling, and any other common languages to which you have access (such as the languages prevalent in your region).
 
 ## Traits
 Warforged
-Humanoid
+Construct
 
 ## Living Construct
+Your physiological needs are different from those of living creatures. You don't need to eat, drink, or breathe, but can if you choose to for the effects of consumable spells and magic items. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for at least 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being unconscious. Much like with sleeping, if you go too long without entering your standby state, you become fatigued and can't recover until you enter standby for 2 hours.
 
+## Living Body
+Your body is formed of both wood and steel which by the powers of the creation forge are granted life. This life energy flows through you
 )
-Built as mindless machines to fight in the Last War, the warforged developed sentience as a side effect of the arcane experiments that sought to make them the ultimate weapons of destruction. With each successive model that emerged from the creation forges of House Cannith, the warforged evolved until they became a new kind of creature—living constructs.Warforged are renowned for their combat prowess, their size, and their single-minded focus. They make steadfast allies and fearsome enemies. Earlier warforged models are true constructs; some of these remnants of the Last War appear in monstrous varieties, such as the warforged titan.
+Warforged were created as expendable construct soldiers to fight in the last war. Early Cannith development of the warforged created the early large warforged which were true constructs - machines of war built to mindlessly destroy. With further refinements and arcane experimentation, the warforged evolved until they were a new type of creature-a living construct. This advancement came with the side-effect of sentience. However, with their single-minded focus and combat prowess sentience empowered warforged with a desire to preserve themselves that other mindless constructs do not exhibit - making them a more effective soldier than simple golems. 
+
+In the wake of the Last War, the Treaty of Thronehold has granted warforged their rights and freedom from being used as bought-and-sold soldiers of nations. This freedom from the single purpose that they were built for is a double-edged sword, however, and many warforged struggle to find a place in a world that no longer cares for them. Some warforged have taken up new employments as labourers and artisans, many warforged have taken on employment doing what they already know and fight fiercely as a soldier. Their roles have become that of guards, mercenaries, adventurers, and some have found their way back into the employment of armies. Warforged in these roles make steadfast allies and fearsome enemies. They fight with a vigour that most humanoids struggle to match - but with the ability to adapt and learn that mindless constructs can not replicate.
+
 ## You might...
-The warforged were made to fight in the Last War, and they continue to fulfill their purpose with distinction. They fi ght fi ercely and usually without remorse, displaying adaptability impossible for mindless constructs. Now that the war has ended, the warforged seek to adapt to life in this era of relative peace. Some have settled easily into new roles as artisans or laborers, while others wander as adventurers or even continue fighting the Last War despite the return of peace.
+- Have scars and wounds from fighting in the last war, dealing with old injuries and trauma that has never healed
+- Often misread other creatures' emotions, struggling to understand their - and your own - feelings
+- Apply wartime thinking to every situation, analyzing every situation as a tactical puzzle
+ 
 ## Others Probably...
+- Believe you do not experience emotions and are incapable of higher thinking beyond your programming
+- Are an expendable asset, and to be taken advantage of for your tireless nature and lack of world experience outside the war
+- See you as a valuable ally to have on the battlefield, even if sometimes they struggle to relate to you
 
 ## Physical Description...
-Warforged appear as massive humanoids molded from a composite of materials—obsidian, iron, stone, darkwood, silver, and organic material—though they move with a surprising grace and flexibility. Flexible plates connected by fibrous bundles make up the body of a warforged, topped by a mostly featureless head. 
-Warforged have no physical distinction of gender; all of them have a basically muscular, sexless body shape. In personality, some warforged seem more masculine or feminine, but different people might judge the same warforged in different ways. The warforged themselves seem unconcerned with matters of gender. They do not age naturally, though their bodies do decay slowly even as their minds improve through learning and experience.
-Unique among constructs, warforged have learned to modify their bodies through magic and training. Many warforged are adorned with heavier metal plates than those their creator originally endowed them with. This customized armor, built-in weaponry, and other enhancements to their physical form help to differentiate one warforged from another.
+Warforged appear to be a completely constructed creature. Their frame
+=
+right(
+much like the blood of humanoids. As a result, you are a living creature. You don't have the typical construct immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via positive energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin dying when reduced to 0 Hit Points.
+
+## Constructed Resistance
+Your constructed body has advantages and disadvantages that most humanoid creatures do not. You gain a +1 circumstance bonus to saving throws against diseases, and poisons. However, you are considered to be a creature composed entirely of wood and metal for the purposes of magical or other effects - regardless of your integrated armour type. 
+
+## Emotionally Unaware
+Warforged find it difficult to understand and express complex emotions. You take a –1 circumstance penalty to  Diplomacy, and Performance checks, and on Perception checks to Sense Motive. 
+)
+is composed of a composite of materials—obsidian, iron, stone, darkwood, silver, and organic material. Around this frame, their musculature is composed of root-like cords infused with alchemical liquids that grant strength and surprising grace and flexibility to their body. Their exterior is covered plates creating a form of integrated armour which grants them protection on the battlefield. This armour is a series of flexible plates attached directly into their body by the root-like tendrils of their musculature and is extremely painful to remove. Most warforged share a similar facial structure, with a hinged jaw and crystal eys embedded beneath a reinforced brow ridge. The specific composition and structure of each warforged changes depending on their intended purpose, but all warforged are humanoid in shape. Unique among constructs, warforged have learned to modify their bodies through magic and training. Many warforged are adorned with heavier metal plates than those their creator originally endowed them with. This customized armour, built-in weaponry, and other enhancements to their physical form help to differentiate one warforged from another.
+
+As constructs, warforged typically don't need to breathe, eat, or sleep; however, the body of a warforged needs to vent alchemical impurities at a constant rate. This venting process requires breathable air to prevent a buildup of impurities in a warforged's alchemical fluids which can seize a warforged's biological components, sometimes to fatal effect. Thus, warforged can still suffocate much like living creatures, but can in a limited sense "hold their breath" like other humanoid creatures. Though they don't sleep, warforged require a period of restoration to allow the alchemical fluids of their body to replenish. Without this process, a warforged is incapable of fully restoring their body and they enter an inefficient state (similar to a humanoid who doesn't get 8 hours of sleep).
+
+Warforged were created by Cannith within the last 30 years, and as a result, there have been no recorded deaths by old-age in warforged. Their maximum age is unknown, though older warforged have shown signs of physical decay as they continue to age. Though it is still unclear (and Cannith has never provided a clear answer), it appears that warforged may have innate souls. A warforged's body is as vulnerable to destruction as any other creature is, and warforged that have been destroyed require magical intervention such as resurrection magic to restore themselves.
+
+As constructs, warforged have no concept of gender - nor is their body designed to and specific gendered shape. Though some warforged have selected a gender identity, most warforged are unaware or choose to ignore the concept altogether. 
 
 ## Society...
+Warforged were created as soldiers to fight in the last war, and have only gained their freedom within the last two years. As a result, warforged do not have any established cultures or traditions, or any sort of developed place in society beyond being a soldier. Most warforged have picked up the culture of the nation they fought for, and others have latched on to bits and pieces that interest them creating a mixed celebration of traditions. Since most warforged struggle to relate to other humanoids, most of the time they will band together with other warforged who provide a sense of familiarity. Sometimes the warforged they band together with are those they fought together with in the last war, other times it is simply those who decided to settle in the local area.
 
+Sometimes warforged prefer to lead solitary lives or work to integrate themselves into other humanoid societies. Some warforged wander Khorvaire, looking to find purpose and meaning for themselves and have become ambassadors between cultures.
 =
 ## Alignment and Religion...
-Warforged are generally neutral. They were built to fight, not to wonder whether fighting is right. Though they are perfectly capable of independent thought and moral speculation, most choose not to wrestle with ethical ideals.
+Warforged tend to be neutrally aligned. As constructs of war, they were built to fight without questioning orders. Warforged are capable of emotion and moral reasoning, however, this is something few were trained in and most struggle to comprehend.
 
-Just as most warforged are not inclined to align themselves with any particular moral or ethical philosophy, few show much interest in religion. Some warforged have found a kind of answer to the questions of their existence by taking up the cause of one religion or another, but these remain a small (if rather vocal) minority among their kind. A larger number gravitate to a messianic fi gure called the Lord of Blades. This powerful leader gathers a cultlike following of disaffected warforged by preaching a return to the Mournland and rebellion against the “weak-fleshed” races
+Warforged similarly tend to be unreligious. As a soldier some may have picked up the religion of their humanoid companions, beginning the follow the Sovereign Host as a Brelish soldier, or the Silver Flame as a Thranish soldier, but independently most have not been drawn to religion. Warforged that have begun to follow a religion have sometimes found an answer to the questions of their existence and their purpose in life, but these warforged are few between. 
+
+Some warforged have begun to be drawn towards a messianic figure called the Lord of Blades. The Lord of Blades has begun to gather a cult-like following of warforged by promising purpose to the disaffected and a rebellion against the "weak-fleshed" ancestries. 
 
 ## Names...
-Warforged do not name themselves and only recently have begun to understand the need of other races to have names for everything. Many accept whatever names others see fit to give them, and warforged traveling with humans often are referred to by nicknames. Some warforged, however, have come to see having a name as a defining moment of their new existence, and thus search long and hard for the perfect name to attach to themselves.
+Most warforged do not have a name for themselves beyond their creation number such as unit 4859. Only after being able to explore the world outside of military structure have they begun to understand the need of other races to have names for everything. Many warforged accept any name that others give them, and warforged working in proximity to other humanoids are often are referred to by nicknames. Some warforged, however, have come to see having a name as a defining moment of their new existence, and thus search long and hard for the perfect name to attach to themselves.
 
 ### Sample warforged names
+Anchor, Banner, Bastion, Blade, Blue, Bow, Cart, Church, Crunch, Crystal, Dagger, Dent, Five, Glaive, Hammer, Iron, Lucky, Mace, Oak, Onyx, Pants, Pierce, Red, Rod, Rusty, Scout, Seven, Shield, Slash, Smith, Spike, Temple, Vault, Wall
+  
+## Integrated Armor
+Your heritage will grant you one type of integrated armour, as noted below. If your integrated armour would become destroyed, it no longer grants an item bonus to your AC. However, your destroyed integrated armour can still be repaired at a very hard DC for its level, losing the destroyed condition when its HP is above 0.
 
+### Nominal Integrated Armour
+Your body does not have the armour protections afforded to most other warforged. Though you are still physically wearing integrated armour, you are considered unarmored. Your integrated armour is in the leather armour group and has a Dex cap of +5. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.
+
+### Light Integrated Armour
+Your body is designed to be agile with some protection. Your integrated armour is light armour in the leather armour group that grants a +2 item bonus to AC, a Dex cap of +3, a check penalty of –1, and a Strength value of 12. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal. 
+
+### Medium Integrated Armour
+Your body is designed to be particularly resilient. Your integrated armour is medium armour in the plate armour group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a speed penalty of –5 feet, and a Strength value of 16. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.
 =
+### Heavy Integrated Armour
+Your body is designed to be extremely resilient. Your integrated armour is heavy armour in the plate armour group that grants a +6 item bonus to AC, a Dex cap of 0, a check penalty of –3, a speed penalty of –10 feet, has the Bulwark trait, and a Strength value of 18. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal. 
+
 # Warforged Heritages
-class | name
---- | :---
-Alchemist | Chemist
-Barbarian | Juggernaut
-Bard | Enchanter
-Champion | Valkyrie
-Cleric | Divine
-Druid | Evolution
-Fighter | Infantry
-Gunslinger | Artillerist
-Inventor | Engineer
-Investigator | Agent
-Magus | Marauder
-Monk | Martial
-Oracle | Seer
-Ranger | Pathfinder
-Rogue | Shinobi
-Sorcerer | Living Wand
-Summoner | Conjurer
-Swashbuckler | Dauntless
-Witch | Spirit
-Wizard | Arcane
-|
-Type | Prototype Purpose
---- | :---
-Evolution | Prototype Scout
-Seer | Prototype Espionage
-Conjurer | Prototype Melee Wand
-Dauntless | Prototype Skirmisher
-Spirit | Prototype Ranged Wand
+You select a heritage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your ancestry in the environment where you were born or grew up. You have only one heritage and can’t change it later. A heritage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular heritage.
 
+## Vanguard Warforged
+right(
+# Ability Boost
+Strength
+Constitution
+Free
+  
+# Ability Flaw
+Charisma
+)
+Built to fill out the rank and file in the armies of the last war, the Vanguard warforged was the most commonly created of the warforged. Their development for the exclusive use of warfare means that most of these warforged struggle with socialization, and other aspects Cannith deemed unnecessary to a soldier - it simply wasn't necessary to train them. Given their frequent deployment to front-lines of the most dangerous battlefields of the war, these warforged also frequently suffered the most. Many of the warforged veterans of the war now carry lasting wounds and permanent reminders of the role they played, but some have turned this experience gained into new opportunities.
 
-Type | Soldier Purpose
---- | ---
-Chemist | Quartermaster
-Juggernaut | Heavy
-Enchanter | Morale
-Valkyrie | Heavy
-Divine | Support
-Infantry | Light
-Artillerist | Ranged
-Engineer | Field Defenses
-Agent | Martial Law, Counter-espionage
-Marauder | Melee Wand
-Pathfinder | Scout
-Shinobi | Scout
-Living Wand | Ranged Wand
-Arcane | Ranged Wand
+You have medium integrated armour and gain the Weapon Proficiency general feat.
 
+## Juggernaut Warforged
+right(
+# Ability Boost
+Strength
+Constitution
+Free
 
+# Ability Flaw
+Wisdom
+)
+Used as shock troops in the last war, the Juggernaut warforged were a later development of Cannith and only saw deployment only toward the end of the war. Developed as a heavier version of the Vanguard Warforged, the Juggernaut Warforged has many of the same physical attributes, with the exception of a much more dense plating over their body. These warforged were often more trained than the vanguard in the aspects of intimidation, granting them a slight edge in humanoid interactions. However, their physical prowess on the battlefield leads to overconfidence in many situations off the battlefield. This additional plating reduces their mobility, however, despite the increases in survivability it provides.
+
+You have heavy integrated armour. If you are not trained in heavy armour, you gain the Armor Proficiency general feat. If you were already trained in heavy armour, you ignore the reduction to your Speed from any armour you wear.
+
+## Skirmisher Warforged
+right(
+# Ability Boost
+Dexterity
+Constitution
+Free
+
+# Ability Flaw
+Charisma
+)
+Designed as lightly armoured but more mobile warforged, the Skirmisher Warforged were also widely deployed throughout Khorvaire. Frequently used in archer or scouting units, these variants of the standard warforged soldier were capable of longer skirmish engagements that took advantage of the warforged's tireless nature to drain the enemy's morale. Similar to the Vanguard warforged, these warforged were never trained in the finer points of socialization and frequently struggle to understand other humanoid creatures.
+
+You have light integrated armour and gain the fleet general feat.
 =
+## Skilled Warforged heritage
+right(
+# Ability Boost
+Intelligence
+Constitution
+Free
+
+# Ability Flaw
+Charisma
+)
+The Skilled Warforged were a creation of Cannith with both Military and Civilian purposes in mind. Each Skilled Warforged was created to be proficient in a particular area or field of expertise, and as a result, are more uncommon than most other warforged. Some of these warforged were developed with an arcane focus in mind, others to assist with Cannith artifice. On the battlefield, these warforged saw limited deployment as wand troops but were less common than the Living Wand warforged heritage on the battlefield. 
+
+You have nominal integrated armour and become trained in a skill of your choice. At 5th level, you become an expert in the chosen skill.
+
+## Living Wand Warforged heritage
+right(
+# Ability Boost
+Charisma
+Constitution
+Free
+
+# Ability Flaw
+Wisdom
+)
+The Living Wand Warforged were Cannith's attempt at creating a warforged capable of innate spellcraft. Though the introduction of arcane properties into the warforged creation process worked, the produced warforged were unpredictable in their capabilities. The Living Wand Warforged required additional training after production in order to determine their abilities and to match them with other alike warforged. Due to the complexity and non-standard nature of the average Living Wand warforged, they did not see widespread deployment across Khorvaire. The ones that did were typically formed into extremely effective wand troops.
+
+You have nominal integrated armour, and gain one cantrip from the arcane spell list. You can cast this spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
+
+## Prototype Warforged [Uncommon]
+right(
+# Ability Boost
+Constitution
+Free
+Free
+
+# Ability Flaw
+Charisma
+)
+Cannith created many prototype warforged throughout the war. Many of them were experiments into advanced capabilities for war, some with more complex civilian purposes in mind. For whatever reason - whether the cost of production was prohibitive, or the capabilities did not meet expectations, or the war ended too soon - these Prototype Warforged were never released to the outside world of Khorvaire.
+
+A unique warforged design, work with your GM to figure out what you were created for. Select an integrated armour type, and you become trained in a skill and a 1st level skill feat associated with that skill.
+/
 # Warforged Feats
+#### 1st level
+item(
+# Alchemical Resistance
+## Feat 1
+-
+; Warforged
+You release the alchemical impurities building inside you to purge yourself of harmful chemicals and toxins. Each time you succeed at a Fortitude save against an ongoing poison, you reduce its stage by 2, or by 1 against a virulent poison. Each critical success you achieve against an ongoing poison reduces its stage by 3, or by 2 against a virulent poison.
+
+**Enhancement** You become immune to poison altogether, and the effects of Abysium.
+)
+|
+item(
+# Alert Scout
+## Feat 1
+-
+; Warforged
+You are trained to observe and react to danger. You gain a +2 circumstance bonus to Perception checks made as initiative rolls.
+
+**Enhancement** You can react no matter the circumstance. You gain a +2 circumstance bonus to all initiative rolls you make.
+)
+=
+item(
+# Dark Vision
+## Feat 1
+-
+; Warforged
+
+Your eyes have been magically enhanced to pierce dim light. You gain low-light vision.
+
+**Enhancement** Your eyes have been further enhanced to pierce darkness. You gain darkvision.
+)
+item(
+# Emotionless
+## Feat 1
+-
+; Warforged
+You have turned what some would consider a great weakness into a strength. You gain a +1 circumstance bonus to saving throws against emotion and fear effects. If you roll a success on a saving throw against an emotion or fear effect, you get a critical success instead.
+
+**Enhancement** You have complete physical control over your body, if not always your mind. If you would start your turn confused, controlled, or fleeing due to a failed Will save, you can attempt a Will save against the same DC; on a success, you become paralyzed until your next turn, rather than act against your will.
+)
+item(
+# Integrated Tool
+## Feat 1
+-
+; Warforged
+You can integrate a small toolset of up to 1 Bulk into your body. You can use a 1-minute activity, which has the manipulate trait, to integrate Thieves', Alchemist's, Artisian's, or Healer's tools into your body. You can draw or stow this item as an Interact action. Creatures don't automatically see this integrated item when it's stowed and must actively Seek in order to find it. They take a –2 circumstance penalty to any checks to do so. While you are holding the item, it can't be Disarmed and you can't drop or Release it; you must Interact to store the weapon and free that hand. A creature determined to retrieve the item can do so, but it requires either 1 minute to remove it or extreme violence to your arm—such as physically removing portions of the limb.  
+
+**Enhancement** Your body has more space for integration, or you have become more adept at using your tools. You can now either integrate two tool kits or gain a +1 circumstance bonus to a tool kit of your choice when it is integrated into your body.
+)
+|
+item(
+# Replaceable Integrated Armour
+## Feat 1
+-
+; Warforged
+Though it is an extremely uncomfortable process - less painful but akin to a human replacing their skin - you can replace your integrated armour. You can remove the integrated armour that you are wearing, and replace it with any other set of armour. This activity takes 1 hour, and while you replace your armour you are considered unarmoured and flat-footed. When you complete the process, the new armour is incorporated into your body. You can still never wear other armour on top of this armour, and you don't become fatigued from sleeping in it. As before, you can etch armour runes onto your armour while you are wearing it as normal. 
+
+If you are removing the Integrated Armour from your Heritage, it is considered worthless scrap metal and can only be used as armour if you reincorporate it into your body.
+
+**Enhancement** Your armour becomes more integrated into your body. You gain the Chassis Deflection reaction.
+
+# Chassis Deflection :r:
+-
+**Trigger** A critical hit deals physical damage to you
+-
+Attempt a DC 17 flat check. If you are successful, the attack becomes a normal hit.
+)
+  
+item(
+# Skilled Capability :r:
+## Feat 1
+-
+; Warforged, Concentrate
+**Prerequisites** Skilled Warforged heritage
+
+**Frequency** once per hour
+
+**Trigger** You attempt a skill check in which you are at least trained requiring three actions or fewer.
+-
+Your training allows you to rapidly adapt circumstances to give yourself the best chance of success. You gain a +2 status bonus to the triggering skill check.
+
+**Enhancement** You can see mistakes as they're happening and rapidly adjust to prevent them. If you use Skilled Capability on a skill check and fail, you may reroll the triggering check without the +2 status bonus from Skilled Capability. You must use the new result, even if it's worse than your first roll. If you do so, skilled Capability gains the fortune trait. 
+)
+=
+item(
+# Warforged Armament
+## Feat 1
+-
+; Warforged
+You've been provided with a body part designed for combat. You gain either a claw or blade unarmed attack. The claw deals 1d4 slashing damage, is in the brawling group, and has the agile, finesse, and unarmed traits. The blade deals 1d8 slashing damage, is in the sword group, and has the versatile P and unarmed traits.
+
+Your weapon can be reconfigured; you can select this feat at any level, and you can retrain into or out of this feat or change the type of attack you gain.
+
+**Enhancement** Your attacking part is reinforced. Increase the damage die of the unarmed attack you gain from this feat by one step (from 1d4 to 1d6, or from 1d8 to 1d10).
+)
+item(
+# Warforged Lore
+## Feat 1
+-
+; Warforged
+You have come to better understand the process that made your body and the magic that powers it. You gain the trained proficiency rank in Arcana and Crafting. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Warforged Lore.
+
+**Enhancement** You gain a greater understanding of your creation. Increase your proficiency rank in either Arcana or Crafting, as well as Warforged Lore, to expert. If you were already an expert in the chosen skill, increase your rank to master instead.
+)
+
+#### 5th Level
+item(
+# Arcane Safeguards
+## Feat 5
+-
+; Warforged
+The constructed nature of your body makes it difficult for outside magic to affect you. You gain the Resist Magic reaction.
+
+# Resist Magic :r:
+-
+**Trigger** You attempt a saving throw against a harmful magical effect but haven't rolled yet.
+-
+Your constructed magic protects you. You gain a +1 circumstance bonus to the triggering saving throw. Additionally, if the triggering effect is arcane, if you roll a success, you get a critical success instead.
+)
+|
+item(
+**Enhancement** Your safeguards improve. When you Resist Magic, you gain a number of temporary Hit Points equal to the spell level of the triggering effect.
+)
+item(
+# Disease Resistance
+## Feat 5
+-
+; Warforged
+Your body rejects diseases with ease. Each time you succeed at a Fortitude save against an ongoing disease, you reduce its stage by 2, or by 1 against a virulent disease. Each critical success you achieve against an ongoing disease reduces its stage by 3, or by 2 against a virulent disease.
+
+**Enhancement** You become immune to diseases altogether.
+)
+item(
+# Magical Resistance
+## Feat 5
+-
+; Warforged
+
+Your constructed body provides some defence against magical attacks. Choose one of the following energy damage types: cold, electricity, or sonic. You gain resistance 5 to that damage type.
+
+**Enhancement** You develop deeper resistance to magical attacks, and your resistance improves. Choose one of the following benefits: you gain resistance 5 to the remaining two damage types from the above list, or your chosen resistance increases to a value equal to 1 + half your level.
+)
+item(
+# Incredible Defense :r:
+## Feat 5
+-
+; Warforged
+
+**Trigger** You attempt a saving throw
+
+**Frequency** once per hour
+
+**Prerequisites** Juggernaut Warforged heritage
+-
+You brace yourself and your defences. When you attempt a saving throw, you gain a +2 status bonus to the triggering saving throw.
+
+**Enhancement** You use your constructed nature to resist and endure as you were built to do. You can use Incredible Defense once per 10 minutes, rather than once per hour.
+)
+=
+item(
+# Integrated Armament
+## Feat 5
+-
+; Warforged
+
+Your mechanical body houses a weapon or shield that you can quickly draw and stow, leaving you prepared for combat at all times.
+
+You can use a 1-minute activity, which has the manipulate trait, to integrate a single, one-handed weapon or shield into one of your arms. You can draw or stow this item as an Interact action. Creatures don't automatically see this integrated item when it's stowed and must actively Seek in order to find it. They take a –2 circumstance penalty to any checks to do so. While you are wielding the item, it can't be Disarmed and you can't drop or Release it; you must Interact to store the weapon and free that hand. A creature determined to retrieve the item can do so, but it requires either 1 minute to remove it or extreme violence to your arm—such as physically removing portions of the limb. You can only have one integrated armament at a time, though you can use the 1-minute activity to replace the item or swap the arm in which it's stored.
+
+**Enhancement** Your body has more space for integration. You can now either integrate two one-handed weapons, a one-handed weapon and a shield, or a single two-handed weapon that is split across both arms. You can use a single Interact action to draw or store both integrated armaments. When you draw a single weapon, you can choose to hold it with either one hand or both hands.
+)
+#### 9th Level
+item(
+# Arcane Attunement
+## Feat 9
+-
+; Warforged
+**Prerequisites** Living Wand Warforged heritage
+-
+You have attuned with the arcane runes etched into your construction. Select one 1st-level arcane spell and one 2nd-level or lower arcane spell, to which you have access. You can cast your chosen spells as arcane innate spells each once per day.
+
+**Enhancement** Your attunement grows stronger. Select one 5th-level or lower arcane spell and one 6th-level or lower arcane spell, to which you have access. You can cast them as arcane innate spells each once per day, in addition to the original spells.
+)
+|
+item(
+# Greenshadow
+## Feat 9
+-
+; Warforged
+One of the uncommon manifestations of Warforged is the ability to change the colour of your body to match your surroundings. You can cast blur and invisibility each once per day as 2nd-level arcane innate spells.
+
+**Enhancement** Your camouflage is more potent. Your blur spell now lasts 10 minutes and when you cast invisibility, you can choose to gain the effects of the 4th-level version of the spell. In addition, you can now cast blur and invisibility each twice per day.
+)
+item(
+# Internal Processing
+## Feat 9
+-
+; Warforged
+Your body can internally process the impurities building in your alchemical fluids for a period of time. You can go without access to breathable air for an hour due to your internal processing. At the end of this hour, your alchemical fluids are saturated with impurities, and you must hold your breath as normal. Venting the build-up of impurities in your system takes 10 minutes of exposure to breathable air.
+
+**Enhancement** You are entirely capable of functioning without access to breathable air. You no longer need to breathe at all and are not considered a breathing creature unless you so choose.
+)
+item(
+# Juggernaut Repair
+## Feat 9
+-
+; Warforged
+**Prerequisites** Juggernaut Warforged heritage
+
+**Frequency** once per day
+-
+You manually control and recompose the components of your body, healing and repairing your wounds. You gain fast healing equal to half your level for 1 minute.
+
+**Enhancement** While your Juggernaut Repair is active, you gain a +1 status bonus to your AC.
+)
+=
+item(
+# Lesser Augmentation
+## Feat 9
+-
+; Warforged
+You've focused on enhancing yourself and have received an improvement to one of your existing abilities. You gain the enhancement benefits of one of your 1st- or 5th-level warforged ancestry feats.
+
+You are also capable of reconfiguring your augmentations to meet your needs. You can spend one week of downtime to change the enhancement you gain with this feat.
+
+**Enhancement** You gain the enhancement benefits of another 1st- or 5th-level automaton ancestry feat. Also, your reconfigurations take less time. You only need to spend 1 day of downtime to change any of your enhancements. If you have multiple enhancements, changing each one requires a separate day.
+)
+item(
+# Slam :aa:
+## Feat 9
+-
+; Warforged
+**Prerequisites** Vanguard or Juggernaut Warforged heritage
+
+**Requirements** You have a creature grabbed or restrained.
+-
+You drive to use the maximum potential of your musculature, empowering your attack as you attempt to slam your foe into the ground. Attempt an Athletics check against the foe's Fortitude DC. You take a –2 circumstance penalty to your check if the target is one size larger than you and a –4 circumstance penalty if it's larger than that. You gain a +2 circumstance bonus to your check if the target is one size smaller than you and a +4 circumstance bonus if it's smaller than that.
+
+**Critical Success** You slam the foe down and the force overwhelms it. The creature is knocked prone, becomes dazzled for 1 round, and takes damage equal to 2d6 plus your Strength modifier. The foe is no longer grabbed or restrained by you.
+
+**Success** You slam the foe down. The creature is knocked prone and takes damage equal to your Strength modifier. The foe is no longer grabbed or restrained by you.
+
+**Failure** You are unable to slam the creature, but your hold on the creature remains.
+
+**Critical Failure** The creature breaks free and is no longer grabbed or restrained by you.
+)
+|
+item(
+**Enhancement** Your arms better channel your core's power. You no longer take penalties for attempting to slam larger foes. Your foe takes damage equal to 2d6 plus your Strength modifier on a success (or double that on a critical success).
+)
+item(
+# Warforged Offense :f:
+## Feat 9
+-
+; Warforged
+**Prerequisites** Vanguard Warforged heritage
+
+**Frequency** once per hour
+
+**Trigger** You make an attack roll.
+-
+Your innate combat ability enables you to strengthen your attack. You gain a +1 status bonus to the triggering attack roll.
+
+**Enhancement** You can execute a series of practised blows to take advantage of this surge of strength, the +1 status bonus applies to each attack roll you make for the next round.
+)
+item(
+# Precious Material Tracery
+## Feat 9
+-
+; Warforged
+
+**Prerequisite** in possession of 1 ingot of the precious material you select
+-
+Regardless of your integrated armour type, your body becomes covered and traced with thin root-like strands of a precious material as you incorporate it into your body. Select either Cold Iron or Silver. A creature with weakness to any of these materials is subject to its effects as if you were wearing armour made of the precious material.
+
+**Enhancement** You may select the other precious material type.
+)
+#### 13th Level
+item(
+# Construct Rejuvenation :f:
+## Feat 13
+-
+; Warforged
+**Frequency** once per day
+
+**Trigger** You have the dying condition and are about to attempt a recovery check.
+-
+Your willpower taps into the physical essence of your construction to push against the grasp of death and allow you to recover consciousness. You're restored to 1 Hit Point, lose the dying and unconscious conditions, and can act normally on this turn. You gain or increase the wounded condition as normal when losing the dying condition in this way.
+)
+=
+item(
+**Enhancement** You can push yourself even harder to rise from death, granting you additional benefits. When you use Construct Rejuvenation, you also gain a number of temporary Hit Points equal to three times your level. These Hit Points remain for 1 minute.
+)
+item(
+# Enhanced Locomotion
+## Feat 13
+-
+; Warforged
+You've modified your body or developed the ability to augment your movement. You gain either a climb Speed of 20 feet or a swim Speed of 20 feet, your choice.
+
+**Enhancement** Your body allows for even further forms of movement. You can either select the option from this feat you haven't chosen yet (climb Speed or swim Speed), or you can increase your land Speed by 5 feet and increase the Speed you chose from this feat increase to be equal to your adjusted land Speed.
+)
+#### 17th Level
+item(
+# Greater Augmentation
+## Feat 17
+-
+; Warforged
+You've greatly improved your abilities and your core can support further augmentations. You gain the enhancement benefits of one of your 1st-, 5th-, 9th-, or 13th-level warforged ancestry feats.
+
+You are also capable of reconfiguring your augmentations to meet your needs. You can spend one week of downtime to change the enhancement you gain with this feat.
+)
+|
