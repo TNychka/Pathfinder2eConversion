@@ -28,7 +28,7 @@ Your physiological needs are different from those of living creatures. You don't
 ## Living Body
 Your body is formed of both wood and steel which by the powers of the creation forge are granted life. This life energy flows through you
 )
-Warforged were created as expendable construct soldiers to fight in the last war. Early Cannith development of the warforged war focused on the production of warforged such as the warforged titans which were true constructs - machines of war built to destroy, kill, and die on command. With further refinements and arcane experimentation, the warforged evolved until they were a new type of creature - a living construct. This advancement in development was made possible by the creation forges but came with the side-effect of adding sentience to the new construct known only as warforged. However, with their single-minded focus and combat prowess, sentience empowered warforged with a desire to preserve themselves that Cannith's other mindless constructs did not exhibit - making them a more efficient soldier than simple golems. 
+Warforged were created as expendable construct soldiers to fight in the last war. Early Cannith development of the warforged war focused on the production of warforged such as the warforged titans which were true constructs - machines of war built to destroy, kill, and die on command. With further refinements and arcane experimentation, the warforged evolved until they were a new type of creature - a living construct. This advancement in development was made possible by the creation forges but came with the side-effect of adding sentience to the new construct known only as warforged. However, with their single-minded focus and combat prowess, sentience empowered warforged with a desire to preserve themselves than Cannith's other mindless constructs exhibit - making them a more efficient soldier than simple golems. 
 
 In the wake of the Last War, the Treaty of Thronehold has granted warforged their rights and freedom from being used as bought-and-sold soldiers of nations. This newfound freedom for warforged is a double-edged sword, as many warforged struggle to find a place in a world that no longer cares for them. Some warforged have taken up new employments as labourers and artisans; many warforged have taken on employment doing what they already know and fight fiercely as a soldier. The warforged that fight on have taken roles as guards, mercenaries, adventurers, and some have found their way back into the employment of armies. Warforged in these roles make steadfast allies and fearsome enemies. They fight with a vigour that most humanoids struggle to match - but with the ability to adapt and learn that mindless constructs can not replicate.
 
@@ -273,7 +273,7 @@ item(
 ## Feat 1
 -
 ; Warforged
-You've been provided with a body part designed for combat. You gain either a claw or blade unarmed attack. The claw deals 1d4 slashing damage, is in the brawling group, and has the agile, finesse, and unarmed traits. The blade deals 1d8 slashing damage, is in the sword group, and has the versatile P and unarmed traits.
+You gain either a claw or slam unarmed attack. The claw deals 1d4 slashing damage, is in the brawling group, and has the agile, and finesse, and unarmed traits. The slam deals 1d8 bludgeoning damage, is in the brawling group,  and has the shove and unarmed traits.
 
 Your weapon can be reconfigured; you can select this feat at any level, and you can retrain into or out of this feat or change the type of attack you gain.
 
