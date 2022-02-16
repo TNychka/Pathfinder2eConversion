@@ -3,111 +3,111 @@ head(
 Shifters are an ancestry descended from humans and natural werecreatures. Shifters cannot completely change like their were-counterparts but can shift to take on the features of the animal inherent to their bloodline. From this animal, a shifter gains extraordinary abilities, such as deadly fangs, refined senses, speed, and other such traits.
 -
 )
-Shifters are a diverse ancestry that combines the traits of their human and animal blood, not unlike a were-creature. With the ability to draw on their inherent animal to temporarily shift into a more feral version of themselves, they are sometimes also referred to as the were-touched. Shifters are no longer related to the werecreatures or humans that are believed to have started the ancestry and have become a distinct ancestry with unique cultures and traditions. Despite the large distinction between Shifters and Werecreatures, the similarities between the two lead to their persecution during the fifty-year crusade against werecreatures less than two centuries ago. Since then, most shifters across Khorvaire prefer to live in enclaves or districts of other shifters.
+Shifters are a diverse ancestry that combines the traits of their human and animal heritage, not unlike a were-creature. With the ability to draw on their inherent animal to temporarily shift into a more feral version of themselves, they are sometimes also referred to as the were-touched. Shifters are no longer related to either of these distant ancestors and have become a distinct ancestry with unique cultures and traditions. Despite the large distinction between shifters and werecreatures, shifters were persecuted during the fifty-year crusade against werecreatures less than two centuries ago. Since then, most shifters across Khorvaire prefer to live in enclaves or districts of other shifters -avoiding other ancestries which may still bear them ill will.
 
 ## You might...
-- Prefer the companionship of other shifters or a close group of friends
-- Feel strong emotions, typically manifesting in the spirit of your inherent animal
-- View survival as a challenge, and strive to be self-reliant, adaptable, and resourceful
+- Prefer the companionship of other shifters or a close group of friends.
+- Feel strong emotions, typically manifesting in the spirit of your inherent animal.
+- View survival as a challenge, and strive to be self-reliant, adaptable, and resourceful.
 
-## Others Probably...
-- Assume that you have a natural connection to animals and the natural world. Especially that of your inherent animal.
-- Worry that you can't control yourself and may give in to your feral instincts to attack others, especially when the moon is full.
-- Have difficulty relating to the strong emotions you can feel.
+## Others Probably... 
+- Assume that you have a natural connection to animals and the natural world. Especially that of your inherent animal. 
+- Worry that you can't control yourself and may give in to your feral instincts to attack others, especially when the moon is full. 
+- Have difficulty relating to the strong emotions you can feel. 
 
-## Physical Description...
-Shifters are humanoid in shape, but their were-ancestry gives shifters a distinctly lithe form compared to humans. While travelling, shifters tend to move in springs and leaps rather than simply walking along side their humanoid companions. Their faces and bodies typically show traits of their inherent animal, such as longer fangs, pointed ears, feline eyes, or other such features. Their bodies - especially their legs and forearms - are typically covered in more hair than a human, bordering on a fur-like covering.
+## Physical Description... 
+Shifters are humanoid in shape, but their were-ancestry gives shifters a distinctly lithe form compared to humans. While travelling, shifters tend to move in springs and leaps rather than simply walking alongside their humanoid companions. Their faces and bodies typically show traits of their inherent animal, such as longer fangs, pointed ears, feline eyes, and other such features. Their bodies -especially their legs and forearms -are typically covered in more hair than
 |
-They typically stand using only the front of their clawed feet, creating semi-digitigrade stance.
+a human, creating a fur-like covering over their limbs. 
+A shifter's stance is typically upright with their weight placed on only the front of their clawed feet, creating a semi-digitigrade look. 
 
-A Shifters' inherent animal is more obvious when they are transformed into their hybrid shape, their features shifting to resemble the animal to which they are connected. The manifestation of these features varies from shifter to shifter, but typically, their teeth become more prominent, their skin toughens like hide, their hair lengthens, and their eyes reshape.
+A Shifters' inherent animal is more obvious when they are transformed into their hybrid shape, their features shifting to resemble the animal to which they are connected. The manifestation of these features varies from shifter to shifter, but typically, their teeth become more prominent, their skin toughens like hide, their hair lengthens, and their eyes reshape. 
 
-## Society...
-Shifters are a relatively uncommon race in Khorvaire. Yet, the shifters who remain have formed tight-knit communities. There are two primary types of shifter communities. The first type of community is a nomadic tribal hunter-gather pack, common in the remote woods of the Eldeen Reaches. In urban centres, shifters form small enclaves of other shifters to hold on to their traditions and remain with those who understand their ways.
+## Society... 
+Shifters are a relatively uncommon race in Khorvaire, it is said that there are more changelings in Breland than there are shifters in all of Khorvaire. Yet, the shifters who live throughout Khorvaire have formed tight-knit communities. There are two primary types of shifter communities. The first type of community is a nomadic tribal hunter-gather pack, common in the remote woods of the Eldeen Reaches. The other is common in urban centres where shifters form small enclaves of other shifters to hold on to their traditions and remain with those who understand their ways. 
 
-The communities of the deep forests of the Eldeen Reaches are typically formed out of a desire to be free of the control of nations and other ancestries. The communities are frequently nomadic hunter-gatherer tribes and are primarily composed of shifters as a result of shifters preferring to bond with fellow shifters. Here the culture and traditions of the shifter communities are strongest, as the shifter community strongly bonds with one another.
+The communities of the deep forests of the Eldeen Reaches are typically formed out of a desire to be free of the control of nations and other ancestries. These communities are frequently nomadic hunter-gatherer tribes and are primarily composed of shifters. While it is not unheard of to have other ancestries present in a tribe, shifters typically tend to prefer to bond with fellow shifters. Here the culture and traditions of the shifter communities are strongest, as the shifter community cooperates for the good of one another and the survival of the community. 
 
-Shifter communities of the enclaves of major cities are done partially as a way for the community to hold on to their culture and traditions. As the minority in many of these regions, shifters that integrate with the community outside their enclaves struggle to hold on to the culture and traditions of their upbringing. 
-
-While the shifter parents are dedicated to raising their children, the family structure is different from many other ancestries. Shifter children typically form a strong bond with a few other children around their age group. Though the children in these groups are typically from many different families, this initial bond is often the strongest bond that a shifter forms in their life.
-
+Shifter communities of the enclaves of major cities typically form as a result of shifters desire to hold on to their culture and traditions. As the minority in many of these urban regions, without these tight-knit groups shifters struggle to hold on to the culture and traditions of their upbringing.  
 =
 right(
-## Hit Points
-8
+## Hit Points 
+8 
 
-## Size
-Medium
+## Size 
+Medium 
 
-## Speed
-25 feet
+## Speed 
+25 feet 
 
-## Languages
-Common
-Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from any other languages to which you have access (such as the languages prevalent in your region).
+## Languages 
+Common 
+Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from any other languages to which you have access (such as the languages prevalent in your region). 
 
-## Traits
-Shifter
-Humanoid
-Beast
+## Traits 
+Shifter 
+Humanoid 
+Beast 
 
-## Shapechanger
-You gain the Change Shape action as noted in the shifter entry.
+## Shapechanger 
+You gain the Change Shape action as noted in the shifter entry. 
 )
 
-## Alignment and Religion...
-Shifters are typically neutral and view the world as a struggle to survive. The moral and ethical concerns of a shifter are typically centred around the well-being of those directly around them. However, shifters are as varied in alignment as they are in the animals that they draw ancestry from, and can be inclined to any alignment.
+While the shifter parents are dedicated to raising their children, the family structure is different from many other ancestries. Shifter children typically form a strong bond with a few other children around their age group. Though the children in these groups are typically from many different families, this initial bond is often the strongest bond that a shifter forms in their life. 
 
-After the silver purge, shifters have become suspicious of any outside religion. Having seen how religion can motivate people, they view intense or conflict-prone religions as terrifying forces capable of causing great harm. As a result, shifters' religions are typically varied and less intense than many would expect of their culture. 
-Many shifters follow some form of druidic worship. The most common druidic worship of shifters is that of the order of druids known as the moonspeakers. These moonspeakers draw meaning from the movements of the moons and believe that the moon's influence over their were-creature heritage gives the moons great power over shifters.
-Other shifters who reside in the major cities of Khorvaire have taken up worship of the local religion. Many shifters in the urban centres of Khorvaire revere Balinor and Boldrei of the Sovereign Host, and many shifter adventurers revere the ways of the Traveller of the Dark Six.
-During the silver purge, some shifters adopted the faith of the Silver Flame and participated in the crusade. Some shifters remain active in the church of the silver flame, though to much scorn of other shifters.
+## Alignment and Religion... 
+Shifters are typically neutral and view the world as a struggle to survive. The moral and ethical concerns of a shifter are typically centred around the well-being of those directly around them. However, shifters are as varied in alignment as they are in the animals that they draw ancestry from, and can be inclined to any alignment. 
 
-## Names...
-Shifters typically take on names similar to that of humans, or that of the community around them though with a more rustic inclination. Shifters typically have a personal name that they use with their friends and a wandering name that they use with strangers.
+After the silver crusade, shifters have become suspicious of any outside religion. Having seen how religion can motivate people, they view intense or conflict-prone religions as terrifying forces capable of causing great harm. As a result, shifters' religions are typically varied and less intense than many would expect of their culture.  
+Many shifters follow some form of druidic worship. The most common druidic worship of shifters is that of the order of druids known as the moonspeakers. These moonspeakers draw meaning from the movements of the moons and believe that the moon's influence over their were-creature heritage gives the moons great power over shifters. 
+Other shifters who reside in the major cities of Khorvaire have taken up worship of the local religion. Many shifters in the urban centres of Khorvaire revere Balinor and Boldrei of the Sovereign Host, and many shifter adventurers revere the ways of the Traveller of the Dark Six. 
+During the silver purge, some shifters adopted the faith of the Silver Flame and participated in the crusade. There are still shifters active in the church of the silver flame, though to much scorn of other shifters. 
 
-### Sample names
-Aethelwulf, Bennin, Bree, Burch, Dominic, Erylis, Geth, Karmos, Lorelai, Lyndra, Taria, Volante
-### Sample wandering names
-Ash, Aurora, Autumn, Brook, Claw, Cliff, Dawn, Flint, Frost, Hazel, Iris, Lily, Rain, River, Rose, Rock, Thorn, Torn, Storm, Summer
+## Names... 
+Shifters typically take on names similar to that of humans, or that of the community around them though with a more rustic inclination. Shifters typically have a personal name that they use with their friends and a wandering name that they use with strangers. 
+
+### Sample names 
+Aethelwulf, Bennin, Bree, Burch, Dominic, Erylis, Geth, Karmos, Lorelai, Lyndra, Taria, Volante 
+### Sample wandering names 
+Ash, Aurora, Autumn, Brook, Claw, Cliff, Dawn, Flint, Frost, Hazel, Iris, Lily, Rain, River, Rose, Rock, Thorn, Torn, Storm, Summer 
 
 item(
-# Change Shape :a:
+# Change Shape :a: 
 -
-; Concentrate, Polymorph, Primal, Transmutation
-**Frequency** Once per hour.
+; Concentrate, Polymorph, Primal, Transmutation 
+**Frequency** Once per hour. 
 -
-You assume a more bestial shape. This hybrid shape has a specific, persistent appearance, which appears to be a half mix between a human and your inherent animal. This change is not quite, yet similar, to the change of a were-creature. While in hybrid shape, you gain a feature of the inherent animal of your heritage. This transformation lasts for 1 minute, or until you spend an action to dismiss it. While in your hybrid form, you gain a natural unarmed jaws unarmed Strike resembling a feature of your inherent animal (fangs for a wolf, beaks for eagles, and so on). Your jaws deal 1d4 piercing damage, have the agile, finesse, and unarmed traits, and are in the brawling weapon group. In your humanoid shape, you retain the appearance of your original ancestry.
+You assume a more bestial shape. This hybrid shape has a specific, persistent appearance, which appears to be a half mix between a human and your inherent animal. This change is not quite, yet similar, to the change of a were-creature. While in hybrid shape, you gain a feature of the inherent animal of your heritage. This transformation lasts for 1 minute, or until you spend an action to dismiss it. While in your hybrid form, you gain a natural unarmed jaws unarmed Strike resembling a feature of your inherent animal (fangs for a wolf, beaks for eagles, and so on). Your jaws deal 1d4 piercing damage, have the agile, finesse, and unarmed traits, and are in the brawling weapon group. In your humanoid shape, you retain the appearance of your original ancestry. 
 )
-
-# Shifter Heritages
-You select a heritage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your ancestry in the environment where you were born or grew up. You have only one heritage and can’t change it later. A heritage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular heritage.
 =
-## Beasthide Shifter
+# Shifter Heritages 
+You select a heritage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your ancestry in the environment where you were born or grew up. You have only one heritage and can’t change it later. A heritage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular heritage. 
+
+## Beasthide Shifter 
 right(
-## Ability Boosts
-Strength
-Constitution
-Free
-## Ability Flaw
-Wisdom
+## Ability Boosts 
+Strength 
+Constitution 
+Free 
+## Ability Flaw 
+Wisdom 
 )
-Typically manifesting traits of the bear or the boar, beasthide shifters can have traits of any animal known for its toughness. Beasthide shifters are known for being straightforward, although sometimes this leads them to be misunderstood as rude. These shifters are also characterized by a steadfast - sometimes stubborn - drive to complete the tasks they take up.
+Typically manifesting traits of the bear or the boar, beasthide shifters can have traits of any animal known for its toughness. Beasthide shifters are known for being straightforward, although sometimes this leads them to be misunderstood as rude. These shifters are also characterized by a steadfast -sometimes stubborn -drive to complete the tasks they take up. 
 
-You gain 10 Hit Points from your ancestry instead of 8.
+You gain 10 Hit Points from your ancestry instead of 8, and Change Shape loses the concentrate trait. 
 
-### Hybrid form
-While in your hybrid form, you gain the following action
+### Hybrid form 
+While in your hybrid form, you gain the following action 
 item(
-# Brace :a:
+# Brace :a: 
 -
-; Shifter
-**Requirements** You are in your hybrid form.
+; Shifter 
+**Requirements** You are in your hybrid form. 
 -
-You brace yourself to take a hit, using your thick skin and fortitude to protect yourself. You gain a +2 circumstance bonus to AC.
+You brace yourself to take a hit, using your thick skin and fortitude to protect yourself. You gain a +1 circumstance bonus to AC. 
 )
-  
-## Cliffwalk Shifter
+
+## Cliffwalk Shifter 
 right(
 ## Ability Boosts
 Strength
@@ -116,57 +116,49 @@ Free
 ## Ability Flaw
 Charisma
 )
-Typically manifesting traits of the mountain goat, cliffwalk shifters can have traits of any animal with an aptitude for climbing. Cliffwalk shifters often have a shy and introverted nature but have a strong sense of kindness and justice for those around them. 
+Typically manifesting traits of the mountain goat, cliffwalk shifters can have traits of any animal with an aptitude for climbing. Cliffwalk shifters often have a shy and introverted nature but have a strong sense of kindness and justice for those around them.  
 
-You become trained in Athletics and gain the Combat Climber feat. Additionally, if you roll a success on an Athletics check to climb, you get a critical success instead.
+You become trained in Athletics and gain the Combat Climber feat.
 
-### Hybrid form
-While in your hybrid form, you gain a +1 status bonus to your Athletics check to climb or Grab and Edge.
-  
+### Hybrid form 
+While in your hybrid form, you gain a +1 status bonus to your Athletics check to climb or Grab and Edge. Additionally, if you roll a success on an Athletics check to climb, you get a critical success instead. 
+
 ## Dreamsight Shifter
 right(
 ## Ability Boosts
 Wisdom
 Free
 )
-Dreamsight shifters are rare among shifters, and their personage extends beyond their inherent animal. Dreamsight shifters have a sharpened instinct and senses compared to other shifters, as they have a deeper connection to the plane of Lamannia. A dreamsight shifter may have any kind of inherent animal - though the animal is typically found in other shifter heritages too. Dreamsight shifters are usually calm and contemplative, especially when compared to other shifters.
+Dreamsight shifters are rare among shifters, and their personage extends beyond their inherent animal. Dreamsight shifters have a sharpened instinct and senses compared to other shifters, as they have a deeper connection to the plane of Lamannia. A dreamsight shifter may have any kind of inherent animal -though the animal is typically found in other shifter heritages too. Dreamsight shifters are usually calm and contemplative, especially when compared to other shifters.
 
-You gain a +1 circumstance bonus to locate undetected creatures within 60 feet when using the Seek action. Your flat check to target concealed creatures is DC 3 instead of DC 5, and your flat check to target undetected creatures is DC 9 instead of DC 11.
-
-### Hybrid form
-While in your hybrid form, you gain additional control over your mind. You gain the following reaction.
-item(
-# Call of the Moon :r:
--
-**Trigger** You attempt a saving throw against a mental effect, but you haven't rolled yet. 
--
-Your ancestors' innate connection to the moon surges, before slowly ebbing down. You gain a +1 circumstance bonus until the end of this turn. This bonus also applies to the triggering save.
-)
+You gain a +2 circumstance to use the Diplomacy or Nature skill with animals and beasts.
 =
+### Hybrid form 
+While in your hybrid form, you have the ability to detect the presence of other creatures. You gain an imprecise lifesense of 30 feet which can detect any animal, beast, humanoid, or plant creature. This allows you to sense the life force within living creatures of the natural world.
+
 ## Gorebrute
 right(
-## Ability Boosts
-Strength
-Free
+## Ability Boosts 
+Strength 
+Free 
 )
-Typically manifesting traits of a bull or ram, Gorebrute shifters can have traits of any animal with a violent charge. Gorebrute shifters value assertiveness and confidence, although these shifters' love for a challenge can be viewed as aggressive. These shifters tend to follow a code of honour or have strong principles of how one should carry themselves in conflict.
+Typically manifesting traits of a bull or ram, Gorebrute shifters can have traits of any animal with a violent charge. Gorebrute shifters value assertiveness and confidence, although these shifters' love for a challenge can be viewed as aggressive. These shifters tend to follow a code of honour or have strong principles of how one should carry themselves in conflict. 
 
-You wield a natural weapon of your animal such as horns or tusks to make unarmed attacks that deal 1d6 bludgeoning damage. Your natural weapon is in the brawling group and has the Deadly d8 trait.
+You wield a natural weapon of your animal such as horns or tusks to make unarmed attacks that deal 1d6 bludgeoning damage. Your natural weapon is in the brawling group and has the Deadly d8 trait. 
 
-### Hybrid form
-While in your hybrid shape, gain the following action.
+### Hybrid form 
+While in your hybrid shape, gain the following action. 
 
 item(
-# Gore Charge :aa:
+# Gore Charge :aa: 
 -
-; Shifter
-
-You stride twice and then make a melee Strike with your natural weapon. As long you moved at least 20 feet, you gain a +2 circumstance bonus to your attack roll.
+; Shifter 
+You stride twice and then make a melee Strike with your natural weapon. As long you moved at least 20 feet, you gain a +2 circumstance bonus to your attack roll. 
 )
-  
+
 ## Longstride Shifter
 right(
-## Ability Boosts
+## Ability Boosts 
 Dexterity
 Charisma
 Free
@@ -174,71 +166,71 @@ Free
 ## Ability Flaw
 Wisdom
 )
-Longstride shifters typically manifest traits of rats or tigers, though can have traits of any swift animal. Longstride shifters are graceful and quick. Longstride shifters are aloof and difficult to pin down physically or socially.
+Longstride shifters typically manifest traits of rats or tigers, though can have traits of any swift animal. Longstride shifters are graceful and quick. Longstride shifters are aloof and difficult to pin down physically or socially. 
 
-You gain the Fleet general feet.
+You gain a +2 circumstance bonus to your Acrobatics checks to Tumble Through and can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline. 
 
-### Hybrid form
-While in your Hybrid form, you gain a +2 circumstance bonus to your Acrobatics checks to Tumble Through and can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline.
-  
-## Longtooth
+### Hybrid form 
+While in your Hybrid form, your speed increases by 5 feet.
+
+## Longtooth 
 right(
-## Ability Boosts
-Strength
-Dexterity
-Free
-## Ability Flaw
-Charisma
+## Ability Boosts 
+Strength 
+Dexterity 
+Free 
+## Ability Flaw 
+Charisma 
 )
-Typically manifesting traits of a canine, tiger, hyena, or other predator, Longtooth shifters can have traits of any animal with a fierce bite. Longtooth shifters have the greatest connectedness with the natural order of all shifters. Sometimes considered savage by others, they rather prefer to live in tune with their surroundings.
+Typically manifesting traits of a canine, tiger, hyena, or other predator, Longtooth shifters can have traits of any animal with a fierce bite. Longtooth shifters have the greatest connectedness with the natural order of all shifters. Sometimes considered savage by others, they rather prefer to live in tune with their surroundings. 
 
-You can use your jaws unarmed attack even in your humanoid form. Your jaws unarmed attack deals 1d6 piercing damage and gains the agile and unarmed trait.
+You can use your jaws unarmed attack even in your humanoid form. Your jaws unarmed attack deals 1d6 piercing damage and gains the agile and unarmed trait. 
 
-### Hybrid form
-While in your hybrid form, your long fangs are formidable weapons. Your jaws unarmed attack gains the grapple and fatal 1d8 trait
-  
-## Razorclaw
+### Hybrid form 
+While in your hybrid form, your long fangs are formidable weapons. Your jaws unarmed attack gains the grapple and fatal 1d8 trait 
+=
+## Razorclaw 
 right(
-## Ability Boosts
-Dexterity
-Free
+## Ability Boosts 
+Dexterity 
+Free 
 )
 Typically manifesting traits of a feline, Longtooth shifters can have traits of any animal with sharp claws. Razorclaw shifters prioritize their physical might and constitution more than others. They are ardent protectors of those they love, and vigilant warriors against those who have wronged them.
-=
-As a razorclaw shifter in your humanoid form, you still have particularly long, sharp claws. You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits.
 
-### Hybrid form
-While in your hybrid form, your claws become capable of delivering vicious wounds with a wicked swipe. Your claw attack deals 1d6 damage and gains the deadly d8 and versatile (piercing) traits. 
+As a razorclaw shifter in your humanoid form, you still have particularly long, sharp claws. You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits. 
 
-## Swiftwing
+### Hybrid form 
+While in your hybrid form, your claws become capable of delivering vicious wounds with a wicked swipe. Your claw attack deals 1d6 damage and gains the deadly d8 and versatile (piercing) traits.  
+
+## Swiftwing 
 right(
-## Ability Boosts
-Dexterity
-Free
+## Ability Boosts 
+Dexterity 
+Free 
 )
-Swiftwing shifters often have inherent animals such as the eagle or falcon, but can have an animal representing any aerial predator. Swiftwing shifters often come across as twitchy or nervous but instead are incredibly perceptive and quick to respond to signs of danger. As adept scouts, Swiftwing shifters value perceptiveness and caution. 
+Swiftwing shifters often have inherent animals such as the eagle or falcon, but can have an animal representing any aerial predator. Swiftwing shifters often come across as twitchy or nervous but instead are incredibly perceptive and quick to respond to signs of danger. As adept scouts, Swiftwing shifters value perceptiveness and caution.  
 
-While in your humanoid form, your lighter bones and connection to your inherent animal allows you to slow your falls. When you fall, you take only half the normal damage and don't land prone. 
+While in your humanoid form, your lighter bones and connection to your inherent animal allows you to slow your falls. When you fall, you take only half the normal damage and don't land prone.  
 
-### Hybrid form
-While in your hybrid form, despite your inherent animal, flying is extraordinarily challenging for a swiftwing shifter. However, most can use a strong flap of their wings to travel longer distances when jumping.  When Leaping horizontally, you move an additional 5 feet. You don't automatically fail your checks to High Jump or Long Jump if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 feet further than your Athletics check result, though still with the normal maximum of your Speed. In addition, while in your hybrid form you take no damage from falling, regardless of the distance you fall.
+### Hybrid form 
+Despite your inherent animal, flying is extraordinarily challenging for a swiftwing shifter. However, while in their hybrid form most can use a strong flap of their wings to travel longer distances when jumping. When in your hybrid form, if you leap horizontally, you move an additional 5 feet. You don't automatically fail your checks to High Jump or Long Jump if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 feet further than your Athletics check result, though still with the normal maximum of your Speed. In addition, while in your hybrid form you take no damage from falling, regardless of the distance you fall. 
 
-## Truedive
+## Truedive 
 right(
-## Ability Boosts
-Constitution
-Charisma
-Free
+## Ability Boosts 
+Constitution 
+Charisma 
+Free 
 
-## Ability Flaw
-Wisdom
+## Ability Flaw 
+Wisdom 
 )
-Typically manifesting traits of a crocodile or shark, truedive shifters can have traits of any animal with aquatic capabilities. Truedive shifters can be considered by others to be somewhat remote or callous, but they are steadfast through turmoil and waves of change.
+Typically manifesting traits of a crocodile or shark, truedive shifters can have traits of any animal with aquatic capabilities. Truedive shifters can be considered by others to be somewhat remote or callous, but they are steadfast through turmoil and waves of change. 
 
-When you succeed at an Athletics check to Swim, you get a critical success instead.
+When you succeed at an Athletics check to Swim, you get a critical success instead. 
 
-### Hybrid form
-While in your hybrid form, you gain the amphibious trait and a swim Speed of 15 feet.
+### Hybrid form 
+While in your hybrid form, you gain the amphibious trait and a swim Speed of 15 feet. 
 
 ## Wildhunt
 right(
@@ -250,16 +242,15 @@ Free
 ## Ability Flaw
 Strength
 )
-Wildhunt shifters show traits of the rat or wolf, but their animal may be any type of hunting pack animal. Wildhunt shifters can be suspicious and untrusting, but their loyalty when earned is a nearly impossible bond to break.
+Wildhunt shifters show traits of the rat or wolf, but their animal may be any type of hunting pack animal. Wildhunt shifters can be suspicious and untrusting, but their loyalty when earned is a nearly impossible bond to break. 
 
-You gain imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine a creature's location. The GM will usually double the range if you're downwind from the creature or halve the range if you're upwind.
+You gain imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine a creature's location. The GM will usually double the range if you're downwind from the creature or halve the range if you're upwind. 
 
-In addition, you gain a +2 circumstance bonus to Track a creature or object if you've smelled it before.
-
+In addition, you gain a +2 circumstance bonus to Track a creature or object if you've smelled it before. 
+=
 ### Hybrid form
 While in your hybrid form, you can use the Seek action to sense undetected creatures within a 30-foot burst instead of a 15-foot burst.
 
-=
 # Ancestry Feats
 At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Bugbear, you select from among the following ancestry feats.
 
@@ -271,7 +262,14 @@ item(
 ; Shifter
 You gain one of the following senses available to your inherent animal: darkvision, low-light vision, or scent (imprecise) 30 feet. You must have low-light vision before you can gain darkvision with this feat. If your inherent animal doesn't typically have a specific type of sense, you can't gain that sense with this feat.
 
-**Special** You can select this feat multiple times, choosing a different sense each time.
+**Special** You can select this feat multiple times, choosing a different sense each time. 
+)
+item(
+# Natural Skill
+## Feat 1
+-
+; Shifter
+Your survival instinct and drive to be self-sufficient allow you to learn a wide variety of skills. You gain the trained proficiency rank in two skills of your choice.
 )
 item(
 # Pack Hunter
@@ -281,18 +279,52 @@ item(
 You were taught how to hunt as part of a pack. You gain a +2 circumstance bonus to checks to Aid, and your allies gain a +2 circumstance bonus to checks to Aid you.
 )
 item(
-# Natural Skill
-## Feat 1
--
-; Shifter
-Your ingenuity allows you to learn a wide variety of skills. You gain the trained proficiency rank in two skills of your choice.
-)
-item(
 # Shifter Lore
 ## Feat 1
 -
 ; Shifter
 You learned skills for surviving no matter the shifter community you were raised in. You gain the trained proficiency rank in Nature and Survival. If you would automatically become trained in one of those skills (from your background or class, for example), you instead become trained in a skill of your choice. You also become trained in Shifter Lore.
+)
+|
+item(
+# Shifter Ferocity :r:
+## Feat 1
+-
+; Shifter
+**Frequency** once per day
+
+**Trigger** You are in your hybrid form and would be reduced to 0 Hit Points but not immediately killed.
+
+**Prerequisites** Beasthide shifter heritage
+-
+You are a tenacious combatant, continuing to fight when others would succumb to pain and injury. You avoid being knocked out and remain at 1 Hit Point, and your wounded condition increases by 1. 
+)
+item(
+# Shifter Instincts
+## Feat 1
+-
+; Shifter
+
+Your heritage has given you sharp senses and quick reflexes, and you have learned to trust your equally sharp instincts. You gain a +1 circumstance bonus to Perception checks to Seek, Sense Motive, and Initiative rolls.
+)
+item(
+# Shifter Magnetism
+## Feat 1
+-
+; Shifter
+
+Your heritage gives you a strong animal presence. You gain a +1 circumstance bonus to Nature checks to Command an Animal, Diplomacy checks made on animals, and Intimidation.
+
+**Special** If you have the Dreamsight shifter heritage, your circumstance bonus is +2.
+)
+item(
+# Shifter Stealth
+## Feat 1
+-
+; Shifter
+You can call upon your bestial heritage to increase your stealth. You can move 5 feet farther when you take the Sneak action, up to your Speed.
+
+In addition, while in your hybrid form as long as you continue to use Sneak actions and succeed at your Stealth check, you don't become observed if you don't have cover or greater cover and aren't concealed at the end of the Sneak action, as long as you have cover or greater cover or are concealed at the end of your turn. 
 )
 item(
 # Quick Shape :f:
@@ -303,7 +335,7 @@ item(
 -
 Your instincts kick in and you take on an aggressive stance. You use Change Shape to enter or exit your hybrid form.
 )
-|
+=
 #### 5th Level
 item(
 # Animalistic Resistance
@@ -350,11 +382,11 @@ item(
 ## Feat 5
 -
 ; Shifter
-Your senses advance to match those of your animal aspect. You gain one of the following senses available to your inherent animal: echolocation (imprecise) 30 feet or tremorsense (imprecise) 30 feet. If your inherent animal doesn't typically have a specific type of sense, you can't gain the sense with this feat.
+Your senses advance to match those of your animal aspect. You gain one of the following senses available to your inherent animal: echolocation (imprecise) 30 feet, tremorsense (imprecise) 30 feet, or wavesense (imprecise) 30 feet. If your inherent animal doesn't typically have a specific type of sense, you can't gain the sense with this feat.
 
 **Special** You can select this feat multiple times, either choosing a different sense or improving an imprecise sense granted by this feat to a precise sense.
 )
-=
+|
 item(
 # Pack Stalker
 ## Feat 5
@@ -363,6 +395,23 @@ item(
 **Prerequisites** Pack Hunter; expert in Stealth
 -
 Hunting with a pack is a shifter tradition. You gain the Terrain Stalker feat and can extend its effects to a single ally so long as they remain within 10 ft. of you. If you have master proficiency in Stealth, you can extend the effect to two allies. If you have legendary proficiency in Stealth, you can extend it to four allies.
+)
+
+item(
+# Sense Allies
+## Feat 5
+-
+; Shifter
+Like many shifters raised in a close-knit community, you have always been strongly attuned to the presence of others. Willing allies that you are aware of within 60 feet that would otherwise be undetected by you are instead hidden from you. The flat check for you to target willing allies within 60 feet that are hidden from you is 5 instead of 11.
+)
+item(
+# Truedive Elite
+## Feat 5
+-
+; Shifter
+**Prerequisites** Truedive Shifter heritage.
+-
+You gain a 10 foot swim Speed and the Underwater Marauder skill feat. While in your hybrid form, your swim Speed is 25 feet.
 )
 item(
 # Unarmed Cunning
@@ -373,13 +422,6 @@ item(
 -
 You make the most of your unarmed attacks. Whenever you score a critical hit with an unarmed attack you gained from your shifter heritage or a shifter ancestry feat, you apply the unarmed attack’s critical specialization effect.
 )
-item(
-# Sense Allies
-## Feat 5
--
-; Shifter
-Like many shifters raised in a close-knit community, you have always been strongly attuned to the presence of others. Willing allies that you are aware of within 60 feet that would otherwise be undetected by you are instead hidden from you. The flat check for you to target willing allies within 60 feet that are hidden from you is 5 instead of 11.
-)
 #### 9th Level
 item(
 # Animal Magic
@@ -388,16 +430,16 @@ item(
 ; Shifter
 Your shapeshifting grants you a magical connection to the animal world. You can cast animal messenger, calm emotions (animals only), and speak with animals as 2nd-level primal innate spells once per day each. These spells use your class DC or spell DC, whichever is higher.
 )
+=
 item(
-# Pack Bond
+# Dreamsight Expert
 ## Feat 9
 -
 ; Shifter
-**Prerequisites** Pack Hunter
+**Prerequisites** Dreamsight Shifter heritage.
 -
-You have developed a soul-deep bond with your comrades and maintain an even greater degree of cooperation with them. If you are at least an expert in the skill you are Aiding, you get a success on any outcome rolled to Aid other than a critical success. 
+Your senses are keen, and you can pick up on the life force traces of any creature. While in your hybrid form, your lifesense can detect any creature not protected against detection by magical means.
 )
-|
 item(
 # Fleet Step :a:
 ## Feat 9
@@ -439,11 +481,41 @@ item(
 
 **Requirements** You can use change shape
 -
-You shift into your hybrid form, with special focus on your wings. You can keep this form for 10 minutes. You gain a fly Speed equal to your land Speed while your wings are unfurled. If you have Fledgling Flight, you gain a +10-foot status bonus to your fly Speed with Juvenile Flight. As normal, since your fly Speed is
+You shift into your hybrid form, with special focus on
 )
-=
+|
+item(
+your wings. You can keep this form for 10 minutes. You gain a fly Speed equal to your land Speed while your wings are unfurled. If you have Fledgling Flight, you gain a +10-foot status bonus to your fly Speed with Juvenile Flight. As normal, since your fly Speed is
+)
+item(
+# Longstride Elite
+## Feat 9
+-
+; Shifter
+**Prerequisites** Longstride shifter heritage
+-
+You increase your Speed by 5 feet. While in your hybrid form, your Speed is increased by an additional 5 feet.
+)
+item(
+# Longtooth Elite
+## Feat 9
+-
+; Shifter
+**Prerequisites** Longtooth shifter heritage
+-
+Your proficiency with your bite becomes devastating. Your jaws unarmed attack becomes part of the Pick weapon group and you gain the Critical Specialization effect for your jaws unarmed attack.
+)
 item(
 derived from your land Speed, this status bonus isn't cumulative with a status bonus to your land Speed, if you have one. This transformation counts against the frequency of your change shape.
+)
+item(
+# Pack Bond
+## Feat 9
+-
+; Shifter
+**Prerequisites** Pack Hunter
+-
+You have developed a soul-deep bond with your comrades and maintain an even greater degree of cooperation with them. If you are at least an expert in the skill you are Aiding, you get a success on any outcome rolled to Aid other than a critical success. 
 )
 item(
 # Pack Tactics
@@ -452,6 +524,16 @@ item(
 ; Shifter
 You have mastered how to hunt with your pack. If an enemy is within reach of you and at least two of your allies, that enemy is flat-footed against you.
 )
+item(
+# Razorclaw Elite
+## Feat 9
+-
+; Shifter
+**Prerequisites** Razorclaw shifter heritage
+-
+Your proficiency with your claws causes bleeding wounds. Your claws unarmed attack becomes part of the Knife weapon group and you gain the Critical Specialization effect for your claws unarmed attack.
+)
+=
 item(
 # Terrain Advantage
 ## Feat 9
@@ -470,6 +552,15 @@ item(
 -
 Your skin has thickened with battle, granting you greater resistance to damage. Your DC on flat checks to end persistent bleed damage is reduced from 15 to 10, or from 10 to 5 after receiving especially appropriate assistance.
 )
+item(
+# Wildhunt Elite
+## Feat 9
+-
+; Shifter
+**Prerequisite** Wildhunt Shifter heritage
+-
+Your shifter-enhanced instincts and senses allow you to detect concealed and invisible creatures. Your scent sense becomes precise.
+)
 #### 13th Level
 item(
 # Bounce Back :f:
@@ -483,15 +574,25 @@ item(
 You recover from near-death experiences with astounding resilience. Don't increase the value of your wounded condition due to losing the dying condition.
 )
 item(
+# Shifter Paragon
+## Feat 13
+-
+; Shifter
+You are a paragon of shifters and manifest the traits of a second shifter heritage. Select a shifter heritage other than your current heritage. You gain the heritage effects and may select feats restricted to this heritage. While in your hybrid form, you gain the benefits of both of your heritages. You do not gain the Ability Boosts or Flaws associated with your additional heritage.
+)
+item(
 # Fully Flighted
 ## Feat 13
 -
 ; Shifter
 **Prerequisites** Swiftwing shifter heritage; Juvenile Flight
 -
-Whenever you change into your hybrid form, you gain the effects of Juvenile Flight, rather after than just once per day for 10 minutes. This includes the status bonus to your Speed if you have Fledgling Flight.
+Whenever you change into your hybrid form, you gain
 )
 |
+item(
+the effects of Juvenile Flight, rather after than just once per day for 10 minutes. This includes the status bonus to your Speed if you have Fledgling Flight.
+)
 item(
 # Gift of the Moon
 ## Feat 13
@@ -510,13 +611,38 @@ Shifters are renowned for their ability like humans, to persist through the most
 
 **Special** If you have the beasthide or gorebrute heritage, you gain a +1 status bonus to your checks against becoming fatigued.
 )
+item(
+# Cliffwalk Elite
+## Feat 13
+-
+; Shifter
+**Prerequisites** Cliffwalk Shifter heritage
+-
+You have a climb speed of 10 feet. While in your hybrid form, your climb Speed becomes 25 feet.
+)
 #### 17th Level
 item(
 # Animal Swiftness
 ## Feat 17
 -
 ; Shifter
-You move like an animal. Your Speed increases by 5 feet. In addition, you gain one of the following Speeds available to your inherent animal: climb, fly, or swim. You gain this Speed only while in your hybrid shape. The new movement is as fast as your standard Speed; for example, if you have a 30-foot Speed, you can gain a 30-foot climb Speed. If your inherent animal doesn't typically have a specific type of Speed, you can't gain it with this feat. If your inherent animal doesn't typically have a climb, fly, or swim Speed, your Speed increases by 10 feet instead.
+You move like an animal. Your Speed increases by 5 feet. In addition, you gain one of the following Speeds available to your inherent animal: climb, fly, or swim. You gain this Speed only while in your hybrid shape. The new movement is as fast as your standard Speed; for example, if you have a 30-foot Speed, you can gain a 30-foot climb Speed. If your inherent animal doesn't
+)
+=
+item(
+typically have a specific type of Speed, you can't gain it with this feat. If your inherent animal doesn't typically have a climb, fly, or swim Speed, your Speed increases by 10 feet instead.
 
 **Special** If you have the swiftstride heritage, you gain an additional 5 feet to each movement speed you gain or increase.
 )
+item(
+# Dreamsight Elite
+## Feat 17
+-
+; Shifter
+**Prerequisites** Dreamsight Shifter heritage
+-
+Your sense of the world increase to perceive all things as they are.  Once per day, you can cast true seeing as a 7th-level primal innate spell. In addition, you have access to the lifesense from your hybrid form as an imprecise sense with a range of 10 feet when in your humanoid form. This lifesense can detect any animal, beast, humanoid, or plant creature. 
+
+**Special** If you have the Dreamsight Expert feat, you can detect any creature while in your humanoid form with your lifesense. While in your hybrid form your lifesense becomes a precise sense and extends into the ethereal plane.
+)
+|
