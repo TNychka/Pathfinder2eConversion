@@ -1,9 +1,11 @@
 head(
 # Shifters ((++Shifters))
-Shifters are an ancestry descended from humans and natural werecreatures. Shifters cannot completely change like their were-counterparts but can shift to take on the features of the animal inherent to their bloodline. From this animal, a shifter gains extraordinary abilities, such as deadly fangs, refined senses, speed, and other such traits.
+Shifters are an ancestry with many similarities to the werecreatures of Eberron. While shifters cannot completely change like werecreatures, they can shift to take on the features of their beast within. From their beast within a shifter gains extraordinary abilities, such as deadly fangs, refined senses, speed, and other similar traits.
 -
 )
-Shifters are a diverse ancestry that combines the traits of their human and animal heritage, not unlike a were-creature. With the ability to draw on their inherent animal to temporarily shift into a more feral version of themselves, they are sometimes also referred to as the were-touched. Shifters are no longer related to either of these distant ancestors and have become a distinct ancestry with unique cultures and traditions. Despite the large distinction between shifters and werecreatures, shifters were persecuted during the fifty-year crusade against werecreatures less than two centuries ago. Since then, most shifters across Khorvaire prefer to live in enclaves or districts of other shifters -avoiding other ancestries which may still bear them ill will.
+Shifters are a diverse ancestry that combines the traits of humanoid and beast heritage, not unlike a were-creature. At a young age, each shifter discovers their beast within, which comes to define who they are as a person. With the ability to draw on their inherent beast to temporarily shift into a more animalistic version of themselves, they are sometimes also referred to as the were-touched. While some believe shifters are the descendants of werecreatures, the opposite is true. The first werecreatures to plague Khorvaire are said to be shifters who were cursed with great evil. Shifters are unrelated to modern werecreatures, and are a distinct ancestry of Eberron with unique cultures and traditions. 
+
+Despite the distinction between shifters and werecreatures, shifters were persecuted during the fifty-year crusade against werecreatures less than two centuries ago. Targeted by the crusaders who fought against the rising lycanthrope tide, many innocent shifters were killed in the crusade to eliminate the threat. Since then, most shifters across Khorvaire prefer to live in enclaves or districts of other shifters - avoiding other ancestries which may still bear them ill will.
 
 ## You might...
 - Prefer the companionship of other shifters or a close group of friends.
@@ -16,7 +18,7 @@ Shifters are a diverse ancestry that combines the traits of their human and anim
 - Have difficulty relating to the strong emotions you can feel. 
 
 ## Physical Description... 
-Shifters are humanoid in shape, but their were-ancestry gives shifters a distinctly lithe form compared to humans. While travelling, shifters tend to move in springs and leaps rather than simply walking alongside their humanoid companions. Their faces and bodies typically show traits of their inherent animal, such as longer fangs, pointed ears, feline eyes, and other such features. Their bodies -especially their legs and forearms -are typically covered in more hair than
+Shifters are humanoid in shape, but their ancestry gives shifters a distinctly lithe form compared to humans. While travelling, shifters tend to move in springs and leaps rather than simply walking alongside their humanoid companions. Their faces and bodies typically show traits of their inherent animal, such as longer fangs, pointed ears, feline eyes, and other such features. Their bodies -especially their legs and forearms -are typically covered in more hair than
 |
 a human, creating a fur-like covering over their limbs. 
 A shifter's stance is typically upright with their weight placed on only the front of their clawed feet, creating a semi-digitigrade look. 
@@ -24,7 +26,7 @@ A shifter's stance is typically upright with their weight placed on only the fro
 A Shifters' inherent animal is more obvious when they are transformed into their hybrid shape, their features shifting to resemble the animal to which they are connected. The manifestation of these features varies from shifter to shifter, but typically, their teeth become more prominent, their skin toughens like hide, their hair lengthens, and their eyes reshape. 
 
 ## Society... 
-Shifters are a relatively uncommon race in Khorvaire, it is said that there are more changelings in Breland than there are shifters in all of Khorvaire. Yet, the shifters who live throughout Khorvaire have formed tight-knit communities. There are two primary types of shifter communities. The first type of community is a nomadic tribal hunter-gather pack, common in the remote woods of the Eldeen Reaches. The other is common in urban centres where shifters form small enclaves of other shifters to hold on to their traditions and remain with those who understand their ways. 
+Shifters are a relatively uncommon race in the Five Nations, there are more changelings in Breland than there are shifters. Yet, the shifters who live throughout Khorvaire have formed tight-knit communities. There are two primary types of shifter communities. The first type of community is a nomadic tribal hunter-gather pack, common in the remote woods of the Eldeen Reaches. The other is common in urban centres where shifters form small enclaves to hold on to their traditions and remain with those who understand their ways.
 
 The communities of the deep forests of the Eldeen Reaches are typically formed out of a desire to be free of the control of nations and other ancestries. These communities are frequently nomadic hunter-gatherer tribes and are primarily composed of shifters. While it is not unheard of to have other ancestries present in a tribe, shifters typically tend to prefer to bond with fellow shifters. Here the culture and traditions of the shifter communities are strongest, as the shifter community cooperates for the good of one another and the survival of the community. 
 
@@ -59,7 +61,7 @@ While the shifter parents are dedicated to raising their children, the family st
 Shifters are typically neutral and view the world as a struggle to survive. The moral and ethical concerns of a shifter are typically centred around the well-being of those directly around them. However, shifters are as varied in alignment as they are in the animals that they draw ancestry from, and can be inclined to any alignment. 
 
 After the silver crusade, shifters have become suspicious of any outside religion. Having seen how religion can motivate people, they view intense or conflict-prone religions as terrifying forces capable of causing great harm. As a result, shifters' religions are typically varied and less intense than many would expect of their culture.  
-Many shifters follow some form of druidic worship. The most common druidic worship of shifters is that of the order of druids known as the moonspeakers. These moonspeakers draw meaning from the movements of the moons and believe that the moon's influence over their were-creature heritage gives the moons great power over shifters. 
+Many shifters follow some form of druidic worship. The most common druidic worship of shifters is that of the order of druids known as the moonspeakers. These moonspeakers draw meaning from the movements of the moons and believe that the moon's influence over their heritage gives the moons great power over shifters. 
 Other shifters who reside in the major cities of Khorvaire have taken up worship of the local religion. Many shifters in the urban centres of Khorvaire revere Balinor and Boldrei of the Sovereign Host, and many shifter adventurers revere the ways of the Traveller of the Dark Six. 
 During the silver purge, some shifters adopted the faith of the Silver Flame and participated in the crusade. There are still shifters active in the church of the silver flame, though to much scorn of other shifters. 
 
@@ -92,7 +94,7 @@ Free
 ## Ability Flaw 
 Wisdom 
 )
-Typically manifesting traits of the bear or the boar, beasthide shifters can have traits of any animal known for its toughness. Beasthide shifters are known for being straightforward, although sometimes this leads them to be misunderstood as rude. These shifters are also characterized by a steadfast -sometimes stubborn -drive to complete the tasks they take up. 
+Typically manifesting traits of the bear or the boar, beasthide shifters can have traits of any animal known for its toughness. Beasthide shifters are known for being straightforward, although sometimes this leads them to be misunderstood as rude. These shifters are also characterized by a steadfast - sometimes stubborn - drive to complete the tasks they take up. 
 
 You gain 10 Hit Points from your ancestry instead of 8, and Change Shape loses the concentrate trait. 
 
@@ -166,7 +168,7 @@ Free
 ## Ability Flaw
 Wisdom
 )
-Longstride shifters typically manifest traits of rats or tigers, though can have traits of any swift animal. Longstride shifters are graceful and quick. Longstride shifters are aloof and difficult to pin down physically or socially. 
+Longstride shifters typically manifest traits of cats, hares, or rats, though can have traits of any swift animal. Longstride shifters are graceful and quick. Longstride shifters are aloof and difficult to pin down physically or socially. 
 
 You gain a +2 circumstance bonus to your Acrobatics checks to Tumble Through and can Step into difficult terrain caused by uneven ground, such as a rocky field or hilly incline. 
 
@@ -600,7 +602,7 @@ item(
 ; Shifter
 **Prerequisite** Dreamsight shifter heritage
 -
-You can share your power with others, but they can't escape the werecreature's curse as easily as you can. You can cast a 5th-level moon frenzy as a primal innate spell once per day. At 15th level, you cast a 6th-level moon frenzy instead. At 17th level, your 6th-level moon frenzy grants its standard effects, except the temporary Hit Points increase to 15 and the silver weakness increases to 15. At 20th level, you cast a 10th-level moon frenzy instead. The spell uses your class DC or spell DC, whichever is higher.
+You can share your power with others, but they can't escape the call of the wild as easily as you can. You can cast a 5th-level moon frenzy as a primal innate spell once per day. At 15th level, you cast a 6th-level moon frenzy instead. At 17th level, your 6th-level moon frenzy grants its standard effects, except the temporary Hit Points increase to 15 and the silver weakness increases to 15. At 20th level, you cast a 10th-level moon frenzy instead. The spell uses your class DC or spell DC, whichever is higher.
 )
 item(
 # Stubborn Persistence
