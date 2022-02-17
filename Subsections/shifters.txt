@@ -411,7 +411,7 @@ item(
 ; Shifter
 **Prerequisites** Dreamsight Shifter heritage.
 -
-Your senses are keen, and you can pick up on the life force traces of any creature. While in your hybrid form, your lifesense has a range of 30 feet and can detect any creature not protected against detection by magical means.
+Your senses are keen, and you can pick up on the life force traces of any creature. While in your hybrid form, your lifesense can detect any creature not protected against detection by magical means.
 )
 item(
 # Fleet Step :a:

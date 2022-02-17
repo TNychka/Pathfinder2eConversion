@@ -206,7 +206,7 @@ You have an extraordinarily long reach - and practice using it. With a combinati
 )
 |
 item(
-battlefield. Your unarmed attacks gain the reach trait. In addition, you can make Athletics skill checks with the attack trait as if they had the Reach trait.
+battlefield. Your unarmed attacks gain the reach trait. In addition, when you use Disarm, Shove, or Trip actions against a medium or smaller creature it gains the Reach trait. 
 )
 item(
 # Work horse
