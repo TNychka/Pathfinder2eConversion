@@ -41,9 +41,6 @@ In the wake of the Last War, the Treaty of Thronehold has granted warforged thei
 - Believe you do not experience emotions and are incapable of higher thinking beyond your programming
 - Are an expendable asset, and to be taken advantage of for your tireless nature and lack of world experience outside the war
 - See you as a valuable ally to have on the battlefield, even if sometimes they struggle to relate to you
-
-## Physical Description...
-Warforged appear to be a completely constructed creature. Their frame
 =
 right(
 much like the blood of humanoids. As a result, you are a living creature. You don't have the typical construct immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via positive energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin dying when reduced to 0 Hit Points.
@@ -54,7 +51,8 @@ Your constructed body has advantages and disadvantages that most humanoid creatu
 ## Emotionally Unaware
 Warforged find it difficult to understand and express complex emotions. You take a –1 circumstance penalty to Diplomacy, and Performance checks, and on Perception checks to Sense Motive. 
 )
-is composed of a composite of materials—obsidian, iron, stone, darkwood, silver, and organic material. Around a warforged's frame is a musculature is composed of root-like cords infused with alchemical liquids that grant strength and surprising grace and flexibility to their body. Their exterior is covered in a series of flexible metallic or leather plates, creating a form of integrated armour which grants them protection on the battlefield. This integrated armour is attached directly into their body by the root-like tendrils of their musculature and is extremely painful to remove. Most warforged share a similar facial structure, with a hinged jaw and crystal eys embedded beneath a reinforced brow ridge. The specific composition and structure of each warforged changes depending on their intended purpose, but all warforged are humanoid in shape. 
+## Physical Description...
+Warforged appear to be a completely constructed creature. Their frame is composed of a composite of materials—obsidian, iron, stone, darkwood, silver, and organic material. Around a warforged's frame is a musculature is composed of root-like cords infused with alchemical liquids that grant strength and surprising grace and flexibility to their body. Their exterior is covered in a series of flexible metallic or leather plates, creating a form of integrated armour which grants them protection on the battlefield. This integrated armour is attached directly into their body by the root-like tendrils of their musculature and is extremely painful to remove. Most warforged share a similar facial structure, with a hinged jaw and crystal eys embedded beneath a reinforced brow ridge. The specific composition and structure of each warforged changes depending on their intended purpose, but all warforged are humanoid in shape. 
 Unique among constructs, warforged have learned to modify their bodies through magic and training. These unique changes that warforged choose helps define their personality and differentiate their physical form from one warforged from another.
 
 As constructs, warforged typically don't need to breathe, eat, or sleep; however, the body of a warforged needs to vent alchemical impurities at a constant rate. This venting process requires breathable air to prevent a buildup of impurities in a warforged's alchemical fluids which can seize a warforged's biological components, sometimes to fatal effect. Thus, warforged can still suffocate much like living creatures, but can in a limited sense hold their breath as other humanoid creatures can. Though they don't sleep, warforged require a period of restoration to allow the alchemical fluids of their body to replenish. Without this process, a warforged is incapable of fully restoring their body and they enter an inefficient state (similar to a humanoid who doesn't get 8 hours of sleep).
@@ -181,7 +179,7 @@ Charisma
 )
 Cannith created many prototype warforged throughout the war. Many of them were experiments into advanced capabilities for war, some with more complex civilian purposes in mind. For whatever reason - whether the cost of production was prohibitive, or the capabilities did not meet expectations, or the war ended too soon - these Prototype Warforged were never released to the outside world of Khorvaire.
 
-A unique warforged design, work with your GM to figure out what you were created for. Select an integrated armour type, and you become trained in a skill and a 1st level skill feat associated with that skill.
+As unique warforged design, work with your GM to figure out what you were created for. Select an integrated armour type, and you become trained in a skill and a 1st level skill feat associated with that skill.
 /
 # Warforged Feats
 #### 1st level
