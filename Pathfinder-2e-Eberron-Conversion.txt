@@ -984,10 +984,10 @@ info(
 For more information, see Exploring Eberron (p. 149).
 )
 
-## Automatron
-The custom Warforged ancestry presented in this guide is heavily based off of the Automatron ancestry. Given the conflict that an Automatron presents with the Warforged Ancestry, and that Eberron is entirely
+## Automaton
+The custom Warforged ancestry presented in this guide is heavily based off of the Automaton ancestry. Given the conflict that an Automaton presents with the Warforged Ancestry, and that Eberron is entirely
 =
-cut off from the Multiverse - Automatrons are discouraged. However - as always - talk to your GM about having an Automatron as an advanced Warforged experiment or prototype.
+cut off from the Multiverse - Automatons are discouraged. However - as always - talk to your GM about having an Automaton as an advanced Warforged experiment or prototype.
 
 ## Azarketi
 An ancestry native to the depths of the Thunder Sea. While much of the Ancestry's lore does not apply in Eberron, the mechanics are sound.

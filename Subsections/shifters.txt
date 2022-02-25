@@ -133,7 +133,7 @@ Dreamsight shifters are rare among shifters, and their personage extends beyond 
 You gain a +1 circumstance to use the Diplomacy or Nature skill checks with animals and beasts.
 =
 ### Hybrid form 
-While in your hybrid form, you have the ability to detect the presence of other creatures. You gain an imprecise lifesense of 30 feet which can detect any animal, beast, humanoid, or plant creature. This allows you to sense the life force within living creatures of the natural world.
+While in your hybrid form, you have the ability to detect the presence of other creatures. You gain an imprecise lifesense of 15 feet which can detect any animal, beast, humanoid, or plant creature. This allows you to sense the life force within living creatures of the natural world.
 
 ## Gorebrute
 right(

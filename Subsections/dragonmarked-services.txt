@@ -1,16 +1,49 @@
 head(
-# Dragonmarked Houses
+# Dragonmarked Houses ((Dragonmarked Houses))
+As individual families manifested dragonmarks, each joined together with other families of alike marks to form houses. These houses grew, and have become powerful dragonmarked dynasties. With improved abilities due to their dragonmarked powers, and complete control over their bloodlines and commercial use of their dragonmark, these houses now compose some of the most powerful factions in Eberron - on par with that of many nations.
+-
 )
+TODO: Dragonmarked House Splash Text
+
+
+
+##### Table 1-1: Dragonmarked Houses ((+Dragonmarked Houses))
+
+Dragonmark | House | Ancestry | Guilds | Guild Specialties
+--- | :--- | :--- | :--- | :---
+Detection | Medani | Half-elf | Warning Guild | Bodyguards, inquisitives, sentries
+Finding | Tharashk | Half-orc | Finders Guild | Bounty hunting, investigation, prospecting, archaeology
+Handling | Vadalis | Human | Handlers Guild | Animal training and breeding
+Healing | Jorasco | Halfling | Healers Guild | Healing
+Hospitality | Ghallanda | Halfling | Hostelers Guild | Food, lodging, urban information
+Making | Cannith | Human | Tinkers Guild, Fabricators Guild | Manufacturing, repairs
+Passage | Orien | Human | Couriers Guild, Transportation Guild | Mail, Shipping, Caravans, Coach, Rail Transportation 
+Scribing | Sivis | Gnome | Notaries Guild, Speakers Guild | Communication, cryptography, legal services, translation, verification
+Sentinel | Deneith | Human | Blademarks Guild, Defenders Guild | Bodyguards, mercenaries
+Shadow | Phiarlan, Thuranni* | Elf | Entertainers and Artisans Guild, The Serpentine Table; The Shadow Network | Entertainment, espionage, assassination
+Storm | Lyrandar | Half-elf | The Raincallers Guild, The Windwrights Guild | Irrigation, Water infrastructure, Air and sea transportation
+Warding | Kundarak | Dwarf | The Banking Guild, The Warding Guild | Banking, storage, security, prisons
+Aberrant | Tarkanan** | Any | - | Assassination, thievery, crime
+. *Two houses share the Mark of Shadow after the Shadow Schism. See Dragonmarked by Keith Baker pg 82.
+.**Not recognized as a true house. See Dragonmarked by Keith Baker pg 157.
+
+note(
+## Reputation System
+If you are using the reputation subsystem, PCs with connections to the house start with a +5 reputation. Excoriates start with a -5 reputation, or potentially worse. The level of reputation someone has with a house may influence their access to the house's resources, or even their business altogether.
+
+It is for this reason many nations are very careful to avoid incurring the houses' wrath. To be cut off from Cannith manufacturing, or Jorasco healing would be a significant blow to any nation.
+)
+
 item(
 # Favoured in House
 ## Feat 3
 -
-; Uncommon, Dragonmark, General
-**Prerequisite** developed a lesser dragonmark and your house is friendly to you, or your house is helpful to you.
+; Uncommon, Dragonmarked Heritage, General
+**Prerequisite** your house is friendly or helpful to you.
 -
-Your family is influential and powerful, and you have the connections to fast track your requests of the house. When you make a request of your house, it may be to any house member whether they know you or not, as long as they are at least indifferent towards you. For any request for a favour that the house performs such acquiring important information, introductions to important people, or the loan of equipment or personnel, you gain a +1 circumstance bonus. A lesser mark grants you a +2 circumstance bonus, a greater mark grants you a +3 circumstance bonus, and a siberys mark grants you a +4 circumstance bonus. The GM sets the DC based on the scope of the favour being requested - highly dangerous, expensive, or illegal favours take a -4 circumstance penalty. See Dragonmarked Houses for some examples of favours that a house might be able to provide.
+You have begun to develop popularity and connections within your house, and you can use these connections to fast track your requests from the house. When you make a request of your house, it may be to any house member whether they know you or not, as long as they are at least indifferent towards you. For any request for a favour that the house performs such acquiring important information, introductions to important people, or the loan of equipment or personnel, you gain a +1 circumstance bonus. A lesser mark grants you a +2 circumstance bonus, a greater mark grants you a +3 circumstance bonus, and a siberys mark grants you a +4 circumstance bonus. The GM sets the DC based on the scope of the favour being requested - highly dangerous, expensive, or illegal favours take a -4 circumstance penalty. See Dragonmarked Houses for some examples of favours that a house might be able to provide.
 )
-|
+
 note(
 # GM Adjudication
 Whenever a character takes the favoured in House feat, especially in the middle of an ongoing campaign, an explanation is required. If a character has been a constant embarassment to their house, opinions won’t suddenly change because they went up a level and gained a feat slot. This is a prerequisite of the feat: It needs to be justified, and a GM is free to refuse the request. 
@@ -18,6 +51,9 @@ Whenever a character takes the favoured in House feat, especially in the middle 
 # Losing your favour
 Whether by excoration, or actions that have tarnished the reputation of your house, in the event of extrodinary circumstances you might lose the favour of your house. Until you regain the favour of your house, you lose access to any of the benefits granted by the Favoured in House feat. If reconsiliation with the house is not something you desire, you may retrain out of this feat for free with a week of downtime as normal.
 )
+
+## Dragonmarked Economy
+Dragonmarked houses are the backbone of the economies of Khorvaire. As a result, it's nearly impossible to avoid dealing with a house during your adventuring career. For things such as Armour, Weapons, Services, or Transportation, a dragonmarked house will likely be involved.
 
 =
 head(
@@ -32,9 +68,8 @@ In addition to any regular services that House Cannith might provide, such as ap
 
 Tinkerer or Fabricator's guild
 - will purcase Uncommon, Rare, and Unique items at 65% of Price.
-- will cast any mark of Making Focus Spells are cast at a 10% discount of the spellcasting services table 6-15 in the core rulebook.
-Tinkerer's guild
-- approved manufacturers can repair any common item of 5th level or lower, or any non-magical item below 10th level for 5% of the item's value.
+- will cast any mark of Making Focus Spells at a 10% discount of the spellcasting services table 6-15 in the core rulebook.
+- Tinkerer's guild approved manufacturers can repair any common item of 5th level or lower, or any non-magical item below 10th level for 5% of the item's value.
 Fabricator's guild
 
 Cannith Hirelings | Cost
@@ -105,7 +140,10 @@ DC | Benefit
 
 
 =
-## House Deneith
+head(
+# House Deneith
+TODO Flavour Text
+)
 From its beginnings as an order of mercenaries and soldiers to its modern incarnation as the human face of law and battle, House Deneith has maintained its position as the primary force for security and defense in the Five Nations. Though its fortunes rose during the Last War, the services Deneith renders are no less valuable in times 
 of peace. Today, the house is as prosperous as ever, with its position of neutrality firmly established and a host of eager clients ready to use its services. This prosperity tells only half the story, however, and Deneith’s past fortunes might not be enough to guarantee the house’s future.
 =
