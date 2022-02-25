@@ -11,7 +11,7 @@ With a flash from the Dragonmark of a Deneith heir, the swing of a blade is defl
 
 ### Dragonmark Spells
     Your Dragonmark grants you special arcane spells called Dragonmark Spells, which are a special type of focus spell. It costs 1 Dragonmark Focus Point from your Dragonmark Focus Pool to cast a Dragonmark Focus Spell. When you select a Dragonmarked Heritage, you do not start with a Dragonmark Focus Pool. Specific dragonmark feats will grant a Dragonmark Focus Pool, Dragonmark Proficiency Modifiers, new Dragonmark Focus Points, or new Dragonmark Focus Spells. You refill your Dragonmark Focus Pool during your daily preparations, and you regain 1 Dragonmark Focus Point by spending 10 minutes using the Refocus activity to recharge the powers of your dragonmark.
-    Dragonmark Focus Spells are automatically heightened to half your level rounded up unless otherwise noted - such as by the feats which grant you your dragonmark powers. You can't cast or learn a Dragonmark Focus Spell if its minimum level is greater than the level at which you cast your Dragonmark Focus Spells. Though certain feats grant you more Dragonmark Focus Spells and increase the size of your Dragonmark Focus Pool, your Dragonmark Focus Pool can never hold more than 3 Dragonmark Focus Points. The full rules for focus spells are found on page 300 of the CRB, or [here on AONPRD](https://2e.aonprd.com/Rules.aspx?ID=276). All dragonmark focus spells are considered to be of the arcane tradition. When you gain a Dragonmark Focus Pool, while most dragonmarks use Charisma as their spellcasting ability modifier, you may choose to instead use either Intelligence or Wisdom. You may not change which spellcasting ability modifier you use once you have selected it.
+    Dragonmark Focus Spells are automatically heightened to half your level rounded up unless otherwise noted - such as by the feats which grant you your dragonmark powers. You can't cast or learn a Dragonmark Focus Spell if its minimum level is greater than the level at which you cast your Dragonmark Focus Spells. Though certain feats grant you more Dragonmark Focus Spells and increase the size of your Dragonmark Focus Pool, your Dragonmark Focus Pool can never hold more than 3 Dragonmark Focus Points. The full rules for focus spells are found on page 300 of the CRB, or [here on AONPRD](https://2e.aonprd.com/Rules.aspx?ID=276). All Dragonmark Focus Spells are considered to be of the arcane tradition. When you gain a Dragonmark Focus Pool, while most dragonmarks use Charisma as their spellcasting ability modifier, you may choose to instead use either Intelligence or Wisdom. You may not change which spellcasting ability modifier you use once you have selected it.
     Dragonmarks are unique in that they provide arcane specialization in specific and limited areas, and do not interact with regular focus spells in any way. Any spells or feats with the Dragonmark Trait may not be used in conjunction with spells or feats without the Dragonmark trait. Similarly, since it is possible to have focus points from multiple sources, any source that provides focus points or focus spells with the dragonmark trait cannot be combined with focus point sources or focus spells without the dragonmark trait. The reverse is also true. Dragonmark focus points should effectively be considered a unique pool, with its own unique set of focus spells, and its own proficiency rank for spell attack rolls and spell DCs.
     Many Dragonmark Focus Spells require the dragonmark component. This component is supplied by the dragonmark itself, and so long as nothing is interfering with the dragonmark's powers, the component is automatically provided for the casting of the spell. When the dragonmark component is provided, it is evidently visible as the dragonmark glows with a dim light and shifts about on the caster's skin. 
 =
@@ -87,7 +87,7 @@ item(
 ; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Lesser Mark
 -
-The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1. In addition, you may pick another dragonmark focus spell.
+The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1. In addition, you may pick another Dragonmark Focus Spell.
 )
 #### 13th Level
 item(
@@ -435,41 +435,6 @@ You can use your Siberys mark to bend fate itself. You may invoke the mark of de
 )
 /
 =
-head(
-# Dragonmarked Houses ((Dragonmarked Houses))
-As individual families manifested dragonmarks, each joined together with other families of like marks to form houses. These houses grew, and have become powerful dragonmarked dynasties. With improved abilities due to their dragonmarked powers, and complete control over their bloodlines and use of the dragonmark, these houses now compose some of the most powerful factions in Eberron - on par with that of many nations.
--
-)
-Dragonmarked houses are the backbone of the economies of Khorvaire. As a result, it's nearly impossible to avoid dealing with a house during your adventuring career. For things such as Armour, Weapons, Services, or Transportation, a dragonmarked house will likely be involved.
-
-##### Table 1-1: Dragonmarked Houses ((+Dragonmarks))
-
-Dragonmark | House | Ancestry | Guilds | Guild Specialties
---- | :--- | :--- | :--- | :---
-Detection | Medani | Half-elf | Warning Guild | Bodyguards, inquisitives, sentries
-Finding | Tharashk | Half-orc | Finders Guild | Bounty hunting, investigation, prospecting, archaeology
-Handling | Vadalis | Human | Handlers Guild | Animal training and breeding
-Healing | Jorasco | Halfling | Healers Guild | Healing
-Hospitality | Ghallanda | Halfling | Hostelers Guild | Food, lodging, urban information
-Making | Cannith | Human | Tinkers Guild, Fabricators Guild | Manufacturing, repairs
-Passage | Orien | Human | Couriers Guild, Transportation Guild | Mail, Shipping, Caravans, Coach, Rail Transportation 
-Scribing | Sivis | Gnome | Notaries Guild, Speakers Guild | Communication, cryptography, legal services, translation, verification
-Sentinel | Deneith | Human | Blademarks Guild, Defenders Guild | Bodyguards, mercenaries
-Shadow | Phiarlan, Thuranni* | Elf | Entertainers and Artisans Guild, The Serpentine Table; The Shadow Network | Entertainment, espionage, assassination
-Storm | Lyrandar | Half-elf | The Raincallers Guild, The Windwrights Guild | Irrigation, Water infrastructure, Air and sea transportation
-Warding | Kundarak | Dwarf | The Banking Guild, The Warding Guild | Banking, storage, security, prisons
-Aberrant | Tarkanan** | Any | - | Assassination, thievery, crime
-. *Two houses share the Mark of Shadow after the Shadow Schism. See Dragonmarked by Keith Baker pg 82.
-.**Not recognized as a true house. See Dragonmarked by Keith Baker pg 157.
-
-note(
-## Reputation System
-If you are using the reputation subsystem, PCs with connections to the house start with a +5 reputation. Excoriates start with a -5 reputation, or potentially worse. The level of reputation someone has with a house may influence their access to the house's resources, or even their business altogether.
-
-It is for this reason many nations are very careful to avoid incurring the houses' wrath. To be cut off from Cannith manufacturing, or Jorasco healing would be a significant blow to many nations.
-)
-=
-
 head(
 # Mark of Detection ((Dragonmarked Heritages))
 The Mark of Detection is an inquisitive's dream. It sharpens powers of observation and intuition, allowing the bearer to draw connections and interpret clues others might miss. By actively drawing on its powers, the bearer can detect poisons and study the energies of magic.

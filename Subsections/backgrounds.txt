@@ -40,7 +40,7 @@ item(
 # House Orphan ((+House Orphan))
 ## Background
 -
-The Korth Edicts prevent members of a dragonmarked house from holding land, a noble title, or rank in a national military. Over the centuries, many dragonmarked heirs have chosen to give up their birthright to be freed from the edicts. During the Last War, many idealistic heirs left their houses to fight for one of the Five Nations. Others have married into noble families, whether for love or greed. 
+The Korth Edicts prevent members of a dragonmarked house from holding land, a noble title, or rank in a national military. Over the centuries, many dragonmarked heirs have chosen to give up their birthright to be freed from the edicts. During the Last War, many idealistic heirs left their houses to fight for one of the Five Nations. Others have married into noble families, whether for love or greed. 
     Depending on their reasons for departure, an orphan could have a specific set of enemies within their house or might have had a perfectly amicable parting of the ways. However, an orphan is restricted
 )
 =
@@ -80,7 +80,7 @@ item(
 # Foundling
 ## Background
 -
-Characters can develop dragonmarks only by virtue of blood ties to a dragonmarked house, and many dragonmarked discover their lineage only after the mark appears. Some are the descendants of excoriates, while others are the product of a doomed romance. Whatever their stories, these foundlings carry dragonmarks but have no connection to their houses. 
+Characters can develop dragonmarks only by virtue of blood ties to a dragonmarked house, and many dragonmarked discover their lineage only after the mark appears. Some are the descendants of excoriates, while others are the product of a doomed romance. Whatever their stories, these foundlings carry dragonmarks but have no connection to their houses. 
 All the dragonmarked houses seek to identify and recruit foundlings. A house might occasionally refuse to accept a foundling, typically in cases involving descendants of truly infamous excoriates. As a rule, though, the houses all want to expand their ranks. [59]
 
 Choose two ability boosts. One must be to Charisma or Wisdom, and one is a free ability boost.

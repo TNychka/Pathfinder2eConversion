@@ -27,7 +27,7 @@ item(
 ## Feat 5
 -
 ; General
-When you overcharge a wand, make a DC 10 flat check. On a failure, the wand is broken. On a critical failure, the wand is destroyed.
+When you overcharge a wand, make a DC 11 flat check. On a failure, the wand is broken. On a critical failure, the wand is destroyed. Regardless of the result, the wand may not be used again until your next daily preparations.
 )
 ## Skill ((+Skill Feats))
 These feats are general skill feats available to anyone regardless of ancestry or background.

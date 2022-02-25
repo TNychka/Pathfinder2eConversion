@@ -1,5 +1,5 @@
 watermark (
-Version 1.0.9
+Version 1.1.0
 )
 title (
 Pathfinder's Guide to Eberron 
@@ -74,6 +74,9 @@ Text boxes such as the following are used to provide references for further read
 Beyond this, the world is now yours. Welcome to the world of Eberron.
   
 # Changelog
+**V 1.1.0 - 2022-02-05**
+- Adds Shifter Ancestry
+- Clarifications and errata
 **V 1.0.0 - 2021-10-03**
 - Document created
 
@@ -926,15 +929,13 @@ This document introduces lore adjustments, additional heritages and feats which 
 info(
 For more information on Orcs, see the Eberronicon (p. 15).
 )
-## Shifters (Beastkin)  ((+++Shifters))
-Shifters are **uncommon** in the world of Eberron. Shifters are well represented by applying the Beastkin versatile heritage to the Human Ancestry. When you chose your animal type, the Shifters of Eberron are
+## Shifters ((+++Shifters))
+Shifters are **uncommon** in the world of Eberron. Shifters are an ancestry descended from humans and natural werecreatures. Shifters cannot completely change like their were-counterparts but can shift to take on the features of the animal inherent to their bloodline. While the beastkin ancestry applied to a
 =
-primarily of the following animalistic traits. Beasthide (Bear, Boar); Longtooth (Tiger, Wolf); Swiftstride (Tiger, Rat, Leopard); Wildhunt (Wolf, Rat, Tiger); Cliffwalk (Monkey); Razorclaw (Leopard. Tiger). Other Beastkin animals presented by the Core Pathfinder 2e rules should be considered **rare**.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Beastkin Ancestry.
+human is a close match to the mechanics of the ancestry, a new Shifter ancestry is provided in this document and the beastkin versatile ancestry is considered exotic.
 
 note(
-Shifters are native to the deepest parts of the Eldeen Reaches, it is possible that some variations of Shifters are yet unknown to Khorvaire. As such, consider allowing the PCs to play Catfolk, Ratfolk, Kitsune, Tengu, or Shoony Ancestries as Shifters of Eberron who are more integrated with their animalistic traits.
+Shifters live in the deepest parts of the Eldeen Reaches, and the northern reaches of Sarlona. Given that this ancestry hails from these remote locations, is possible that some variations of Shifters are yet unknown to Khorvaire. As such, consider allowing the PCs to play Catfolk, Ratfolk, Kitsune, Tengu, or Shoony Ancestries as Shifters of Eberron who are more permanently integrated with their animalistic traits.
 )
 info(
 For more information on Shifters, see the Eberronicon (p. 16).
@@ -942,7 +943,7 @@ For more information on Shifters, see the Eberronicon (p. 16).
 ## Warforged  ((+++Warforged))
 Warforged are **common** in the world of Eberron. Warforged are a unique Ancestry to Eberron. Warforged were created as soldiers of war, and now as the last war ends many of them have lost their purpose. Consider what this means for you.
 
-Warforged are a work in progress, that will be added in the next document update (current version 1.0). For the time being, consider the Automatron ancestry provided in Gun and Gears, or one of the Warforged homebrews of /r/Pathfinder2eCreations.
+The warforged ancestry is provided in this document.
 info(
 For more information on Warforged, see Exploring Eberron (p. 45)
 )
@@ -983,10 +984,10 @@ info(
 For more information, see Exploring Eberron (p. 149).
 )
 
-## Automatron
-The custom Warforged ancestry presented in this guide is heavily based off of the Automatron ancestry. Given the conflict that an Automatron presents with the Warforged Ancestry, and that Eberron is entirely
+## Automaton
+The custom Warforged ancestry presented in this guide is heavily based off of the Automaton ancestry. Given the conflict that an Automaton presents with the Warforged Ancestry, and that Eberron is entirely
 =
-cut off from the Multiverse - Automatrons are discouraged. However - as always - talk to your GM about having an Automatron as an advanced Warforged experiment or prototype.
+cut off from the Multiverse - Automatons are discouraged. However - as always - talk to your GM about having an Automaton as an advanced Warforged experiment or prototype.
 
 ## Azarketi
 An ancestry native to the depths of the Thunder Sea. While much of the Ancestry's lore does not apply in Eberron, the mechanics are sound.
@@ -1144,6 +1145,12 @@ https://scribe.pf2.tools/v/mdpJh63j
 =
 <!--Kalashtar-->
 https://scribe.pf2.tools/v/ZhZBvBqQ
+=
+<!--Shifters-->
+https://scribe.pf2.tools/v/vBjr7BMV
+=
+<!--Warforged-->
+https://scribe.pf2.tools/v/bmXjCPvf
 =
 head(
 # Dwarves ((+Modified Ancestries))

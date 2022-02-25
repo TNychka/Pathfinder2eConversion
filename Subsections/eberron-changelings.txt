@@ -107,7 +107,7 @@ item(
 ## Feat 1
 -
 ; Eberron Changeling
-You can change your skin pattern to more closely match your environment. While in cover you gain a +1 status bonus to your stealth checks to sneak, hide, or otherwise avoid detection.
+You can change your skin pattern to more closely match your environment. While in cover or difficult terrain - including rubble, snow, or underbrush - you gain a +1 status bonus to your stealth checks to sneak, hide, or otherwise avoid detection.
 )
 item(
 # Clawed Adaptation
@@ -220,14 +220,17 @@ When you begin to fall, you're able to shift your shape to maximize your air res
 
 **Special** If you have the Rapid Shift feat, the trigger is instead when you begin to fall more than 5 feet.
 )
-|
 #### 9th level
 item(
 # Amorphous
 ## Feat 9
 -
 ; Eberron Changeling
-You have managed to develop a malleability that allows you to change the size of your transformations. When you shift shape, you can take on small or large forms. You are subject to the restrictions, but do not gain any bonuses from the new form (such as the ability to wield larger weapons).
+You have managed to develop a malleability that allows you to change the size of your transformations. When you shift shape, you can take on small or large
+)
+|
+item(
+forms. You are subject to the restrictions, but do not gain any bonuses from the new form (such as the ability to wield larger weapons).
 )
 item(
 # Aquatic Adaptation
@@ -261,12 +264,10 @@ item(
 ; Eberron Changeling
 **Prerequisite** Expert in Performance.
 -
-You are a master of the unique changeling art of skin dancing. You can create intricate patterns and even images on your skin, and shift them about in mesmerizing ways. You can achieve effects such as
+You are a master of the unique changeling art of skin dancing. You can create intricate patterns and even images on your skin, and shift them about in mesmerizing ways. You can achieve effects such as lighting coursing up your arms, or and fire dancing in a crown around your brow. You gain the Virtuosic Performer skill feat in the speciality of dance (if you already have the Virtuosic Performer in dance, you may choose an additional different speciality). When you use the Virtuosic Performer feat for dance, you gain a +1 status bonus if you augment your performance with a special use of shift shape, or +2 if you are Legendary in Performance. This use of shift shape is free as part of the performance and lasts until you shift shape again.
 )
 =
 item(
-lighting coursing up your arms, or and fire dancing in a crown around your brow. You gain the Virtuosic Performer skill feat in the speciality of dance (if you already have the Virtuosic Performer in dance, you may choose an additional different speciality). When you use the Virtuosic Performer feat for dance, you gain a +1 status bonus if you augment your performance with a special use of shift shape, or +2 if you are Legendary in Performance. This use counts against the frequency but lasts for the full duration of your performance.
-
 **Special** Skin dancer counts for the favourable form of the Personable Performer feat as well.
 )
 #### 13th level
@@ -290,7 +291,6 @@ item(
 -
 With a rapid change of your form, you take on a monstrous form for an instant before shifting back. When you Demoralize, you can choose to replace the auditory trait and with the visual trait. You can then attempt a demoralize check against each enemy that can see you within 30 feet.
 )
-|
 #### 17th level
 item(
 # The Traveller's Protection :r:
@@ -302,6 +302,8 @@ item(
 With your ability to read a situation and change your form in precise and subtle ways, people second-guess whether or not they did see through disguise - as if the Traveller protects you still.
 
 If a creature succeeds on a check to see through your impersonation, you become aware of their increasing disbelief. The GM will make you aware that a creature succeeded on their check. You may choose to use the Traveller's protection to force a reroll of the dice to take the lower of the two options. If you do so, their check gains the misfortune trait, and the outcome of this new roll is a secret to you. 
-
+)
+|
+item(
 Similarly, if you fail an impersonation check against a creature, you are aware of your blunder. The GM will make you aware that you have failed the check, and you may choose to use the Traveller's protection to force a reroll to take the higher of the two options. If you do so, the check gains the fortune trait, and the outcome of this new roll is a secret to you.
 )
