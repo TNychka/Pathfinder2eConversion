@@ -198,15 +198,17 @@ item(
 You're able to control the battlefield by throwing your muscle around. The effects of Bully apply to any creature at most one size larger than you. If your check is a critical failure, it is a failure instead.
 )
 item(
-# Unarmed Reach
+# Unarmed Lunge :a:
 ## Feat 5
 -
 ; Bugbear 
-You have an extraordinarily long reach - and practice using it. With a combination of lunges and arcing swings you can deliver blows at a distance on the
+**Requirements** You have at least one hand free
+-
+You have an extraordinarily long reach - and practice using it. With a combination of lunges and arcing swings, you can deliver blows at a distance on the
 )
 |
 item(
-battlefield. Your unarmed attacks gain the reach trait. In addition, when you use Disarm, Shove, or Trip actions against a medium or smaller creature it gains the Reach trait. 
+battlefield. Make an unarmed Strike against a creature. This strike gains the Reach trait which does not stack with Reach from other sources. Alternatively, you can use make a Disarm, Shove, or Trip action instead of an unarmed Strike.
 )
 item(
 # Work horse
@@ -266,19 +268,21 @@ item(
 Your long limbs and great strength are impossible for enemies to control. When you are Grabbed or Restrained, you may continue to use actions with the manipulate and attack trait. 
 )
 item(
-# Martial Reach
-## Feat 13
--
-; Bugbear 
-You have an extraordinarily long reach and practice using it on the battlefield. When wielding any Melee weapon with which you are at least trained, it gains the Reach trait. If it already has the reach trait, the trait stacks.
-)
-item(
 # Silent Stalker
 ## Feat 13
 **Prerequisite** Stalker
 -
 ; Bugbear 
 You can move up to your speed when you use the Sneak action, and you no longer need to have cover or greater cover or be concealed to Hide or Sneak.
+)
+item(
+# Unarmed Stance :a:
+## Feat 13
+-
+; Bugbear, Stance
+**Requirements** You have at least one hand free
+-
+You take up a stance to take advantage of your long limbs and swing with large arcs to lash out at distant enemies. While you are in this stance, your unarmed Strikes, Disarm, Shove, and Trip actions gain the reach trait. This trait does not stack with reach from other sources such as unarmed lunge.
 )
 #### 17th Level
 item(
@@ -296,5 +300,13 @@ You refuse to fall no matter how many blows land. Bugbear Endurance gains the fo
 
 **Success** As in Bugbear Endurance, but your wounded condition does not increase. 
 )
-  
 |
+item(
+# Martial Reach
+## Feat 17
+-
+; Bugbear 
+**Prerequisite** Unarmed Stance
+-
+Your weapons become extensions of your limbs on the battlefield, and you can extend the reach of your weapon attacks. While in the Unarmed Stance and wielding any Melee weapon with which you are at least trained, it gains the Reach trait. If it already has the reach trait, the trait stacks.
+)
