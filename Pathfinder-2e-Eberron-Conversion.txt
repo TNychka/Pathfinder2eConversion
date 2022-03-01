@@ -74,9 +74,16 @@ Text boxes such as the following are used to provide references for further read
 Beyond this, the world is now yours. Welcome to the world of Eberron.
   
 # Changelog
-**V 1.1.0 - 2022-02-05**
-- Adds Shifter Ancestry
-- Clarifications and errata
+**V 1.0.10 - 2022-03-01**
+- Errata and clarifications
+- Dragonmark clarifications
+- Changeling feat balance
+- Bugbear feat balance
+- Bugbear speed increase
+- Gnoll feat balance
+- Kalashtar feat balance
+- Wand Mastery adjustments
+
 **V 1.0.0 - 2021-10-03**
 - Document created
 
