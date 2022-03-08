@@ -23,15 +23,34 @@ Boomerang, Talenta | 4 sp | 1d4 B | L | 1 | Boomerang | Agile, Finesse, Halfling
 Boomerang, Xen'drik | 8 sp | 1d4 S | L | 1 | Boomerang | Agile, Finesse, Drow, Returning, Thrown 20ft
 Sharrash | 2 gp | 1d6 S | 1 | 2 | Polearm | Reach, Finesse, Halfling, Trip
 Tangat | 4 gp | 1d6 S | 1 | 1 | Sword | Finesse, Forceful, Halfling, Sweep
+&nbsp; | | | | | | |
+**Trait Changes\*** |
+Boarding Axe | - | - | - | - | - | Agile, Climbing, Versatile P
+Buugeng | - | - | - | - | - | Agile, Sweep, Twin
+Claw Blade | - | - | - | - | - | Agile, Deadly d8, Disarm, Finesse, Shifter, Versatile P
+Gill Hook | - | - | - | - | - | Grapple, Reach
+Wish Blade | - | - | - | - | - |  Disarm, Resonant, Two-Hand 1d10
+Wish Knife | - | - | - | - | - | Agile, Disarm, Finesse, Resonant, Versatile S
+Whip Claw | - | - | - | - | - | Finesse, Hampering, Reach, Shifter
+.* All stats as in source books except traits as noted
+
 
 Uncommon Advanced  Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
 Double-Bladed Scimitar | 10 gp | 1d6 S | 1 | 2 | Sword | Backswing, Dual, Elf, Forceful 
 Myrnaxe<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Axehead<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spearhead  | 4 gp<br><br>2 gp<br><br>2 gp | -<br><br>1d10S<br><br>1d8 P| 2<br><br>1<br><br>1 | -<br><br>2<br><br>1 | -<br><br>Axe<br><br>Spear | Gnoll, Attached<b>\*</b><br><br>Gnoll, Forceful, Sweep, Attached<b>\*</b><br><br>Gnoll, Deadly (d12), Two-Hand (d10), Attached<b>\*</b>
 . <b>*</b>See Myrnaxe entry
-/
 
+
+
+/
 ##### Table 6-3: Ranged Weapons ((+Ranged Weapons))
+Uncommon Martial Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
+--- | :---: | :---: | :---: | :---: | :---:
+**Trait Changes\*** |
+Thunder Sling | - | - | - | - | - | - | - | Agile, Propulsive, Uncommon
+.* All stats as in source books except traits as noted
+
 Uncommon Advanced Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
 Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Greatarrows | 5gp<br><br>2sp | 1d8 P<br><br>&nbsp; | 150ft.<br><br>&nbsp; | 0<br><br>&nbsp; | 2<br><br>&nbsp; | 1+<br><br>&nbsp; | Bow<br><br>&nbsp; | Fatal d10, propulsive, gnoll, volley 45ft.<br>&nbsp;
