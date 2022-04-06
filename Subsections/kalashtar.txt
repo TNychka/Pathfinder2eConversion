@@ -37,7 +37,9 @@ However, your kalashtar might not belong to a community with others of their kin
 All quori spirits that inhabit the Kalashtar were born of the Dreaming Dark – they represent nightmare qualities, those of rage, deceit, and pride. However, this does not lend Kalashtar to fall easily into evil alignments. These connections can instead result in Kalashtar gaining a greater sense of empathy: understanding the pains of fear, the hubris of pride, and the folly of deceit.
 Kalashar, just like the humans they originated from, can have an evil alignment. However, those raised with an understanding of their quori tend to develop positive relationships with the darkness their spirit may represent. However lofty their goals are, they will achieve their motivations in any number of ways, so neither law nor chaos has strong sway over the kalashtar. Most kalashtar are devoted to the Path of Light, and
 = 
-right( 
+right(
+## Rarity
+Uncommon
 ## Hit Points 
 6 
 ## Size 

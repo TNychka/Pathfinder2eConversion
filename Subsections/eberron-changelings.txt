@@ -25,6 +25,8 @@ Seamstress" on different days of the week.
 Changeling society is fragmented, and no two groups of changelings have the same culture. However, for
 =
 right(
+## Rarity
+Uncommon
 ## Hit Points
 6
 ## Size
@@ -38,11 +40,11 @@ Free
 
 ## Languages
 Common
-Additional languages equal to your Intelligence modifier (if it's positive). Choose from any other languages to which you have access (such as the languages prevalent in your region).
+Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from any other languages to which you have access (such as the languages prevalent in your region).
 ## Traits
 Eberron Changeling
 Humanoid
-Shapeshifter
+
 ## Shapeshifter
 You gain the Shift shape action as noted in the Changeling entry.
 )

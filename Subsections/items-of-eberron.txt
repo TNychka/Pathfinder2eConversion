@@ -38,12 +38,9 @@ Whip Claw | - | - | - | - | - | Finesse, Hampering, Reach, Shifter
 Uncommon Advanced  Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
 Double-Bladed Scimitar | 10 gp | 1d6 S | 1 | 2 | Sword | Backswing, Dual, Elf, Forceful 
-Myrnaxe<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Axehead<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spearhead  | 4 gp<br><br>2 gp<br><br>2 gp | -<br><br>1d10S<br><br>1d8 P| 2<br><br>1<br><br>1 | -<br><br>2<br><br>1 | -<br><br>Axe<br><br>Spear | Gnoll, Attached<b>\*</b><br><br>Gnoll, Forceful, Sweep, Attached<b>\*</b><br><br>Gnoll, Deadly (d12), Two-Hand (d10), Attached<b>\*</b>
+Myrnaxe<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Axehead<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spearhead  | 4 gp<br><br>2 gp<br><br>2 gp | -<br><br>1d12 S<br><br>1d6 P| 1<br><br>5L<br><br>5L | -<br><br>2<br><br>1 | -<br><br>Axe<br><br>Spear | Gnoll, Attached<b>\*</b><br><br>Gnoll, Forceful, Sweep, Attached<b>\*</b><br><br>Gnoll, Deadly (d8), Two-Hand (d10), Attached<b>\*</b>
 . <b>*</b>See Myrnaxe entry
-
-
-
-/
+=
 ##### Table 6-3: Ranged Weapons ((+Ranged Weapons))
 Uncommon Martial Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
@@ -53,7 +50,7 @@ Thunder Sling | - | - | - | - | - | - | - | Agile, Propulsive, Uncommon
 
 Uncommon Advanced Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
-Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Greatarrows | 5gp<br><br>2sp | 1d8 P<br><br>&nbsp; | 150ft.<br><br>&nbsp; | 0<br><br>&nbsp; | 2<br><br>&nbsp; | 1+<br><br>&nbsp; | Bow<br><br>&nbsp; | Fatal d10, propulsive, gnoll, volley 45ft.<br>&nbsp;
+Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Great arrows | 5gp<br><br>2sp | 1d8 P<br><br>&nbsp; | 150ft.<br><br>&nbsp; | 0<br><br>&nbsp; | 2<br><br>&nbsp; | 1+<br><br>&nbsp; | Bow<br><br>&nbsp; | Fatal d10, propulsive, gnoll, volley 50ft.<br>&nbsp;
 /
 
 ## Armour Traits
@@ -86,7 +83,7 @@ leaves. This special process enables the many primal practitioners of the world 
 |
 feel entitled to demand its return or challenge the bearer to prove they’re worthy to wield it.
 
-**Gnollbow:** Though the gnollbow is not significantly larger than a normal longbow, the draw of the weapon is deceptively heavy. Gnollbows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles at much higher velocity, resulting in greater penetrating power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to gnollbows unless otherwise stated. To craft a gnollbow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
+**Gnoll bow:** Though the gnollbow is not significantly larger than a normal longbow, the draw of the weapon is deceptively heavy. Gnoll bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles at much higher velocity, resulting in greater penetrating power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to gnoll bows unless otherwise stated. To craft a gnoll bow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
 
 **Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. With this in mind, the Eyre clan produces a weapon they call the myrnaxe, named for the smith who created it. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Depending on the wielder's stance, the myrnaxe is either functionally a battleaxe or a spear. A user may switch between the sides of the myrnaxe with an interact action. The myrnaxe has the damage, hands, group, and weapon traits of the side in user.  Myrnaxes are composed of two attached items: the Myrnaxe - Axe, and the Myrnaxe - Spearhead. It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk-thus maximizing its versatility against multiple foes. When crafting a myrnaxe, both sides are manufactured at the same time, using their respective crafting costs for material, and forming a completed Myrnaxe when finished. Each side of the weapon gains the effect of its respective precious material. You may not wield individual halves of the Myrnaxe.
 

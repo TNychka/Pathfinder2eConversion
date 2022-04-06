@@ -3,7 +3,6 @@ head(
 Powerfully-built humanoids that bear resemblance to hyenas, gnolls are cunning warriors and hunters. Their frightening visage and efficient tactics have given them an ill-starred reputation.
 -
 )
-
 Gnolls began their existence being bred for and recruited by the overlords of War, Rak Tulkhesh, and the Wild, the Wild Heart. They served as foot soldiers, fighting against orcs, the early humanoids of Khorvaire, as well as the other gnoll clans belonging to opposing overlords. Even after the overlords were bound by the Silver Flame, gnolls continued to act as their pawns. 
 
 This subjugation was broken by a revelation shared between two rival clans of gnolls in the midst of a battle; their fur soaked by blood and wading through limbs and carnage, they questioned what had led them to destroy their kin. The two clans then turned to each other and formed an alliance, urging their brethren to deny the voices that called for endless war and refuse to chase death in the service of any fiend. The two clans coalesced with many more, and those who absolved themselves of servitude took their idols to the Znir  - a word that means stone - and destroyed the sculptures of the fiends that kept them bound to violence. All of these clans - warrior, shaman, hunter - vowed that no god, chib, nor demon would hold dominion over them and while their clans differed, they all were of the same pact. These were the ancestors of the Znir Pact gnolls, now found throughout Khorvaire but most prevalently in Droaam. 
@@ -15,6 +14,7 @@ There are still gnolls that remained bound to the overlords, lacking the freedom
 - Be very physically demonstrative-often hugging, punching, or licking your friends.
 - Chew through scraps and bones others would throw away.
 |
+
 ## Others Probably...
 - Are intimidated by your size, teeth, and eerie laugh.
 - Assume that you are dishonourable or worse.
@@ -28,11 +28,17 @@ The Znir gnolls include a dozen different clans, each of which holds distinct tr
 
 The clans maintain distinct territories within the Znir region, but all gnolls are welcome around the hearth of any clan; the Znir take pains to crush any tension that arises between the clans. Shamans and leaders from each clan maintain a council at the Znir, around the idols their ancestors broke. Here they mediate disputes, assign contracts to clans, and allocate funds
 =
+right(
+# Gnoll Statistics
+Gnolls gameplay statistics, heritages, and additional feats are provided by the Pathfinder 2e Mwangi Expanse book. The following Heritages and feats should be considered an additional pool to pick from in addition to the Pathfinder 2e information already provided.
+)
 and equipment. The Eyre clan has honed their skills as smiths and tanners, and they craft much of the equipment used by the Znir gnolls-though there is still a strong tradition of scavenging among the Znir, and warriors often claim trophies from fallen foes. [49]
 
 ## Alignment and Religion...
 
-Gnolls have very strong pack instincts, and an unsentimental matter-of-fact approach to life, and prioritize results over methods. [50] They instinctively work together in combat and think nothing of placing themselves in harm’s way to protect their kin. If a gnoll character adopts a group of adventurers as their temporary pack, these things apply to the other characters - but the gnoll will be surprised and angry if their non-gnoll packmates don’t show them the same respect. This means the typical gnoll trends towards a Lawful alignment, but good and evil depend on the current terms of their contract. [51]
+Gnolls have very strong pack instincts, and an unsentimental matter-of-fact approach to life, and prioritize results over methods. [50] They instinctively work together in combat and think nothing of placing themselves in harm’s way to protect their kin. If a gnoll character adopts a
+/
+group of adventurers as their temporary pack, these things apply to the other characters - but the gnoll will be surprised and angry if their non-gnoll packmates don’t show them the same respect. This means the typical gnoll trends towards a Lawful alignment, but good and evil depend on the current terms of their contract. [51]
 
 ## Names...
 A Gnoll's most important identifier is its whoop. While deceptively short, a whoop includes a range of ultrasonic inflexions that indicate clan, a personal identifier, and a suggestion of family affiliation (the Znir trace lineage through the mother). Because it’s impossible for most non-gnolls to properly replicate a whoop, gnolls also use contract names-names intended to be used with clients and other outsiders. There is a basic structure of contract names used by all gnolls; the inflexion of the name indicates gender, though few people recognize this if they don’t speak Gnoll. The Znir typically attach clan names to a formal introduction: “Ghyrryn Barrakas, Znir.” [50]
@@ -40,13 +46,9 @@ A Gnoll's most important identifier is its whoop. While deceptively short, a who
 ### Sample gnoll contract names
 Dagnyr, Dhyrn, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Gnyrl, Hyrn, Lhoryn, Lhyr, Lhyrl, Mognyr, Myrl, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych
 
-# Gnoll Statistics
-Gnolls gameplay statistics, heritages, and additional feats are provided by the Pathfinder 2e Mwangi Expanse book. The following Heritages and feats should be considered an additional pool to pick from in addition to the Pathfinder 2e information already provided.
 # Gnoll Heritages
-You can select one of the following heritage at 1st level to reflect abilities that are representative of the training and development you received while you were raised in a specific clan. These skills and abilities
+You can select one of the following heritage at 1st level to reflect abilities that are representative of the training and development you received while you were raised in a specific clan. These skills and abilities are specialities of your clan, passed down to you from your ancestors. You have only one heritage and can’t change it later. While you must belong to that clan if you pick one of these heritages, any base pathfinder 2e heritages can belong to any clan. The base heritages are not limited to any particular clan, though some clans might have more or fewer members from a particular base heritage. The pathfinder 2e heritages do not count for clan heritage requirements. 
 |
-are specialities of your clan, passed down to you from your ancestors. You have only one heritage and can’t change it later. While you must belong to that clan if you pick one of these heritages, any base pathfinder 2e heritages can belong to any clan. The base heritages are not limited to any particular clan, though some clans might have more or fewer members from a particular base heritage. The pathfinder 2e heritages do not count for clan heritage requirements. 
-
 ## Aryth Clan
 Your clan is tied to the moon Aryth - the Gateway. Considered the best Archers of the Znir gnolls, you become trained in Simple and Martial ranged weapons. Advanced gnoll weapons count as martial weapons for you.
 

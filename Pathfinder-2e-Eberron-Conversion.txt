@@ -1,5 +1,5 @@
 watermark (
-Version 1.1.0
+Version 1.1.1
 )
 title (
 Pathfinder's Guide to Eberron 
@@ -955,11 +955,9 @@ info(
 For more information on Warforged, see Exploring Eberron (p. 45)
 )
   
-  
-  
-  
+
 note (
-# Dragonborn  ((+++Dragonborn Note))
+# Dragonborn ((+++Dragonborn Note))
 Dragonborn are an addition to the world of Eberron as of D&D 4e. Given that they are unique to D&D, that Paizo has (intentionally) avoided implementing their statistics, and that Dragonborn are a late introduction to the world of Eberron, this document does not note them as a Core race and will not provide statistics. If the dragonborn are particularly interesting to you, consider either of the Lizardfolk or Kobold Ancestry which have established cultures in Eberron. As always, talk to your GM.
 )
 |
