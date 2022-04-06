@@ -1,0 +1,362 @@
+head(
+# Gears
+Gears description
+-
+)
+
+item(
+# Artisan's Tools (Artifice) Item 0
+-
+; Artificer
+**Price** 5 gp
+
+**Hands** 2; **Bulk** 1
+
+**Requirements** Must have access to the Artifice class feature.
+-
+Artifice tools are a special subset of artisan's tools with all the equipment required to manufacture magical items of any nature. If you have a set of these tools, you do not need different sets for different work, as may be required of regular Artisan's Tools. If you wear your artisan's tools, you can draw and replace them as part of the action that uses them.
+)
+item(
+# Artisan's Tools (Artifice) (Sterling) Item 3
+-
+; Artificer
+**Price** 62 gp
+
+**Hands** 2; **Bulk** 1
+
+**Requirements** Must have access to the Artifice class feature.
+-
+Sterling artisan's tools give you a +1 item bonus to the check. 
+)
+=
+Notes:
+- Drop martial trained from inventor
+- Drop to trained fort from inventor
+- Add arcana skill prof
+=
+head(
+# Artificer
+TODO Artificer info
+-
+)
+right(
+# Rarity
+Uncommon
+# Initial Proficiencies
+At 1st level, you gain the listed proficiency ranks in the following statistics. You are untrained in anything not listed unless you gain a better proficiency rank in some other way.
+# Perception
+Trained in Perception
+# Saving Throws
+Trained in Fortitude
+Expert in Reflex
+Expert in Will
+# Skills
+Trained in Arcana
+Trained in Crafting
+Trained in a number of additional skills equal to 2 plus your Intelligence modifier
+# Attacks
+Trained in simple weapons
+Trained in unarmed attacks
+# Defenses
+Trained in light armor
+Trained in medium armor
+Trained in unarmored defense
+# Class DC
+Trained in artificer class DC
+)
+info(
+###### Key Ability
+<b style="font-size:13px">INTELLIGENCE</b>
+At 1st level, your class gives you an ability boost to Intelligence.
+|
+###### Hit Points
+<b style="font-size:13px">8 plus your Constitution modifier.</b>
+You increase your maximum number of HP by this number at 1st level and every level thereafter.
+)
+## During Combat Encounters...
+## During Social Encounters...
+## While Exploring...
+## In Downtime...
+## You Might...
+## Others Probably...
+=
+##### Table X-1: Artificer Advancement
+Your Level | Class Features
+--- | :---
+1 |
+2 |
+3 |
+4 |
+5 |
+6 |
+7 |
+8 |
+9 |
+10 |
+11 |
+12 |
+13 |
+14 |
+15 |
+16 |
+17 |
+18 |
+19 |
+20 |
+
+##### Table X-1: Artificer Infusions
+Your Level | Advanced Artifice Level | 1st | 2nd | 3rd | 4th | 5th | 6th
+--- | :--- | :--- | :--- | :--- | :--- | :--- | :---
+1 | 1 | 2 | - | - | - | - | -
+2 | 1 | 3 | - | - | - | - | -
+3 | 2 | 3 | 1 | - | - | - | -
+4 | 2 | 3 | 2 | - | - | - | -
+5 | 3 | 3 | 3 | 1 | - | - | -
+6 | 3 | 3 | 3 | 2 | - | - | -
+7 | 4 | 3 | 3 | 2 | - | - | -
+8 | 4 | 3 | 3 | 2 | 1 | - | -
+9 | 5 | 3 | 3 | 3 | 2 | - | -
+10 | 5 | 3 | 3 | 3 | 2 | - | -
+11 | 6 | 3 | 3 | 3 | 2 | 1 | -
+12 | 6 | 3 | 3 | 3 | 2 | 2 | -
+13 | 7 | 3 | 3 | 3 | 3 | 2 | -
+14 | 7 | 4 | 3 | 3 | 3 | 3 | 1
+15 | 8 | 4 | 4 | 3 | 3 | 3 | 2
+16 | 8 | 4 | 4 | 4 | 4 | 3 | 2
+17 | 9 | 4 | 4 | 4 | 4 | 4 | 3
+18 | 9 | 4 | 4 | 4 | 4 | 4 | 3
+19 | 10 | 4 | 4 | 4 | 4 | 4 | 4
+20 | 10 | 4 | 4 | 4 | 4 | 4 | 4
+
+=
+note(
+# Infused: 
+The core rule book infused trait only applies to alchemical items. However, the artificer produces non-alchemical items with the infused trait. The new trait should read as such
+  
+; Infused 
+You created an item with the infused trait, and it has a limited time before it becomes inert. Any nonpermanent effects from your infused items from any source, with the exception of afflictions such as slow-acting poisons, end when you make your daily preparations again.
+)
+# Class Features
+You gain these abilities as an artificer. Abilities gained at higher levels list the level at which you gain the, next to the features' names.
+
+## Ancestry and Background
+In addition to what you gain from you chosen class at 1st level, you have the benefits of your selected ancestry and background.
+
+## Initial Proficiencies
+At 1st level, you gain a number of proficiencies that represent your basic training. These proficiencies are noted at the start of this class.
+
+## Artifice
+You understand the fundamentals of arcana and tinker with its workings. While spellcasters specialize in the utilization of arcane forces, you construct and build the very essence of magic into magical constructions called infusions. These infusions allow you to rapidly prototype magical items to meet your needs. You can do this using the normal Crafting activity, or you can create special infused items that replicate a magical effect for a temporary duration quickly and at no cost. Over time, you can improvise more potent infusions more often. With your ability to improvise for any situation, you are the ultimate magical MacGyver.
+
+You gain the Magical Crafting feat, even if you don't meet that feat's prerequisites, and you gain the four common magical formulas granted by that feat, but only items up to 1st-level. You can use this feat to create magic items as long as you have the items' formulas in your formula book.
+
+### Magical Infusion
+You prepare your artisian's tools to create infused items, allowing you to prototype temporary magical items at no cost. Each day during your daily preparations, you prepare to create a number of infusions equal to your level + your Intelligence modifier. You can create these infusions using either advanced artifice or quick artifice, described below. 
+
+As soon as you make your next daily preparations, your infusions from the previous day's preparations lose the magical effects of your modifications, and nonpermanent effects of your previous day's infused items immediately end. While infusions create magical properties on physical objects, they can't be duplicated, preserved, or created in any way other than your daily preparations.
+
+### Advanced Artifice
+During your daily preparations, after preparing your tools, you can create infused items. You don't need to attempt a Crafting check to do this, and you ignore the number of days typically required to create the items. Your advanced artifice level is noted in the artificer infusion table. For each infusion you create, choose a magical item of your advanced artifice level or lower that's in your formula book, and create that item. These items have the infused trait and remain potent for 24 hours or until your next daily preparations, whichever comes first.
+
+item(
+# Quick Infusion :aa:
+; Artificer, Manipulate
+-
+**Cost** 1 infusion
+
+**Requirements** You have the formula for the magical item you're creating, and you're either holding or wearing Artisan's tools.
+-
+You swiftly prototype a magical item to use at a moment's notice. You create a single magical item of your advanced artifice level or lower that's in your formula book without having to spend the normal monetary cost in components or needing to attempt a Crafting check. This item has the infused trait, but it remains potent only for the next 10 minutes.
+)
+
+## Formula Book
+An artificer keeps meticulous records of the formulas for every item they can create. You start with a standard formula book worth 10 sp or less for free. The formula book contains the formulas for two common 1st-level magic items of your choice, in addition to those you gained from Magical Crafting and your artifice style.
+
+Each time you gain a level, you can add the formulas for two common magic items to your formula book. These new formulas can be for any level of item you can create. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other artificers, or to invent them with the Inventor feat.
+
+## Sample Formula Book
+You can choose any 1st-level common magic items for your formula book, but the list below contains a good selection of starter formulas.
+
+Artificer Item Formulas: TODO
+
+## Artifice Profession
+Your developments in artifice have lead you to specialize in a particular profession of artifice. You might have a degree from an arcane institute, correspond with other artificers in your field, or work as a genius loner. Choose an artificer profession.
+
+Your profession adds a number of formulas to your formula book; these are your signature items. Once during your daily preparations, you can create an infused signature item using advanced artifice without expending one of your infusions. Each time you gain a level, you can swap one of your signature items with another formula in your formula book. This new signature item must be on your artifice professions' list of possible signature items.
+
+### Construct
+Constructs
+
+### Rune
+Runes
+
+### Alchemical
+Alchemist
+
+### Wand
+Wands/Staves/Magical effects
+
+## Peerless Artificer
+You are constantly inventing, and your skill at crafting is unimpeachable. You gain the Inventor skill feat, even if you don't meet its prerequisites.
+- Inventor
+- Crafter's Appraisal
+- Magical Crafting
+
+## Shield Block
+You gain the Shield Block general feat, a reaction that lets you reduce damage with your shield.
+
+## Artificer Feats
+At 1st level and every even-numbered level, you gain an artificer class feat. Some features and feats use an assortment of gizmos you keep on your person. For simplicity, these are left abstract, but if you are deprived of your gear for some reason, you might lose access to many feats and features, subject to GM discretion.
+
+## Skill Feats - Level 2
+At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat.
+
+## XXX - Level 3
+
+## General Feats - Level 3
+At 3rd level and every 4 levels thereafter, you gain a general feat.
+
+## Expert Artifice - Level 3
+Expert in crafting, Arcana.
+
+## Skill Increases - Level 3
+At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase to either become trained in one skill you're untrained in, or become an expert in one skill in which you're already trained.
+
+At 7th level, you can use skill increases to become a master in a skill in which you're already an expert, and at 15th level, you can use them to become legendary in a skill in which you're already a master.
+
+## Ability Boosts - Level 5
+At 5th level and every 5 levels thereafter, you boost four different ability scores. You can use these ability boosts to increase your ability scores above 18. Boosting an ability score increases it by 1 if it's already 18 or above, or by 2 if it starts out below 18.
+
+## Ancestry Feats - Level 5
+In addition to the ancestry feat you started with, you gain an ancestry feat at 5th level and every 4 levels thereafter.
+
+## Artificer Weapon Expertise - Level 5
+You develop tricks for using your weapons more effectively. Your proficiency ranks for simple and unarmed attacks increase to expert.
+
+##  - Level 7
+
+
+## Great Fortitude - Level 7
+Your physique is incredibly hardy. Your proficiency rank for Fortitude saves increases to expert.
+
+## Master Artifice - Level 7
+You become a master in Crafting, Arcana.
+
+## Weapon Specialization - Level 7
+You've learned how to inflict greater injuries with the weapons you know best. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you're a master, and 4 if you're legendary.
+
+## Artifice Expertise - Level 9
+Through innovation and experimentation, you've made your inventions more effective and reliable. Your proficiency rank for your artificer class DC increases to expert.
+
+## TODO - Level 9
+
+## Medium Armor Expertise - Level 11
+You've learned to better defend yourself against attacks. Your proficiency ranks for light armor, medium armor, and unarmored defense increase to expert.
+
+If you have a medium or heavy armor innovation, you gain access to the critical specialization effect with your armor innovation.
+
+## Resolve - Level 11
+You've steeled your mind with resolve. Your proficiency rank for Will saves increases to master. When you roll a success on a Will save, you get a critical success instead.
+
+## Alertness - Level 13
+Your attention to detail lets you remain alert to threats around you. Your proficiency rank for Perception increases to expert.
+
+## TODO - Level 13
+
+## Artificer Weapon Mastery - Level 13
+You fully understand your weapons. Your proficiency ranks for simple weapons and unarmed attacks increase to master.
+
+## Greater Weapon Specialization - Level 15
+Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you're an expert, 6 if you're a master, and 8 if you're legendary.
+
+## Legendary Artifice - Level 15
+Legendary Crafting, Artifice
+
+## TODO - Level 15
+
+## TODO - Level 15
+
+## Inventive Mastery - Level 17
+Your artificer is incredibly effective. Your proficiency rank for your artificer class DC increases to master.
+
+## Juggernaut - Level 17
+Your body is accustomed to physical hardship and resistant to ailments. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
+
+## TODO - Level 19
+
+## Medium Armor Mastery - Level 19
+Your skill with armor improves, helping you avoid more blows. Your proficiency ranks for light and medium armor, as well as for unarmored defense, increase to master.
+
+=
+# Feats
+
+item(
+# Magic Item Trickster
+## Feat 1
+-
+; Artificer
+Your understanding of the nature of magic items grants you the Trick Magic Item skill feat. You may use Arcana as the skill check regardless of the item's magic tradition. If you activate a magic item that requires a spell attack roll or spell DC, you may use your Arcana skill as the relevant tradition to determine your proficiency bonus.
+)
+|
+
+# Infusion List
+item(
+# Weapon Rune
+## Level 2
+-
+Apply +1 to weapon.
+-
+Heightened 10: +2
+Heightened 16: +3
+)
+item(
+# Skill Bonus
+## Level 3
+-
+Apply +1 to skill.
+-
+Heightened 9: +2
+Heightened 17: +3
+)
+item(
+# Attack Rune
+## Level 4
+-
+Apply 1 extra die to weapon
+-
+Heightened 12: 2
+Heightened 19: 3
+)
+item(
+# Defense Rune
+## Level 5
+-
+Apply +1 to armor
+-
+Heightened 11: +2
+Heightened 18: +3
+)
+item(
+# Perception Bonus
+## Level 7
+-
++1 to perception
+-
+Heightened 13: +2
+Heightened 19: +3
+)
+item(
+# Saving throw bonus
+## Level 8
+-
++1 to saving throw
+-
+Heightened 14: +2
+Heightened 20: +3
+)
+item(
+# Apex Bonus
+## Level 17
+-
+Apply increase by 2 or increase to 18 (whichever grants the higher score).
+)
