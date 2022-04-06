@@ -1,5 +1,5 @@
 watermark (
-Version 1.1.1
+Version 1.1
 )
 title (
 Pathfinder's Guide to Eberron 
@@ -74,6 +74,18 @@ Text boxes such as the following are used to provide references for further read
 Beyond this, the world is now yours. Welcome to the world of Eberron.
   
 # Changelog
+**V 1.1.1 - 2022-04-06**
+- Integrates ancestral weapons of Golarion with no Eberron equivalent
+- Added ancestral rarity to stats
+- Moved warforged stats to general rather than heritage
+- Moved shifter stats to general rather than heritage
+- Modifies shifter feats
+- Removed shapeshifter train from changelings
+- Increased changeling starting languages
+- Made gnoll statistic source more clear
+- modified myrnaxe statistics
+- Increased gnoll bow volley distance
+
 **V 1.0.10 - 2022-03-01**
 - Errata and clarifications
 - Dragonmark clarifications
@@ -712,10 +724,10 @@ Language | Main Speakers | Script
 --- | :--- | :---
 Common* | All major nations, Trade Language of Khorvaire | Common
 Draconic | Argonnessen, Kobolds, lizardfolk, dragons | Draconic
-Dwarvish | Mror Holds, Dwarves  | Dwarven
-Elvish | Aerenal, Valenar, Elves, Drow  | Elvish
-Giant | Droaam, Xen'drik | Giant
-Gnomish | Zilargo, House Sivis | Dwarvish
+Dwarven | Mror Holds, Dwarves  | Dwarven
+Elven | Aerenal, Valenar, Elves, Drow  | Elven
+Jotun | Droaam, Xen'drik | Jotun
+Gnomish | Zilargo, House Sivis | Dwarven
 Goblin* | Droaam, Darguun, Goblinoids | Goblin
 Halfling | Talenta Plains, House Ghallanda, House Jorasco | Common
 . *Major language, most PCs will likely speak at least one if not both.
@@ -728,7 +740,7 @@ Language | Main Speakers | Script
 Argon | Barbarians of Argonnessen and Seren | Common
 Aquan | Water-based creatures | Elven
 Druidic | Druids (only) | Druidic
-Gnoll | The Znir Pact, Gnolls |  Trade language of Khorvaire
+Gnoll | The Znir Pact, Gnolls |  Infernal
 Orcish | The Gatekeepers, Orcs | Goblin
 Riedran | Lower classes of Sarlona | Old Common
 
@@ -955,9 +967,11 @@ info(
 For more information on Warforged, see Exploring Eberron (p. 45)
 )
   
-
+  
+  
+  
 note (
-# Dragonborn ((+++Dragonborn Note))
+# Dragonborn  ((+++Dragonborn Note))
 Dragonborn are an addition to the world of Eberron as of D&D 4e. Given that they are unique to D&D, that Paizo has (intentionally) avoided implementing their statistics, and that Dragonborn are a late introduction to the world of Eberron, this document does not note them as a Core race and will not provide statistics. If the dragonborn are particularly interesting to you, consider either of the Lizardfolk or Kobold Ancestry which have established cultures in Eberron. As always, talk to your GM.
 )
 |
