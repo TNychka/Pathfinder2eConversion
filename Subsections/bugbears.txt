@@ -32,6 +32,8 @@ Bugbears reach physical adulthood around the age of 16, and they can live up to 
 Of the communities bugbears can belong to, the ones that are primarily goblinoid are Dhakaan, Darguun, or the isolated druidic communities found throughout Khorvaire but primarily in the Khraal. 
 =
 right(
+## Rarity
+Uncommon
 ## Hit Points
 10
 ## Size
@@ -47,7 +49,7 @@ Common
 Goblin
 Additional languages equal to your Intelligence modifier (if it's positive). Choose from Gnomish, Dwarvish, Elvish and any other languages to which you have access (such as the languages prevalent in your region).
 ## Traits
-Goblin
+Bugbear
 Humanoid
 ## Darkvision
 You can see in darkness and dim light just as well as you can in bright light, though your vision in darkness is only black and white.
@@ -225,9 +227,9 @@ item(
 ; Bugbear 
 Your hardiness lets you withstand more punishment than most before going down. Increase your maximum Hit Points by your level. When you have the dying condition, the DC of your recovery checks is equal to 9 + your dying value (instead of 10 + your dying value).
 
-If you also have the Toughness feat, the Hit Points gained from it and this feat are cumulative, and the DC of your recovery checks is equal to 6 + your dying value.
+**Special** If you also have the Toughness feat, the Hit Points gained from it and this feat are cumulative, and the DC of your recovery checks is equal to 6 + your dying value.
 
-If you also have Bugbear Endurance, the flat check DC is reduced by 1.
+**Special** If you also have Bugbear Endurance, the flat check DC is reduced by 1.
 )
 item(
 # Heavy Hauler
