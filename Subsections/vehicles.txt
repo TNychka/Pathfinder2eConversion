@@ -1,0 +1,107 @@
+item(
+# Clipper
+## Vehicle 12
+-
+; Gargantuan
+**Price** 10,000 gp
+-
+**Space** 180 feet long, 30 feet wide, 20 feet high
+
+**Crew** 1 captain, 25 crew; **Passengers** 40
+
+**Piloting Check** Arcana (DC 32), Crafting (DC 32), Nature (DC 32), Piloting Lore (DC 28)
+-
+**AC** 30; **Fort** +24
+
+**Hardness** 24, **HP** 250 (BT 225); **Immunities** critical hits, object immunities, precision damage;
+
+**Weakness** 12 fire until broken
+-
+**Speed** 120 feet (wind)
+
+**Collision** 9d10 (DC 30)
+
+**Sluggish** This vehicle must move twice its length for each 90-degree turn it makes. It also accelerates at a rate of 60 feet per round.
+
+**Weaponry** The Ship of the line is loaded to the brim with ship-to-ship weapons—typically bristling 124-136 with elemental cannons on its first, second, and third tiers. The Price of these weapons is included in that of the Ship of the Line. When building a Ship of the Line, you can choose to replace any of these with other siege weapons with a lower Price. If you want a more expensive siege weapon, you must Craft it separately. Because of the Ship of the ine's structure, any siege weapon in it must launch its payload straight ahead. For instance, a ballista or springald could function in a Ship of the Line, but not a catapult or trebuchet. Crew is typically sufficient to crew these siege weapons.
+)
+
+item(
+# Elemental Galleon
+## Vehicle 14
+-
+; Uncommon, Gargantuan
+**Price** 14,000 gp
+-
+**Space** 180 feet long, 30 feet wide, 20 feet high
+
+**Crew** 1 pilot, 20 other crew; **Passengers** 40
+
+**Piloting Check** Arcana (DC 32), Nature (DC 30), Piloting Lore (DC 28)
+-
+**AC** 28; **Fort** +22
+
+**Hardness** 20, **HP** 210 (BT 105); **Immunities** critical hits, object immunities, precision damage;
+
+**Weakness** 15 fire until broken
+-
+**Speed** 200 feet (magical)
+
+**Collision** 9d10 (DC 30)
+
+**Sluggish** This vehicle must move twice its length for each 90-degree turn it makes. It also accelerates at a rate of 60 feet per round.
+)
+
+item(
+# Ship of the Line
+## Vehicle 13
+-
+; Gargantuan
+**Price** 15,000 gp
+-
+**Space** 210 feet long, 50 feet wide, 25 feet high
+
+**Crew** 1 captain, 600 crew; **Passengers** 100
+
+**Piloting Check** Arcana (DC 32), Crafting (DC 32), Nature (DC 32), Piloting Lore (DC 28)
+-
+**AC** 30; **Fort** +24
+
+**Hardness** 24, **HP** 250 (BT 225); **Immunities** critical hits, object immunities, precision damage;
+
+**Weakness** 12 fire until broken
+-
+**Speed** 120 feet (wind)
+
+**Collision** 9d10 (DC 30)
+
+**Sluggish** This vehicle must move twice its length for each 90-degree turn it makes. It also accelerates at a rate of 60 feet per round.
+
+**Weaponry** The Ship of the line is loaded to the brim with ship-to-ship weapons—typically bristling 124-136 with elemental cannons on its first, second, and third tiers. The Price of these weapons is included in that of the Ship of the Line. When building a Ship of the Line, you can choose to replace any of these with other siege weapons with a lower Price. If you want a more expensive siege weapon, you must Craft it separately. Because of the Ship of the ine's structure, any siege weapon in it must launch its payload straight ahead. For instance, a ballista or springald could function in a Ship of the Line, but not a catapult or trebuchet. Crew is typically sufficient to crew these siege weapons.
+)
+
+item(
+# Lyrandar Airship
+## Vehicle 16
+-
+; Uncommon, Gargantuan
+**Price** 30,000 gp
+-
+**Space** 90 feet long, 30 feet wide, 60 feet high
+
+**Crew** 3 pilots, 10 other crew; **Passengers** 10
+
+**Piloting Check** Arcana (DC 37), Nature (DC 36), Piloting Lore (DC 32)
+-
+**AC** 30; **Fort** +22
+
+**Hardness** 18, **HP** 200 (BT 100); **Immunities** critical hits, object immunities, precision damage;
+
+**Weakness** 15 fire until broken
+-
+**Speed** 200 feet (magical)
+
+**Collision** 10d10 (DC 32)
+
+**Sluggish** This vehicle must move twice its length for each 90-degree turn it makes. It also accelerates at a rate of 60 feet per round.
+)
