@@ -801,7 +801,7 @@ Shifters | Uncommon
 Warforged | Common
 *All others not noted here are Rare.
 
-##### Table 2-1: Versatile Heritage Rarity
+##### Table 2-2: Versatile Heritage Rarity
 Heritage | Rarity
 --- | ---
 Aasimar | Uncommon

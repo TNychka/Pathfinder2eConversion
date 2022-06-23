@@ -104,10 +104,8 @@ item(
 # Siberys Mark ((++Siberys Mark))
 ## Feat 17
 -
-; Rare, Dragonmarked Heritage
--
-)
-item(
+; Rare, Dragonmarked Heritage 
+
 You have manifested a siberys mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You become Legendary Proficiency in Dragonmark Arcane attack rolls and DCs. Your dragonmark spells are automatically heightened to half your level rounded up, with no maximum. You gain an additional Dragonmark Focus Point and an additional Dragonmark Focus Point.
 )
 =
@@ -338,7 +336,7 @@ item(
 # Scribe's Eye
 ## feat 3
 -
-; Dragonmark, General, Mark of Sivis, Skill
+; Dragonmark, General, Mark of Scribing, Skill
 **Prerequisites** trained in Arcana
 -
 With an eye for the magic of symbols, you gain a +2 status bonus to detect arcane symbols such as Sigil or Glyph of Warding. When you come within 15 feet of a hidden symbol, the GM makes a secret check for you to detect them, even if you didn't spend an action to Seek for the symbol.
@@ -348,8 +346,8 @@ item(
 # Test of Siberys
 ## Feat 3
 -
-; Unique, Dragonmark, General
-**Prerequisites** You do not have a Dragonmark, your house is willing to run your test
+; Unique, Dragonmarked Heritage, General
+**Prerequisites** You do not have a Dragonmark, Your house is willing to run your test
 -
 The Test of Siberys is a rite of passage undertaken by adolescent children of the dragonmarked houses. The test varies from house to house and is based both on the powers of the mark and the traditions of the family. Outsiders, even those of dragonmarked houses, know little of what goes on in a particular house’s test. The test is rumoured to induce the kind of extreme stress needed for dragonmarks to manifest. Though a person can fail the test and still manifest a mark at a later age, this is rare. As a rule, it is assumed that those who fail will never develop a dragonmark.
 If you choose the Test of Siberys, your character must undergo the test associated with their mark. _If_ you succeed, gain the Least Mark ancestry feat.
@@ -368,8 +366,6 @@ item(
 ## Feat 7
 -
 ; General, Dragonmark, Aberrant Mark
-**Prerequisites** dragonmark trait
-
 **Frequency** once per day
 
 **Trigger** You reduce an enemy to 0 Hit Points with the powers of your mark.
@@ -1697,7 +1693,7 @@ Wind and water welcome the half-elves who carry the Mark of Storm, and some lear
 )
 The Mark of Storm is a Half-Elf Heritage. By picking this Heritage at first level you gain access to all of the Mark of Storm ancestry feats.
 
-## Mark of Storm [Half-Elf (Human) Heritage]
+## Mark of Storm [Half-Elf Heritage]
 At least one of your parents is a half-elf descendant of a Mark of Storm bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the Dragonmarked trait, the Mark of Storm trait, and low-light vision. In addition, you can pick elf, half-elf, human, dragonmarked heritage, and Mark of Storm feats whenever you gain an ancestry feat.
 
 ## Mark of Storm Focus Spells

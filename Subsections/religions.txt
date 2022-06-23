@@ -22,8 +22,9 @@ A deity of fertility, plant life, and abundance, Arawai is neutral good. She cla
 <null> **Cleric Spells** 1st: temporary tool, 2nd: shape wood, 3rd: wall of thorns.
 **Edicts** Encourage hard work that benefits all, ensure the health of crops and vegetation, protect forests and farmland from ravagers.
 **Anathema** Destroy healthy crops, waste food, refuse to help others in your community.
-**Favoured Weapon** morningstar
-### Aureon: God of Law and Knowledge
+**Favoured Weapon** Flail
+
+### Aureon: God of Law and Knowledge [LN]
 A deity of lore and magic, Aureon is lawful neutral. The patron of all arcane spellcasters, as well as sages, librarians, and scribes, he often appears as a gnome or human wizard in ancient texts, and occasionally as a majestic blue dragon. [26]
 **Areas of Concern** Law, knowledge, learning, logic, magic
 **Alignment** LN
@@ -47,7 +48,7 @@ A neutral nature deity associated with hunting and animal life, Balinor claims h
 **Cleric Spells** 1st: pass without trace, 2nd: invisibility, 3rd: animal vision
 **Edicts** Hunt and maintain the health of the forest, provide for your community, slay creatures terrorizing an area.
 **Anathema** Take more than needed from the wilderness, hunt an animal for sport.
-**Favoured Weapon** Battleaxe
+**Favoured Weapon** Longbow, Composite Longbow
   
 ### Boldrei: Goddess of Community and Hearth [LG]
 Boldrei, the lawful good deity of community, is invoked as a protector of villages and homes, to bless marriages, and to confirm government appointments. Usually depicted in ancient texts as a commoner of any race, or sometimes as a copper dragon brooding over a nest of eggs. [28]
@@ -112,7 +113,7 @@ Gamblers, rogues, bards, and hedonists invoke the favour of Olladra, the neutral
 **Cleric Spells** 1st: anticipate peril, 2nd: Lucky Number, 3rd: Perseis's Precautions
 **Edicts** Live life freely, drink, host generously, take chances.
 **Anathema** Refuse a reasonable bet, be miserly with your hospitality.
-**Favoured Weapon** Sickle
+**Favoured Weapon** Dagger
 |
 ### Onatar: God of Artifice and the Forge [NG]
 Onatar, the neutral good deity of crafts, industry, and fire, is the patron of artisans and artificers, smiths and smelters, and all who make things. Dwarves, in particular, revere him; he commonly appears as a dwarf smith in holy texts, and sometimes as a brass dragon. Wizards who specialize in fire also place their faith in him. [33]
@@ -197,7 +198,7 @@ The Shadow, the literal shadow of Aureon, gained a life of its own as the price 
 **Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
 **Edicts** Learn and hoard forbidden magic, steal secrets from others.
 **Anathema** Destroy forbidden lore, reveal the entirety of a secret.
-**Favoured Weapon** staff
+**Favoured Weapon** Staff
   
 ### The Traveler: The Sovereign of Chaos and Change [CN]
 The most mysterious of the Dark Six, the Traveler is chaotic neutral and seems to have no connection to the other deities of the pantheon. A consummate shapeshifter, the Traveler is said to walk the land in a thousand disguises. A master of cunning and deception, it emphasizes subtlety and careful planning. In some places, the Traveler is known as the Giver of Gifts, but proverbs warn, “Beware the gifts of the Traveler.” Revered by doppelgangers, lycanthropes, and a number of changelings and shifters. [39]
@@ -210,7 +211,7 @@ The most mysterious of the Dark Six, the Traveler is chaotic neutral and seems t
 **Cleric Spells** 1st: illusory disguise, 2nd: invisibility, 3rd: nondetection, 4th: private sanctum
 **Edicts** Live life freely, manipulate dangerous beings and opportunities to your benefit, thrive in hostile conditions.
 **Anathema** Refuse a reasonable bet, let social pressure change your behaviour.
-**Favoured Weapon** scimitar
+**Favoured Weapon** Scimitar
 = 
 # The Silver Flame [LG] ((++The Silver Flame))
 -
@@ -224,7 +225,7 @@ In a world where deadly supernatural evil is a concrete fact of existence, the C
 **Cleric Spells** 1st: anticipate peril, 3rd: fireball, 4th: fire shield
 **Edicts** Free others from oppression, defend the innocent from evil, work toward your best self and inspire others to follow.
 **Anathema** Allow evil to spread unchecked, enslave or oppress others, dishonor yourself or disgrace others.
-**Favoured Weapon** longbow
+**Favoured Weapon** Longbow
   
 # The Blood of Vol [LN] ((++The Blood of Vol))
 -
@@ -240,7 +241,7 @@ after death; at least they can do some good. [41]
 **Cleric Spells** 1st animate dead, 3rd: haste, 6th: dominate
 **Edicts** Strive to unlock the potential within yourself, encourage others to strive toward their potential for greatness.
 **Anathema** Sacrifice your life, fail to work toward goals or grow in skill, relax excessively or give in to sloth, blemish a soul.
-**Favoured Weapon** dagger
+**Favoured Weapon** Dagger
   
 # The Path of Light [LN] ((++The Path of Light))
 -

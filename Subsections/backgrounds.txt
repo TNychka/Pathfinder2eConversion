@@ -28,9 +28,12 @@ item(
 -
 ; Rare
 The dragonmarked houses have their own laws, some older than Galifar. An heir who violates the laws of a house is made an excoriate: stripped of the house name and forbidden from drawing on house resources. An excoriate must surrender their signet ring, any other property that can be claimed as a gift of the house, and the name of both house and family. Their likeness is circulated through the major enclaves of the house. Heirs of their house are forbidden to provide them with aid or succour, and the other houses typically shun excoriates of any line. Excoriation is a rare punishment but is often a fate worse than prison for a dragonmarked heir.
-    Choose three ability boosts. One must be to Intelligence or Wisdom, and two are free ability boosts.
-    You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
-    Any dragonmarked member of your house who knows of your status is automatically unfriendly toward you, as are most members of other 
+
+You gain two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; one is free; and you should work with your GM to choose the third based on the circumstances of your excoration.
+  
+You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
+  
+Any dragonmarked member of your house who knows of your status is automatically unfriendly toward you, as are most members of other 
 )
 |
 item(
@@ -41,13 +44,16 @@ item(
 ## Background
 -
 The Korth Edicts prevent members of a dragonmarked house from holding land, a noble title, or rank in a national military. Over the centuries, many dragonmarked heirs have chosen to give up their birthright to be freed from the edicts. During the Last War, many idealistic heirs left their houses to fight for one of the Five Nations. Others have married into noble families, whether for love or greed. 
-    Depending on their reasons for departure, an orphan could have a specific set of enemies within their house or might have had a perfectly amicable parting of the ways. However, an orphan is restricted
+
+Depending on their reasons for departure, an orphan could have a specific set of enemies within their house or might have had a perfectly amicable parting of the ways. However, an orphan is restricted
 )
 =
 item(
 from using their family or house name. They might not be an outcast, but they have surrendered their birthright just the same. It is more difficult for an orphan to gain access to house training such as the Dragonmarked Scion, but not impossible. Outside of the house, you decided to choose your own path. [56]
-    Choose two ability boosts. One must be to Charisma or Wisdom, and one is a free ability boost.
-    You gain the Skill Training skill feat, and you're trained in the Lore of Dragonmarked Houses.
+
+Choose two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; and one is a free ability boost.
+
+You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
 )
 
 item(
@@ -55,9 +61,12 @@ item(
 ## Background
 -
 The scion is a member of a dragonmarked house that embraces their heritage but keeps their distance from the administration of the house.
-    A dragonmarked scion bears the name of their house and, if they carry a dragonmark, can use the honorary title of lord. A scion can obtain room and board at any house enclave, though they are expected to put in a few hours of work in exchange. The scion does not have access to any special resources, but can usually find work at a guild business. [57]
-    Choose two ability boosts. One must be to Charisma or Intelligence, and one is a free ability boost.
-    You've trained the skill related to your house (table 1-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
+
+A dragonmarked scion bears the name of their house and, if they carry a dragonmark, can use the honorary title of lord. A scion can obtain room and board at any house enclave, though they are expected to put in a few hours of work in exchange. The scion does not have access to any special resources, but can usually find work at a guild business. [57]
+
+Choose two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; and one is a free ability boost.
+
+You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
 )
 item(
 # House Agent ((+House Agent))
@@ -65,16 +74,14 @@ item(
 -
 ; Uncommon
 Every dragonmarked house is involved in dozens of schemes and plots. Some of these are deep secrets that could threaten the existence of the house if exposed; others are practical quests designed to turn a profit. Agents take on assignments requested by their house: they are adventurers who dedicate their lives to expanding the power and influence of their dragonmarked families. An agent can be called into the service of their house at any time, but how this servitude affects the rest of the party is an important question.
-
-A dragonmarked agent bears the name of their house and, if they carry a dragonmark, can use the honorary title of lord. A house agent and their companions can always find free room and board at any house enclave. At the GM’s discretion, a trusted agent might be paid a regular salary by their house, or receive information,
 )
 |
 item(
-transportation, and supplies as necessary to complete an assignment. [58]
+A dragonmarked agent bears the name of their house and, if they carry a dragonmark, can use the honorary title of lord. A house agent and their companions can always find free room and board at any house enclave. At the GM’s discretion, a trusted agent might be paid a regular salary by their house, or receive information, transportation, and supplies as necessary to complete an assignment. [58]
 
-Choose two ability boosts. One must be to Intelligence or Wisdom, and one is a free ability boost.
+Choose two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; and one is a free ability boost.
 
-You've trained the skill related to your house (table 1-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
+You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
 )
 item(
 # Foundling
@@ -83,7 +90,7 @@ item(
 Characters can develop dragonmarks only by virtue of blood ties to a dragonmarked house, and many dragonmarked discover their lineage only after the mark appears. Some are the descendants of excoriates, while others are the product of a doomed romance. Whatever their stories, these foundlings carry dragonmarks but have no connection to their houses. 
 All the dragonmarked houses seek to identify and recruit foundlings. A house might occasionally refuse to accept a foundling, typically in cases involving descendants of truly infamous excoriates. As a rule, though, the houses all want to expand their ranks. [59]
 
-Choose two ability boosts. One must be to Charisma or Wisdom, and one is a free ability boost.
+Choose two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; and one is a free ability boost.
 
-Despite never receiving formal training, your dragonmarked blood has inclined you to learn the skill related to your house. Without the formal training of your house, however, you instead develop a Lore related to that skill rather than the dragonmarked houses. 
+Despite never receiving formal training, your dragonmarked blood has inclined you to learn the skill related to your house. Without the formal training of your house, however, you instead develop a Lore related to that skill rather than the dragonmarked houses.
 )
