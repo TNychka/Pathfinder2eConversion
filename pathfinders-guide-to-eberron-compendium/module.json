@@ -4,8 +4,24 @@
    "description":"Eberron conversion to pathfinder 2e",
    "author":"u/slayercookie",
    "version":"1.0",
-   "minimumCoreVersion":"0.8.9",
-   "compatibleCoreVersion":"0.8.9",
+   "minimumCoreVersion":"0.8",
+   "compatibleCoreVersion":"0.9",
+   "minimumSystemVersion": "3.7.0",
+   "system": [
+     "pf2e"
+   ],
+   "url": "https://github.com/TNychka/Pathfinder2eConversion/tree/compendium",
+   "socket": false,
+   "manifest": "https://raw.githubusercontent.com/TNychka/Pathfinder2eConversion/compendium/pathfinders-guide-to-eberron-compendium/module.json",
+   "download": "https://github.com/TNychka/Pathfinder2eConversion/blob/compendium/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip?raw=true",
+   "protected": false,
+   "coreTranslation": false,
+   "library": false,
+   "dependencies": [],
+   "scripts": [],
+   "esmodules": [],
+   "styles": [],
+   "languages": [],
    "packs":[
       {
          "label":"Eberron Ancestries",
