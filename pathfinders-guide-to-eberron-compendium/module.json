@@ -3,7 +3,7 @@
    "title":"Pathfinders' guide to eberron",
    "description":"Eberron conversion to pathfinder 2e",
    "author":"u/slayercookie",
-   "version":"1.0",
+   "version":"1.0.1",
    "minimumCoreVersion":"0.8",
    "compatibleCoreVersion":"0.9",
    "minimumSystemVersion": "3.7.0",
@@ -13,7 +13,7 @@
    "url": "https://github.com/TNychka/Pathfinder2eConversion/tree/compendium",
    "socket": false,
    "manifest": "https://raw.githubusercontent.com/TNychka/Pathfinder2eConversion/compendium/pathfinders-guide-to-eberron-compendium/module.json",
-   "download": "https://github.com/TNychka/Pathfinder2eConversion/raw/compendium/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip",
+   "download": "https://github.com/TNychka/Pathfinder2eConversion/blob/compendium/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip?raw=true",
    "protected": false,
    "coreTranslation": false,
    "library": false,
@@ -42,7 +42,7 @@
          "type":"Item"
       },
       {
-         "label":"Eberron backgrounds",
+         "label":"Eberron Backgrounds",
          "name":"eberron-backgrounds",
          "path":"./packs/eberron-backgrounds.db",
          "system":"pf2e",
@@ -54,6 +54,15 @@
          "label":"Eberron Classes",
          "name":"eberron-classes",
          "path":"./packs/eberron-classes.db",
+         "system":"pf2e",
+         "package":"pathfinders-guide-to-eberron",
+         "private":false,
+         "type":"Item"
+      },
+      {
+         "label":"Eberron Deities",
+         "name":"eberron-deities",
+         "path":"./packs/eberron-deities.db",
          "system":"pf2e",
          "package":"pathfinders-guide-to-eberron",
          "private":false,
