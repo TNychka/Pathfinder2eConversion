@@ -1,43 +1,53 @@
 head(
-# Planes of Eberron ((+Planes of Eberron))
-The Thirteen planes of Eberron all influence material plane of Eberron. All life is tied to each of the planes, though some connections may be more noticiable than others. 
+# The Planes of Eberron ((+Planes of Eberron))
+Eberron is a world alone in its planar cosmology, unattached to the rest of the multiverse. Eberron sits at the centre of thirteen outer planes, all of which influence the material plane differently. Each plane is a piece that composes the world of Eberron, though some connections are more noticeable than others.
 -
 )
-The planes of Eberron are complex in nature, and manifest effects on the material plane in the form of Manifest Zones. These manifest zones are frequently the most evident way that a plane interacts with the world, though there are more subtle ways. The following list details all thirteen planes of Eberron, and the effects they might have on your world.
 
+The thirteen planes of Eberron are complex and exist as the total embodiment of a concept in all its forms. The planes interact with Eberron and manifest their concepts and effects on the material plane. This can come in the form of being coterminous or remote - in which the planes effect becomes more or less dramatic across the world, or in the form of Manifest Zones which directly affect a small region of the world. Most often manifest zones are evident by the way that a plane strengthens its concept in the region where it manifests - though sometimes the effects can be quite subtle. The following list details all thirteen outer planes of Eberron and the effects they might have on your world.
 
-For more information on the planes of Eberron, see Exploring Eberron pg 143 onwards.
+note(
+For more information on the planes of Eberron, see Exploring Eberron Chapter 5.
+)
+/
+## Planar Effects
+Planar Effects detail the major mechanical changes that a creature from a different plane might experience while visiting the plane. Though there are numerous other minor effects that you can add to your planes. While the planar effects may wax or wane depending on your location in the plane, they are typically always present no matter where you are in the plane.
 
-Note that the traits are important.
+## Manifest Zones
+Manifest zones are locations on the material plane where an outer plane has created a strong zone of resonance that manifests some of the effects of the outer plane. These manifest zones are typically relatively small, being from a few meters to a kilometre in size, though they can exist in much larger or smaller sizes. Only rarely do manifest zones appear or disappear from the world, as typically manifest zones are static in location. During coterminous or remote phases, their size may change dramatically, but they are always present. Manifest zones typically have one or two planar traits or some minor other effects detailed in the manifest zone section. However, some manifest zones can have none or even all of the effects depending on the zone's strength.
 
+## Coterminous and Remote
+The planes of Eberron seem to follow cycles of Coterminous phases and Remote phases - having a stronger or weaker effect on the material plane. Planes can have additional effects if it becomes coterminous or remote. Typically, when coterminous, manifest zones associated with the plane are stronger, but when remote, manifest zones associated with the plane become weaker or can even temporarily disappear altogether.
+|
+##### Table 2-1: Planes of Eberron
 Plane | Moon | Traits | Description
 --- | :--- | :--- | :---
-Daanvi | Nymm, the Crown | 
-Dal Quor | Cyra (believe to be destroyed) | 
-Dolurrh | Aryth, the Gateway | 
-Fernia | Eyre, the Anvil | 
-Irian | Barrakas, the Lantern | 
-Kythri | Zarantyr, the Storm | 
-Lamannia | Olarune, the Sentinel | 
-Mabar | Sypheros, the Shadow | 
-Risia | Dravago, the Herder | 
-Shavarath | Vult, the Warder | 
-Syrania | Therendor, the Healer | 
-Thelanis | Rhaan, the Book | 
-Xoriat | Lharvion, the Eye | 
-/
+Daanvi | Nymm, the Crown | LN, Flowing, Immeasurable | The Perfect Order
+Dal Quor | Cyra (believe to be destroyed) | Subjective Gravity, Flowing, Metamorphic, Immeasurable | The Region of Dreams 
+Dolurrh | Aryth, the Gateway | Timeless, Immeasurable | The Realm of The Dead 
+Fernia | Eyre, the Anvil | Fire, Immeasurable | The Sea of Flame
+Irian | Barrakas, the Lantern | NG, Positive, Immeasurable | The Eternal Dawn 
+Kythri | Zarantyr, the Storm | CN, Erratic, Metamorphic, Immeasurable | The Churning Chaos 
+Lamannia | Olarune, the Sentinel | Immeasurable |  The Twilight Forest 
+Mabar | Sypheros, the Shadow | NE, Negative, Shadow, Immeasurable | The Endless Night 
+Risia | Dravago, the Herder | Cold, Timeless, Immeasurable | The Plain of Ice 
+Shavarath | Vult, the Warder | Flowing, Immeasurable | The Battleground 
+Syrania | Therendor, the Healer | Air, Immeasurable |  The Azure Sky 
+Thelanis | Rhaan, the Book | Flowing, Immeasurable | The Faerie Court 
+Xoriat | Lharvion, the Eye | Erratic, Immeasurable | The Realm of Madness 
 =
 item(
 # Daanvi: The Perfect Order ((++Daanvi))
 ## Plane
 -
-; LN, Flowing
+; LN, Flowing, Immeasurable
 **Moon** Nymm, the Crown
+
+**Moon and Portal Colour** Yellow-gold
 
 **Native Inhabitants** Modrons, Inevitables, Angels, Devils
 -
-
-There’s a rhythm to Daanvi, a subtle metronome keeping perfect time. If you act without thinking, you unconsciously move to the beat. The streets may be crowded, but everyone walks at the same pace, every foot striking the ground at the same moment. It takes a conscious effort to break this rhythm, change the pattern, stand out from the crowd. Your instincts push you to fall in line, match the pattern, be part of the great machine. This is Daanvi, the Perfect Order. It represents the triumph of law over lawlessness, of discipline over chaos. From the perfectly structured insect hives to the inevitable tribunals that judge every mortal action, this is a triumph of order. On the one hand, Daanvi shows how structure and discipline can create enduring systems, and how laws are the backbone of prosperous civilization. On the other hand, it can crush individuality and innovation. It shows that laws can serve justice, but they can also pose an endless series of obstacles, or even be the tools of tyrants. Daanvi encompasses all of these paths. It shows the benefits of law and order—and the risks of taking them too far. [11]
+Daanvi is the embodiement of Law. It is the plane that shows the potential of absolute law to create perfect order and work as the structure of society, but it also demonstrates where absolute law can go wrong and be used for oppression or harm. "It shows that laws can serve justice, but they can also pose an endless series of obstacles, or even be the tools of tyrants. Daanvi encompasses all of these paths. It shows the benefits of law and order - and the risks of taking them too far." [11]
 
 # &nbsp;
 ## Planar Effects
@@ -48,37 +58,47 @@ There’s a rhythm to Daanvi, a subtle metronome keeping perfect time. If you ac
 
 **The Eyes of the Law.** When a creature casts a divination spell, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
 
-**No Chance.** The first time in a round (or any time outside of combat) that a creature makes an attack roll, skill check, or saving throw (other than a recovery check), treat the roll as a 10. Neither Fortune or Misfortune traits can be applied to a roll while under these effects.
+**No Chance.** The first time in a combat round (always, in exploration mode) that a creature makes an attack roll, skill check, or saving throw (other than a recovery check), treat the roll as a 10. Neither Fortune nor Misfortune traits can be used while under this planar effect.
 
 **Flowing Time.** For every 10 minutes that pass in Daanvi, only 1 minute passes in the Material Plane.
 
 # &nbsp;
 ## Manifest Zone
 -
-Manifest zones of Daanvi are uncommon, those that do manifest typically present one of the plane's properties. Inside the manifest zone, things are unnaturally orderly.
+Manifest zones of Daanvi are uncommon, but those that do manifest typically present one of the plane's properties. Inside the manifest zone, things are unnaturally orderly.
 
 # &nbsp;
 ## Coterminous and Remote
 -
-Daanvi has coterminous and remote periods, but unlike those of other planes, these have no obvious effects. Daanvi is noteworthy for its exceptionally long cycle. Traditionally, when Daanvi becomes coterminous, it remains so for an entire century; one hundred years after that, it becomes remote for a century.
+Daanvi has an exceptionally long cycle. Traditionally, when Daanvi becomes coterminous, it remains so for an entire century; one hundred years after that, it becomes remote for a century.
+
+Daanvi has coterminous and remote periods, but unlike those of other planes, these periods have no obvious effects.
 )
-=
+  
+  
 item(
 # Dal Quor: The Region of Dreams ((++Dal Quor))
 ## Plane
 -
-; Subjective Gravity, Flowing, Metamorphic 
+; Subjective Gravity, Flowing, Metamorphic, Immeasurable
 **Moon** Crya (believed to be destroyed)
+
+**Moon and Portal Colour** Not visible in Eberron’s sky; impossibly black, portals are inaccessible
 
 **Native Inhabitants** Dreamers, Quori
 -
-Dal Quor is both impossibly distant and remarkably close. Tens of thousands of years ago, the giants of Xen’drik shattered the ties between Dal Quor and the Material Plane. Since then, it’s been permanently remote, and no naturally occurring manifest zone to Dal Quor has been discovered. Not even plane shift or astral travel can allow direct contact with the Region of Dreams. And yet, it’s also the closest of the planes—to visit, just close your eyes. Dreaming is a form of spiritual travel, as your mortal consciousness is drawn to Dal Quor. Dal Quor is the realm of dreams, a place of imagination where memory and emotion can shape reality. The stories of Thelanis bring people together in a shared tale; by contrast, the dreams of Dal Quor are unique, individual, and fleeting. They’re defined by our experiences and desires, and we rarely remember them when they’re over. Dreams allows us to sift through our subconscious, and they are ours alone—or at least, they should be... if they aren’t manipulated by an outside force. The denizens of Dal Quor reflect the secondary theme of the plane, and—for now, at least—that theme is nightmares. The quori prey on mortal dreams, twisting them to produce the emotions they crave. This doesn’t mean all dreams are nightmares—but when a quori takes an interest in your dream, it’ll usually become one. [12]
+Dal Quor is the plane of dreams. It is the embodiment of unbridled imagination, where raw subconscious thought can take form. This can create dreams of greatness or bliss, but from this raw energy so too are nightmares formed. 
+
+"Dal Quor is both impossibly distant and remarkably close. Tens of thousands of years ago, the giants of Xen’drik shattered the ties between Dal Quor and the Material Plane. Since then, it’s been permanently remote, and no naturally occurring manifest zone to Dal Quor has been discovered. Not even plane shift or astral travel can allow direct contact with the Region of Dreams." [12] However when a creature dreams, its consciousness still drifts into the dream realm of Dal Quor.
+)
+=
+item(
 # &nbsp;
 ## Planar Effects
 -
 **Extremely Morphic.** The environment of Dal Quor can shift at any moment. These changes are generally drawn from the mind of the current dreamer, but the thoughts of adventurers might impact another creature’s dream that they’re currently experiencing.
 
-**Extended Illusion.** When a creature casts an illusion spell with a duration of 1 minute or longer, the duration is doubled. Spells with a duration of 24 hours or more are unaffected.
+**Extended Illusion.** When a creature casts an illusion spell, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
 
 **Flowing Time.** For every 10 minutes that pass in Dal Quor, only 1 minute passes on the Material Plane.
 
@@ -90,735 +110,541 @@ The metaphysical damage caused in the conflict between Dal Quor and the giants o
 # &nbsp;
 ## Coterminous and Remote
 -
-As a result of the seperation of Eberron and Dal Quor, the plane no longer goes through Coterminous or Remote cycles.
+As a result of the separation of Eberron and Dal Quor, the plane no longer goes through Coterminous or Remote cycles.
 )
-=
+  
+  
 item(
 # Dolurrh: The Realm of The Dead ((++Dolurrh))
 ## Plane
 -
-; Timeless, Shadow
+; Timeless, Immeasurable
 **Moon** Aryth, the Gateway
+
+**Moon and Portal Colour** Orange-red
 
 **Native Inhabitants** The Quick, the Dead, the Lingering
 -
-Endless caverns stretch throughout Dolurrh, bleak passages of gray stone. Wherever you go, shadowy figures reach toward you, imploring, but you feel only the faintest chill as their insubstantial fingers pass through you. Mist pools around your feet, and as you press forward, you realize this swirling mist is moaning. This is no natural phenomenon; these are the remnants of souls who have forgotten themselves. This is Dolurrh. It’s not the embodiment of the idea of death or dying, both of which are reflected in Mabar. Rather, Dolurrh is where mortal souls go after their bodies die, where memories fade and lives are forgotten. [14]
--
-**Eternal Ennui.** When a creature enters Dolurrh, it immediately increases its doomed condition. While in Dolurrh, this doomed condition can’t be removed by rest or by any other means. It’s immediately removed when the creature leaves Dolurrh. Creatures native to Dolurrh are immune to this property’s effects.
+Dolurrh is the plane that embodies the idea of dying - and death itself. As the Realm of the Dead, and it is here that the souls of the mortal dead go when their mortal body perishes. Here, their memories fade and their lives are forgotten. Then, depending on your beliefs, the soul either then ascends to join their god - or becomes nothing for all eternity. [14]
 
-**Impeded Magic.** In order to cast a spell of 1st level or higher, a creature must succeed on a flat check of DC 5 + spell level. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are expended.
-
-**Inevitable Entrapment.** Whenever a creature finishes a short or long rest, it must make a DC 12 Wisdom saving throw. On a failed save, it gains one level of ennui. Each time it makes this saving throw, the DC increases by 1. Whenever a creature ends a 24-hour period without finishing a long rest, it must make this saving throw as if it had just finished a rest, but its roll is made with disadvantage. Creatures native to Dolurrh are immune to this property’s effects.
-
-**Timeless.** Time passes at the same rate as on the Material Plane, and is consistent across its layers. Creatures can benefit from resting, suffer damage, and die. However, a creature on Dolurrh doesn’t age, and doesn’t need to eat, sleep, or drink.
+# &nbsp;
+## Planar Effects
 -
-Dolurrh manifest zones frequently do not possess the plane's properties. However, these zones are frequently exceptionally haunted, though not blighted, as Mabaran zones typically are. Shadows move in disturbing ways, and travelers may hear whispers they can’t quite make out.
-In some Dolurrhi zones, raising the dead can be dangerous; if spells or abilities that raise the dead are used in such a zone, roll on the Dolurrhi Resurrection Mishaps table to determine the result. Dolurrhi zones can also have positive effects. In many zones, it’s easier to return people from the dead, halving the cost of any material components. In others, anyone can cast speak with dead as a ritual that takes an hour to perform, as long as they have a personal connection to the deceased whose corpse they’re questioning.The most dramatic manifest zones are those that serve as gateways to enter the Catacombs of Dolurrh—and hopefully, to return. Opening such a gateway might call for a special ritual or significant sacrifice, perhaps under a particular alignment of the moon Aryth, or when Dolurrh is conterminous.
+**Eternal Ennui.** When a creature enters Dolurrh, its doomed condition immediately increases to a minimum of 1. While in Dolurrh, your doomed condition cannot be removed or reduced by rest or by any other means - though it can be suppressed. After leaving Dolurrh, the doomed condition fades as normal. Creatures native to Dolurrh are immune to this property’s effects.
+
+**Impeded Magic.** To use the Cast a Spell activity for a 1st level or higher spell, a creature must succeed on a flat check of DC 5 + spell level. On a failed check, the action fails and its spell slot is not expended, but the actions are still consumed.
+
+**Inevitable Entrapment.** Every 24 hours a living creature spends in Dolurrh, it must make a DC 20 Will saving throw. On a failed save, it increases its doomed condition by 1. For every saving throw made, the DC increases by 1. Creatures native to Dolurrh are immune to this property’s effects.
+
+**Timeless.** Time passes at the same rate as on the material plane and is consistent across its layers. Creatures can benefit from resting, suffer damage, and die. However, a creature on Dolurrh doesn’t age and doesn’t need to eat, sleep, or drink.
+
+# &nbsp;
+## Manifest Zone
 -
-Dolurrh has a slow planar cycle. Traditionally, once a century,
-it becomes coterminous for a full year. Fifty years after that, it’s
-remote for a full year. It can also have shorter phases, tied to
-the movements of the moon Aryth.
-While Dolurrh is coterminous, it’s easier for ghosts to slip
-from the Realm of the Dead into the Material Plane, especially
-around Dolurrhi manifest zones. Any spell or ability that raises
-the dead can also serve as a conduit for unwanted spirits; roll
-on the Dolurrhi Resurrection Mishaps table when any such
-spell is cast.
-WhileDolurrhisremote,traditionalresurrectionmagic,such asrevivify or reincarnate, can’t pull spirits back from
-Dolurrh. The only way to raise the dead in these times is by
-traveling to Dolurrh itself and pulling the shade back to the
-world, as described earlier in this section. Surprisingly, ghosts
-are also especially common in this time—but these aren’t
-ghosts that return from Dolurrh. Rather, if Dolurrh is remote
-when someone dies in the grip of great emotion or with vital
-unfinished business, their spirit can more easily resist Dolurrh’s
-pull, remaining on the Material Plane.
+It is uncommon for a Dolurrh manifest zone to have any of the plane's properties. Despite not manifesting the planar properties, these zones are still frequently haunted and are the source of many ghost stories throughout the world. Despite the haunted nature of these zones, they are not always dangerous or malicious like the Manifest Zones of Mabar. When a zone manifests an effect, it is typically one of the following
 )
 =
+item(
+**Path of the Dead** Dolurrh manifest zones can act as a gateway into Dolurrh. Sometimes this may require a ritual or sacrifice to activate, or other times it may simply depend on the alignment of the Aryth or Dolurrh being conterminous.
+
+**The way is shut.** When resurrection magic is used in a Dolurrh manifest zone with this effect, it can backfire dangerously
+
+Effect | When Dolurrh is coterminous | When Dolurrh is remote
+--- | --- | ---
+1d4 status penalty to the primary check of a resurrection ritual | yes | yes
+The resurrection ritual is always a critical failure | no | yes
+The resurrection is a success, but a creature of Dolurrh also returns with the intended target | yes | no
+If the resurrection is a critical success, it is reduced to success instead | yes | yes
+The level of success of the resurrection is always one step lower | no | yes
+
+**They will answer.** When resurrection magic is used in a Dolurrh manifest zone with this effect, it can be a boon to bringing the soul back
+
+Effect | When Dolurrh is Coterminous | When Dolurrh is Remote
+--- | --- | ---
+1d4 status bonus to the primary check of a resurrection ritual | yes | yes
+The resurrection ritual is always a critical success | yes | no
+If the resurrection is a critical failure, it is only a failure instead | yes | yes
+The level of success of the resurrection is always one step higher | yes | no
+The material cost of resurrection is halved | yes | yes
+
+  
+**Speaker for the Dead** In these Manifest Zones, anyone can cast the spell Talking Corpse with a casting time of one hour as long as they have a personal connection to the deceased whose corpse they are questioning.
+
+# &nbsp;
+## Coterminous and Remote
+-
+Dolurrh has a slow planar cycle. It is coterminous for one year every fifty years, followed by a one-year-long remote period fifty years later. The moon Aryth seems to also affect the Coterminous and Remote phases of the plane and may cause Remote or Coterminous periods out of the regular cycle.
+
+When Dolurrh is coterminous, ghosts and spirits of Dolurrh are significantly more common - especially near Dolurrh's manifest zones. 
+
+While Dolurrh is remote, resurrection magic outside of Dolurrh's manifest zones always fails. The soul cannot return from Dolurrh, and the only way to raise the dead is by travelling to Dolurrh itself to retrieve the soul. Ghosts are also common when Dolurrh is remote, but rather than being spirits from Dolurrh, it is typically spirits of those who died and were able to resist the pull of Dolurrh - whether from unfinished business or great emotion at the time of death.
+)
+  
+  
 item(
 # Fernia: The Sea of Flame ((++Fernia))
 ## Plane
 -
-; Fire
+; Fire, Immeasurable
 **Moon** Eyre, the Anvil
 
 **Moon and Portal Colour** Silver
 
 **Native Inhabitants** Efreet, Dao, Lesser Elementals, Fiends, Celestials
 -
-It’s simple to say that Fernia embodies the concept of fire. The plane is filled with magma and flame, from massive volcanoes to cities eternally on the verge of being consumed by fire. But Fernia isn’t about mundane fire; Lamannia is the source of simple, natural flame, and holds volcanoes and fire elementals. Rather, Fernia is about all the things we see in the flame, all the ideas it represents. It has layers reflecting wild destruction, where verdant forests eternally burn. It incorporates industry, with legions of azers forever toiling over fire and forge. And it reflects wild passion, burning emotions that can’t be held in, and glorious spectacle; these are the realm of the efreet, the lords of the Sea of Flame, forever striving to outshine their rivals. [EE 161]
--
-**Planar Effects** While in the plane of Fernia, the following effects apply
-**Burning Bright** When you make a recovery check and you are still dying after applying its effects, make another recovery check. In Fernia, whether you live or die, it’s going to happen quickly!
-**Deadly Heat** All regions of Fernia are subject to temperatures of extreme heat (Core Rulebook page 517), though some regions reach temperatures of incredible heat. All creatures increase their resistance to cold damage by 5.
-**Empowered Fire** Fire spells are enhanced, while cold and water spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the fire trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
-**Fire Energy Ley Line** Fernia is attuned to fire energy, and by tapping into this source you can enhance fire spells using that energy’s power. The strength of this power varies throughout Fernia. (Secrets of Magic pg 214)
-**Fires of Industry** When making a crafting check involving the use of fire (such as cooking or smithing), you gain a +2 item bonus to your check.
-Standard Time. Time passes at the same pace as on the
-Material Plane, and is consistent across its layers.
--
-**Manifest Zones** Manifest zones of Fernia typically present 1-2 effects, though stronger or weaker zones can vary in number. You can encounter any of the planar effects or of the following effects, though only very rarely does the manifest zone have the effects of the Fire plane trait.
-**Continual Flame** Motes of continual flame are spontaneously generated in this region, typically attached to some vegetation or minerals from the area. These flames persist even if they are removed from the region.
-**Geothermal** The area is dotted with pools of molten earth and fissures of scalding water, from which mephits and elementals emerge with regularity.
--
-While Fernia is coterminous, temperatures rise sharply, and
-warmer regions that would normally be safe can become
-extremely hot, taking on the Deadly Heat, Empowered Fire,
-and Burning Bright properties of the plane. During these times,
-on rare occasions, creatures caught in an area of exceptionally
-intense flame can find themselves pulled through to Fernia itself.
-When Fernia is remote, intense heat loses some of its bite.
-Creatures have advantage on saving throws made to resist the
-effects of extreme heat, as well as on saving throws against
-spells that deal fire damage.
-Traditionally, Fernia is coterminous once every five years
-during the month of Lharvion, and it’s remote once every five
-years during the month of Zarantyr (exactly two and a half
-years after it’s coterminous).
+Fernia is the plane of the concept of fire. This is not simply mundane fire, but all the concepts that are associated with flame, burning, and fire. It embodies the destruction caused as a fire rages through a forest, but also the richness of ash that results. It is the embodiment of the industry of the forge, the burning passion of emotion, and the blaze of spectacle and glory. [EE 161]
 )
+=
+item(
+# &nbsp;
+## Planar Effects
+-
+**Burning Bright.** When you make a recovery check and you are still dying after applying its effects, make another recovery check.
+
+**Deadly Heat.** All regions of Fernia are subject to temperatures of extreme heat (Core Rulebook page 517), though many regions reach temperatures of incredible heat. All creatures increase their resistance to cold damage by 5.
+
+**Empowered Fire.** Fire spells are enhanced, while cold and water spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the fire trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
+
+**Fire Energy Ley Line.** Fernia is attuned to fire energy, and by tapping into this source you can enhance fire spells using that energy’s power. The strength of this power varies throughout Fernia. (Secrets of Magic pg 214)
+
+**Fires of Industry.** When making a crafting check involving the use of fire (such as cooking or smithing), you gain a +2 item bonus to your check.
+
+**Standard Time.** Time passes at the same pace as on the Material Plane and is consistent across its layers.
+
+# &nbsp;
+## Manifest Zones
+-
+A Fernia manifest zone typically manifests one or two of the planar effects. In addition, it may have the following additional properties.
+
+**Continual Flame** Motes of continual flame are spontaneously generated in this region, typically attached to some vegetation or minerals from the area. These flames persist even if they are removed from the region.
+
+**Geothermal** The area is dotted with pools of molten earth and fissures of scalding water, from which mephits and elementals emerge with regularity.
+
+# &nbsp;
+## Coterminous and Remote
+-
+Fernia is typically coterminous once every five years during the month of Lharvion, and then it is remote once every five years during the month of Zarantyr two and a half years later.
+
+When Fernia is coterminous, temperatures across Eberron rise sharply. Regions that are already hot can become dangerously hot - and can begin to manifest the Fernia Planar traits even if unassociated with a Manifest Zone. On rare occasions, creatures caught by intense flame can find themselves pulled through to Fernia itself.
+
+While Fernia is remote, intense heat loses some of its edge. Regions of high temperature become one stage lower than normal. In addition, creatures increase their resistance to fire damage by 5. 
+)
+  
+  
 item(
 # Irian: The Eternal Dawn ((++Irian))
 ## Plane
 -
-; Positive
+; NG, Positive, Immeasurable
 **Moon** Barrakas, the Lantern
 
 **Moon and Portal Colour** Bright Grey
 
 **Native Inhabitants** Embers, lumi, celestials, the Architects
 -
-In Irian, birds sing in a fertile valley, while a group of settlers work together to raise their first home. Moving further in, you find the gleaming capital of a new empire, where cheering throngs celebrate in the streets. There are dozens of layers in Irian, and each one is a vision of life triumphant. Irian is the dawn that inevitably banishes even the darkest night, the promise of spring triumphing over the coldest winter. It’s the bastion of hope, the promise that life always find a way. [EE 165]
+Irian is the embodiment of Life and Birth. Irian is the dawn that inevitably banishes even the darkest night, the promise of spring triumphing over the coldest winter. It’s the bastion of hope, the promise that life always finds a way. [EE 165]
+
+# &nbsp;
+## Planar Effects
 -
-**Planar Effects** While in the plane of Fernia, the following effects apply
-**Positive Power** Positive spells are enhanced, while negative spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the positive trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
-**Negative Void** In order to cast a spell that deals negative damage, a creature must succeed on a flat check with a DC equal to 5 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are lost.
-**Pure Light** There is no darkness in Irian. Any spell, effect, or other situation that would usually create darkness only reduces the lighting to dim light.
-**Life Triumphant** When making a medicine check, you gain a +2 item bonus to your check, and any creature which rests doubles their number of restored hit points. In addition, all non-undead creatures gain a +1 status bonus to saves against fear, poison, and disease effects.
-**Undead Bane** Creatures with the undead trait are sickened 2, they may not reduce this sickened value until they escape the effects of Irian. This has no effect on undead creatures that are sustained by Irian, such as the deathless elves of Aerenal.
-**Positive Energy Ley Line** Irian is attuned to positive energy, and by tapping into this source you can enhance positive spells using that energy’s power. The strength of this power varies throughout Irian. (Secrets of Magic pg 214)
+**Positive Power.** Positive spells are enhanced, while negative spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the positive trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
+)
+=
+item(
+**Negative Void.** To Cast a Spell that deals negative damage, a creature must succeed on a flat check with a DC equal to 5 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are lost.
+
+**Pure Light.** There is no darkness in Irian. Any spell, effect, or other situation that would usually create darkness instead only reduces the lighting to dim light.
+
+**Life Triumphant.** When making a medicine check, you gain a +2 item bonus to your check, and any creature which rests doubles their number of restored hit points. In addition, all non-undead creatures gain a +2 status bonus to saves against fear, poison, and disease effects. In addition, on initiative count 20 a creature with at least 1 hit point regains 1 hit point, and a creature with the dying condition loses the dying condition and becomes stable.
+
+**Undead Bane.** Creatures with the undead trait are sickened 2, they may not reduce this sickened value until they escape the effects of Irian. This does not affect undead creatures that are sustained by Irian, such as the deathless elves of Aerenal.
+
+**Positive Energy Ley Line.** Irian is attuned to positive energy, and by tapping into this source you can enhance positive spells using that energy’s power. The strength of this power varies throughout Irian. (Secrets of Magic pg 214)
+
+**Standard Time.** Time passes at the same pace as on the Material Plane and is consistent across its layers.
+
+# &nbsp;
+## Manifest Zones
 -
-**Manifest Zones** Manifest zones of Irian typically present 1-2 effects, though stronger or weaker zones can vary in number. You can encounter any of the planar effects or of the following effects, though only very rarely does the manifest zone have the effects of the Positive plane trait.
-**Restorative Springs** The waters of a spring hold curative powers — removing disease, healing wounds, even restoring lost senses.
+An Irian manifest zone typically manifests one or two of the planar effects, though only rarely does it extend the full effects of Life Triumphant. In addition, it may have the following additional properties.
+
+**Restorative Springs** The waters of a spring hold curative powers - removing disease, healing wounds, even restoring lost senses.
+
 **Positive Crystals** Clusters of radiant crystals sprout from the earth. These crystals typically emanate the Positive Power planar effect, and some particularly potent crystals even replicate the Positive trait of the plane.
 
-Manifest zones tied to Irian are wellsprings of positive energy.
-Plants and animals thrive in these zones, while people are
-less likely to dwell on negative emotions and find it easier to
-embrace hope and joy. Irian zones often have one or more
-of the plane’s universal properties. Irian zones with the
-Radiant Power property support spells of healing and may
-enable rituals or support eldritch machines that can’t be built
-anywhere else. In particular, the City of the Dead in Aerenal
-is built on a strong Irian manifest zone, which sustains the
-deathless councilors.
-Irian zones rarely extend the full swift healing effect of Irian’s
-Light of Life property. However, all of the following benefits are
-common when in an Irian zone:
-• You have advantage on Wisdom (Medicine) checks.
-• Whenever you spend Hit Dice to regain hit points, use the
-highest number possible for each die.
-• You have advantage on saving throws against disease,
-poison, and fear.
-For all these reasons, Irian manifest zones are a valuable
-natural resource, and often become the foundations of villages,
-towns, or Jorasco healing houses. Irian manifest zones rarely
-serve as gateways to the plane, and traveling to Irian usually
-requires plane shift or similar magic.
+In addition to the above uncommon effects, all Irian manifest zones always have the following effects
 
-Life blossoms when Irian is coterminous. Health and fertility
-are enhanced, positive energy flows freely, and living creatures
-are infused with an abundant sense of hope. While Irian is
-coterminous, the Radiant Power property applies across
-Eberron and all creatures have advantage on saving throws
-against disease, poison, and fear.
-When Irian is remote, colors seem to fade and a sense of
-psychic numbness pervades the world. All creatures have
-disadvantage on saving throws against fear and resistance
-to radiant damage. In addition, any effect that restores hit
-points—including spells and spending Hit Dice—only restores
-half the usual amount. However, creatures still regain full hit
-points after completing a long rest.
-Traditionally, Irian is coterminous for ten days in the month
-of Eyre and remote for ten days in the month of Sypheros.
-These effects occur once every three years; the remote cycle
-comes a year and a half after it is coterminous.
+**Positive Influence** Plants and animals thrive in these zones, and people are less likely to dwell on negative emotions and find it easier to embrace hope and joy. 
 
+**Healing Guidance** You gain a +1 status bonus to all Medicine checks.
 
+**Upwelling of Life** All non-undead creatures gain a +1 status bonus to saves against fear, poison, and disease effects. In addition, when you rest you double the number of hit points you would normally recover.
 
+# &nbsp;
+## Coterminous and Remote
+-
+Traditionally, Irian is coterminous for ten days in the month of Eyre and remote for ten days in the month of Sypheros. These effects occur once every three years; the remote cycle comes a year and a half after it is coterminous.
+
+When Irian is coterminous, life is plentiful. Health and fertility are enhanced, positive energy flows freely, and living creatures are infused with an abundant sense of hope. While Irian is coterminous, the Positive Power and Upwelling of Life properties apply all across Eberron.
+
+When Irian is remote, colours seem to fade and a sense of ennui pervades the world. All creatures take a -1 status penalty to saving throws against fear. In addition, any effect that restores hit points - including spells - only restores half the total.
 )
 =
 item(
 # Kythri: The Churning Chaos ((++Kythri))
 ## Plane
 -
-; Erratic, Metamorphic
+; CN, Erratic, Metamorphic, Immeasurable
 **Moon** Zarantyr, the Storm
+
+**Moon and Portal Colour** Pearly white
 
 **Native Inhabitants** Wild things, Slaadi, Githzerai
 -
-Kythri is commonly imagined as utterly unstable, with landscapes taking shape only to boil away within moments. And this is true of the heart of the realm, known as the Sea of Chaos. But at the edges of the sea, there are islands that linger. The environments of these Shifting Islands steadily and constantly change; a vast desert might be a lush rainforest in a few hours. But the land itself remains constant, and creatures can live on these islands, adapting to the endlessly changing environment
--
-Broken Rhythms. A creature can’t take the exact same action on two consecutive turns. If it previously stood still, it must move. If it previously moved, it can stand still or move a different distance. A creature can cast a spell in two consecutive turns, but it can’t be the same spell. A creature can attack on two consecutive turns, but the second attack must be described as substantially different in style from the one before.
-Fluid in Form. When a creature casts a transmutation spell, its range is doubled; if it has a duration of at least 1 minute but less than 24 hours, the duration is doubled.
-Embrace the Unknown. In order to cast a divination spell of 1st level or higher, a creature must succeed on a spellcasting ability check with a DC equal to 12 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the action is lost. Divination spells cast on other planes can’t affect or target creatures, places, or objects on Kythri.
-The Odds Are Odd. If the d20 roll for an attack is a 1 or a 2, the attack misses regardless of any modifiers or the target’s AC. If the d20 roll for an attack is a 19 or 20, the attack hits regardless of any modifiers or the target’s AC, and is considered a critical hit. If a creature has an ability or item that increases its normal range of critical hits—such as the Champion fighter’s Improved Critical—its range increases by 1.
-Constant Change. Nothing remains exactly the same in Kythri. Whenever a creature finishes a short or long rest, it finds that something changed about it or its possessions. Each player should describe what’s changed about their character; this could be as simple as your cloak changing color or your sword now having a stylish Aundairian design when it was originally Karrnathi. You could choose for the change to be physical—your skin, hairstyle, or sex—or mental—you suddenly hate olives or no longer believe in the Sovereign Host. These changes have 
-no mechanical impact: the coins in your pocket may change in design, but copper coins won’t turn into platinum. If you want a change to have mechanical impact—for example, if your cleric’s faith or race changes and you want your character sheet to reflect that—discuss the possibility with your DM.
-Chaotic Time. Time is fluid in Kythri, inconsistent both with the Material Plane and within its own islands. Adventurers who spend a day in Kythri could find that a year has passed in Eberron, or they could be trapped in Kythri for a year and find that only an hour has passed when they return.
--
-Kythrian manifest zones are often unpredictable in minor
-ways. Weather patterns may deviate from the surrounding
-region and change on a moment’s notice. The plane’suniversalpropertiesalsocarryovertomany manifest zones.AnyKythrianzonewiththeConstantChangepropertymightproducemonstrosities.AzonewiththeFluidinForm propertyampliestheeectsoftransmutationmagicandcanhavedramaticeectsonthesuccessofmagebreeding; these zonesareextraordinarilyvaluabletoHouseVadalis.Manifestzonescanoccasionallyserveasgateways,allowingcreaturesfromKythritoslipthrough into Eberron, intentionallyoraccidentally.Manymonstrositiesmake their home in thewilds,whereasothercreatures—likeslaadi—canpresentveryunusualencounters,dependingwhatculturethey’re from
--
-Kythri’s cycle of coterminous and remote periods is completely
-unpredictable, lasting anywhere from days to centuries.
-Curiously, its proximity to Eberron has no discernable effects.
+Kythri is known as the Sea of Chaos and embodies chaos in all its forms. There are places of land at the edges of the sea of chaos, where islands linger. These lands steadily and constantly change, but creatures can live on these islands, adapting to the endlessly changing environment. [EE 169]
 
+# &nbsp;
+## Planar Effects
+-
+**Broken Rhythms.** You may not use the same action twice in one turn. If you used a specific action on your previous turn, you take a -2 status penalty to use the action again this turn.
+
+**Fluid in Form.** When a creature casts a transmutation spell, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
+
+**Embrace the Unknown.** To use the Cast a Spell activity for a 1st level or higher Divination spell, a creature must succeed on a flat check of DC 5 + spell level. On a failed check, the action fails and its spell slot is not expended, but the actions are still consumed. Divination spells cast on other planes can’t affect or target creatures, places, or objects on Kythri.
+
+**The Odds Are Odd.** When you roll a check, you critically succeed if you beat the DC by 5 or more. If you fail the DC by 5 or more, you critically fail instead.
+
+**Constant Change.** Every 24 hours spent in Kythri, some minor or major aspect of your character changes. This could be the colour of your clothing, the colour of your hair, or your gender. This aspect is determined by each player. 
+
+**Chaotic Time.** Time is fluid in Kythri, inconsistent both with the Material Plane and within its islands. When returning to the material plane, a random amount of time has passed.
+
+# &nbsp;
+## Manifest Zones
+-
+Kythri manifest zones are often chaotic in minor or major ways. They may manifest one or more of the planar effects of Kythri, or simply cause the local zone to behave in unpredictable ways such as the sudden change of weather.
+
+# &nbsp;
+## Coterminous and Remote
+-
+Kythri’s cycle of coterminous and remote periods is completely unpredictable, lasting anywhere from days to centuries. However, neither coterminous nor remote periods have any discernable effect on Eberron.
 )
+  
+  
 item(
 # Lamannia: The Twilight Forest ((++Lamannia))
 ## Plane
 -
+; Immeasurable
 **Moon** Olarune, the Sentinel
+
+**Moon and Portal Colour** Pale orange
 
 **Native Inhabitants** Beasts, Elementals, Humanoids
 -
-Lamannia embodies primordial nature, untapped and untamable. It’s often called the Twilight Forest, and is depicted as a realm of colossal trees and massive beasts. However, the forest is just one of the facets of Lamannia. Every natural environment is represented in various layers that exemplify and exaggerate their features. Windswept desert, raging ocean, endless plains—all can be found here. In other planes, these environments are backdrops to the story the realm is telling. In Lamannia, the environment 
-is the story. It doesn’t need the help of fey or fiends to make its point, because the land itself is the point.
+Lamannia embodies primordial nature, untapped and untamable. It’s often called the Twilight Forest and is depicted as a realm of colossal trees and massive beasts. However, all natural environments are represented in their most extreme by various layers. [EE 179]
+
+# &nbsp;
+## Planar Effects
 -
-Extended Druidic Magic. When a creature casts a druid spell with a duration of 1 minute or longer while in Lamannia, the duration is doubled. Spells with a duration of 24 hours or more are unaffected. A DM could decide to extend this effect to other characters that draw on primal sources of magic, such as a Gatekeeper ranger or a Greensinger bard.
-Indomitable Beasts. Beasts and elementals have a +2 bonus to Constitution and advantage on Wisdom, Intelligence, and Charisma saving throws. Upon its arrival in Lamannia, any elemental or beast that’s charmed or bound in any way is immediately freed from that effect; this can be disastrous for an elemental airship that’s thrown into the plane.
-Elemental Power. When a creature casts a spell that summons or conjures an elemental, it does so as if the spell were cast at a level one higher than the spell slot that was expended.The Land Provides. A creature has advantage on Wisdom (Survival) checks made to forage for food or shelter. In most layers of Lamannia, the vegetation is bountiful and the land sustaining. (While in the Broken Land, it may be very difficult to forage, but you’ll at least have advantage to help you with the roll!)
-Primordial Matter. It’s difficult to destroy or contaminate the matter of Lamannia. All nonmagical food and drink is purified and rendered free of poison and disease. In addition, natural materials such as wood and stone are tougher than their mundane counterparts. When trying to destroy objects made of Lamannian materials, increase the Armor Class suggested in chapter 8 of the Dungeon Master’s Guide by 3, and double the hit points of the object.
-Standard Time. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
--
-Lamannian manifest zones are relatively common, and
-usually share one or more of the plane’s universal properties.
-They’re often found at the heart of a region that resembles the
-connected layer; zones tied to the Endless Ocean are found
-underwater, while manifest zones tied to the Twilight Forest
-can be found in the Towering Wood, the King’s Forest, and
-other vast woodlands. It’s relatively common for these zones to
-serve as gateways to Lamannia, though they might require a
-lunar alignment or a coterminous period. This goes in reverse
-too, as creatures can be pulled through to the Material Plane,
-from hostile elementals to deadly megafauna.
-Zilargo has a number of valuable zones with the Elemental
-Power property, and House Cannith and the Twelve are eager
-to find more of these zones—though they’re also dangerous, as
-elementals sometimes spontaneously manifest in such places,
-linger for a few hours, then dissipate. Bound elementals can
-also break free from their bonds in some Lamannian manifest
-zones—especially unfortunate if that elemental is responsible
-for keeping an airship aloft!
-Plants and beasts near Lamannian zones often are
-significantly larger and healthier than their counterparts in
-other areas, and many House Vadalis enclaves are built in
-these zones. Zones with the Primordial Matter property can
-also be a valuable resource for communities, with purified
-food and water and the presence of extremely durable wood
-and other materials for industry. The prison of Dreadhold is
-built in such a manifest zone.
-However, though Lamannian manifest zones can be useful
-tools for communities and dragonmarked houses, some zones
-actively resist and repel civilization. Weather, vegetation, and a
-rapid rate of decay can combine to quickly destroy structures
-built in the zone and overgrow the ruins.
--
-While Lamannia is coterminous, the effects of Lamannian
-manifest zones are enhanced. In regions of unspoiled nature—
-such as the Eldeen Reaches and the wilds of Q’barra—fertility
-of both plants and animals is enhanced, and beasts conceived
-in these periods are often exceptionally strong and healthy.
-Spells that target beasts or elementals are extended; if a spell
-has a duration of 1 minute or longer, the duration is doubled;
-spells with a duration of 24 hours or more are unaffected.
-While Lamannia is remote, fertility rates drop, and beasts
-born in these periods are often weak or sickly. Animals are
-often uneasy, and the duration of spells that affect beasts or
-elementals are cut in half, to a minimum duration of one round.
-Lamannia traditionally becomes coterminous for a week
-around the summer solstice, and is remote for a week during
-the winter solstice.
+**Extended Primal Magic.** When a creature casts a spell on the primal list, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
 )
+=
+item(
+**Indomitable Beasts.** Creatures with the animals, beasts, or elemental trait gain a +2 status bonus to Fortitude and Will saves. Upon its arrival in Lamannia, any elemental or beast that’s under the effects of an enchantment spell or bound in any way may choose to immediately end the effect.
+
+**Primal Power.** When you Cast a Spell on the primal list, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
+
+**The Land Provides.** You gain a +2 status bonus to all Survival checks.
+
+**Primordial Matter.** It’s difficult to destroy or contaminate the matter of Lamannia. All nonmagical food and drink are purified and rendered free of poison and disease. In addition, natural materials such as wood and stone are tougher than their mundane counterparts. All objects made of Lamannian materials increase their hardness by 5.
+
+**Standard Time.** Time passes at the same pace as on the Material Plane and is consistent across its layers.
+
+# &nbsp;
+## Manifest Zones
+-
+Lamanna manifest zones are relatively common and usually have at least one of the plane's properties. It’s relatively common for these zones to serve as gateways to Lamannia, though they might require a lunar alignment or a coterminous period. Plants and beasts near Lamannian zones often are significantly larger and healthier than their counterparts in other areas.
+
+# &nbsp;
+## Coterminous and Remote
+-
+Lamannia traditionally becomes coterminous for a week around the summer solstice and is remote for a week during
+the winter solstice.
+
+While Lamannia is coterminous, fertility rates of beasts and animals increase and animals and beasts born in these times are strong and hearty. Spells that target creatures with the animal, beast, or elemental trait are extended; if a spell has a duration of 1 minute or longer, the duration is doubled; spells with a duration of 24 hours or more are unaffected. 
+
+While Lamannia is remote, fertility rates of beasts and animals drop, and beasts born in these periods are often weak or sickly. Animals are often uneasy, and the duration of spells that affect creatures with the animal, beast, or elemental trait are cut in half, to a minimum duration of one round. 
+)
+  
+  
 item(
 # Mabar: The Endless Night ((++Mabar))
 ## Plane
 -
-; Negative, Shadow
+; NE, Negative, Shadow, Immeasurable
 **Moon** Syperos, the Shadow
+
+**Moon and Portal Colour** Smoky grey and
+shadowy
+
 **Native Inhabitants** Shadows, Yugoloths and other Immortals, Undead, Dark Powers, Hostages
 -
-Early scholars studying reports of Mabar concluded that it was the Plane of Darkness—that this physical property is its defining concept. However, the plane’s eternal gloom is just a symptom of its true nature. Even the brightest day eventually ends in darkness, and Mabar embodies this idea. It’s the shadow that surrounds every island of light, patiently waiting to consume it. It’s entropy, despair, and loss. This isn’t the place where the souls of the living go after death, but rather, it’s the plane of death itself—the hunger that consumes both light and life.
+Mabar embodies the fear of the dark, death, and all that comes to an end. It’s entropy, despair, and loss. Mabar is the plane of darkness and death - the hunger that consumes both light and life.
 
-Mabar is the source of negative energy, and the origin of most undead. Manifest zones—and most undead—tied to Mabar consume the life force from the world around them. However, some people maintain that negative energy itself is just a tool, and that the power of Mabar can be harnessed for good
+Mabar is the source of negative energy and the origin of most undead. Manifest zones - and most undead - tied to Mabar consume the life force from the world around them. However, some people maintain that negative energy itself is just a tool and that the power of Mabar can be harnessed for good.
+
+# &nbsp;
+## Planar Effects
 -
-Necrotic Power. A creature has disadvantage on saving throws against necromancy spells. An undead creature has 2 extra hit points per Hit Die and advantage on saving throws against being turned or frightened.
-Radiant Void. In order to cast a spell that deals radiant damage or restores hit points, a creature must succeed on a 
-spellcasting ability check with a DC equal to 10 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the action is lost.
-Eternal Shadows. There is no bright light in Mabar. Any object or effect that would usually create bright light only creates dim light.
-The Hunger of Mabar. Mabar consumes the life force of living things. For every minute a living creature spends in Mabar, it takes 10d6 points of necrotic damage. If this damage reduces a creature to 0 hit points, it immediately dies and its body crumbles into ash. Natives of Mabar, creatures that have resistance or immunity to necrotic damage, and creatures under the effects of a death ward spell are immune to the effects of this property.
-Standard Time. Time passes at the same pace as on the Material Plane, and is consistent across its layers.
--
-Mabaran manifest zones are infamous and almost universally
-shunned, for nearly all are harmful to the flora and fauna of
-the region. In some zones, life withers and dies. In others, it’s
-twisted in strange ways; plants may seek the blood of living
-creatures, or grow unnaturally pale and cold. Rot and decay
-are often accelerated, and disease can thrive. However, such
-regions are also often powerful sources of negative energy.
-Mabaran zones often possess the Necrotic Power universal
-property, and there are epic rituals and eldritch machines that
-require a Mabaran manifest zone. The Odakyr Rites that create
-Karrnathi undead are an example of this, and the Karrnathi
-city of Atur is built on a Mabaran zone. This often has a curious
-synergy: if the negative energy of a Mabaran manifest zone is
-regularly channeled into rituals or spells, it prevents that energy
-from spreading disease or killing vegetation. In his War and
-Death: A History of Karrnathi Necromancy, Jolan Hass Holan
-asserts that the plagues and famines Karrnath suffered early
-in the war were due to the Seekers who normally tended those
-zones being pushed out of them due to strategic concerns—
-which, in turn, forced Karrnath to embrace necromancy to
-counter the effects of those famines.
-While Mabaran manifest zones rarely serve as gateways to the
-plane, they are powerful sources of negative energy and produce
-undead. Skeletons, zombies, and ghouls can all spontaneously
-rise in Mabaran manifest zones, and more powerful undead can
-be created under the proper circumstances.
--
-On nights when Mabar is coterminous, the Necrotic Power
-property encompasses the entire world, and the radius of all light
-sources are halved. During these periods, regions of deepest
-darkness can serve as gateways to Mabar, releasing shadows or
-other foul things into the world. This primarily occurs in regions
-that are suffused with despair or misery, and only at night,
-ending as soon as dawn breaks. As a result, during coterminous
-periods, friends and family usually huddle together indoors,
-keeping the lights burning and telling cheerful tales.
-When Mabar is remote, all creatures have resistance to
-necrotic damage, and undead have disadvantage on saving
-throws against being turned or frightened.
-Traditionally, Mabar is coterminous for three nights in the
-month of Vult—the nights of the new moon closest to the winter
-solstice. The people of the Five Nations call this time Long
-Shadows. Mabar is remote less frequently, for a period of five
-days around the summer solstice, but only once every five years.
+**Negative Power.** Negative spells are enhanced, while positive spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the negative trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
 )
+=
+item(
+**Radiant Void.** To Cast a Spell that deals positive damage, a creature must succeed on a flat check with a DC equal to 5 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are lost.
+
+**Eternal Shadows.** There is no light in Mabar. Any spell, effect, or other situation that would usually create bright light instead only increases the lighting to dim light.
+
+**Death Triumphant.** Mabar consumes the life force of living things. Every round a living creature spends in
+Mabar, it takes 1d6 points of negative damage. If this damage reduces a creature to 0 hit points, it immediately dies and its body crumbles into ash. Natives of Mabar and creatures under the effects of a death ward spell are immune to the effects of this property.
+
+**Life Bane.** Creatures without the undead trait are sickened 2, they may not reduce this sickened value until they escape the effects of Mabar. This does not affect creatures that are sustained by Mabar.
+
+**Negative Energy Ley Line.** Mabar is attuned to negative energy, and by tapping into this source you can enhance negative spells using that energy’s power. The strength of this power varies throughout Mabar. (Secrets of Magic pg 214)
+
+**Standard Time.** Time passes at the same pace as on the Material Plane and is consistent across its layers.
+
+# &nbsp;
+## Manifest Zones
+-
+Mabar's manifest zones are infamous and almost universally shunned, as most are harmful to the flora and fauna of the region. However, such regions are also often powerful sources of negative energy.
+
+While Mabaran manifest zones rarely serve as gateways to the plane, they are powerful sources of negative energy and produce undead. Skeletons, zombies, and ghouls can all spontaneously rise in Mabaran manifest zones, and more powerful undead can be created under the proper circumstances
+
+# &nbsp;
+## Coterminous and Remote
+-
+Traditionally, Mabar is coterminous for three nights in the month of Vult - the nights of the new moon closest to the winter solstice. The people of the Five Nations call this time Long Shadows. Mabar is remote less frequently, for five days around the summer solstice, but only once every five years.
+
+On nights when Mabar is coterminous, the Necrotic Power property encompasses the entire world, and the radius of all light sources is halved. 
+
+When Mabar is remote, all creatures increase their resistance to negative damage by 5. 
+)
+  
+  
 item(
 # Risia: The Plain of Ice ((++Risia))
 ## Plane
 -
+; Cold, Timeless, Immeasurable
 **Moon** Dravago, the Herder
+
+**Moon and Portal Colour** Lavender
+
 **Native Inhabitants** Spirits of Ice, Frost Giants and Dwarves
 -
-Risia is known as the Plain of Ice, for that’s the vast majority of what’s found within it. Risia is defined by endless arctic wastes, and what appear to be mountains are just peaks of solid ice. But like Fernia, Risia’s appearance can be deceiving. Because it’s filled with glaciers and snow, many sages assume that this is its defining principle. But in Lamannia, there are also endless blizzards and majestic glaciers—ice in its natural state. By comparison, the core ideas that define Risia are isolation, stagnation, and preservation. The endless frozen plane isn’t about snow, it’s about the utter stillness, the empty and unchanging landscape. Risia is sparsely populated, because that’s the point of it; it’s bleak and lonely, a realm in which you could walk for days and never see another creature. Where a desert of sand can at least shift in the breeze, the frozen landscape of Risia is unchanging. Yet, unlike a stone plateau, it reflects a substance that could change at one point—but is now caught, frozen, stagnant.
+Risia is the plane of the Plain of Ice. As Fernia is the embodiment of fire, Risia is the embodiment of all things associated with ice and cold. Though the landscape of Risia is primarily an arctic wasteland, the concepts of isolation, stagnation, and preservation are all demonstrated throughout the plane. The endless frozen plane isn’t about snow, it’s about the utter stillness, the empty and unchanging landscape.
+
+# &nbsp;
+## Planar Effects
 -
-Lethal Cold. A creature exposed to the cold of Risia must succeed on a DC 10 Constitution saving throw every 10 minutes or gain one level of exhaustion. A creature with resistance or immunity to cold damage automatically succeeds on this saving throw, as does a creature naturally adapted to cold climates or one wearing appropriate protective gear. In addition, all creatures have resistance to fire damage, and a creature that’s usually resistant to fire damage becomes immune to it.
-Empowered Ice. When a creature casts a spell of 1st level or higher, if it deals cold damage, it does so as if cast at a level one higher than the spell slot that was expended.
-Preservation. A creature with 0 hit points becomes stable at the end of its turn, entering a state of suspended animation. If an unconscious creature remains in contact with the ground for more than 1 minute, it’s drawn below the surface and encased in an ice-encrusted stasis. While encased in this way, time ceases to flow for the creature and it doesn’t grow older.
-Stagnation. When a creature finishes a long rest, it doesn’t regain hit points or reduce its exhaustion level. However, it does recover Hit Dice normally and can spend them to regain hit points.
-Stillness of Flesh. Time passes at the same pace as on the Material Plane, and is consistent across its layers. However, the passage of time has no effect on a mortal creature’s body, and creatures don’t age or grow while in Risia. Exhaustion, starvation, and disease merely reduce a creature to 0 hit points, and don’t immediately kill it. Dwarves are immune to this property’s effects, and in Risia they can grow, age, and die, just as they would on the Material Plane.
--
-Manifest zones to Risia are often found in cold or arctic
-regions, where their impact isn’t immediately obvious. In
-warmer climes, most manifest zones tied to Risia create
-regions of unnatural cold, often taking on the plane’s
-Lethal Cold and Empowered Ice properties of the plane,
-regardless of the regional climate.
-In a few Risian zones, the effects of Stillness of Flesh can
-be felt, slowing or completely stopping the aging, growth, and
-reproduction of all creatures—except for dwarves, that is.
-While a manifest zone that prevents aging could be otherwise
-considered quite a boon, these zones can be quite small, and
-often tied to deadly cold that makes it difficult to live there.
-It’s unusual for a Risian zone to transport people to Risia,
-but it can happen when the planes are coterminous.
--
-While Risia is coterminous, temperatures drop sharply,
-and areas that would normally be chilly but otherwise safe
-can take on the Lethal Cold, Empowered Ice, and Stillness
-of Flesh universal properties. During these times, on rare
-occasions, creatures caught in an area of exceptionally
-intense cold can be unexpectedly transported to Risia.
-However, this effect is unpredictable; while it can happen if it
-serves the story, it’s not something most people are afraid of.WhenRisiaisremote,intensecoldlosessomeofitsbite.Creatureshaveadvantageonsavingthrowsmadeagainsttheeectsofextremecoldandonsavingthrowsagainstspellsthatdealcolddamage.Traditionally,RisiabecomescoterminousonceeveryveyearsforthefullmonthofZarantyr.Onceeveryveyears,exactlytwoandahalfyearsafteritiscoterminous,it’sremoteduringthemonthofLharvion.However,thisisn’talwaysthecase.Historianshaverecordedtimeswhenthecyclehas extended far longer; in 657 YK, Risia entered a coterminous phase that lasted for three years.
+**Lethal Cold.** All regions of Fernia are subject to temperatures of extreme cold (Core Rulebook page 517), though some regions reach temperatures of incredible cold. All creatures increase their resistance to fire damage by 5.
 )
+=
+item(
+**Empowered Ice.** Cold spells are enhanced, while fire spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the cold trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
+
+**Preservation.** When a creature starts its turn with the dying condition, it loses the dying condition and remains unconscious at 0 hit points, increasing the wounded condition as normal. While unconscious at 0 hit points, you enter a state of suspended animation. If an unconscious creature at 0 hit points remains in contact with the ground for more than 1 minute, it’s drawn below the surface and encased in an ice-encrusted stasis. While encased in this way, time ceases to flow for the creature and it doesn’t grow older.
+
+**Stagnation.** When a creature rests, it does not regain any hit points.
+
+**Stillness of Flesh.** Time passes at the same pace as on the Material Plane and is consistent across its layers. However, the passage of time has no effect on a mortal creature’s body, and creatures don’t age or grow while in Risia. Exhaustion, starvation, and disease merely reduce a creature to 0 hit points and do not kill it. Dwarves are immune to this property’s effects, and in Risia they can grow, age, and die, just as they would on the Material Plane.
+
+# &nbsp;
+## Manifest Zones
+-
+A Risia manifest zone typically manifests one or two of the planar effects. In addition, it may have the following additional properties.
+
+**Continual Ice** Bits of ice and snow that will not melt seem to persist throughout the region. These frozen bits do not melt even if they are removed from the region.
+
+**Permafrost** The area is dotted with ice and permafrost, from which mephits and elementals emerge with regularity. Bodies of water are unusually cool even if the surrounding region is hot.
+ 
+# &nbsp;
+## Coterminous and Remote
+-
+Traditionally, Risia becomes coterminous once every five years for the full month of Zarantyr. Once every five years, exactly two and a half years after it is coterminous, it’s remote during the month of Lharvion. However, this isn’t always the case. Historians have recorded times when the cycle has extended far longer.
+
+When Risia is coterminous, temperatures across Eberron drop sharply. Regions that are already cold can become dangerously hot - and even begin to manifest the Risia Planar traits even if unassociated with a Manifest Zone. On rare occasions, creatures caught by intense cold can find themselves pulled through to Risia itself.
+
+While Risia is remote, intense cold loses some of its bite. Regions of cold temperature become one stage higher than normal. In addition, creatures increase their resistance to cold damage by 5. 
+)
+   
+  
 item(
 # Shavarath: The Battleground ((++Shavarath))
 ## Plane
 -
+; Flowing, Immeasurable
 **Moon** Vult, the Warder
+
+**Moon and Portal Colour** Pockmarked steel-gray
+
 **Native Inhabitants** Conscripts, Sword Wraiths, Whirling Blades, Angels, Demons, Devils
 -
-In Shavarath, angels and devils are locked in endless conflict. Radiant blades spill burning blood, and bolts of force smash angels from the sky. In another layer, champions of justice ride armored dragons, assaulting a titanic airship. In yet another, steel krakens tear apart celestial frigates. There’s only one constant in Shavarath: war.
+Shavarath is the battleground plane. In Shavarath, there’s only one constant: total war.
+
+# &nbsp;
+## Planar Effects
 -
-War Magic. When a creature casts a spell that grants a bonus to AC, attack rolls, or saving throws, or a spell that grants temporary hit points, the duration is doubled. Spells 
-with a duration of 24 hours or more are unaffected.
-Unquenchable Fury. A creature has advantage on saving throws against any spells or abilities that charm a target, as well as against the calm emotions and sanctuary spells. In addition, the duration of these effects are halved, to a minimum duration of 1 round. While a barbarian is raging, its rage can’t be ended early unless it’s knocked unconscious.
-Fight On. On a creature’s turn, it can use a bonus action to spend 1 Hit Die. It rolls the die and adds its Constitution modifier, regaining hit points equal to the total (minimum of 1). Once a creature benefits from this property, it must finish a short or long rest before it can do so again.
-Bloodletting. When a creature scores a critical hit with an attack that deals piercing, slashing, or bludgeoning damage, it can roll one of the attack’s damage dice one extra time and add it to the extra dice of the critical hit.
-Flexible Time. Time’s passage varies between Shavarath’s layers. In many, time passes at the same rate as on the Material Plane; if you spend an hour fighting in the Burning Sky, an hour passes in Eberron. But other layers move at different speeds; you can spend a month in the trenches of Nullius Terram and find that less than three days have passed in Eberron. A creature with proficiency in Arcana can determine the passage of time in their layer by succeeding on a DC 14 Intelligence (Arcana) check.
--
-Manifest zones tied to Shavarath often inspire people to
-violence and aggression, and can convey any of the plane’s
-universal properties. These zones can be dangerous places to
-dwell, but can also encourage martial discipline and enhance
-training. While many of the greatest weapons in Shavarath
-can’t be removed from the plane, manifest zones tied to
-Shavarath can often provide inspiration for artificers and
-smiths, and it may be possible to craft deadly enchantments in
-a Shavaran manifest zone that simply aren’t possible beyond it.
-Manifest zones rarely act as gateways to Shavarath, but
-anything is possible when Shavarath is coterminous.
--
-When Shavarath is coterminous, people are quick to anger and
-must be careful to not fight over trivial things. Angry words are
-more likely to produce brawls, and restless thought to lead to
-riots or revolutions. The plane’s War Magic and Unquenchable
-Fury properties spread worldwide while it’s coterminous,
-encouraging violence. Meanwhile, in Shavaran manifest zones,
-outbreaks of intense violence can draw whirling blades into the
-zone, slaughtering people on all sides.
-Shavarath is traditionally coterminous for 1 year every 36
-years. Throughout history, some military leaders have plotted
-campaigns around this, while peaceful communities plan ahead
-to contain violence. In addition to its regular cycle, Shavarath
-frequently grows coterminous for a single day; predicting these
-periods was critical for battle strategy during the Last War.
-Shavarath is traditionally remote for a year every 36 years, which
-prevents the occasional single-day coterminous spikes, but
-otherwise has no apparent effect on the Material Plane.
+**War Magic.** When a creature casts a spell that grants a bonus to AC, attack rolls, or saving throws or a spell that grants temporary hit points, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled. 
 )
+=
+item(
+**Unquenchable Fury.** Creatures gain a +2 status bonus to saving throws against any spells or abilities that improve a target's Attitude or soothe their emotions such as Calm Emotions. In addition, the duration of these effects is halved, to a minimum duration of 1 round. In addition, a barbarian's rage cannot be ended early unless they are knocked unconscious.
+
+**Fight On.** On a creature’s turn, it can use an action to spend a Hero Point to regain 1d10 + level + Constitution modifier hit points (minimum of 1).
+
+**Critical Specialization.** All creatures gain the critical specialization of their weapons. If a creature already had access to the critical specialization, they apply its effects on successful hits as well.
+
+**Flexible Time.** Time’s passage varies between Shavarath’s layers. In many, time passes at the same rate as on the Material Plane, but other layers move at different speeds.
+
+# &nbsp;
+## Manifest Zones
+-
+Manifest zones tied to Shavarath often inspire people to violence and aggression, but can also encourage martial discipline and enhance training. They typically manifest one or more of the planar effects of Shavarath.
+
+# &nbsp;
+## Coterminous and Remote
+-
+Shavarath is traditionally coterminous for 1 year every 36 years, and remote for a year every 36 years, which prevents the occasional single-day coterminous spikes, but otherwise has no apparent effect on the Material Plane. In addition to its regular cycle, Shavarath frequently grows coterminous or remote for a single day.
+
+When Shavarath is coterminous, people are quick to anger and must be careful to not fight over trivial things. The plane’s War Magic and Unquenchable Fury properties spread worldwide while it’s coterminous, encouraging violence.
+
+When Shavarath is remote, there is no apparent effect on the material plane.
+)
+  
+  
 item(
 # Syrania: The Azure Sky ((++Syrania))
 ## Plane
 -
+; Air, Immeasurable
 **Moon** Therendor, the Healer
+
+**Moon and Portal Colour** Blue-gray
+
 **Native Inhabitants** Angels, Virtues, Dominions, Thrones
 -
-Imagine a perfect blue sky, stretching
-off into the horizon. There’s no sign
-of the sun, but the sky is clear and
-bright, and the floating crystal
-towers gleam as if caught in a
-sunbeam. A warm, gentle breeze
-brushes over you, and there’s a
-faint sound of distant chimes.
-You feel absolutely calm; in this
-moment, all anger melts away.
-This is Syrania, the Azure
-Sky. While people often
-think of its floating towers
-and crystal spires—the
-same magic that sustains
-the great towers of Sharn—
-Syrania is the plane of
-peace and all that flourishes
-in peaceful times: commerce,
-education, reflection. There are
-no vast armies here, no dangerous
-monsters. The magic of Syrania allows
-all creatures to communicate and dispels
-aggression. As such, it’s a common crossroads for beings who
-do travel the planes, and the Immeasurable Market of Syrania
-is the safest place to interact with fiends, slaadi, and other
-extraplanar beings. However, while bloodshed is rare in the
-Azure Sky, you can still make deadly enemies; mortals are
-always wise to tread lightly in the cities of angels.
+Syrania is the plane of peace and all that flourishes in peaceful times: commerce, education, and reflection. It is an endless sky where cities float among the clouds and peace reigns over all. 
+
+# &nbsp;
+## Planar Effects
 -
-Syrania encourages communication and negotiation, and
-grants all creatures the gift of flight. The Open Sky of Syrania
-is an endless void, and without flight, you could fall indefinitely;
-fortunately, all creatures find that they can move through the
-air just as naturally as walking.
-Unburdened. A creature gains a flying speed equal to its
-walking speed, unless it already has a flying speed greater
-than or equal to its walking speed, in which case that speed
-increases by 10 feet.
-Gentle Thoughts. A creature has advantage on Charisma
-(Persuasion) checks and disadvantage on Charisma
-(Intimidation) checks.
-Standard Time. Time passes at the same pace as on the
-Material Plane, and is consistent across its layers.
-Universal Understanding. A creature can understand the
-literal meaning of any spoken language that it hears and can
-understand any written language that it can see. This doesn’t
-decode secret messages or reveal the meaning of symbols that
-aren’t part of a written language.
-Absolute Peace. To make an attack or cast a damaging
-spell, a creature must succeed on a DC 18 Wisdom saving
-throw. On a failed save, it doesn’t make the attack or cast the
-spell, but the action is lost
--
-Manifest zones tied to Syrania can reflect one or more of
-the properties of the plane, but often in more limited ways.
-The manifest zone containing the city of Sharn has a lesser
-aspect of the Unburdened property; it doesn’t grant flight,
-but it enhances effects that grant flight or levitation, enabling
-the skycoaches and flying buttresses that support the towers.
-A zone that has the Absolute Peace property might have a
-lower DC for the saving throw, or it might encourage peaceful
-behavior without actively enforcing it. Temples are often
-built on Syranian zones with the Absolute Peace property,whileuniversitiesandHouseSivissearch for zones with theUniversalUnderstandingproperty.Inadditiontostandardmanifestzones,thereareafewportalstotheImmeasurableMarket hidden in Eberron. Thesetakemanyforms;abackdoorcouldbeanactualdoor,alargechest,orashallowpoolofwater.Aback door only opens underspeciccircumstances:whenopenedwithaspecialkey, whenused at a certain time, when blood is spilled, or when a heartisbroken.Mostwhodiscovertheseportalsjealously guardthem;amerchantwithaccesstotheImmeasurableMarketcanacquireremarkablegoods!
--
-When Syrania is coterminous, goodwill spreads across the
-world and people find it nearly impossible to contemplate
-violence. These periods brought welcome moments of peace
-during the Last War, and there are stories of enemy soldiers
-coming together to share stories or play games. During these
-times, the Absolute Peace and Gentle Thoughts properties
-apply across Eberron. However, if a creature is attacked,
-harmed by a spell, or witnesses its friends being harmed, that
-creature is unaffected by Absolute Peace for one minute. The
-influence of Syrania limits violence, but once conflicts break
-out, it can’t stop them.
-While Syrania is coterminous, the skies are clear and the
-weather is calm—it’s believed that if you’re in a Syranian
-manifest zone during this time, it’s possible to fly into the Open
-Sky simply by flying straight up to the edge of the sky. This may
-be apocryphal or only true in certain manifest zones . . . there’s
-only one way to find out!
-When Syrania is remote, the skies are gray and the sun can’t
-be seen. People feel quarrelsome and it’s difficult to come to an
-understanding. Creatures have disadvantage on all Charisma
-(Persuasion) checks and advantage on Charisma (Intimidation)
-checks. Outside of Syranian manifest zones, all flying speeds
-are reduced by 10 feet, to a minimum of 5 feet.
-Traditionally, Syrania is coterminous on the 9th day of
-the month of Rhaan, once every ten years. Followers of the
-Sovereign Host celebrate this day every year as Boldrei’s Feast,
-a time for people to come together and resolve their grievances;
-the tenth-year coterminous celebrations are especially grand.
-Syrania is remote once every ten years on the same day, five
-years after the coterminous period. This day is still celebrated,
-as people make a conscious effort not to give into anger
+**Unburdened.** Creatures gain a flying speed equal to their walking speed unless it already has a flying speed greater than or equal to their walking speed, in which case that speed increases by 10 feet.
+
+**Gentle Thoughts.** Creatures gain a +2 status bonus to diplomacy checks, and a -2 status penalty to intimidation checks.
+
+**Universal Understanding.** A creature can understand the literal meaning of any spoken language that it hears and can understand any written language that it can see. This doesn’t decode secret messages or reveal the meaning of symbols that aren’t part of a written language.
+
+**Absolute Peace.** To make an attack or cast a damaging spell, a creature must succeed on a flat check of DC 5 + spell level. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are still consumed.
+
+**Standard Time.** Time passes at the same pace as on the Material Plane and is consistent across its layers.
 )
+=
+item(
+# &nbsp;
+## Manifest Zones
+-
+Manifest zones tied to Syrania can reflect one or more of the properties of the plane, but often in more limited ways.
+
+# &nbsp;
+## Coterminous and Remote
+-
+Traditionally, Syrania is coterminous on the 9th day of the month of Rhaan, once every ten years. Syrania is remote once every ten years on the same day, five years after the coterminous period.
+
+When Syrania is coterminous, the Absolute Peace and Gentle Thoughts properties apply across Eberron. However, if a creature is attacked, harmed by a spell, or witnesses its friends being harmed, that creature is unaffected by Absolute Peace for one minute. 
+
+When Syrania is remote, people feel quarrelsome and it’s difficult to come to an understanding. Creatures gain a +2 status bonus to intimidation checks, and a -2 status penalty to diplomacy checks. Outside of Syranian manifest zones, all flying speeds are reduced by 10 feet, to a minimum of 5 feet.
+)
+  
+  
 item(
 # Thelanis: The Faerie Court ((++Thelanis))
 ## Plane
 -
+; Flowing, Immeasurable
 **Moon** Rhaan, the Book
+
+**Moon and Portal Colour** Pale blue
+
 **Native Inhabitants** Supporting Cast, Eladrin and other mortals, Greater Fey, Archfey and Anchor Barons
 -
-Every culture has faerie tales—
-stories that use exaggeration
-and supernatural elements
-to warn children of
-the consequences of
-bad behavior or to
-demonstrate the
-virtues of society.
-Breland tells tales
-of the Sleeping
-Prince, cursed
-to slumber by a
-cruel hag until he’s
-saved by the courage
-of the Woodcutter’s
-Daughter. In the
-Mror Holds, there’s a tale older
-than Breland itself, in which Lady
-Narathun curses Doldarun’s son with eternal sleep, until he’s
-saved by humble Toldorath. And the Dhakaani dar have an
-ancient story about how Hezhaal—a dirge singer who betrayed
-the empire and studied sinister magic—cast the marhu’s son
-into a cursed slumber, until he was saved by a simple golin’dar.
-This is just one of many stories that appear over and over in
-different cultures. The exact details may shift—is the sleeper a
-prince? The marhu’s son? Doldarun’s heir?—while the thrust of
-the tale and the lessons it teaches persist. But long before any
-of these cultures arose, these stories existed somewhere else.
-In a layer of Thelanis, the Lady in Shadow curses a prince with
-eternal sleep. She tends a garden full of wonders, and keeps
-her own daughter hidden in the heart of a labyrinth of thorns.
-At the deepest level, that is what the fey are: stories. The dryad
-isn’t a natural spirit; it’s the magic we want in the world when
-we see a slender tree move in the wind and imagine it as a
-beautiful person. Thelanis is built on iconic stories, but it’s also
-the Faerie Court; at its heart, satyrs and nymphs dance in the
-shadows of the Palace of the Moon, while the archfey engage
-in immortal intrigues. It’s a fantastic realm essentially built
-around the idea of adventures, but it’s a deadly place for those
-who refuse to understand its rules.
-Thelanis is one of the easiest planes for mortals to reach. Just
-walk through a mushroom ring when Rhaan is full in the sky, or
-follow the sound of distant music in the forest. It’s not always
-this easy, but it can be. One wrong step and you could find
-yourself in Thelanis, retracing the steps of storybook heroes and
-making dangerous bargains with the rulers of the Faerie Court.
+Thelanis is a plane built on iconic stories and is the heartland of the fey. It’s a fantastic realm essentially built around the idea of adventures, but it’s a deadly place for those who refuse to understand its rules.
+
+# &nbsp;
+## Planar Effects
 -
-Thelanis is unpredictable, and its cardinal rule is that layers
-follow their own stories. Consider the following properties.
-Enchanted Realm. Saving throws against illusion or
-enchantment spells have disadvantage. When a creature casts
-an illusion or enchantment spell with a duration of 1 minute
-or longer, the duration is doubled; spells with a duration of 24
-hours or more are unaffected.
-Storybook Logic. No two layers of Thelanis are exactly alike.
-Each is driven by its story, and any rule can be overridden by a
-particular tale. Damage types could be swapped or rendered
-impotent; in the Valley of Stolen Fire, all fire damage becomes
-cold damage. Ability checks using particular skills could have
-advantage or disadvantage. In one layer, spells that restore hitpoints might have no effect; in another, a glass of wine could act
-as a potion of healing. But while these effects vary from layer to
-layer, they are entirely reliable within that layer and should feel
-logical based on the nature of the local story.
-Words Have Power. In Thelanis, words—and particularly
-promises—have power. Creatures should be very careful about
-making formal agreements of any sort, especially with archfey;
-the more powerful the fey, the graver the consequences of
-breaking a promise. The price varies, a slightly broken promise
-to a greater fey might simply result in a run of bad luck, with
-disadvantage on the next few rolls. On the other hand, a promise
-to an archfey could inherently carry the power of a geas. The
-fey themselves are bound by this restriction—though they are
-aware of it and are exceedingly careful with their promises.
-Chaotic Time. Time is entirely flexible in Thelanis, moving at
-different rates from layer to layer. It’s possible for adventurers to
-spend a night in Thelanis, then discover that a year has passed
-in Eberron. But it’s equally possible for a group of adventurers
-to find a layer where they save a kingdom and reign as kings
-and queens . . . only to stumble through a gate many years later
-and discover that only an hour has passed in their homes.
-Often time catches up with mortals when they return to
-Eberron—either swiftly aging them if more time has passed
-on the Material Plane, or potentially restoring their youth
-and erasing the decades of time spent in Thelanis
+Thelanis is unpredictable, and its cardinal rule is that layers follow their own stories. Consider the following properties.
+
+**Enchanted Realm.** Creatures take a -2 status penalty to saving throws against any spells or abilities with the illusion trait. When a creature casts an illusion spell, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
+
+**Storybook Logic.** No two layers of Thelanis are exactly alike. While these effects vary from layer to layer, they are entirely reliable within that layer and should feel logical based on the nature of the local story. Damage types could be swapped or rendered impotent, a particular skill could have status bonuses or penalties, or items could behave in unexpected ways. 
+
+**Words Have Power.** In Thelanis, words - and particularly promises - have power. Creatures should be very careful about making formal agreements of any sort, especially with archfey; the more powerful the fey, the graver the consequences of breaking a promise.
+
+**Chaotic Time.** Time is entirely flexible in Thelanis, moving at different rates from layer to layer. While time may have passed faster or slower than expected while in Thelanis, often time catches up with mortals when they return to Eberron - either swiftly ageing them if more time has passed on the Material Plane, or potentially restoring their youth and erasing the decades spent in Thelanis.
+
+# &nbsp;
+## Manifest Zones
 -
-More than with any other plane, Thelanian manifest zones
-often allow travel between the planes. Fey creatures dwell
-in such zones, and a greater fey may turn such a manifest
-zone into its personal domain. Just as fey can cross over from
-Thelanis, mortals can travel to the Faerie Court. Gateway
-zones always share the general environment of the layer
-they are connected to, though it’s rarely obvious when this
-passage occurs, and it may take time for travelers to realize
-they have crossed over. However, there are always signs of a
-gateway—circles of mushrooms, strange patterns of vegetation,
-eerie lights, or faint, unearthly music the adventurers must
-follow. Gateways typically only activate at certain times—
-often when the moon Rhaan is full—and even then, there’s
-usually something that must be done that violates a known
-superstition. If you stay on the path in the forest, you won’t
-stumble into the Endless Weald. But if you follow the ghostly
-music, or chase the silvery deer? That’s on you.
-Other manifest zones reflect the properties and influence of
-Thelanis without allowing passage between worlds. Zones with
-the Enchanted Realm property are much sought after by House
-Phiarlan and House Thuranni. Zones with Storybook Logic
-break the rules of reality in specific ways; the Grove of Promises
-is a clearing that holds an old stone fountain. Stories from
-198CHAPTER5|P L A N E S O F E X I S T E N C Ethenearbyvillagesaythatifyoumake a promise to someoneandthenshareadrinkfromthefountain,youmustkeepyourword—andifyouarefalse,you’llsicken and die. The people ofthetownperformmarriagesintheGrove.Younglovers sneakawaytopledgetheirhearts.ThereareevenmerchantswholiketosealtheirdealsintheGrove.ThepeopleofthetownneverbreakapromiseswornintheGrove...willyou?Analformofmanifestzoneisthebeachhead; thisphenomenonperiodicallydrawsapieceofThelanis intoEberron.Thefeyspiresmentionedearlierareanexample ofthis,butabeachheadcanbeanyunusuallocation—sure to bealocallegend,butrarelybefoundbythosesearching for it,onlyuncoveredbychance.There’sataleintheMrorHolds oftheTomboftheForgottenKing,foundwhenatravelerseeksshelterinacaveanddiscoversdeeperpassages.Followingthesetunnels,theyndthemselvesinanancienttomb.Jewelsareembeddedinthewalls. Coins are heaped on tables, spillingontotheoor.Insomeversionsofthestory, guardians patrolthe tomb, spirits of stone and metal. In others, there are deadlytraps.Butonedetailremainsthesamethroughoutallthetales:treasurestakenfromthetombalways bring misfortune,bestowingcursesthatlingeruntilthethiefndsthetombagainandreturnswhattheyhavestolen...oruntilthey die.
--
-When Thelanis is coterminous, new gateway zones spring
-up. Mischievous or cruel fey may cross over, and it’s far easier
-for careless travelers to cross over. However, there are always
-warning signs, and you generally must break some superstition
-or taboo to be pulled through. Thus, when people know the
-planes are coterminous, they are cautious to remember the
-stories and avoid foolish behavior.
-When Thelanis is remote, the effects of Thelanian manifest
-zones are suppressed. Fey creatures may be temporarily drawn
-back to Thelanis, even those that normally dwell on Eberron.
-In general, the world feels less magical.
-Traditionally, Thelanis becomes coterminous for a period
-of 7 years every 225 years, and it is remote for 7 years
-halfway between these cycles. However, there is evidence,
-such as beachheads remaining in place longer than usual,
-that something has disrupted this cycle. This may be a result
-of the Mourning . . . or it could be that the Mourning is just an
-easy excuse, and the true story is tied to the schemes of an
-archfey or a mortal mastermind. Nonetheless, no one knows
-when Thelanis will become coterminous again—or how long
-the phase might last when it does.
+Many manifest zones of Thelanis act as gateways into the realm, typically by breaking common superstition and wandering away from known paths. Many other Manifest zones reflect the properties and influence of Thelanis without allowing passage between worlds. 
 )
+=
+item(
+# &nbsp;
+## Coterminous and Remote
+-
+Traditionally, Thelanis becomes coterminous for 7 years every 225 years, and it is remote for 7 years halfway between these cycles.
+
+When Thelanis is coterminous, new gateway zones spring up. Mischievous or cruel fey may cross over, and it’s far easier for careless travellers to cross over.
+
+When Thelanis is remote, the effects of Thelanian manifest zones are suppressed. Fey creatures may be temporarily drawn back to Thelanis, even those that normally dwell on Eberron. In general, the world feels less magical.
+)
+  
+  
 item(
 # Xoriat: The Realm of Madness ((++Xoriat))
 ## Plane
 -
+; Erratic, Immeasurable
 **Moon** Lharvion, the Eye
+
+**Moon and Portal Colour** Dull white with large
+black chasm crossing it
+
 **Native Inhabitants** The Daelkyr, Aberrations
 -
-The touch of Xoriat will warp your flesh and corrupt your mind. The inhabitants of this alien realm seek to transform or destroy all that is natural, and even the slightest contact with it is dangerous. At least, that’s the popular opinion—but it’s not entirely true. The plane’s title, “Realm of Madness,” is a label applied by the people of Eberron based on the perception that close interaction with Xoriat can interfere with your ability to process reality. But illithids call Xoriat the Realm of Revelations . . . and this may be more accurate. Where Lamannia embodies the natural world, Xoriat instead embodies the unnatural. It’s a window into the workings of reality that mortals normally don’t see, ones they’re ill-equipped to handle. It suggests that time and space, order and chaos, war and peace—all of these are inventions. They’re the foundations mortal lives are built on . . . but what lies under those foundations? What was there before the house was built, and what will come after? Xoriat holds the answers to those questions, and infinitely more as well. Though the fact is often overlooked, all mortals have a connection to Xoriat. Mortals dream in Dal Quor. Shavarath sparks mortal anger. Mabar feeds mortal shadows, while Irian holds their spark of light. When mortals die, their souls are drawn to Dolurrh. Mortals are influenced by all of the planes,
-and the influence of Xoriat drives the desire to question reality. It can be a source of inspiration, especially for artists; it helps people challenge their assumptions and see things in an entirely new way. But Xoriat’s also the sun that melts the wings of any who draw too close. From a distance, its influence can be a positive force, but mortals who gaze too deeply into Xoriat can lose touch with their native reality, losing the ability to navigate the natural world. So Xoriat is a deeply dangerous place, but the plane itself isn’t evil or destructive. It’s part of the universal balance, as important as any of the other concepts of the planes. Irian brings life, Lamannia is the blueprint for nature, Daanvi provides guiding order. Xoriat is a glimpse at what lies behind and beyond, of the other ways reality could have been—and of the unseen ways it is.
--
-To mortal eyes, Xoriat may seem more chaotic than Kythri.
-However, it’s not defined by the idea of chaos; rather, mortals
-don’t understand the logic that guides its changes. Additionally,
-Kythri’s constant change is still always natural: fire and
-lightning, stone and water. On the other hand, in Xoriat, a
-tornado might be composed of ink. Each grain in a sandstorm
-could be a miniature bust of Queen Aurala of Aundair, or a
-tiny beating heart. It’s not simply chaotic; it’s unnatural.
-Unpredictable Magic. Immediately after a creature casts a
-spell of 1st level or higher, roll on the Wild Magic Surge table
-in chapter 3 of the Player’s Handbook.
-Dangerous Revelations. Whenever a creature finishes a
-short or long rest, or is reduced to 0 hit points, it must make
-a DC 14 Charisma saving throw. On a failed save, it’s afflictedwith a random form of short-term madness (see chapter 8
-of the Dungeon Master’s Guide). If it later fails this saving
-throw an additional time, its previous madness effect is
-replaced with a new one.
-Time Is an Illusion. More than any other plane, time is
-unreliable in Xoriat. Adventurers could be trapped in the
-Realm of Madness for what feels like a lifetime, then find only
-a moment has passed on Eberron. It’s even possible for them
-to return to Eberron before they left, potentially becoming
-stranded in another time, as discussed in the next section.
-Strange Reality. The things adventurers rely on—gravity,
-time, their identity itself—aren’t always reliable in Xoriat. When
-characters enter a new layer, the DM can choose a property
-from the Properties of Xoriat table. This property could apply
-the entire time the adventurers are on that layer, or it could
-change when combat begins, whenever a creature rolls a 1 on a
-d20, or at any other time the DM chooses. There are no saving
-throws against these effects, and an effect impacts all creatures
-in the layer until the DM replaces that property with a new
-one. In describing a property, don’t just describe the effect, but
-explain how it manifests. Haste and slow reflect a shift in the
-local flow of time. When creatures can detect thoughts, they
-can hear the thoughts of others flowing like music all around
-them, and if they concentrate on a single creature, they can
-translate the meaning of the melody. Each effect reflects a
-strange new property of reality in this layer
--
-The seals of the Gatekeepers block travel to Xoriat, but there
-are still many ways the Realm of Madness can affect the world.
+Xoriat is a plane that reassembles and changes fundamentals of reality, warping and bending these fundamentals in ways that may make you question your understanding of the world. Xoriat is a deeply dangerous place, but the plane itself isn’t evil or destructive. Xoriat is a glimpse at what lies behind and beyond, of the other ways reality could have been - and of the unseen ways that it is.
 
-Manifest zones tied to Xoriat are common in the Shadow
-Marches, but rare elsewhere. The effects of a Xorian manifest
-zone are rarely as dramatic as the alien attributes of the plane
-itself. However, manifest zones may convey one or more of
-the universal properties of the plane. The most common is
-the Dangerous Revelations property. People who linger in
-a Xorian zone often find alien concepts creeping into their
-brains, instilling strange beliefs, or twisting their sense of
-reality. These zones can easily produce cults of the Dragon
-Below; in the Shadow Marches, the Gatekeepers struggle
-to keep people out of these zones, while Marcher cultists
-consider them to be sacred sites.
-Unpredictable Magic is another common property; such
-zones often have unnatural flora or fauna, but these effects are
-unreliable and change with each generation. The properties
-of Time Is an Illusion and Strange Reality are rare in manifest
-zones, and may not be active all the time; these effects might
-only become active when Lharvion is full, or when disturbing
-rituals are performed
+# &nbsp;
+## Planar Effects
 -
-The last time Xoriat was coterminous, the daelkyr brought their
-armies through the walls of reality and laid waste to the Empire
-of Dhakaan. The seals crafted long ago by the Gatekeeper druids
-keep the daelkyr bound in Khyber, but they also keep Xoriat from
-becoming coterminous. Xoriat’s remote phases have no known
-effect, and like Kythri, they’re unpredictable, though the phases
-tend to come and go far more slowly than Kythri’s do. There are
-no recorded instances of citizens of the Five Nations visiting
-Xoriat; most scholars believe that the Gatekeeper seals prevent
-all planar travel . . . though someone may have secretly built an
-eldritch machine in a manifest zone, perhaps incorporating
-illithid brains or the position of the moon Lharvion. What would
-happen if the adventurers stumbled on a cult of the Dragon
-Below just as the cult completes its sinister rituals?
+**Dangerous Revelations.** Whenever a creature rests for 8 hours or is reduced to 0 hit points, it must make a DC 20 Will saving throw. On a failed save, the creature is exposed to a madness-inducing effect. It may learn a terrible secret, or fundamentally change its vision of reality. The creature becomes Stupefied 1 and may not reduce this value until it escapes this planar effect.
+
+**Time Is an Illusion.** Time is unreliable in Xoriat. Adventurers could be trapped in the Realm of Madness for what feels like a lifetime, then find only a moment has passed on Eberron. It’s even possible for them to return to Eberron before they left.
+
+**Strange Reality.** The things adventurers rely on - gravity, time, their identity itself - aren’t always reliable in Xoriat. These properties frequently change in ways that are near impossible to predict.
+
+# &nbsp;
+## Manifest Zones
+-
+The seals of the Gatekeepers block travel to Xoriat, but there are still many ways the Realm of Madness can affect the world.
+
+Manifest zones tied to Xoriat are common in the Shadow Marches, but rare elsewhere. Manifest zones typically convey one or more of the universal properties of the plane. The most common is the Dangerous Revelations and Unpredictable Magic are the most common properties.
+
+# &nbsp;
+## Coterminous and Remote
+-
+The seals crafted long ago by the Gatekeeper druids keep Xoriat from becoming coterminous. 
+
+Xoriat’s remote phases have no known effect, and like Kythri, they’re unpredictable, though the phases tend to come and go far more slowly than Kythri’s do.
 )

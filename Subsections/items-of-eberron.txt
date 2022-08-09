@@ -5,7 +5,7 @@ The world of Eberron is built on both arcane and mundane innovation, much of it 
 )
 # Weapons and Armour
 The following weapons and armour are available in Eberron.
-##### Table 6-1: Armour ((+Armour))
+##### Table 7-1: Armour ((+Armour))
 Light Armour | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group  | Armour Traits
 ---         | :---: | :---:    | :---:   | :---:         | :---:         | :---:    | :---:| :---:  | :---:
 Leafweave   | 4 gp  | +1      | +4      | -1            | -             | 10       | 1    | -  | Flexible, Primal
@@ -16,7 +16,7 @@ Medium Armour | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Str
 Darkleaf branded mail | 10 gp | +3 | +2   | -2            | -5ft          | 14      | 2     | Composite | Flexible, Primal
 /
 
-##### Table 6-2: Melee Weapons ((+Melee Weapons))
+##### Table 7-2: Melee Weapons ((+Melee Weapons))
 Uncommon Martial Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
 Boomerang, Talenta | 4 sp | 1d4 B | L | 1 | Boomerang | Agile, Finesse, Halfling, Returning, Thrown 20ft Nonlethal
@@ -41,7 +41,7 @@ Double-Bladed Scimitar | 10 gp | 1d6 S | 1 | 2 | Sword | Backswing, Dual, Elf, F
 Myrnaxe<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Axehead<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spearhead  | 4 gp<br><br>2 gp<br><br>2 gp | -<br><br>1d12 S<br><br>1d6 P| 1<br><br>5L<br><br>5L | -<br><br>2<br><br>1 | -<br><br>Axe<br><br>Spear | Gnoll, Attached<b>\*</b><br><br>Gnoll, Forceful, Sweep, Attached<b>\*</b><br><br>Gnoll, Deadly (d8), Two-Hand (d10), Attached<b>\*</b>
 . <b>*</b>See Myrnaxe entry
 =
-##### Table 6-3: Ranged Weapons ((+Ranged Weapons))
+##### Table 7-3: Ranged Weapons ((+Ranged Weapons))
 Uncommon Martial Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
 **Trait Changes\*** |
@@ -93,7 +93,7 @@ feel entitled to demand its return or challenge the bearer to prove they’re wo
   
 /
 =
-##### Table 6-4: Adventuring Gear ((+Adventuring Gear))
+##### Table 7-4: Adventuring Gear ((+Adventuring Gear))
 Item | Price | Bulk | Hands
 --- | :--- | :--- | :---
 Spellshard (Blank) | 1 gp | L | 1
@@ -104,6 +104,9 @@ Identification papers, standard | 2 sp | - | -
 Identification papers, with portrait | 5 gp | - | -
 Letter of credit | special | - | -
 Traveling papers | 2 cp | - | -
+Artifice Tools | 5gp | 2 | 2
+&nbsp;&nbsp;&nbsp;&nbsp;Sterling Artifice Tools (level 3) | 55 gp | 2 | 2
+
 . <b>*</b>Special, see entry
 /
 ## Gear Descriptions
@@ -124,37 +127,67 @@ becomes visible when worn by the person for whom it was constructed. It is extre
 **Letter of Credit:** House Kundarak, the house that carries the Mark of Warding, operates banks throughout central Khorvaire. A character who has funds on deposit in a Kundarak bank can request from the bank a letter of credit, which allows them to withdraw funds from a different bank branch. For many characters, this system is a convenient alternative to carrying wealth around in the form of precious gems, jewellery, or coins. Letters of credit are always notarized with arcane marks (usually by gnomes from House Sivis), making them practically impossible to forge. House Kundarak does not charge a fee for issuing letters of credit.
 =
 **Traveling Papers:** Anyone who travels across national borders is usually required to carry travelling papers identifying them, their residence, their destination, and their reason for travel. Travelling papers consist of a parchment sheet with the appropriate information and an arcane mark, carried in a leather folder. House Sivis, House Orien, House Deneith, and House Lyrandar all offer travelling papers that are recognized throughout central Khorvaire.
+item(
+# Artifice Tools
+## Item 0+
+-
+; Artificer
+**Price** 5 gp
+
+**Hands** 2; **Bulk** 2
+
+**Requirements** Must have access to the Artifice class feature.
+-
+Artifice tools are a special subset of artisan's tools with all the equipment required to manufacture magical items of any nature. If you have a set of these tools, you do not need different sets for different work, as may be required of regular Artisan's Tools. If you wear your artisan's tools, you can draw and replace them as part of the action that uses them.
+
+# Artifice Tools
+## Item 0
+-
+**Price** 4 gp
+
+**Hands** 2; **Bulk** 2
+
+# Sterling Artifice Tools
+## Item 3
+-
+**Price** 62 gp
+
+**Hands** 2; **Bulk** 2
+-
+Sterling artisan's tools give you a +1 item bonus to the check. 
+)
+|
+=
 # Services ((+Services))
 The following services are available to the people of Khorvaire.
-##### Table 6-5-1: Services ((++General Services))
+##### Table 7-5-1: Services ((++General Services))
 Service | Price
 --- | :---
 Hireling<br>&nbsp;&nbsp;&nbsp;&nbsp;Magewright | <br>7 sp per day
 
-##### Table 6-5-2: House Services ((++House Services))
+##### Table 7-5-2: House Services ((++House Services))
 Service | Price
 --- | :---
 Courier service (House Orien) | 1 cp per 10 miles
 Mail service (House Orien) | 1 cp per 100 miles
 Message station (House Sivis) | 2 cp per word
 Translation (House Sivis) | 1 cp per word
-Spellcasting from Dragonmarked Spell list (Any house) | At cost of core book Table 6-15: Spellcasting Services
+Spellcasting from Dragonmarked Spell list (Any house) | At cost of core book Table 7-15: Spellcasting Services
 Hireling<br>&nbsp;&nbsp;&nbsp;&nbsp;Least Dragonmark<br>&nbsp;&nbsp;&nbsp;&nbsp;Lesser Dragonmark\*<br>&nbsp;&nbsp;&nbsp;&nbsp;Greater Dragonmark\* | <br>9 sp per day<br>8 gp per day<br>36 gp per day
 . * Requires Favoured in House feat
 
-##### Table 6-5-3: Cosmetic Transmutation Services ((++Cosmetic Services))
+##### Table 7-5-3: Cosmetic Transmutation Services ((++Cosmetic Services))
 Service | Price (1 Week) | Price (1 Month) | Permanent
 --- | :--- | :--- | :---
 Minor (natural) | 1gp | 2 gp | 5 gp
 Minor (unusual) | 2 gp | 4 gp | 10 gp
 Moderate | 4 gp | 8 gp | 20 gp
 Major | 6 gp | 12 gp | 30 pg
-/
 
 **Cosmetic Transmutation** With the widespread arcane magic that exists in Eberron, transmutation has become widespread for cosmetics. This can be anything from a minor natural change such as hair colour to a moderate change such as height or sex, to a major change such as a full physical impersonation of a specific individual. Note that identity theft is a crime under the Code of Galifar. See Exploring Eberron pg 28 for more information
 
 **Courier service (House Orien)** The Courier service of house Orien carries messages and packages across Khorvaire. Packages and messages send by courier are more secure, but more expensive. The price varies based on the weight, and ease of access to the destination of the package. For an extra fee, Orien will use House Kundarak's services to apply a glyph of warding spell to the package.
-|
+
 **Mail service (House Orien)** The mail service of house Orien is the method by which most common folk of Eberron can communicate. Sending mail is expensive, but is limited in size. If the security of the letter is important, Orien will use House Sivis' services to protect the messages - either by cryptography or secret page spell.
 
 **Magewrights** Magewrights are the backbone of Eberron's arcane industry. While they fill the role of a standard crafter - such as an Arcane Locksmith, Blacksmith, Healer, Potter, Tailor - they weave cantrips and magic into their work. See the Magewright entry for sample stat blocks.
@@ -163,14 +196,14 @@ Major | 6 gp | 12 gp | 30 pg
 =
 **Translation (House Sivis)** For a fee, House Sivis can translate any document, provided it is a Common or Uncommon language. Exotic languages might be translated by experts in House Sivis for an increased fee. While House Sivis can attempt to break or Decipher Writing, this is not a service that is accessible to the public. If you have the Favoured in House feat, House Sivis may be willing to attempt this.
 |
-**Spellcasting** Houses can provide a casting of a spell from their Dragonmarked Spell List (detailed in each Dragonmarked Heritage). These spells are done at the cost of the Core Rulebook Table 6-15 plus any associated costs.
+**Spellcasting** Houses can provide a casting of a spell from their Dragonmarked Spell List (detailed in each Dragonmarked Heritage). These spells are done at the cost of the Core Rulebook Table 7-15 plus any associated costs.
 
 **Hirelings** Hirelings from the houses are either unmarked members (magewrights cost and stat block) or Least Dragonmarked members. See the Dragonmarked NPC entries for examples.
 /
   
 # Transportation ((+Transporation))
 The following modes of transportation are available as services to the people of Eberron.
-##### Table 6-6: Transportation 
+##### Table 7-6: Transportation 
 Service | Price | Speed
 --- | :--- | :---
 Airship (House Lyrandar) | 5 sp per 5 miles | 20 mph
@@ -192,7 +225,7 @@ Teleportation circle (House Orien) | 250 gp | Instant
 **Teleportation Circle** House Orien manages a network of teleportation circles between the major cities of Eberron. For a fee per person, House Orien allows transit between any of these points.
 =
 # Animals
-##### Table 6-7: Animals ((+Animals))
+##### Table 7-7: Animals ((+Animals))
 Animal | Rental Price (per day) | Purchase Price
 --- | :--- | :---
 Carver | 1 gp per day | 32 gp (level 2)

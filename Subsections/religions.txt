@@ -195,7 +195,7 @@ The Shadow, the literal shadow of Aureon, gained a life of its own as the price 
 **Divine Ability** Constitution or Intelligence 
 **Divine Skill** Arcana
 **Domains** Ambition, Change, Darkness, Fate, Knowledge, Magic, Secrecy, Trickery, Truth
-**Cleric Spells** 1st: share lore, 2nd: spectral hand, 3rd: hypercognition, 4th: reflective scales, 5th: black tentacles, 6th: feeblemind, 7th: spell turning, 8th: unrelenting observation, 9th: disjunction
+**Cleric Spells** 1st: share lore, 3rd: hypercognition, 7th: spell turning
 **Edicts** Learn and hoard forbidden magic, steal secrets from others.
 **Anathema** Destroy forbidden lore, reveal the entirety of a secret.
 **Favoured Weapon** Staff
@@ -234,7 +234,7 @@ Most followers of the Blood of Vol identify as Seekers of the Divinity Within-us
 after death; at least they can do some good. [41]
 **Areas of Concern** Death, Undead, and Ambition
 **Alignment** LN
-**Divine Font** Harm
+**Divine Font** Harm or Heal
 **Divine Ability** Constitution or Intelligence
 **Divine Skill** Occultism
 **Domains** Ambition, Change, Confidence, Death, Decay, Duty, Knowledge, Magic, Pain, Perfection, Protection, Repose, Secrecy, Soul, Undeath, Vigil
@@ -243,7 +243,7 @@ after death; at least they can do some good. [41]
 **Anathema** Sacrifice your life, fail to work toward goals or grow in skill, relax excessively or give in to sloth, blemish a soul.
 **Favoured Weapon** Dagger
   
-# The Path of Light [LN] ((++The Path of Light))
+# The Path of Light [NG] ((++The Path of Light))
 -
 The kalashtar of Adar follow no deity, but they do revere a universal force of positive energy they call il-Yannah, or “the Great Light. Most followers of the Path of Light are psions and psychic warriors, seeking to perfect their bodies and minds through meditation and communion with this light to prepare themselves for conflict with the forces of darkness - most particularly, the Dreaming Dark of the Inspired of Riedra. [42]
 **Areas of Concern** Dreams, the path of light
@@ -267,18 +267,18 @@ worship the spirits of the warriors of Xen’drik—elves who fell long before t
 **Divine Font** Heal or Harm
 **Divine Ability** Strength or Constitution
 **Divine Skill** Athletics
-**Domains** Confidence, Destruction, Might, Protection, Zeal
+**Domains** Confidence, Might, Protection, Zeal
 **Cleric Spells** 1st: true strike, 2nd: enlarge, 4th: weapon storm
 **Edicts** Strive to uphold the ideals of your ancestor spirit, practice with a weapon every day, destroy the negative undead.
 **Anathema** Become or create undead, fail to strive to uphold your ancestor spirit, dishonour yourself, parlay with oathbreakers.
 **Favoured Weapon** Double Scimitar
   
-# The Undying Court [NG] ((++The Undying Court))
+# The Undying Court [LN] ((++The Undying Court))
 -
 The elves of Aerenal revere their ancient dead as incarnate deities, seeking advice from deathless councillors and petitioning their favour. Unlike undead creatures, the deathless elves of the Undying Court are animated by positive energy and are powerful beings of neutral good alignment. [44]
 **Areas of Concern** Glory, history, patience, revelation, obedience.
 **Alignment** NG
-**Divine Font** Heal
+**Divine Font** Harm or Heal
 **Divine Ability** Constitution or Wisdom
 **Divine Skill** Society
 **Domains** Death, Duty, Family, Knowledge, Magic, Perfection, Protection, Repose, Soul, Star, Sun, Undeath, Vigil

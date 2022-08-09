@@ -153,7 +153,7 @@ item(
 You are familiar with the innate language of changelings and have picked up languages beyond this. You gain the Skin Cant language and an additional common language of your choice. In addition, if you spend a week of downtime training someone, they can learn to pick up on single word messages.
 )
 note(
-# Skin Cant ((+++Skin Cant))
+# Skin Cant
  Skin cant is a method of visual communication available only to Changelings, though others may learn to understand it. You can shift your appearance in subtle ways to communicate messages to others who understand the language. This form of communication only has the visual trait.
 )
 item(

@@ -1,0 +1,70 @@
+# ((Guns and Gears))
+head(
+# Guns ((+Guns))
+Eberron is a world of widespread arcane industry and advancement - rather than technological. The second section of Guns and Gears - Guns - provides rules for the introduction of black powder firearms into the world, a significant technological advancement. This is incongruent with the lore of Eberron. While you may simply declare the content universally disallowed, you instead may wish to integrate the content in a lore friendly way. The Guns conversion allows just that.
+-
+)
+# Guns in Eberron
+Guns are a hotly debated topic in the meta of Eberron. While the lore of the world dictates that most combat involves the use of spells, standard fantasy medieval weapons, and does not introduce black powder firearms; many people may enjoy adding guns into the setting as it is reminiscent of the late middle ages to the early industrial revolution, with film noir, pulp action, and swashbuckling action themes. 
+
+During session 0, discuss whether or not you might like to introduce firearms into the world. You might decide to simply disallow all Guns content, allow all guns content including black powder as a recent invention of the Last War, utilise this guide's suggested conversion of Guns content to arcane mechanisms rather than scientific ones, or arrive at any decision for your Eberron. _The final say of the matter is up to your GM and your table for your Eberron._ 
+
+# Wands and Staves - Guns conversion
+Eberron is a world based on the idea that if magic was a universal force in the world, advancement would primarily revolve around the development of arcane technology, rather than scientific development. Rather than inventing the telegram, House Sivis has created communication networks using message and sending spells; rather than create steam engines, House Orien simply uses bound Air Elementals to power the lightning rail; rather than create black powder siege weapons and firearms, soldiers employ massive siege staves and wield wands to discharge arcane spell stikes.
+
+These advancements replace a scientific equivalent, and may even excel in some ways. In particular, siege staves and wands can accomplish more than the mundane effects of black powder explosives or impacts ever could - and as such most technological advances in these weapons are in the development of arcane firearms rather than black powder. However, these arcane firearms are significantly more complicated to function than a mundane firearm and
+|
+too expensive to place into the hands of untrained militia. As such, the technology of arcane firearms is still in its nascence in Eberron, while mundane firearms have yet to be invented.
+
+Typically, this means that all Guns content should be considered of the Rare rarity if it isn't already, and content that you decide to include becomes Uncommon rarity. Always work with your GM to consider how backgrounds, items, classes, archetypes, feats, spells, and anything else from the Guns book content fits into the world. 
+
+## Siberys Powder
+In the place of black powder, arcanists have developed what is referred to as the Breath of Siberys - or colloquially as siberys powder. The refined powder is composed of carefully processed eberron shards (despite the name) which are used to fuel the power of arcane discharges. With the simple trigger of an arcane spark or mundane fire, the Breath of Siberys destabilizes; instantly creating a blast of near pure arcane energy - and smoke depending on the quality of the powder. Most firearms depend on this rapid destabilization to power enchantments that accelerate small projectiles called bullets towards their targets, or even power a spell directly. Depending on the style of weapon, typically the siberys powder can either be loaded down the barrel as a siberys powder cartridge to detonate during the strike (typical of weapons that fire bullets), or a glass vile of the Breath of Siberys can be crushed on a special copper plate which stores the charge until discharged during a strike (typical of weapons that make spell strikes).
+
+In the world, these weapons that depend on the siberys powder and ammunition to operate are still referred to as wands or staves due to their similarity to their spellcasting cousins. However, informally these weapons are sometimes referred to as guns. For the purposes of mechanics, any weapon that operates in this way may only interact with firearm rules, while wands and staves may still only interact with wand and stave rules.
+=
+### Firearms
+Items that utilise black powder can relatively easily be reskinned to utilise siberys powder instead. Weapons like the arquebus or blunderbuss might simply replace black powder with siberys powder, or replace the bullet altogether to discharge a unique cantrip powered by the siberys powder instead of a bullet. These changes can be anything that your GM approves the flavour of, aim for an arcane implementation of the standard item. Keep in mind, however, that these changes should have no mechanical effect on the functionality of the weapon. If your new weapon fires a special cantrip, it is still subject to the traits of a mundane bullet; it still deals mundane bludgeoning or piercing damage, requires reloading, and costs the same amount per shot.
+
+### Ammunition
+Mundane ammunition needs no reskinning, continuing to function as a simple physical projectile. Magical ammunition can be used without change, or you may flavour the ammunition as the discharge of a unique spell powered by the siberys powder. Mechanically this reskinning has no effect.
+
+### Uncommon, Rare, and Unique guns
+Some of these weapons are uncommon in Golarion, but in the world of Eberron, most of these weapons would be Rare if not Unique rarity. Consider adjusting all of these items to at minimum Rare rarity, and consider how they might fit into the world if you decide to include them.
+Beast Guns need no change to fit into the world due to their inherent arcane nature. Think about where your beast gun was created if you gain one. 
+Cobbled firearms should make the same changes as mundane firearms, though make more sense as creations of an independent gunslinger creating their own weapons. While most cobbled firearms are assembled by goblins, Dhakaani smiths are significantly more talented than these independent goblins and rarely create weapons that would be considered cobbled. Given their talent with firearms innovations, however, all Dhakaani still gain the benefits of the use of the cobbled firearms as goblins.
+Combination weapons do not require more than the same changes as mundane firearms. Given that standard firearms are already Uncommon to Rare in Eberron, consider where this particularly unique creation may have come from. Is it an old Dhakaani creation? Or is this weapon designed by your own hand?
+Unique and Rare firearms require individual attention from the GM to fit into the world of Eberron, but the
+|
+firearm portion of which should require no more than the same changes as mundane firearms.
+
+### Firearm Siege Weapons
+Firearm siege weapons, commonly referred to as siege staves, instead use charges of the breath of siberys to create explosive effects, propel ammunition, or create long-range bludgeoning spell effects by casting a spell powered by the Breath of Siberys.
+### Tools and accessories
+Tools and accessories typically continue to function as normal, though you could consider how some might be more magical in nature. Perhaps the scope you attach doesn't use lenses to magnify light, but a permanent spell effect.
+
+## Wandslingers ((++Wandslingers))
+Those who are brave enough to wield these unstable arcane firearms, and test the speed of their hand with the cutting edge of arcane innovation, are typically referred to as wandslingers. Wandslingers utilise arcane firearms to engage in battle relying on their sharp eye and fast hand. These wandslingers, wielding wands and staves to fight are sometimes referred to as Gunslingers. 
+Wandslingers are a simple rename of the Gunslinger class and utilise all of their features and progressions with the arcane firearms of Eberron. Despite the rename, they can typically only use firearms and most do not have any understanding of how a spellcasting wand might function. A limited few however have picked up methods of integrating arcane power into the blast of their firearm - these wandslingers typically follow the Way of the Spellshot or the Way of the Wandslinger. See the Wandslinger class archetype in the Archetypes section for more.
+=
+head(
+# Gears ((+Gears))
+Eberron is a world of widespread arcane industry and advancement - rather than technological. The first section of Guns and Gears - Gears - provides rules for the introduction of technological clockwork and contraptions into the world, a significant mundane technological advancement - though less than the Guns section. While you may simply declare the content universally disallowed, you instead may wish to integrate the content in a lore friendly way. The Gears conversion allows just that.
+-
+)
+# Clockwork in Eberron
+Eberron is a world that is very commonly mistaken as a steampunk setting - and for good reason. There are advances in the world powered by magic that feel like a representation of 1920s technology - the only difference being instead of steam or oil, the technology is powered by magic. Given the facade of 1920s technology, it seems that gears technology should be a relatively easy addition to the world. However, the gears section of the Guns and Gears book adds what is considered "weird science" [G&G p6]. There are contraptions powered by inexplicable science that achieve - or even surpass - common modern technology of our world, well beyond the achievements common in Eberron. While clockwork and technology in Eberron may be more advanced than many settings, these far reaching "weird science" advances could be considered disruptive to the type of campaign you wish to run. Yet, many of these changes may be possible to support as unique creations of artificers or applied magic of some kind.
+
+During session 0, discuss whether or not you might like to introduce these clockwork and weird science advancements into the world. You might decide to simply disallow all Gears content, allow all Gears content as a recent developments of the Last War, utilise this guide's suggested conversion of Gears content to arcane mechanisms rather than scientific ones, or arrive at any decision for your Eberron. The final say of the matter is up to your GM and your table for your Eberron. 
+
+# Dragonshards and Arcane Conduits - Gears conversion
+Eberron is a world based on the idea that if magic was a universal force in the world, advancement would primarily revolve around the development of arcane technology, rather than scientific development. Rather than inventing the telegram,
+|
+House Sivis has created communication networks using message and sending spells; rather than create steam engines, House Orien simply uses bound Air Elementals to power the lightning rail; rather than create clockwork siege engines (though some examples may exist such as the clockwork cavalry of thrane) magic was used to create the warforged titans and collosi.
+
+These advancements replace a scientific clockwork equivalent, and may even excel in some ways. In particular, clockwork and steam powered contraptions are typicaly fueled by elementals bound in dragonshards. This method of power makes them too expensive to be common, yet the development is still possible as prototype creations of advanced artificers. 
+
+Typically, this means that all Gears content should be considered of the Rare rarity if it isn't already, and content that you decide to include becomes Uncommon rarity. Always work with your GM to consider how backgrounds, items, classes, archetypes, feats, spells, and anything else from the Gears book content fits into the world. 
+
+# Artificers ((++Artificers))
+Artificers are the backbone of arcane industry in Khorvaire. In the same way an inventor tinkers with machines and contraptions to create technology, the artificer plays with the fundamentals of magic to create magical technology. The Artificer is a class which is common in Eberron, however given the homebrew nature of this class it is still marked as Uncommon should your GM not wish to consider the balance implications of non-offical Paizo material. In addition to the artifice, there are new artifice familiar, artifice items, and artifce feats that are introduced by this class. Should the Artifice not be allowed by your table, everything with the Artifice trait should also be disallowed. See the Artificer in the Classes entry for the rules around the Artificer class.

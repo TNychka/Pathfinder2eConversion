@@ -31,7 +31,7 @@ Warforged
 Construct
 
 ## Living Construct
-Your physiological needs are different from those of living creatures. You don't need to eat, drink, or breathe, but can if you choose to for the effects of consumable spells and magic items. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for at least 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being unconscious. Much like with sleeping, if you go too long without entering your standby state, you become fatigued and can't recover until you enter standby for 2 hours.
+Your physiological needs are different from those of living creatures. You don't need to eat or drink, but can if you choose to for the effects of consumable spells and magic items. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for at least 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being unconscious. Much like with sleeping, if you go too long without entering your standby state, you become fatigued and can't recover until you enter standby for 2 hours.
 )
 
 Warforged were created as expendable construct soldiers to fight in the last war. Early Cannith development of the warforged war focused on the production of warforged such as the warforged titans which were true constructs - machines of war built to destroy, kill, and die on command. With further refinements and arcane experimentation, the warforged evolved until they were a new type of creature - a living construct. This advancement in development was made possible by the creation forges but came with the side-effect of adding sentience to the new construct known only as warforged. However, with their single-minded focus and combat prowess, sentience empowered warforged with a desire to preserve themselves than Cannith's other mindless constructs exhibit - making them a more efficient soldier than simple golems. 
@@ -53,7 +53,7 @@ right(
 Your body is formed of both wood and steel which by the powers of the creation forge are granted life. This life energy flows through you much like the blood of humanoids. As a result, you are a living creature. You don't have the typical construct immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via positive energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin dying when reduced to 0 Hit Points.
 
 ## Constructed Resistance
-Your constructed body has advantages and disadvantages that most humanoid creatures do not. You gain a +1 circumstance bonus to saving throws against diseases, and poisons. However, you are considered to be a creature composed entirely of wood and metal for the purposes of magical or other effects - regardless of your integrated armour type. 
+Your constructed body has advantages and disadvantages that most humanoid creatures do not. You gain a +1 circumstance bonus to saving throws against diseases and poisons. However, you are considered to be a creature composed entirely of wood and metal for the purposes of magical or other effects - regardless of your integrated armour type. 
 
 ## Emotionally Unaware
 Warforged find it difficult to understand and express complex emotions. You take a –1 circumstance penalty to Diplomacy, and Performance checks, and on Perception checks to Sense Motive. 
@@ -90,16 +90,16 @@ Anchor, Banner, Bastion, Blade, Blue, Bow, Cart, Church, Crunch, Crystal, Dagger
 Your heritage grants you one type of integrated armour, as noted below. If your integrated armour becomes destroyed, it no longer grants an item bonus to your AC but remains integrated into your body. However, your destroyed integrated armour can still be repaired at a very hard DC for its level, losing the destroyed condition when its HP is above 0.
 
 ### Nominal Integrated Armour
-Your body does not have the armour protections afforded to most other warforged. Though you are still physically wearing integrated armour, you are considered unarmored. Your integrated armour is in the leather armour group and has a Dex cap of +5. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.
+Your body does not have the armour protections afforded to most other warforged. Though you are still physically wearing integrated armour, you are considered unarmored. Your integrated armour is in the leather armour group and has a Dex cap of +5. This armour has no bulk, but you can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.
 
 ### Light Integrated Armour
-Your body is designed to be agile with some protection. Your integrated armour is light armour in the leather armour group that grants a +2 item bonus to AC, a Dex cap of +3, a check penalty of –1, and a Strength value of 12. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal. 
+Your body is designed to be agile with some protection. Your integrated armour is light armour in the leather armour group that grants a +2 item bonus to AC, a Dex cap of +3, a check penalty of –1, and a Strength value of 12. This armour has no bulk, but you can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal. 
 
 ### Medium Integrated Armour
-Your body is designed to be particularly resilient. Your integrated armour is medium armour in the plate armour group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a speed penalty of –5 feet, and a Strength value of 16. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.
+Your body is designed to be particularly resilient. Your integrated armour is medium armour in the plate armour group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a speed penalty of –5 feet, and a Strength value of 16. This armour has no bulk, but you can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.
 =
 ### Heavy Integrated Armour
-Your body is designed to be extremely resilient. Your integrated armour is heavy armour in the plate armour group that grants a +6 item bonus to AC, a Dex cap of 0, a check penalty of –3, a speed penalty of –10 feet, has the Bulwark trait, and a Strength value of 18. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal. 
+Your body is designed to be extremely resilient. Your integrated armour is heavy armour in the plate armour group that grants a +6 item bonus to AC, a Dex cap of 0, a check penalty of –3, a speed penalty of –10 feet, has the Bulwark trait, and a Strength value of 18. This armour has no bulk, but you can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal. 
 
 # Warforged Heritages
 You select a heritage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your ancestry in the environment where you were born or grew up. You have only one heritage and can’t change it later. A heritage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular heritage.
@@ -192,7 +192,7 @@ item(
 ## Feat 1
 -
 ; Warforged
-Though it is an extremely uncomfortable process - less painful but akin to a human replacing their skin - you can replace your integrated armour. You can remove the integrated armour that you are wearing, and replace it with any other set of armour. This activity takes 1 hour, and while you replace your armour you are considered unarmoured and flat-footed. When you complete the process, the new armour is incorporated into your body. You can still never wear other armour on top of this armour, and can only have one integrated armour at a time. While this armour is integrated, you don't become fatigued from sleeping in it. As before, you can etch armour runes onto your armour while you are wearing it as normal. 
+Though it is an extremely uncomfortable process - less painful but akin to a human replacing their skin - you can replace your integrated armour. You can remove the integrated armour that you are wearing, and replace it with any other set of armour. This activity takes 1 hour, and while you replace your armour you are considered unarmoured and flat-footed. When you complete the process, the new armour is incorporated into your body and has no bulk as a result. You can still never wear other armour on top of this armour, and can only have one integrated armour at a time. While this armour is integrated, you don't become fatigued from sleeping in it. As before, you can etch armour runes onto your armour while you are wearing it as normal. 
 
 If you are removing the Integrated Armour from your Heritage, it is considered worthless scrap metal and can only be used as armour if you reincorporate it into your body.
 
@@ -284,12 +284,11 @@ item(
 ## Feat 5
 -
 ; Warforged
+**Prerequisites** Juggernaut Warforged heritage
 
 **Trigger** You attempt a saving throw
 
 **Frequency** once per hour
-
-**Prerequisites** Juggernaut Warforged heritage
 -
 You brace yourself and your defences. When you attempt a saving throw, you gain a +2 status bonus to the triggering saving throw.
 

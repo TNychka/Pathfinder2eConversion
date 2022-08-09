@@ -1735,7 +1735,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to ward off attacks. When you Cast the Spell, you can make an acrobatics check with the Move trait, or Piloting check on a sea or air vehicle. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to aid your reflex and skill. When you Cast the Spell, any acrobatics actions with the Move trait, Piloting checks, or Sailing checks on a sea or air vehicles gain a +1 status bonus. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Windwright's Intuition.
 
