@@ -7,7 +7,7 @@ TODO: Dragonmarked House Splash Text
 
 
 
-##### Table 1-1: Dragonmarked Houses ((+Dragonmarked Houses))
+##### Table 1-1: Dragonmarked Houses
 
 Dragonmark | House | Ancestry | Guilds | Guild Specialties
 --- | :--- | :--- | :--- | :---
@@ -146,8 +146,36 @@ TODO Flavour Text
 )
 From its beginnings as an order of mercenaries and soldiers to its modern incarnation as the human face of law and battle, House Deneith has maintained its position as the primary force for security and defense in the Five Nations. Though its fortunes rose during the Last War, the services Deneith renders are no less valuable in times 
 of peace. Today, the house is as prosperous as ever, with its position of neutrality firmly established and a host of eager clients ready to use its services. This prosperity tells only half the story, however, and Deneith’s past fortunes might not be enough to guarantee the house’s future.
-=
+
+## Services
+In addition to any regular services that House Cannith might provide, such as appropriate services from the core rule book pg 294, Cannith provides the following additional benefits.
+
+Tinkerer or Fabricator's guild
+- will purcase Uncommon, Rare, and Unique items at 65% of Price.
+- will cast any mark of Making Focus Spells at a 10% discount of the spellcasting services table 6-15 in the core rulebook.
+- Tinkerer's guild approved manufacturers can repair any common item of 5th level or lower, or any non-magical item below 10th level for 5% of the item's value.
+Fabricator's guild
+
+Cannith Hirelings | Cost
+--- | :---
+Unskilled Cannith Worker (1 day) | 1 sp
+Unmarked Cannith Magewright (1 day) | 5 sp
+Least Cannith Magewright (1 day) | 18 gp
+Lesser Cannith Magewright (1 day) | 160 gp
+Greater Cannith Magewright (1 day) | 720 gp
+
 ## Favoured in House Deneith
+## 
+### Deneith Benefits
+Request DC | Benefit
+--- | :---
+15 | One hour of a least Mark of Sentinel time, Loan of 
+25 | One hour of a lesser Mark of Making magewright's time.
+35 | One hour of a greater Mark of Making magewright's time. Assistance of an unmarked magewright of the Fabricators Guild or Tinkers Guild for a week.
+40 | Assistance of a least magewright of the Fabricators Guild or Tinkers Guild for a week.
+. * If a requested favour involves an illegal or dangerous act, increase the DC by 5
+. ** If the character requesting a favour is from a different branch of the house, increase the DC by 3.
+
 DC1 Benefit
 10 One free use of the least Mark of Sentinel; loan of a 
 +1 weapon  for 1 week; free use of 1d4 black blade Blade-
@@ -178,41 +206,53 @@ charges that would make them the purview of the Sentinel
 Marshals
 
 
-## House Ghallanda
-## House Jorasco
-## House Kundarak
-## House Lyrandar
-## House Medani
-## House Orien
-## House Phiarlan
-## House Sivis
-## House Tarkanan
-## House Tharashk
-## House Thurranni
+## House Ghallanda ((+House Ghallanda))
+## House Jorasco ((+House Jorasco))
+## House Kundarak ((+House Kundarak))
+## House Lyrandar ((+House Lyrandar))
+## House Medani ((+House Medani))
+## House Orien ((+House Orien))
+## House Phiarlan ((+House Phiarlan))
+## House Sivis ((+House Sivis))
+## House Tarkanan ((+House Tarkanan))
+## House Tharashk ((+House Tharashk))
+## House Thurranni ((+House Thurranni))
 
-## House Vadalis
-- Description
+=
+head(
+# House Vadalis ((+House Vadalis))
+Flavour
+-
+)
+Description
 
-Mark: Mark of Handling
-- Description
+### The Mark of Handling
+Description
 
-Guilds: Handlers
-- Description
-
-Membership: 
-- Human - By birth or marriage
-- 25% discount on animals, 50% discount on stabling
-- Free pack and riding animals between enclaves
-- Free Orien caravan rides
-
-Services:
+## Services ((+++Services))
 - Provides animals
 - Provides animal gear + supplies + stabling
 - Provides hirelings
 
+## Guilds ((+++ Guilds))
+Description
+
+### Handlers
+Description
+
+## Membership ((+++Membership))
+- Human
+- Must be related by birth or marriage to a member of House Vadalis
+
+### Membership Benefits ((++++ Membership Benefits))
+- 25% discount on animals, 50% discount on stabling
+- Free pack and riding animals between enclaves
+- Free Orien caravan rides
+
+### Favoured in House Vadalis ((++++ Favoured in House Vadalis))
 DC | Favour
 --- | :---
-10 | One free use of the least Mark of Handling; an introduction to a friendly druidic sect in the Eldeen Reaches; free feed and stabling for up to four animals for 1 week at any House Vadalis outpost or enclave; 
-15 | One free use of the lesser Mark of Handling; free feed and stabling for up to four animals for 1 month at any House Vadalis outpost or enclave; the use of a magebred animal (level 3) for 1 week
-20 | One free use of the greater Mark of Handling; free use of a 3rd-level member of the Handlers Guild (least dragonmark) for 1 week; the use of up to four magebred animals (level 7) for 1 week; free feed and stabling for up to four animals for 3 months at any House Vadalis outpost or enclave
-25 | Free use of a 5th-level member of the Handlers Guild (lesser dragonmark) for 1 week; the gift of a magebred animal (level 7); the use of up to four magebred animals for 1 month; free feed and stabling for up to four animals for 6 months at any House Vadalis outpost or enclave 
+15 | One hour of a least Mark of Handling's time; identification of an animal or beast, or description of beasts or natural dangers of a region of Khorvaire; free feed and stabling for up to four animals for 1 week at any House Vadalis outpost or enclave;
+25 | One hour of a lesser Mark of Handling's time; free feed and stabling for up to four animals for 1 month at any House Vadalis outpost or enclave; the use of a magebred animal (up to level 3) for 1 week
+35 | One hour of a greater Mark of Handling's time; Assistance of an unmarked Vadalis member for a week; The use of up to four magebred animals (up to level 7) for 1 week; free feed and stabling for up to four animals for 3 months at any House Vadalis outpost or enclave
+40 | Assistance of a least marked Vadalis member for a week; the gift of a magebred animal (up to level 7); the use of up to four magebred animals for 1 month; free feed and stabling for up to four animals for 6 months at any House Vadalis outpost or enclave.
