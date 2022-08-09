@@ -1,0 +1,204 @@
+head(
+# Guns ((Guns))
+Eberron is a world of widespread arcane industry and advancement - rather than technological. The second section of Guns and Gears - Guns - provides rules for the introduction of black powder firearms into the world, a significant technological advancement. This is incongruent with the lore of Eberron. While you may simply declare the content universally disallowed, you instead may wish to integrate the content in a lore friendly way. The Guns conversion allows just that.
+-
+)
+# Guns in Eberron
+Guns are a hotly debated topic in the meta of Eberron. While the lore of the world dictates that most combat involves the use of spells, standard fantasy medieval weapons, and does not introduce black powder firearms; many people may enjoy adding guns into the setting as it is reminiscent of the late middle ages to the early industrial revolution, with film noir, pulp action, and swashbuckling action themes. 
+
+During session 0, discuss whether or not you might like to introduce firearms into the world. You might decide to simply disallow all Guns content, allow all guns content including black powder as a recent invention of the Last War, utilise this guide's suggested conversion of Guns content to arcane mechanisms rather than scientific ones, or arrive at any decision for your Eberron. _The final say of the matter is up to your GM and your table for your Eberron._ 
+
+# Wands and Staves - Guns conversion
+Eberron is a world based on the idea that if magic was a universal force in the world, advancement would primarily revolve around the development of arcane technology, rather than scientific development. Rather than inventing the telegram, House Sivis has created communication networks using message and sending spells; rather than create steam engines, House Orien simply uses bound Air Elementals to power the lightning rail; rather than create black powder siege weapons and firearms, soldiers employ massive siege staves and wield wands to discharge arcane spell stikes.
+
+These advancements replace a scientific equivalent, and may even excel in some ways. In particular, siege staves and wands can accomplish more than the mundane effects of black powder explosives or impacts ever could - and as such most technological advances in these weapons are in the development of arcane firearms rather than black powder. However, these arcane firearms are significantly more complicated to function than a mundane firearm and too expensive to
+|
+place into the hands of untrained militia. As such, the technology of arcane firearms is still in its nascence in Eberron, while mundane firearms have yet to be invented.
+
+## Siberys Powder
+In the place of black powder, arcanists have developed what is referred to as the Breath of Siberys - or colloquially as siberys powder. The refined powder is composed of carefully processed Eberron shards (despite the name) which are used to fuel the power of arcane discharges. With the simple trigger of an arcane spark or mundane fire, the Breath of Siberys destabilizes. The Breath of Siberys instantly converts into a blast of near pure arcane energy - and smoke depending on the quality of the powder. Most firearms depend on this rapid destabilization to power enchantments that fire small bullets towards their targets, or even fire spells directly. Depending on the style of weapon, typically the siberys powder can either be loaded down the barrel as a siberys powder cartridge to detonate during the strike (typical of weapons that fire bullets), or a glass vile of the Breath of Siberys can be crushed on a special copper plate which stores the charge until discharged during a strike (typical of weapon that make spell strikes).
+
+In the world, these weapons that depend on the Break of Siberys and ammunition to operate are still referred to as wands or staves due to their similarity with their spellcasting cousins. However, colloquially, these weapons are referred to as guns. For the purposes of mechanics, any weapon that operates in this way may only interact with firearm rules, while wands and staves may still only interact with wand and stave rules.
+
+Typically, this means that all Guns content should be considered of the Uncommon rarity if it isn't already. Always work with your GM to consider how backgrounds, items, classes, archetypes, feats, spells, and anything from the Guns content fits into the world. 
+=
+### Firearms
+Items that utilise black powder can relatively easily be reskinned to utilise siberys powder instead. Weapons like the arquebus or blunderbuss might simply replace black powder with siberys powder, or replace the bullet altogether to discharge a unique cantrip powered by the siberys powder instead of a bullet. These changes can be anything that your GM approves the flavour of, aim for an arcane implementation of the standard item. Keep in mind, however, that these changes should have no mechanical effect on the functionality of the weapon. If your new weapon fires a special cantrip, it is still subject to the traits of a mundane bullet; it still deals mundane bludgeoning or piercing damage, requires reloading, and costs the same amount per shot.
+
+### Ammunition
+Mundane ammunition needs no reskinning, continuing to function as a simple physical projectile. Magical ammunition can be used without change, or you may flavour the ammunition as the discharge of a unique spell powered by the siberys powder. Mechanically this reskinning has no effect.
+
+### Uncommon, Rare, and Unique guns
+These weapons are uncommon in Golarion, but in the world of Eberron, most of these weapons would be rare if not unique rarity. Consider adjusting all of these items to at minimum rare rarity, and consider how they might fit into the world if you decide to include them.
+Beast Guns need no change to fit into the world due to their inherent arcane nature. Think about where your beast gun was created if you gain one. 
+Cobbled firearms should make the same changes as mundane firearms, though make more sense for an independent gunslinger creating their own weapons. While most cobbled firearms are assembled by goblins, Dhakaani smiths are significantly more talented than these independent goblins and rarely create weapons that would be considered cobbled. Given their talent with technological innovations, however, all Dhakaani still gain the benefits of the use of the cobbled firearms as goblins.
+Combination weapons do not require more than the same changes as mundane firearms. Given that firearms are uncommon in Eberron, consider where this particularly unique creation may have come from. Is it an old Dhakaani creation? Or is this weapon designed by your own hand?
+Unique and Rare firearms require individual attention from the GM to fit into the world of Eberron, but the firearm portion of which should require no more than
+|
+the same changes as mundane firearms.
+### Firearm Siege Weapons
+Firearm siege weapons, commonly referred to as siege staves, instead use charges of the breath of siberys to create explosive effects, propel ammunition, or create long-range bludgeoning spell effects by casting a spell powered by the Breath of Siberys.
+### Tools and accessories
+Tools and accessories typically continue to function as normal, though you could consider how some might be more magical in nature. Perhaps the scope you attach doesn't use lenses to magnify light, but a permanent spell effect.
+
+## Wandslingers
+Those who are brave enough to wield these unstable arcane firearms, and test the speed of their hand with the cutting edge of arcane innovation, are typically referred to as wandslingers. Wandslingers utilise arcane firearms to engage in battle relying on their sharp eye and fast hand. These wandslingers, wielding wands and staves to fight are sometimes referred to as Gunslingers. 
+Wandslingers are a simple rename of the Gunslinger class and utilise all of their features and progressions with the arcane firearms of Eberron. Despite the rename, they can typically only use firearms and most do not have any understanding of how a spellcasting wand might function. A limited few however have picked up methods of integrating arcane power into the blast of their firearm - these wandslingers typically follow the Way of the Spellshot or the Way of the Wandslinger.
+=
+# Wandslinger (Class Archetype)
+The development of the cantrip — casual spells that can be used at will — took centuries, as the Arcane Congress studied Aereni techniques and the powers of sorcery. The soldiers of the united kingdom relied on sword and bow. But as the Last War began, Aundair took stock of its resources. Thanks to the presence of the Arcane Congress, Aundair led Galifar in mystical education. Assembling the first regiment of arcane dragoons, Aundair developed the war staff and battle rod. Over the course of the Last War, these techniques spread across the Five Nations and beyond. Today it’s no surprise to see a tough inquisitive or a Sentinel Marshal with a sword in one hand and a wand in the other. But no one calls these people “arcane dragoons.” If you fight your battles with fire bolt or sacred flame, you’re known as a “wandslinger.” [XXX]
+Wielding wands alongside weapons, wandslingers are masters of a new form of martial art - wandslinging. Wandslinging is the art of blending arcane spell duelling with martial combat efficiency, enabling wandslingers to perform feats of combat prowess that neither wizard nor fighter could. Though they cast spells, they do so through the use of widespread items - wands and staves - rather than by arcane incantation. The flexibility to perform in many roles, along with their tenacity, grit, and martial expertise, has begun to develop the wandslingers notable reputation throughout Khorvaire. 
+
+## Way of the Wandslinger (1st)
+You've learned the intricacies of magic and wands, blending the two with deadly results. You combine a working knowledge of arcane theories with a strong connection to improvised wands that allows you to manifest spells in battle alongside your martial combat. You must select Wandslinger Dedication from the Wandslinger archetype as your 2nd-level class feat.
+
+  **Prerequisites:** Must be a gunslinger.
+  **Wandslinger Adjustments:** Instead of choosing a way from the options listed in the gunslinger class, you have the way of the wandslinger. It has the following way skill, slinger's reload, and deeds. You gain these abilities at the same levels as normal for the class. You use Intelligence for your class DC. 
+  **Way Skill** Arcana
+**Slinger's Reload** Arcane Blowback
+**Deeds** _Initial_ Quick Wand; _Advanced_ Spellfire; _Greater_ Fastest Wand in the West;
+|
+### Slinger's Reload
+item(
+# Arcane Blowback :f:
+-
+; Gunslinger, Magical
+**Trigger** You use the Cast a Spell activity from an item such as a Wand or Stave.
+-
+As you discharge the arcane energy of an item, you syphon off the arcane charge that builds around you to reload your gun with a magical bolt or bullet. When you use the Cast a Spell activity to cast a spell (but not a cantrip), you create a magical charge of energy - conjuring an ordinary level-0 bolt or bullet out of thin air immediately Interacting to load it into your weapon. You don't need a free hand to reload in this way. The magical bullet dissipates after a minute has passed if not used.
+)
+### Initial Deeds
+item(
+# Quick Wand :a:
+-
+; Wandslinger
+As part of your Arcane incantations, you stow a wand or stave and draw another to cast from with a single fluid motion. If you are holding something in one hand, you may stow the object. You may then interact to draw a wand, stave, or firearm.
+)
+### Advanced Deed 9th
+item(
+# Spellfire
+-
+; Wandslinger
+**Requirements** You are wielding a wand or stave capable of casting a one, two, or three action spell that requires a spell attack roll.
+-
+As you unleash the power of your spell, you manipulate the composition of the arcane delivery mechanism to make the spell behave like a bullet. When you use the Cast a Spell activity from an item to cast a 1, 2, or 3 action spell or cantrip that requires a spell attack roll, you may complete the final action of the Cast a Spell activity in the same action used for a ranged firearm strike or firearm discharge this turn.
+When using the spell as a ranged strike, the item satisfies requirements for wielding a loaded firearm or crossbow. All gunslinger feats apply as if the spell were a ranged strike from a firearm and it may be used to replace a single ranged firearm strike for any ability. If the casting is disrupted, you lose all the spell actions. A one action spell may be substituted for any ranged firearm strike (including reactions).
+)
+=
+note(
+# Spellfire Specifics
+Spellfire effectively allows you to use wands as firearms, using spells as bullets. After spending the first actions to cast the spell, the effects occur when the last action of casting the spell is used to replace a fired bullet in the next single ranged strike you make this turn.
+For instance, casting ray of frost which requires two actions - the first action is used in casting the spell, and the last action is completed to make a regular strike or for abilities such as Blast Lock, Cauterize, Cover Fire, or Ricochet Shot where ray of frost replaces one of the strikes. If using ray of frost for a two action activity such as called shot, penetrating fire, or paired shots, then your first action is used in casting ray of frost, and your next two actions are used to complete the activity where ray of frost replaces one of the strikes.
+For three action abilities such as Dance of Thunder, only single action spells would be able to be substituted for the ranged strikes, but each ranged strike could be replaced by a spell.
+
+**Targeting:** The spell targets only one target of your Strike, even if it normally allows more targets. If your Strike targets more than one target such as with Bullet Split or Penetrating Fire, only one target takes the effects of the spell and the additional targets instead take the take force damage equal to your spellcasting modifier.
+
+**Misfire:** If your wand would "misfire" as a result of the ability you used, you instead take force damage equal to your level.
+
+**Ancillary Effects:** Your spell still has any non-targeted effects that might affect creatures other than the target, as well as any ongoing effects starting from the moment you hit with the Strike. For example, acid splash would still deal its splash damage to creatures other than the target and tanglefoot's circumstance penalty would last for its normal duration. The spell takes effect after the Strike deals damage; if the Strike has other special effects, the GM determines whether they happen before or after the spell.
+
+**Multiple Defenses:** Any additional rolls after the initial spell attack still happen normally, such as the Fortitude save attempted by the target of a disintegrate spell. Similarly, a spell that allows you to attack with it again on subsequent rounds can only replace a Strike with its initial attack roll, not with any later ones.
+
+**Effects:** Though substituted for a strike, you must be able to complete the Cast a Spell activity on the target including range, target validity, and
+)
+|
+note(
+components. The effects apply as if the Cast a Spell activity occurred on the target including immunities, resistances, weaknesses, and ancillary effects. These substitutions are still strikes and count against the multiple attack penalty as normal even if the spell doesn't have the attack trait.
+
+**Variable Actions:** Some spells have different effects based on the number of actions you spend to cast them. You choose whether to use the effects of the 1-action, 2-action, or 3-action version of the spell when you use Spellfire. A spell has to take exactly 1, 2, or 3 actions; you can't use Spellfire with a spell that takes a free action, reaction, or 4 or more actions.
+
+**Metamagic:** You typically can't use metamagic with Spellfire because metamagic requires the next action you take to be Cast a Spell, and Spellfire is a combined activity that doesn't qualify.
+)
+### Greater Deed 15th
+item(
+# Fastest Wand In the West :f:
+-
+; Wandslinger
+**Trigger** You use Spellfire to replace a ranged firearm attack.
+
+**Frequency** until recharged (see below)
+-
+You are the fastest wand in the west, east, south, and north. When you use Spellfire to replace a ranged firearm strike, you may interact to stow the wand, draw a loaded firearm, and fire the regular strike as well. The spell follows the rules for Spellfire, while the strike follows the regular strike rules including multiple targets. This counts as an additional attack for your multiple attack penalty, but you don't apply the penalty until after you've completed the replaced strike.
+
+After you use Fastest Wand In the West, you can't do so again until you dissipate the arcane charge built up around you as a single action, which has the concentrate trait.
+)
+### Wandslinger Archetype Feats
+item(
+# Wandslinger Dedication
+## Feat 2
+-
+; Archetype, Class, Dedication
+**Prerequisites** way of the wandslinger
+-
+You've armed yourself with a wand and a rudimentary knowledge of arcane theory to create temporarily functional wands. You gain a special spellbook with wand incantations for four common arcane cantrips of your choice. Each time you gain a spell slot of a new
+)
+=
+item(
+level from the Wandslinger archetype, add a spell of that level or lower to your spellbook. During your daily preparations, you create two unique cantrip wands each capable of casting one of these cantrips. These cantrip wands have no limit to their use and are never at risk of overcharge.
+
+Any wand or stave that you use is considered an advanced martial firearm, and loaded while it still has a least one charge or daily use remaining. The use of these wands or staves still requires the Cast a Spell activity rather than a Stike action, and may not be used as a replacement for Strikes as a result. You do not become trained in spell attack rolls or spell DCs from this source. Instead, when casting from any wand or stave use your advanced martial firearm proficiency for the spell attack roll and gunslinger class DC for DCs. Your key spellcasting ability for wandslinger archetype spells is Intelligence, and they are arcane gunslinger spells.
+
+You become trained in Arcana; if you were already trained in Arcana, you instead become trained in a skill of your choice.
+)
+item(
+# Wandslinger
+## Feat 4
+-
+; Archetype
+**Prerequisites** Wandslinger Dedication
+-
+Wandslinging takes a quick hand, fortunately, you have two. When you use the Quick Wand action, you stow and draw and item from each of your hands.
+)
+item(
+# Basic Wandslinger Casting
+## Feat 6
+-
+; Archetype
+**Prerequisites** Wandslinger Dedication
+-
+You gain the [basic bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged.
+)
+item(
+# Charged Shot :f:
+## Feat 6
+-
+; Archetype, Evocation, Magical
+**Trigger** you used Arcane Blowback to reload a weapon.
+
+**Prerequisites** Wandslinger Dedication
+-
+As the discharge of your wands builds up arcane energy around you, you channel that overcharge of
+)
+|
+item(
+energy into a bullet form. Choose acid, cold, electricity, or fire. When you fire the bullet manifested by Arcane Blowback, you deal 1d6 additional damage of this type. At 12th level, this increases to 2d6 additional damage, and at 18th level, it increases to 3d6 additional damage.
+)
+item(
+# Expert Wandslinger Casting
+## Feat 12
+-
+; Archetype
+**Prerequisites** Basic Wandslinger Casting; master in Arcana
+-
+You gain the [expert bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged.
+)
+item(
+# Master Wandslinger Casting
+## Feat 18
+-
+; Archetype
+**Prerequisites** Expert Wandslinger Casting; legendary in Arcana
+-
+You gain the [master bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged.
+)
+item(
+# Arcane Overcharge
+## Feat 20
+-
+; Archetype
+**Prerequisites** legendary in Arcana
+-
+There's no overcharge like arcane overcharge. Wands prepared by your Wandslinger features may be overcharged, following all the rules of regular wands. In the event one of your wands is destroyed, you take force damage equal to your level. You may prepare the wand again during your next daily preparations.
+)
+
+[XXX] EE 21
