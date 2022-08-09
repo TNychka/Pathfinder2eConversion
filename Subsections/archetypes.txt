@@ -75,3 +75,6 @@ As you approach mastery over your mark, energy seems to return to you naturally.
 note(
 There is no way to elevate your dragonmark to Siberys through training with the Dragonmarked Scion Archetype. How and who Siberys marks choose to appear on remains a mystery. At the moment it seems the only deciding factor in whether the mark will appear is fate.
 )
+=
+<!-- Wandslinger -->
+https://scribe.pf2.tools/v/JQJW7vp0

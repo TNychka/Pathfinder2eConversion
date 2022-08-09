@@ -165,7 +165,7 @@ item(
 It takes a very brave person to enter the laughter-haunted forest where you dwell. You can cast ventriloquism once per day as a 1st-level occult innate spell.
 )
 item(
-# Gnoll Weapon Master
+# Gnoll Weapon Practicality
 ## Feat 5
 -
 **Prerequisites** Gnoll Weapon Familiarity
@@ -318,13 +318,13 @@ item(
 # Pack Frenzy
 ## Feat 9
 -
+; Gnoll
 **Prerequisites** Pack Attack
 -
-; Gnoll
 More than able to just hone in on vulnerabilities, an enemy is always vulnerable to you simply by the support of your pack. Any creature that’s within reach of you and at least one of your allies is flat-footed to you.
 )
 item(
-# Armored Warrior
+# Armoured Warrior
 ## Feat 9
 -
 ; Gnoll

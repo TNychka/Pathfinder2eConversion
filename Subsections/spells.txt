@@ -8,7 +8,7 @@ The following spells are provided by this supplement, and accessible to any cast
 
 ## Common Cantrips
 These cantrips are employed in the day to day life of many NPCs in the world of Eberron.
-##### Table 7-1: Common Cantrips
+##### Table 8-1: Common Cantrips
 Level | Name | Effect
 --- | :--- | :---
 0 | Boldrei’s Broom | Clean a surface or object.
@@ -26,7 +26,7 @@ Level | Name | Effect
 
 ## Dragonmark Focus
 Dragonmarked heirs channel the powers of these spells. Some marks create similar effects, despite being innately different. Individual houses may refer to their spell effects differently, but these spells are commonly referred to (and behave identically to) the following spells. 
-##### Table 7-2: New Dragonmark Focus Spells
+##### Table 8-2: New Dragonmark Focus Spells
 Level | Name | Effect
 --- | :--- | :---
 1 | Dragonmarked Guidance| Provide guidance to another creature with the speciality of your dragonmark.
@@ -39,7 +39,7 @@ Level | Name | Effect
 ## Spells
 These spells are the result of arcane innovation in the world of Khorvaire.
 
-##### Table 7-3: Arcane Spell List
+##### Table 8-3: Arcane Spell List
 Level | Name | Effect
 --- | :--- | :---
 Cantrip | Force Blast | Launch a bolt of energy at long range.
@@ -50,7 +50,7 @@ Cantrip | Force Blast | Launch a bolt of energy at long range.
 5 | Fabricate | Convert raw materials.
 5 | Wall of Gears | Create a wall out of moving parts.
 
-##### Table 7-4: Divine Spell List
+##### Table 8-4: Divine Spell List
 Level | Name | Effect
 --- | :--- | :---
 1 | Flash Bang | Create a disorienting blast in an area.
@@ -59,7 +59,7 @@ Level | Name | Effect
 4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
 5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
 
-##### Table 7-5: Occult Spell List
+##### Table 8-5: Occult Spell List
 Level | Name | Effect
 --- | :--- | :---
 1 | Flash Bang | Create a disorienting blast in an area.
@@ -69,7 +69,7 @@ Level | Name | Effect
 4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
 5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
 =
-##### Table 7-6: Primal Spell List
+##### Table 8-6: Primal Spell List
 Level | Name | Effect
 --- | :--- | :---
 1 | Flash Bang | Create a disorienting blast in an area.

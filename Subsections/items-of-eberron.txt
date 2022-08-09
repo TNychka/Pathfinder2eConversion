@@ -5,7 +5,7 @@ The world of Eberron is built on both arcane and mundane innovation, much of it 
 )
 # Weapons and Armour
 The following weapons and armour are available in Eberron.
-##### Table 6-1: Armour ((+Armour))
+##### Table 7-1: Armour ((+Armour))
 Light Armour | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Strength | Bulk | Group  | Armour Traits
 ---         | :---: | :---:    | :---:   | :---:         | :---:         | :---:    | :---:| :---:  | :---:
 Leafweave   | 4 gp  | +1      | +4      | -1            | -             | 10       | 1    | -  | Flexible, Primal
@@ -16,7 +16,7 @@ Medium Armour | Price | AC Bonus | Dex Cap | Check Penalty | Speed Penalty | Str
 Darkleaf branded mail | 10 gp | +3 | +2   | -2            | -5ft          | 14      | 2     | Composite | Flexible, Primal
 /
 
-##### Table 6-2: Melee Weapons ((+Melee Weapons))
+##### Table 7-2: Melee Weapons ((+Melee Weapons))
 Uncommon Martial Weapons | Price | Damage | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
 Boomerang, Talenta | 4 sp | 1d4 B | L | 1 | Boomerang | Agile, Finesse, Halfling, Returning, Thrown 20ft Nonlethal
@@ -41,7 +41,7 @@ Double-Bladed Scimitar | 10 gp | 1d6 S | 1 | 2 | Sword | Backswing, Dual, Elf, F
 Myrnaxe<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Axehead<br><br>&nbsp;&nbsp;&nbsp;&nbsp;Spearhead  | 4 gp<br><br>2 gp<br><br>2 gp | -<br><br>1d12 S<br><br>1d6 P| 1<br><br>5L<br><br>5L | -<br><br>2<br><br>1 | -<br><br>Axe<br><br>Spear | Gnoll, Attached<b>\*</b><br><br>Gnoll, Forceful, Sweep, Attached<b>\*</b><br><br>Gnoll, Deadly (d8), Two-Hand (d10), Attached<b>\*</b>
 . <b>*</b>See Myrnaxe entry
 =
-##### Table 6-3: Ranged Weapons ((+Ranged Weapons))
+##### Table 7-3: Ranged Weapons ((+Ranged Weapons))
 Uncommon Martial Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
 **Trait Changes\*** |
@@ -93,7 +93,7 @@ feel entitled to demand its return or challenge the bearer to prove they’re wo
   
 /
 =
-##### Table 6-4: Adventuring Gear ((+Adventuring Gear))
+##### Table 7-4: Adventuring Gear ((+Adventuring Gear))
 Item | Price | Bulk | Hands
 --- | :--- | :--- | :---
 Spellshard (Blank) | 1 gp | L | 1
@@ -104,6 +104,9 @@ Identification papers, standard | 2 sp | - | -
 Identification papers, with portrait | 5 gp | - | -
 Letter of credit | special | - | -
 Traveling papers | 2 cp | - | -
+Artifice Tools | 5gp | 2 | 2
+&nbsp;&nbsp;&nbsp;&nbsp;Sterling Artifice Tools (level 3) | 55 gp | 2 | 2
+
 . <b>*</b>Special, see entry
 /
 ## Gear Descriptions
@@ -124,37 +127,67 @@ becomes visible when worn by the person for whom it was constructed. It is extre
 **Letter of Credit:** House Kundarak, the house that carries the Mark of Warding, operates banks throughout central Khorvaire. A character who has funds on deposit in a Kundarak bank can request from the bank a letter of credit, which allows them to withdraw funds from a different bank branch. For many characters, this system is a convenient alternative to carrying wealth around in the form of precious gems, jewellery, or coins. Letters of credit are always notarized with arcane marks (usually by gnomes from House Sivis), making them practically impossible to forge. House Kundarak does not charge a fee for issuing letters of credit.
 =
 **Traveling Papers:** Anyone who travels across national borders is usually required to carry travelling papers identifying them, their residence, their destination, and their reason for travel. Travelling papers consist of a parchment sheet with the appropriate information and an arcane mark, carried in a leather folder. House Sivis, House Orien, House Deneith, and House Lyrandar all offer travelling papers that are recognized throughout central Khorvaire.
+item(
+# Artifice Tools
+## Item 0+
+-
+; Artificer
+**Price** 5 gp
+
+**Hands** 2; **Bulk** 2
+
+**Requirements** Must have access to the Artifice class feature.
+-
+Artifice tools are a special subset of artisan's tools with all the equipment required to manufacture magical items of any nature. If you have a set of these tools, you do not need different sets for different work, as may be required of regular Artisan's Tools. If you wear your artisan's tools, you can draw and replace them as part of the action that uses them.
+
+# Artifice Tools
+## Item 0
+-
+**Price** 4 gp
+
+**Hands** 2; **Bulk** 2
+
+# Sterling Artifice Tools
+## Item 3
+-
+**Price** 62 gp
+
+**Hands** 2; **Bulk** 2
+-
+Sterling artisan's tools give you a +1 item bonus to the check. 
+)
+|
+=
 # Services ((+Services))
 The following services are available to the people of Khorvaire.
-##### Table 6-5-1: Services ((++General Services))
+##### Table 7-5-1: Services ((++General Services))
 Service | Price
 --- | :---
 Hireling<br>&nbsp;&nbsp;&nbsp;&nbsp;Magewright | <br>7 sp per day
 
-##### Table 6-5-2: House Services ((++House Services))
+##### Table 7-5-2: House Services ((++House Services))
 Service | Price
 --- | :---
 Courier service (House Orien) | 1 cp per 10 miles
 Mail service (House Orien) | 1 cp per 100 miles
 Message station (House Sivis) | 2 cp per word
 Translation (House Sivis) | 1 cp per word
-Spellcasting from Dragonmarked Spell list (Any house) | At cost of core book Table 6-15: Spellcasting Services
+Spellcasting from Dragonmarked Spell list (Any house) | At cost of core book Table 7-15: Spellcasting Services
 Hireling<br>&nbsp;&nbsp;&nbsp;&nbsp;Least Dragonmark<br>&nbsp;&nbsp;&nbsp;&nbsp;Lesser Dragonmark\*<br>&nbsp;&nbsp;&nbsp;&nbsp;Greater Dragonmark\* | <br>9 sp per day<br>8 gp per day<br>36 gp per day
 . * Requires Favoured in House feat
 
-##### Table 6-5-3: Cosmetic Transmutation Services ((++Cosmetic Services))
+##### Table 7-5-3: Cosmetic Transmutation Services ((++Cosmetic Services))
 Service | Price (1 Week) | Price (1 Month) | Permanent
 --- | :--- | :--- | :---
 Minor (natural) | 1gp | 2 gp | 5 gp
 Minor (unusual) | 2 gp | 4 gp | 10 gp
 Moderate | 4 gp | 8 gp | 20 gp
 Major | 6 gp | 12 gp | 30 pg
-/
 
 **Cosmetic Transmutation** With the widespread arcane magic that exists in Eberron, transmutation has become widespread for cosmetics. This can be anything from a minor natural change such as hair colour to a moderate change such as height or sex, to a major change such as a full physical impersonation of a specific individual. Note that identity theft is a crime under the Code of Galifar. See Exploring Eberron pg 28 for more information
 
 **Courier service (House Orien)** The Courier service of house Orien carries messages and packages across Khorvaire. Packages and messages send by courier are more secure, but more expensive. The price varies based on the weight, and ease of access to the destination of the package. For an extra fee, Orien will use House Kundarak's services to apply a glyph of warding spell to the package.
-|
+
 **Mail service (House Orien)** The mail service of house Orien is the method by which most common folk of Eberron can communicate. Sending mail is expensive, but is limited in size. If the security of the letter is important, Orien will use House Sivis' services to protect the messages - either by cryptography or secret page spell.
 
 **Magewrights** Magewrights are the backbone of Eberron's arcane industry. While they fill the role of a standard crafter - such as an Arcane Locksmith, Blacksmith, Healer, Potter, Tailor - they weave cantrips and magic into their work. See the Magewright entry for sample stat blocks.
@@ -163,14 +196,14 @@ Major | 6 gp | 12 gp | 30 pg
 =
 **Translation (House Sivis)** For a fee, House Sivis can translate any document, provided it is a Common or Uncommon language. Exotic languages might be translated by experts in House Sivis for an increased fee. While House Sivis can attempt to break or Decipher Writing, this is not a service that is accessible to the public. If you have the Favoured in House feat, House Sivis may be willing to attempt this.
 |
-**Spellcasting** Houses can provide a casting of a spell from their Dragonmarked Spell List (detailed in each Dragonmarked Heritage). These spells are done at the cost of the Core Rulebook Table 6-15 plus any associated costs.
+**Spellcasting** Houses can provide a casting of a spell from their Dragonmarked Spell List (detailed in each Dragonmarked Heritage). These spells are done at the cost of the Core Rulebook Table 7-15 plus any associated costs.
 
 **Hirelings** Hirelings from the houses are either unmarked members (magewrights cost and stat block) or Least Dragonmarked members. See the Dragonmarked NPC entries for examples.
 /
   
 # Transportation ((+Transporation))
 The following modes of transportation are available as services to the people of Eberron.
-##### Table 6-6: Transportation 
+##### Table 7-6: Transportation 
 Service | Price | Speed
 --- | :--- | :---
 Airship (House Lyrandar) | 5 sp per 5 miles | 20 mph
@@ -192,7 +225,7 @@ Teleportation circle (House Orien) | 250 gp | Instant
 **Teleportation Circle** House Orien manages a network of teleportation circles between the major cities of Eberron. For a fee per person, House Orien allows transit between any of these points.
 =
 # Animals
-##### Table 6-7: Animals ((+Animals))
+##### Table 7-7: Animals ((+Animals))
 Animal | Rental Price (per day) | Purchase Price
 --- | :--- | :---
 Carver | 1 gp per day | 32 gp (level 2)
@@ -208,7 +241,7 @@ Magebred Animal | |
      Magebred Warpony | 16 sp per day  | 48 gp (level 2)
 Valenar Riding Horse | 3 sp per day | 20 gp* (level 3)
 Valenar Guard Dog | 3 cp per day | 1 gp* (level 3)
-. * Valenar elves do not sell their animals. However on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted.
+. * Valenar elves do not sell their animals. However on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted. Price provided for GM balance use.
 /
 **Carver:** A close relative of the clawfoot, a carver is a predatory dinosaur, about the size of a heavy horse, native to the Talenta Plains. Known in some worlds as the deinonychus, it is listed in the monsters section of this guide.
 
@@ -221,7 +254,7 @@ Valenar Guard Dog | 3 cp per day | 1 gp* (level 3)
 **Valenar Animals:** Valenar animals are awakened to advanced intelligence and power by the touch of an ancestral spirit. Traditionally, Valenar animals choose Valenar elves as companions, reflecting a bond between the ancestors of elf and animal. To be chosen by a Valenar animal is a great honour, and any such elf is treated with respect and reverence. Still, on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted. Valenar animals are provided in the monsters section of this guide.
 |
 =
-# Magic Gear ((+Magic Gear))
+# Equipment ((+Equipment))
 Eberron is a world built on a widespread arcane industry. As a result, low-level magic items and spells are relatively easily accessible. The following magical items may be of use to adventurers, but are not necessarily the only ones that exist. There are also a number of more "mundane" magical items that aid common folk with their day to day tasks. Brooms that sweep with the snap of your fingers, Everbright lanterns that glow without fuel, or more. The following items, though magical, should not be considered typical magical items as rewards. These items should be relatively (except in the case of uncommon) easily available in most places.
 
 Town Size | Magic Level | Item Level
@@ -238,7 +271,7 @@ Metropolis | 5th level | 13th level
 note(
 Magic level listed is the suggested maximum that could be found, and may not be present or accessible to adventurers. Beyond 3rd level spells, 4th and 5th level capable casters are likely rare or unique NPCs who may be entirely unavailable, or unwilling, to meet adventurers. 6th and 7th level capable casters are considered a Unique rarity, and a GM should always consider how such a powerful NPC is present in the world. Higher-level items may be theorized about in the arcane centres of Khorvaire, and blueprints might be available, but the odds of finding items of 10th level or beyond available for retail is unlikely.
 )
-## Common Items
+## Common Equipment
 The following items are likely not of interest to adventurers but are of value to the common folk of the world.
 item(
 # Bright Basin
@@ -277,9 +310,33 @@ item(
 The Thurimbar rod is a magical instrument developed by the gnomes of Zilargo.
 **Activate** :aa: Interact (10 minutes); **Effect** While holding the rod, you can produce auditory illusions that unerringly replicate the sound of any instrument, with the sound emanating from the rod. If you use the Thurimbar rod itself to perform, you can produce unearthly music, unlike any natural instrument.
 )
-## Common Consumables
+## Consumable Equipment
+The following equipment is commonly available to most adventurers.
+### Arcana Equipment
 item(
-# Breath of Siberys
+# Siberys powder
+## Item 0+
+-
+; Uncommon, Alchemical, Consumable
+**Ammunition** round
+
+**Activate** :a: Interact
+-
+Siberys powder is a volatile and explosive alchemical substance commonly used in the production of firearm munitions. Siberys powder becomes inert and useless when wet and must be kept in a sealed, water-tight container.
+-
+**Type** dose or round; **Level** 0; **Price** 1cp
+The smallest unit of siberys powder that still has a simple use, a dose can be a simple package paper parcel around siberys powder or it can be packaged with a metal bullet or pellet to be used as ammunition. When ignited with an arcane spark or mundane fire, a dose of siberys powder explodes. This isn't powerful enough to deal damage but it makes a loud sound and could trigger further explosions. A fuse for a dose can be created with a few twists of paper and causes the dose to explode the round after it's lit.
+-
+**Type** horn; **Level** 2; **Price** 5 gp
+A horn contains 500 doses worth of siberys powder. A horn can be detonated by leaving a small trail of siberys powder and then lighting it. Each 5-foot square requires one dose of siberys powder to create a trail through. As long as the horn is mostly full (at least 400 doses remaining) it can be detonated to deal 1d6 fire damage in a 5-foot burst (DC 16 basic Reflex save). It takes 1 round per 15 feet of powder trail laid down for a horn to detonate after the trail is lit. If multiple horns detonate simultaneously, it can increase the area of the explosion, but the damage in overlapping areas doesn't increase.
+-
+**Type** keg; **Level** 6; **Price** 50 gp
+A keg contains 5,000 doses of siberys powder and can be detonated in the same way as a horn. As long as the keg is mostly full (at least 4,000 doses remaining) this deals 3d6 fire damage in a 20-foot burst (DC 20 basic Reflex save). Detonating multiple kegs can increase the area, but not the damage, of this effect; detonating a keg and any horns at the same time in an overlapping area also doesn't increase the damage. 
+-
+**Crafting Requirements** The initial raw materials must be half eberron shards by value.
+)
+item(
+# Refined Breath of Siberys
 ## Item 1+
 -
 ; Consumable, Magical
@@ -287,7 +344,10 @@ item(
 
 **Activate** :a: Interact
 -
-This is a small globe containing a highly refined solution of dragonshards held in a suspended state. When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
+While still volatile and unstable explosive arcana component, additional refinement has created a small globe containing a highly refined solution of dragonshards held in a suspended state. While suspended in this globe, it is protected from water. When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave, but not a wand), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
+)
+=
+item(
 Charges | Level | Price
 --- | :---: | :---: 
 1 | 2 | 4 GP
@@ -301,12 +361,38 @@ Charges | Level | Price
 9 | 17 | 3000 GP
 10 | 19 | 8000 GP
 -
-**Crafting Requirements** The initial raw materials must be half processed siberys shards by value.
+**Crafting Requirements** The initial raw materials must be half processed eberron shards by value.
 )
-=
 note(
 It is important to qualify that while Cannith engineers are working on solving the overcharging problem, there are no solutions yet. In the event a charge of the Breath of Siberys is applied to a magic item with charges remaining, the item is subject to overcharging. The next time that a charge is expended from the item, roll a DC 10 flat check. On a success, the item is broken. On a failure, the item is destroyed.
 )
+item(
+# Siberys powder
+## Item 0+
+-
+; Uncommon, Alchemical, Consumable
+**Ammunition** round
+
+**Activate** :a: Interact
+-
+Siberys powder is a volatile and explosive alchemical substance commonly used in the production of firearm munitions. Siberys powder becomes inert and useless when wet and must be kept in a sealed, water-tight container.
+-
+**Type** dose or round; **Level** 0; **Price** 1cp
+The smallest unit of siberys powder that still has a simple use, a dose can be a simple package paper parcel around siberys powder or it can be packaged with a metal bullet or pellet to be used as ammunition. When ignited with an arcane spark or mundane fire, a dose of siberys powder explodes. This isn't powerful enough to deal damage but it makes a loud sound and could trigger further explosions. A fuse for a dose can be created with a few twists of paper and causes the dose to explode the round after it's lit.
+-
+**Type** horn; **Level** 2; **Price** 5 gp
+A horn contains 500 doses worth of siberys powder. A horn can be detonated by leaving a small trail of siberys powder and then lighting it. Each 5-foot square requires one dose of siberys powder to create a trail through. As long as the horn is
+)
+|
+item(
+mostly full (at least 400 doses remaining) it can be detonated to deal 1d6 fire damage in a 5-foot burst (DC 16 basic Reflex save). It takes 1 round per 15 feet of powder trail laid down for a horn to detonate after the trail is lit. If multiple horns detonate simultaneously, it can increase the area of the explosion, but the damage in overlapping areas doesn't increase.
+-
+**Type** keg; **Level** 6; **Price** 50 gp
+A keg contains 5,000 doses of siberys powder and can be detonated in the same way as a horn. As long as the keg is mostly full (at least 4,000 doses remaining) this deals 3d6 fire damage in a 20-foot burst (DC 20 basic Reflex save). Detonating multiple kegs can increase the area, but not the damage, of this effect; detonating a keg and any horns at the same time in an overlapping area also doesn't increase the damage. 
+-
+**Crafting Requirements** The initial raw materials must be half eberron shards by value.
+)
+### Magical Components
 item(
 # Cathier Spleen
 ## Item 3
@@ -333,6 +419,7 @@ item(
 -
 The covadish plant grows on the island of Aerenal, where it is highly valued by the elves for its necromantic properties. When used as a material component (adding the material component to the spell if it doesn't already have it) for a Necromancy spell, the covadish leaves heighten the spell level by 1 up to the maximum level you can cast.
 )
+=
 item(
 # Dragonseye acorn
 ## Item 4
@@ -346,7 +433,6 @@ item(
 -
 The dragonseye oak grows in Q’barra and its acorn aids in the casting of certain evocation spells. When used as a material component (adding the material
 )
-|
 item(
 component to the spell if it doesn't already have it) for an evocation spell with the acid, cold, electricity, fire, or sonic trait you gain a circumstance bonus to damage equal to half the level of the spell rounded up.
 )
@@ -387,9 +473,12 @@ item(
 
 **Activate** :a: interact; **Trigger** You cast a spell with the death trait
 -
-The herb known as kieros grows only in the region of Aerenal known as the Madwood. When used as a material component (adding the material component to the spell if it doesn't already have it) for any spell with the death trait, any creature affected by the spell increases its doomed condition by 1.
+The herb known as kieros grows only in the region of Aerenal known as the Madwood. When used as a material component (adding the material component
 )
-=
+|
+item(
+to the spell if it doesn't already have it) for any spell with the death trait, any creature affected by the spell increases its doomed condition by 1.
+)
 item(
 # Laskin Horn
 ## Item 6
@@ -429,7 +518,7 @@ item(
 -
 The masthin plant, native to the jungles of Q’barra, produces natural intoxicants during its early growth and often attracts animals in the wild. When used as a material component (adding the material component to the spell if it doesn't already have it) for any enchantment spell that targets an animal or beast, the Masthin Shoots double the spell’s duration.
 )
-|
+=
 item(
 # Narstone
 ## Item 6
@@ -456,6 +545,30 @@ item(
 -
 The reath vine is a parasite that grows on trees in the Eldeen Reaches. When used as a material component (adding the material component to the spell if it doesn't already have it) for a spell, any creatures with the plant trait take a -1 item penalty to their saves against this spell.
 )
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+|
 =
 head(
 # Dragonmark Focus Items ((Dragonmark Focus Items))
@@ -557,12 +670,41 @@ item(
 **Usage** worn; **Bulk** L
 -
 Dragonmark reservoirs are always embedded with a Siberys dragonshard, but come in many forms, most commonly an amulet or bracelet bearing the design of the house crest. Each reservoir is tied to a specific dragonmark, such as the Mark of Healing or the Mark of Making, and you can only attune to it if you possess that dragonmark.
-)
-|
-item(
 **Activation** :aa: Interact; **Frequency** Once per day; **Effect** your dragonmark focus pool restores one point, as if you had completed the refocus activity.
 -
 **Craft Requirements** at least 62 gp of siberys shards 
+)
+|
+## Greater Dragonmark Focus Items ((+Greater Dragonmark Focus Items))
+These items are developed by the individual houses of the twelve to amplify the powers of their mark. The creation of these items are frequently house trademark secrets, and to construct your own without their approval would be a major disservice to the house (if you managed to find the crafting recipe). Members of the house with sufficient reputation, or who are Favoured in House, may be able to access these items in specific house enclaves. Members with sufficiently high favour may even gain the house's approval to construct these items.
+item(
+# Altar of Resurrection
+## Item 13
+-
+; Uncommon, Dragonmark, Magical, Mark of Healing, Structure
+**Price** 3000 gp; **Weight** permanent structure
+-
+This marble slab acts as a channel for the powers of the Mark of Healing. 
+    A character who possesses a lesser Mark of Healing or better can use the altar in their resurrect ritual to target a creature resting on the altar. If the character does so, they may use their Mark of Healing dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Medicine, Society, or their Mark of Healing dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+    The character must still provide the material components for the resurrection spell.
+-
+**Craft Requirements** Crafter must have the Mark of Healing, and at least 25% of the value must be Refined Greater Siberys Shards.
+)
+item(
+# Astral Beacon
+## Item 10
+-
+; Magical, Mark of Passage, Dragonmark, Structure
+**Price** 1000 gp; **Weight** permanent structure
+-
+Tied to the Mark of Passage, this object acts as a magical beacon to Orien heirs slipping through the Astral Plane. An astral beacon is an 8-inch sphere formed from silver and crystal, with the dragonshard at the core; it is often encased in lead or embedded in the floor of a chamber to prevent enemies from stealing or smashing the sphere.
+)
+=
+item(
+    A character with the Mark of Passage using any feature with the teleportation trait may double the range of the teleportation effect as long as the destination point is within 10 feet of an astral beacon. In addition, for the purposes of teleport, selecting a location within 10 feet of an astral beacon is always accurate within 20 feet no matter the distance travelled.
+    In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
+-
+**Craft Requirements** Crafter must have the Mark of Passage, and at least 25% of the value must be Refined Greater Siberys Shards.
 )
 item(
 # Bag of Bounty
@@ -598,6 +740,9 @@ Small dragonshards are embedded in the lining of this leather bag, which is desi
 **Capacity** 100 Bulk
 
 **Shelf-life** 25 times normal perishable expiration
+)
+|
+item(
 -
 **Type** Bag of Bounty (Type IV); **Level** 14; 
 
@@ -607,9 +752,69 @@ Small dragonshards are embedded in the lining of this leather bag, which is desi
 
 **Shelf-life** no expiration
 -
-**Craft Requirements** Crafter must have the Mark of Hospitality; At least 10% of the crafting material value must be Siberys shards.
+**Craft Requirements** Crafter must have the Mark of Hospitality; At least 10% of the crafting material value must be Refined Siberys shards.
+)
+item(
+# Bracelet of Comfort
+## Item 7
+-
+; Dragonmark, Invested, Magical, Mark of Hospitality
+**Price** 300 gp
+
+**Usage** worn; **Bulk** -
+-
+This bauble enhances the effect of the Mark of Hospitality. 
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You Cast Cozy Cabin as a 3rd level spell, but the spell gains the following additional properties.
+- The shelter walls are formed from cobblestone.
+- The shelter extradimensionally larger, becoming 30 feet on each side on the interior.
+- The furnishings in the shelter include four comfortable beds, two armchairs, a dining table, a writing desk, a bookshelf, a mirror, and a covered latrine, and a small fireplace holding a magical fire. There is a basin for bathing, although water is not provided.
+- The caster can set the tone of the decor. The shelter can include a carpet or wall hangings, but like the furniture these objects disappear if they are removed from the shelter.
+-
+**Craft Requirements** Crafter must have the Mark of Hospitality; At least 10% of the crafting material value must be Refined Siberys shards.
+)
+item(
+# Collar of the Wild Bond
+## Item 9+
+-
+; Dragonmark, Invested, Magical, Mark of Handling
+**Price** 600 gp
+
+**Usage** held in 1 hand; **Bulk** L
+-
+This leather collar is studded with small dragonshards attuned to the Mark of Handling. Each collar of the wild bond has an associated key — a small dragonshard embedded in a metal disk.
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You Cast Dominate targeting an Animal or Beast wearing the collar, using your Dragonmark spell DC.
+Using the power of the Mark of Handling, you can use the disk to dominate the creature that is wearing the collar. This does not require the character to expend the power of his mark, Dominate loses the
 )
 =
+item(
+Incapacitation trait, and the duration lasts for as long as the target creature continues to wear the collar and remains within 120 feet.
+-
+**Type** Collar of the Wild Bond; **Level** 9; 
+
+**Price** 600 gp;
+
+**Spell Level** Dominate is cast as a 6th level spell.
+-
+**Type** Greater Collar of the Wild Bond; **Level** 17; 
+
+**Price** 13,000  gp;
+
+**Spell Level** Dominate is cast as a 10th level spell.
+-
+**Craft Requirements** Crafter must have the Mark of Handling; At least 20% of the crafting material value must be Refined Medium or Larger Siberys shards.
+)
+item(
+# Extended Ward
+## Item 10
+-
+; Dragonmark, Magical, Mark of Warding, Structure
+**Price** 1000 gp; **Weight** permanent structure
+-
+The Extended Ward holds a relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from a houseward. 
+    This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an extended additional 10 minutes of casting time within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning. It may only sustain one such spell at a time.
+-
+**Craft Requirements** Crafter must have the Mark of Warding.
+)
 item(
 # Ghallanda Cauldron
 ## Item 3
@@ -617,11 +822,66 @@ item(
 ; Dragonmark, Invested, Magical, Mark of Hospitality
 **Price** 55 gp
 
-**Usage** ; **Bulk** 2
+**Usage** Cooking Implement; **Bulk** 2
 -
 A Ghallanda Cauldron is a fortified and enchanted cooking device commonly used by Ghallanda inns. When using a Ghallanda Cauldron, you may prepare food with unnatural speed and skill. You can heat, cool, flavour, and cook the raw contents added to the cauldron with enough precision to recreate the tastes of herbs and spices you don't have access to. You gain a +1 item bonus to craft food and drink, and may do so in half the time.
 -
 **Craft Requirements** Crafter must have the Mark of Hospitality.
+)
+|
+item(
+# Helm of the Sentinel
+## Item 11+
+-
+; Dragonmark, Invested, Magical, Mark of Sentinel
+**Usage** worn helm; **Bulk** L
+-
+A multitude of eyes are engraved on the surface of this helmet. The pupils are tiny dragonshards attuned to the Mark of Sentinel. 
+**Activate** Cast a Spell; **Frequency** once per day; **Effect** You Cast Contingency, expending a Dragonmark focus point, and preparing one of your Dragonmark Focus spells.
+The contingency is negated if the character removes the helm, and the helm can only have one contingency active at a time.
+-
+**Type** Least Helm of the Sentinel; **Level** 11; 
+
+**Price** 1,250 gp;
+
+**Spell Level** Contingency is cast as a 7th level spell, the heightened level of the stored dragonmark spell is 4th.
+-
+**Type** Lesser Helm of the Sentinel; **Level** 13; 
+
+**Price** 2,600 gp;
+
+**Spell Level** **Spell Level** Contingency is cast as an 8th level spell, the heightened level of the stored dragonmark spell is 5th.
+-
+**Type** Greater Helm of the Sentinel; **Level** 15; 
+
+**Price** 6,000 gp;
+
+**Spell Level** **Spell Level** Contingency is cast as a 9th level spell, the heightened level of the stored dragonmark spell is 6th.
+-
+**Type** Siberys Helm of the Sentinel; **Level** 17; 
+
+**Price** 13,500 gp;
+
+**Spell Level** **Spell Level** Contingency is cast as a 10th level spell, the heightened level of the stored dragonmark spell is 7th.
+-
+**Craft Requirements** Crafter must have the Mark of Sentinel; At least 20% of the crafting material value must be Refined Medium or Larger Siberys shards.
+)
+item(
+# Houseward
+## Item 12
+-
+; Magical, Mark of Warding, Dragonmark, Structure
+**Price** 2000 gp; **Weight** permanent structure
+-
+While the dragonshard core is quite small, the Houseward itself is a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from an Extended Ward. 
+    A character who possesses a lesser Mark of Warding or better can use the Houseward in their
+)
+=
+item(
+    Ward Domain ritual to target an area centred around the Houseward. If the character does so, they may use their Mark of Warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
+    The character must still provide the material components for the Ward Domain spell.
+-
+**Craft Requirements** Crafter must have the Mark of Warding.
 )
 item(
 # Keycharm
@@ -638,12 +898,11 @@ object-although a dragonmarked character could link it to a new warding spell.
 -
 **Craft Requirements** Crafter must have the Mark of Warding.
 )
-
 item(
 # Kundar chains
 ## Item 4+
 -
-; Magical, Mark of Warding, Dragonmark
+; Dragonmark, Magical, Mark of Warding
 **Usage** held in 2 hands; **Bulk** L
 -
 These special manacles can contain even the most difficult of captives. They are applied and function as normal manacles, however, the manacles prevent a creature bound by them from using any method of extradimensional movement, including teleportation or travel to a different plane of existence. They don't prevent the creature from passing through an interdimensional portal.
@@ -695,24 +954,6 @@ In a Sivis message station, a gnome is always on duty by the speaking stone, lis
 -
 **Craft Requirements** Crafter must have the Mark of Scribing.
 )
-
-## Greater Dragonmark Focus Items ((+Greater Dragonmark Focus Items))
-These items are developed by the individual houses of the twelve to amplify the powers of their mark. The creation of these items are frequently house trademark secrets, and to construct your own without their approval would be a major disservice to the house (if you managed to find the crafting recipe). Members of the house with sufficient reputation, or who are Favoured in House, may be able to access these items in specific house enclaves. Members with sufficiently high favour may even gain the house's approval to construct these items in exchange for the house's shared use of the item. 
-
-item(
-# Altar of Resurrection
-## Item 13
--
-; Uncommon, Magical, Mark of Healing, Dragonmark, Structure
-**Price** 3000 gp; **Weight** permanent structure
--
-This marble slab acts as a channel for the powers of the Mark of Healing. 
-    A character who possesses a lesser Mark of Healing or better can use the altar in their resurrect ritual to target a creature resting on the altar. If the character does so, they may use their Mark of Healing dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the altar the secondary casters may choose to use Medicine, Society, or their Mark of Healing dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
-    The character must still provide the material components for the resurrection spell.
--
-**Craft Requirements** Crafter must have the Mark of Healing.
-)
-|
 item(
 # Storm Spire
 ## Item 15
@@ -724,45 +965,6 @@ These large towers allow bearers of the Mark of Storms to control the local weat
     A character who possesses a lesser Mark of Storms or better can use the tower in their Control Weather ritual to target the surrounding area. If the character does so, they may use their Mark of Storms dragonmark spell modifier as the primary check for the ritual, the school of magic becomes arcane, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual. In addition, while using the Storm Spire the secondary casters may choose to use Survival, or their Mark of Storms dragonmark spell modifier.
 -
 **Craft Requirements** Crafter must have the Mark of Storms.
-)
-item(
-# Astral Beacon
-## Item 10
--
-; Magical, Mark of Passage, Dragonmark, Structure
-**Price** 1000 gp; **Weight** permanent structure
--
-Tied to the Mark of Passage, this object acts as a magical beacon to Orien heirs slipping through the Astral Plane. An astral beacon is an 8-inch sphere formed from silver and crystal, with the dragonshard at the core; it is often encased in lead or embedded in the floor of a chamber to prevent enemies from stealing or smashing the sphere.
-    A character with the Mark of Passage using any feature with the teleportation trait may double the range of the teleportation effect as long as the destination point is within 10 feet of an astral beacon. In addition, for the purposes of teleport, selecting a location within 10 feet of an astral beacon is always accurate within 20 feet no matter the distance travelled.
-    In addition, when used in a Teleportation Circle ritual, if an Astral Beacon is at the target destination and the ritual is a success, the ritual is a critical success instead. Any caster performing the Teleportation circle ritual with an Astral Beacon can use their Mark of Passage spell modifier instead of their normal check, each caster that does so gains a +1 status bonus to their check for each dragonmark focus point they choose to spend on the ritual.
--
-**Craft Requirements** Crafter must have the Mark of Passage.
-)
-=
-item(
-# Extended Ward
-## Item 10
--
-; Magical, Mark of Warding, Dragonmark, Structure
-**Price** 1000 gp; **Weight** permanent structure
--
-The Extended Ward holds a relatively large dragonshard core, set into a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from a houseward. 
-    This item enhances the effect of Mark of Warding focus spells. If a Mark of Warding focus spell is cast with an extended additional 10 minutes of casting time within 20 feet of the Extended Ward, the Extended Ward will automatically sustain the spell each round up to double its duration. If the duration is until your next daily preparations, you may choose to allow the Extended Ward to automatically recast the spell each morning. It may only sustain one such spell at a time.
--
-**Craft Requirements** Crafter must have the Mark of Warding.
-)
-item(
-# Houseward
-## Item 12
--
-; Magical, Mark of Warding, Dragonmark, Structure
-**Price** 2000 gp; **Weight** permanent structure
--
-While the dragonshard core is quite small, the Houseward itself is a heavy block of lead and alchemical silver; it is often set directly into the floor of a building. Due to the similar design and placement of the item, it is frequently difficult to differentiate from an Extended Ward. 
-    A character who possesses a lesser Mark of Warding or better can use the Houseward in their Ward Domain ritual to target an area centred around the Houseward. If the character does so, they may use their Mark of Warding dragonmark spell modifier as the primary check for the ritual, and each caster gains a +1 status bonus to their check for each dragonmark focus point they choose to expend during the ritual. In addition, while using the Houseward the secondary casters may choose to use Lore (any), Survival, Thievery, or their Mark of Warding dragonmark spell modifier. Each of the two secondary casters must still not perform the same check.
-    The character must still provide the material components for the Ward Domain spell.
--
-**Craft Requirements** Crafter must have the Mark of Warding.
 )
 |
 =

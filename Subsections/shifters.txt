@@ -146,14 +146,14 @@ You are nimble and can easily recover from a fall. You gain the Cat Fall feat.
 ### Hybrid form 
 While in your Hybrid form, you can use bursts of speed to outrun your competition. Your speed increases by 5 feet.
 =
-## Longtooth 
+## Longtooth Shifter
 Typically manifesting traits of a canine, tiger, hyena, or other predator, Longtooth shifters can have traits of any animal with a fierce bite. Longtooth shifters have the greatest connectedness with the natural order of all shifters. Sometimes considered savage by others, they rather prefer to live in tune with their surroundings. 
 
 Using the menace of your teeth, you intimidate others. You gain the Intimidating Glare feat.
 ### Hybrid form 
 While in your hybrid form, your long fangs are formidable weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the pick group and have the grapple trait.
 
-## Razorclaw 
+## Razorclaw Shifter
 Typically manifesting traits of a feline, Longtooth shifters can have traits of any animal with sharp claws. Razorclaw shifters prioritize their physical might and constitution more than others. They are ardent protectors of those they love, and vigilant warriors against those who have wronged them.
 
 As a razorclaw shifter in your humanoid form, you still have particularly long, sharp claws. You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits. 
@@ -161,7 +161,7 @@ As a razorclaw shifter in your humanoid form, you still have particularly long, 
 ### Hybrid form 
 While in your hybrid form, your claws become capable of delivering vicious wounds with a wicked swipe. Your claw attack deals 1d6 damage is part of the knife group and gains the versatile (piercing) trait.  
 
-## Swiftwing 
+## Swiftwing Shifter
 A swiftwing shifter's beast within is typically a bird such as an eagle or falcon but can have an animal representing any aerial predator. Swiftwing shifters often come across as twitchy or nervous but instead are incredibly perceptive and quick to respond to signs of danger. As adept scouts, Swiftwing shifters value perceptiveness and caution.  
 
 While in your humanoid form, your lighter bones and connection to your beast within allows you to slow your falls. When you fall, you take only half the normal damage and don't land prone.  
@@ -171,7 +171,7 @@ Despite your beast within, flying is extraordinarily challenging for a swiftwing
 |
 wings to travel longer distances when jumping. When in your hybrid form, if you leap horizontally, you move an additional 5 feet. You don't automatically fail your checks to High Jump or Long Jump if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 feet further than your Athletics check result, though still with the normal maximum of your Speed. In addition, while in your hybrid form you take no damage from falling, regardless of the distance you fall.
 
-## Truedive 
+## Truedive Shifter
 Typically manifesting traits of a crocodile or shark, truedive shifters can have traits of any animal with aquatic capabilities. Truedive shifters can be considered by others to be somewhat remote or callous, but they are steadfast through turmoil and waves of change. 
 
 When you succeed at an Athletics check to Swim, you get a critical success instead. 
@@ -179,7 +179,7 @@ When you succeed at an Athletics check to Swim, you get a critical success inste
 ### Hybrid form 
 While in your hybrid form, you gain the amphibious trait and a swim Speed of 15 feet. 
 
-## Wildhunt
+## Wildhunt Shifter
 Wildhunt shifters typically show traits of the wolf, but their animal may be any type of hunting pack animal. Wildhunt shifters can be suspicious and untrusting, but their loyalty when earned is a nearly impossible bond to break. 
 
 You gain imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine a creature's location. The GM will usually double the range if you're downwind from the creature or halve the range if you're upwind. 
@@ -256,7 +256,7 @@ item(
 -
 ; Shifter
 
-Your heritage gives you a strong animal presence. You gain a +1 circumstance bonus to Nature checks to Command an Animal, Diplomacy checks made on animals, and Intimidation.
+Your heritage gives you a strong animal presence. You gain a +1 circumstance bonus to Diplomacy, and Intimidation against animals and beasts, and to Nature checks to Command an Animal.
 
 **Special** If you have the Dreamsight shifter heritage, your circumstance bonus is +2.
 )
@@ -416,7 +416,7 @@ There's no journey too far or burden too heavy when your friends are at your sid
 )
 |
 item(
-# Hybrid Form
+# Hybrid Strength
 ## Feat 9
 -
 ; Shifter
@@ -554,7 +554,7 @@ item(
 ## Feat 13
 -
 ; Shifter
-You are a paragon of shifters and manifest the traits of a second shifter heritage. Select a shifter heritage other than your current heritage. You gain the heritage effects and may select feats restricted to this heritage. While in your hybrid form, you gain the benefits of both of your heritages. You do not gain the Ability Boosts or Flaws associated with your additional heritage.
+You are a paragon of shifters and manifest the traits of a second shifter heritage. Select a shifter heritage other than your current heritage. You gain the heritage effects and may select feats restricted to this heritage. While in your hybrid form, you gain the benefits of both of your heritages.
 )
 item(
 # Shifter Weapon Expertise
@@ -583,7 +583,7 @@ item(
 ; Shifter
 You move like an animal. Your Speed increases by 5 feet. In addition, you gain one of the following Speeds available to your beast within: climb, fly, or swim. You gain this Speed only while in your hybrid shape. The new movement is as fast as your standard Speed; for example, if you have a 30-foot Speed, you can gain a 30-foot climb Speed. If your beast within doesn't typically have a specific type of Speed, you can't gain it with this feat. If your beast within doesn't typically have a climb, fly, or swim Speed, your Speed increases by 10 feet instead.
 
-**Special** If you have the swiftstride heritage, you gain an additional 5 feet to each movement speed you gain or increase.
+**Special** If you have the longstride heritage, you gain an additional 5 feet to each movement speed you gain or increase.
 )
 item(
 # Dreamsight Elite

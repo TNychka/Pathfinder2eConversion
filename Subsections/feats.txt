@@ -39,7 +39,7 @@ item(
 ; General, Skill
 **Prerequisites** trained in Crafting
 -
-When you spend downtime to use the Craft activity, you need only spend 3 days at work at which point you attempt a Crafting check.
+When you spend downtime to use the Craft activity, you need only spend 3 days at work at which point you attempt a Crafting check. For consumable items, you may build them one at a time. If you do, you only need to spend 1 day at work before attempting a Crafting check.
 )
 |
 item(

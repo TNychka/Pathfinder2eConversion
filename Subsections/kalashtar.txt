@@ -94,11 +94,11 @@ The abilities and the personalities of kalashtar are heavily influenced by their
 The fiendish du'ulora spirit inhabits your bloodline and is one that feeds on rage and aggression. You choose one of the following paths.
 **Special** If at any point you gain access to the Moment of Clarity feat through class or archetype, you automatically gain it from this heritage.
 ### Du'ulora Aggravator 
-You learn to channel others' anger to blind your enemies with rage. You become trained in Intimidation (or another skill if you were already trained in Diplomacy). In addition, when you use the Feint action, you may make an Intimidation check
+You learn to channel others' anger to blind your enemies with rage. You become trained in Intimidation (or another skill if you were already trained in Intimidation). In addition, when you use the Feint action, you may make an Intimidation check
 |
 instead of making a Deception check.
 ### Du'ulora Battle Spirit
-You learn to increase the adrenaline and focus of those you support in the heat of battle. You may use your aid reaction on any allies under the effect of your Link Minds to assist in Athletics checks or Attack rolls. After you do so, your Link Minds ends on that ally.
+You learn to increase the adrenaline and focus of those you support in the heat of battle. You may use the aid reaction on any allies under the effect of your Link Minds to assist in Athletics checks or Attack rolls. After you do so, your Link Minds ends on that ally.
 
 ## Hashalaq Kalashtar
 The hashalaq quori is a force that feeds on doubt and desire. You can choose one of the following paths.  
@@ -180,13 +180,20 @@ As a Kalashtar, your trance allows you a more robust recovery and greater resist
 In addition, sleep is more restorative for you. You regain HP equal to your Constitution modifier times double your level instead of just times your level, and you reduce any drained and doomed conditions you have by 2 instead of by 1. 
 )
 item( 
+# Edgewalker
+## Feat 1 
+-
+; Kalashtar 
+You have trained to fight extraplanar threats to Eberron. You gain a +1 circumstance bonus to saving throws against extraplanar creatures, and you gain a +1 circumstance bonus to damage with weapons and unarmed attacks against them. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. 
+)
+|
+item( 
 # Intuitive Link 
 ## Feat 1 
 -
 ; Kalashtar 
 You can link your mind to others with ease. Mind link loses the concentrate trait and has a casting time of :a:, and loses the somatic component.
 )
-|
 item(
 # Kalashtar Lore 
 ## Feat 1 
@@ -226,13 +233,7 @@ item(
 You have practised the art of nimbly dancing through the shadows to remain unnoticed. You gain a +1 circumstance bonus to your acrobatics checks and Stealth checks while concealed. 
 )
 =
-item( 
-# Edgewalker
-## Feat 1 
--
-; Kalashtar 
-You have trained to fight extraplanar threats to Eberron. You gain a +1 circumstance bonus to saving throws against extraplanar creatures, and you gain a +1 circumstance bonus to damage with weapons and unarmed attacks against them. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. 
-)
+
 #### 5th Level 
 item( 
 # Broad Link 
@@ -272,13 +273,12 @@ item(
 -
 ; Kalashtar
 **Prerequisites** Kalaraq Kalashtar heritage
-) 
-|
-item(
+
 **Trigger** An ally under the effects of your Link Minds is hit by an attack or must make a saving throw, and the +1 circumstance bonus will change the level of success.
 -
 The Kalaraq are the natural leaders of the Quori and can guide their followers to stand resolute. While an ally is under the effects of your Link Minds, you can choose to grant them a +1 circumstance bonus to their AC or saving throw.
 )
+|
 item(
 # Mental Projection
 ## Feat 5
@@ -303,7 +303,7 @@ item(
 
 **Frequency** once per hour 
 -
-As a creature succumbs to its feelings of anger and hate, your control over them grows. Choose a hostile foe within 30 feet, that creature must make a Will save against your innate occult DC. 
+As a creature succumbs to its feelings of anger and hate, your control over them grows. Choose a hostile foe within 30 feet, that creature must make a Will save against your innate occult spell DC which you become trained in if you are not already. See core rulebook 302.
 **Critical Success** The creature resists your taunt.
 **Success**  On the creature's turn, it must spend 1 of its actions to attack you if it can, or in the pursuit of being able to attack you.
 **Failure** The creature becomes Stupefied 1. On the creature's turn, it must spend 2 of its actions to attack you if it can, or in the pursuit of being able to attack you.
