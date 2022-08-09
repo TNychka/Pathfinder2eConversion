@@ -22,8 +22,6 @@ item(
 **Collision** 9d10 (DC 30)
 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes. It also accelerates at a rate of 60 feet per round.
-
-**Weaponry** The Ship of the line is loaded to the brim with ship-to-ship weapons—typically bristling 124-136 with elemental cannons on its first, second, and third tiers. The Price of these weapons is included in that of the Ship of the Line. When building a Ship of the Line, you can choose to replace any of these with other siege weapons with a lower Price. If you want a more expensive siege weapon, you must Craft it separately. Because of the Ship of the ine's structure, any siege weapon in it must launch its payload straight ahead. For instance, a ballista or springald could function in a Ship of the Line, but not a catapult or trebuchet. Crew is typically sufficient to crew these siege weapons.
 )
 
 item(
@@ -77,7 +75,7 @@ item(
 
 **Sluggish** This vehicle must move twice its length for each 90-degree turn it makes. It also accelerates at a rate of 60 feet per round.
 
-**Weaponry** The Ship of the line is loaded to the brim with ship-to-ship weapons—typically bristling 124-136 with elemental cannons on its first, second, and third tiers. The Price of these weapons is included in that of the Ship of the Line. When building a Ship of the Line, you can choose to replace any of these with other siege weapons with a lower Price. If you want a more expensive siege weapon, you must Craft it separately. Because of the Ship of the ine's structure, any siege weapon in it must launch its payload straight ahead. For instance, a ballista or springald could function in a Ship of the Line, but not a catapult or trebuchet. Crew is typically sufficient to crew these siege weapons.
+**Weaponry** The Ship of the line is loaded to the brim with ship-to-ship weapons—typically bristling 124-136 with elemental cannons on its first, second, and third tiers. The Price of these weapons is included in that of the Ship of the Line. When building a Ship of the Line, you can choose to replace any of these with other siege weapons with a lower Price. If you want a more expensive siege weapon, you must Craft it separately. Because of the Ship of the Line's structure, any siege weapon in it must launch its payload straight ahead. For instance, a ballista or springald could function in a Ship of the Line, but not a catapult or trebuchet. Crew is typically sufficient to crew these siege weapons.
 )
 
 item(
