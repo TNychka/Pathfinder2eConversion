@@ -896,7 +896,7 @@ You bear the old blood of the Dhakaani. You have channelled this history, granti
 -
 ## Halflings Feat Modifications
 item(
-# Prairie Rider
+# Talenta Prairie Rider
 ## Feat 1
 -
 ; Halfling
