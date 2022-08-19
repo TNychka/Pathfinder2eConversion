@@ -474,7 +474,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to better uncover secrets. When you Cast the Spell, you can Recall Knowledge, Seek, or Sense Motive. You gain a +1 status bonus to the skill or perception used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to better uncover secrets. When you Cast the Spell, any time you Recall Knowledge, Seek, or Sense Motive you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Discern Secrets.
 
@@ -588,7 +588,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to better locate objects. When you Cast the Spell, you can Recall Knowledge (Survival), Identify Magic, Seek, Sense Direction, Subsist, or Track. You gain a +1 status bonus to the skill or Perception used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to better locate objects. When you Cast the Spell, any time you  Recall Knowledge (Survival), Identify Magic, Seek, Sense Direction, Subsist, or Track you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Discern Location.
 
@@ -681,7 +681,7 @@ item(
 # Cantrip of the Handler
 ## Cantrip 2
 -
-; Cantrip, Dragonmark, Mark of Handling
+; Cantrip, Dragonmark, Enchantment, Mark of Handling
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
@@ -700,9 +700,9 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to better interact with animals. When you Cast the Spell, you can Recall Knowledge (Nature), or Command an Animal. You gain a +1 status bonus to the skill used for the roll. If you target an animal, it gains a +1 status bonus to all skill checks that it makes. This bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to better interact with animals. When you Cast the Spell, any time you  Recall Knowledge (Nature), or Command an Animal you gain a +1 status bonus to the skill used for the roll. If you target an animal, it gains a +1 status bonus to all skill checks that it makes. This bonus remains as long as you Sustain the Spell.
 -
-**Heightened (3rd)** You do not need to sustain Handle Animals.
+**Heightened (3rd)** You do not need to sustain Primal Connection.
 
 **Heightened (5th)** The bonus increases to +2.
 
@@ -756,7 +756,7 @@ item(
 
 **Duration** sustained 1 minute
 -
-Grant a willing creature a +1 status bonus to Dexterity-based checks and DCs, and Strength-based rolls and DCs. This includes AC, Reflex saves, ranged attack rolls, melee attack rolls, and skill checks using Acrobatics, Athletics, Stealth, and Thievery.
+Grant a willing creature a +1 status bonus either Strength or Dexterity, selected when you cast the spell.
 -
 **Heightened (+3)** The status bonus increases by 1
 )
@@ -899,7 +899,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to better mend wounds. When you Cast the Spell, you can Recall Knowledge (Medicine), Administer First Aid, Battle Medicine, Treat Disease, Treat Poison, or Treat Wounds. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to better mend wounds. When you Cast the Spell, any time you  Recall Knowledge (Medicine), Administer First Aid, Battle Medicine, Treat Disease, Treat Poison, or Treat Wounds you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Healer's hand.
 
@@ -966,7 +966,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to better interact with others. When you Cast the Spell, you can Recall Knowledge (Society), Gather Information, Make an Impression, or Request. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to better interact with others. When you Cast the Spell, any time you  Recall Knowledge (Society), Gather Information, Make an Impression, or Request you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Innkeeper's Magic.
 
@@ -1019,9 +1019,9 @@ item(
 ## Focus 1
 -
 ; Dragonmark, Emotion, Enchantment, Linguistic, Mark of Hospitality, Mental, Verbal
-**Cast** :aa: dragonmark, somatic
+**Cast** :aa: dragonmark, somatic, verbal
 
-**Range** touch; **Targets** 1 creature
+**Range** touch; **Targets** 1 creature     
 -
 With a warm handshake and a friendly smile, the powers of your dragonmark help others open themselves to you. If the creature is unwilling, they may make a will save. They gain a +4 circumstance bonus to this save if you or your allies recently threatened or were hostile to it. Creatures are always unaware that you have cast Kindle Friendship. The creature is immune to all future uses of Kindle Friendship from you.
 
@@ -1081,7 +1081,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to drive your creative crafting powers. When you Cast the Spell, you can Repair, or Craft. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to drive your creative crafting powers. When you Cast the Spell, any time you  Repair, or Craft you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Crafter's inspiration.
 
@@ -1096,12 +1096,8 @@ item(
 # Cantrip of the Crafter
 ## Cantrip 2
 -
-; Cantrip, Dragonmark, Mark of Crafting
+; Cantrip, Dragonmark, Transmutation, Mark of Crafting
 **Cast** see replicated spell; dragonmark, somatic
-
-**Range** see replicated spell; **Targets** see replicated spell
-
-**Duration** until the start of your next turn
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
     When you cast the Cantrip of the Crafter, you can choose Read Aura or Sigil. Cantrip of the Crafter gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
@@ -1262,7 +1258,7 @@ item (
 
 **Duration** 10 minutes
 -
-You call upon your dragonmark's power to enable swift travel. When you Cast the Spell, you can make a check with the Move trait, or Piloting check on a land vehicle. You gain a +1 status bonus to the skill used for the roll.
+You call upon your dragonmark's power to enable swift travel. When you Cast the Spell, any time you  make a check with the Move trait, or Piloting check on a land vehicle you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Swift Passage.
 
@@ -1437,7 +1433,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to transcribe ease. When you Cast the Spell, you can Borrow an Arcane Spell, Create Forgery, Decipher Writing, Learn a Spell, or Recall Knowledge (Lore). You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to transcribe ease. When you Cast the Spell, any time you  Borrow an Arcane Spell, Create Forgery, Decipher Writing, Learn a Spell, or Recall Knowledge (Lore) you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Scribe's Intuition.
 
@@ -1490,12 +1486,8 @@ item(
 # Cantrip of the Sentinel
 ## Cantrip 2
 -
-; Cantrip, Dragonmark, Mark of Sentinel, Abjuration
-**Cast** :aa: dragonmark, somatic
-
-**Range** see replicated spell; **Targets** see replicated spell
-
-**Duration** until the start of your next turn
+; Abjuration, Cantrip, Dragonmark, Mark of Sentinel
+**Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
     When you cast the Cantrip of the Sentinel you can choose Forbidding Ward or Shield. Cantrip of the Sentinel gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
@@ -1557,7 +1549,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to heighten your awareness of danger. When you Cast the Spell, you can disarm, grapple, shove, trip, or roll initiative. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to heighten your awareness of danger. When you Cast the Spell, any time you  disarm, grapple, shove, trip, or roll initiative you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Sentinel's Intuition.
 
@@ -1611,7 +1603,7 @@ item(
 # Become Shadow
 ## Focus 2
 -
-; Dragonmark, Mark of Shadow<null>, Transmutation
+; Dragonmark, Mark of Shadow<null>, Illusion
 **Cast** :aa: dragonmark, somatic; **Requirements** You are in dim light or darkness
 
 **Duration** sustained up to 10 minutes.
@@ -1625,7 +1617,7 @@ item(
 # Cantrip of the Shadow
 ## Cantrip 2
 -
-; Cantrip, Dragonmark, Mark of Shadow<null>
+; Cantrip, Dragonmark, Mark of Shadow<null>, Illusion
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
@@ -1675,7 +1667,7 @@ item (
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to weave illusions. When you Cast the Spell, you can Perform, Hide, Sneak, or roll Initiative (stealth). You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell.
+You call upon your dragonmark's power to weave illusions. When you Cast the Spell, any time you  Perform, Hide, Sneak, or roll Initiative (stealth) you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell.
 -
 **Heightened (3rd)** You do not need to sustain Shadow's veil.
 
@@ -1718,7 +1710,7 @@ item(
 # Cantrip of the Storm
 ## Cantrip 2
 -
-; Cantrip, Dragonmark, Mark of Storm, Conjuration
+; Cantrip, Dragonmark, Evocation, Mark of Storm
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
@@ -1792,7 +1784,7 @@ item(
 
 **Duration** 1 minute
 -
-You can condense the humidity in the air and bring down precipitation. Depending on the region and weather, this may bring down rain or snow. Every time you sustain this spell, you may move the area of effect 15 feet in a direction you choose. Creatures in the area of precipitation are concealed. Creatures outside the area are concealed from those inside the area. If you are in an extremely arid area, the spell fails. You may dismiss this spell.
+You can condense the humidity in the air and bring down precipitation. Depending on the region and weather, this may bring down rain or snow. The spell does not require sustainment, however if you use the Sustain a Spell action on this spell, you may move the area of effect 15 feet in a direction you choose. Creatures in the area of precipitation are concealed. Creatures outside the area are concealed from those inside the area. If you are in an extremely arid area, the spell fails. You may dismiss this spell.
 
 When the spell finishes, the area under the cloud becomes difficult snowy terrain if it was snowing, or non-magical fires are extinguished if it was raining.
 )
@@ -1840,12 +1832,8 @@ item(
 # Cantrip of the Guard
 ## Cantrip 2
 -
-; Cantrip, Dragonmark, Mark of Warding, Abjuration
-**Cast** :aa: dragonmark, somatic
-
-**Range** see replicated spell; **Targets** see replicated spell
-
-**Duration** until the start of your next turn
+; Abjuration, Cantrip, Dragonmark, Mark of Warding
+**Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you.
     When you cast the Cantrip of the Guard you can choose Forbidding Ward or Sigil. Cantrip of the Guard gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
@@ -1856,12 +1844,12 @@ item (
 # Warder's Intuition
 ## Focus 1
 -
-; Dragonmark, Mark of Warding, Abjuration
+; Abjuration, Dragonmark, Mark of Warding
 **Cast** :aa: dragonmark, somatic
 
 **Duration** sustained up to 10 minutes
 -
-You call upon your dragonmark's power to ward off attacks. When you Cast the Spell, you can Disable a Device, or Pick a Lock, Seek to Detect a Hazard or Search. You gain a +1 status bonus to the skill used for the roll, and this bonus remains as long as you Sustain the Spell. If you craft an object with a stealth DC, the DC is increased by 1.
+You call upon your dragonmark's power to ward off attacks. When you Cast the Spell, any time you  Disable a Device, or Pick a Lock, Seek to Detect a Hazard or Search you gain a +1 status bonus to the skill or perception used for the roll. This bonus remains as long as you Sustain the Spell. If you craft an object with a stealth DC, the DC is increased by 1.
 -
 **Heightened (3rd)** You do not need to sustain Mark of Warding.
 

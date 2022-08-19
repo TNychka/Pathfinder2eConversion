@@ -303,7 +303,7 @@ item(
 You instantaneously cause an unlocked door or window within 30 feet to fly open or slam shut.
 )
 item(
-# Incendiary Purge
+# Spluttering Extinguisher
 ## Cantrip 0
 -
 ; Common, Cantrip, Evocation
@@ -357,7 +357,7 @@ item(
 -
 You channel the agility of a jackrabbit to boost your speed. You become quickened 1, you may only use this extra action to Stride or Step.
 -
-**Heightened (6th)** You become quicked 2.
+**Heightened (6th)** You become quickened 2.
 )
 item(
 # Sai'la's Moonblade

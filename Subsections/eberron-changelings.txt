@@ -165,7 +165,7 @@ Have you heard of the Traveller? As a changeling whether or not you have, you ha
 )
 |
 item(
-# Peronable Performer
+# Personable Performer
 ## feat 1
 -
 ; Eberron Changeling

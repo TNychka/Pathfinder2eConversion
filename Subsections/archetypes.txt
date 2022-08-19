@@ -51,6 +51,8 @@ item(
 ## Feat 10
 -
 ; Archetype, Dragonmark
+**Prerequisites** Dragonmarked Scion Dedication
+-
 As your control over your mark increases, you are better able to restore your energy. If you have spent at least 2 Dragonmarked Focus Points since the last time you Refocused, you recover 2 Dragonmarked Focus Points when you Refocus instead of 1.
 )
 item(

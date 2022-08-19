@@ -3,7 +3,7 @@ head(
 These backgrounds allow you to create a character tied to the world of dragonmarks, explaining how they may relate to their house.
 )
 
-##### Table 2-1 House Skills 
+##### Table 4-1 House Skills 
 House | Skill | Feat
 --- | :--- | :---
 Cannith | Crafting | Specialty Crafting
@@ -31,7 +31,7 @@ The dragonmarked houses have their own laws, some older than Galifar. An heir wh
 
 You gain two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; one is free; and you should work with your GM to choose the third based on the circumstances of your excoration.
   
-You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
+You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
   
 Any dragonmarked member of your house who knows of your status is automatically unfriendly toward you, as are most members of other 
 )
@@ -53,7 +53,7 @@ from using their family or house name. They might not be an outcast, but they ha
 
 Choose two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; and one is a free ability boost.
 
-You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
+You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
 )
 
 item(
@@ -66,7 +66,7 @@ A dragonmarked scion bears the name of their house and, if they carry a dragonma
 
 Choose two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; and one is a free ability boost.
 
-You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
+You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
 )
 item(
 # House Agent ((+House Agent))
@@ -81,7 +81,7 @@ A dragonmarked agent bears the name of their house and, if they carry a dragonma
 
 Choose two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; and one is a free ability boost.
 
-You've trained the skill related to your house (table 2-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
+You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
 )
 item(
 # Foundling
