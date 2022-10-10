@@ -1450,7 +1450,7 @@ These small feather shaped tokens help significantly reduce the impact of a fall
 **Activate** :r: Interact; *Trigger** You begin to fall **Effect** When you activate the Featherfall Token, you begin to break the effects of your fall. You may treat the fall as though it were 30 feet shorter. If you are in a Syrania manifest zone - most notably Sharn - you gain the benefits of feather fall for 1 minute or until you stop falling, whichever comes first.
 )
 item(
-# Plane Stone of Absorbsion
+# Plane Stone of Absorption 
 ## Item 1
 -
 ; Invested, Magical
@@ -1460,7 +1460,7 @@ item(
 -
 This special stone is attuned to the particular power of one of the planes of eberron. When this stone is created, choose one of acid (Lamannia), cold (Fernia), electricity (Syrania), fire (Risia), and sonic (Dolurrh). This is the stone's energy resistance type.
 
-**Activate** :r: Interact; **Trigger** You take energy damage of the stone's type **Effect** By channelling the powers of the plane, some of the effect of the triggering damage is mitigated. You gain resistance 3 to the damage.
+**Activate** :r: Interact; **Trigger** You would take energy damage of the stone's type **Effect** By channelling the powers of the plane, some of the effect of the triggering damage is mitigated. You gain resistance 3 to the damage.
 )
 item(
 # Plane Stone of Discharge
