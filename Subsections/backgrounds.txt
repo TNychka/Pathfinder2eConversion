@@ -29,7 +29,7 @@ item(
 ; Rare
 The dragonmarked houses have their own laws, some older than Galifar. An heir who violates the laws of a house is made an excoriate: stripped of the house name and forbidden from drawing on house resources. An excoriate must surrender their signet ring, any other property that can be claimed as a gift of the house, and the name of both house and family. Their likeness is circulated through the major enclaves of the house. Heirs of their house are forbidden to provide them with aid or succour, and the other houses typically shun excoriates of any line. Excoriation is a rare punishment but is often a fate worse than prison for a dragonmarked heir.
 
-You gain two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; one is free; and you should work with your GM to choose the third based on the circumstances of your excoration.
+You gain three ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; one is free; and you should work with your GM to choose the third based on the circumstances of your excoration.
   
 You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.
   

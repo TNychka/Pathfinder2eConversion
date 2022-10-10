@@ -26,7 +26,7 @@ item(
 # Quick Wand :a:
 -
 ; Wandslinger
-As part of your Arcane incantations, you stow a wand or stave and draw another to cast from with a single fluid motion. If you are holding something in one hand, you may stow the object. You may then interact to draw a wand or stave.
+As part of your Arcane incantations, you stow a wand, or stave and draw another to cast from with a single fluid motion. If you are holding something in one hand, you may stow the object. You may then interact to draw a wand or stave.
 )
 ### Advanced Deed 9th
 item(

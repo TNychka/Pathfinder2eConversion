@@ -1934,7 +1934,12 @@ Although aberrant marks are no longer hunted by the houses as during the War of 
 Aberrant Mark is a versatile Heritage, which can only be applied to the following ancestries: Dwarf, Elf, Gnome, Human, Half-Elf, Half-Orc, or Halfling. By picking this Heritage at first level you gain access to all of the Mark of Aberrant Mark ancestry feats.
 
 ## Aberrant Mark [Uncommon Versatile (Dragonmarked Ancestries) Heritage]
-Aberrant marks often appear when people from different dragonmarked families produce a child, and for this reason, such unions are forbidden by the Twelve. However, Aberrant marks can appear at any time on any ancestry that has not already manifested a dragonmark. You gain the dragonmarked heritage, and the Aberrant Mark traits, in addition to the traits from your ancestry. If you are a half-elf or half-orc, you gain those respective traits as well. In addition, you can pick from your original ancestry, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat.
+Aberrant marks often appear when people from different dragonmarked families produce a child, and for this reason, such unions are forbidden by the Twelve. However, Aberrant marks can appear at any time on any ancestry that has not already manifested a dragonmark. You gain the dragonmarked heritage, and the Aberrant Mark traits, in addition to the traits from your ancestry. In addition, you can pick from your original ancestry, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat. 
+
+**Special:** If you are a half-elf, this heritage replaces the half-elf heritage, though you still gain the elf trait, the half-elf trait, and low-light vision. In addition, you can select elf, half-elf, and human, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat.
+
+**Special:** If you are a half-orc, this heritage replaces the half-orc heritage, though you still you gain the orc trait, the half-orc trait, and low-light vision. In addition, you can select orc, half-orc, human, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat.
+
 ## Aberrant Mark Focus Spells
 If you manifest a mark, you will begin to gain access to the following aberrant mark focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well. 
 ### Aberrant Feedback ((++Aberrant Feedback))

@@ -94,9 +94,10 @@ The abilities and the personalities of kalashtar are heavily influenced by their
 The fiendish du'ulora spirit inhabits your bloodline and is one that feeds on rage and aggression. You choose one of the following paths.
 **Special** If at any point you gain access to the Moment of Clarity feat through class or archetype, you automatically gain it from this heritage.
 ### Du'ulora Aggravator 
-You learn to channel others' anger to blind your enemies with rage. You become trained in Intimidation (or another skill if you were already trained in Intimidation). In addition, when you use the Feint action, you may make an Intimidation check
+You learn to channel others' anger to blind your enemies with rage. You become trained in Intimidation (or another skill if you were already
 |
-instead of making a Deception check.
+trained in Intimidation). In addition, when you use the Feint action, you may make an Intimidation check instead of making a Deception check.
+
 ### Du'ulora Battle Spirit
 You learn to increase the adrenaline and focus of those you support in the heat of battle. You may use the aid reaction on any allies under the effect of your Link Minds to assist in Athletics checks or Attack rolls. After you do so, your Link Minds ends on that ally.
 
@@ -104,10 +105,10 @@ You learn to increase the adrenaline and focus of those you support in the heat 
 The hashalaq quori is a force that feeds on doubt and desire. You can choose one of the following paths.  
 ### Hashalaq Seducer
 You become trained in Diplomacy (or another skill if you were already trained in Diplomacy). When you Make an Impression you gain a +2 circumstance bonus to your check and a +1 circumstance bonus to your Requests of Helpful NPCs.
-
+=
 ### Hashalaq Insightful 
 You become trained in Deception (or another skill if you were already trained in Deception). You gain the Lie to Me skill feat. In addition, you gain a +1 circumstance bonus against any attempt to lie to you.
-= 
+
 ### Hashalaq Deciever  
 You become trained in Deception (or another skill if you were already trained in Deception). You gain the Charming Liar skill feat. In addition, you gain a +1 circumstance bonus to your deception checks.
 ## Kalaraq Kalashtar 
@@ -124,15 +125,15 @@ item(
 **Requirements** The target ally lost hp within the last round.
 -
 You give an ally within 30 feet a quick boost of encouragement, helping them recover. Attempt a Diplomacy check. The DC is usually the same as a treat wounds check, though the GM might adjust it based on the circumstances. If you have expert proficiency in Diplomacy, you can instead attempt a DC 20 check to increase the Temporary Hit Points recovered by 5; if you have master proficiency, you can attempt a DC 30 check to increase the Temporary Hit Points by 15; if you have legendary proficiency, you can attempt a DC 40 check to increase the Temporary Hit Points by 25.
-
+)
+|
+item(
 No matter the result, the ally is temporarily immune to your Encouraging Words for 1 hour.
 
 **Critical Success** The ally gains 2d8 Temporary Hit Points.
 
 **Success** The ally gains 1d8 Temporary Hit Points.
-)
-|
-item(
+
 **Critical Failure** Your words fall flat, the ally is temporarily immune to Encouraging Words for 1 day.
 
 **Special** The temporary hit points gained through this action can never be greater than the total hit points that a creature has lost. If the recipient receives healing which would make the temporary hit points greater than total hit points lost, the temporary hit points from this source are reduced to be equal to total hit points lost.
@@ -147,12 +148,13 @@ For example, if your ally has 10 maximum hp and has taken 5 damage: if you succe
 The tsucora are the quori of classic nightmares, feeding on terror. If you have this quori ancestry, you can choose one of the following paths.
 ### Tsucora Intimidator
 You become trained in intimidation (or another skill if you were already trained in intimidation) and gain the Intimidating Glare feat. When you use the Demoralize action, you can instead bend the target's mind to inspire fear. If you do so, Demoralize gains the mental trait rather than the visual trait.  
+=
 ### Tsucora Emancipator
 You gain the ability to control and dampen the influence fear has over you, and your allies. Allies under the effect of your Link Minds gain a +1 status bonus to their saves against effects with the Fear trait.
 note( 
 For more information on the various quori bonds, see Exploring Eberron pg 41.  
 ) 
-=
+
 # Ancestry Feats 
 At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Kalashtar, you select from among the following ancestry feats. 
 
@@ -179,6 +181,7 @@ item(
 As a Kalashtar, your trance allows you a more robust recovery and greater resistance to forced sleep. You gain a +2 circumstance bonus to all saving throws against sleep effects and effects that cause or alter dreams. 
 In addition, sleep is more restorative for you. You regain HP equal to your Constitution modifier times double your level instead of just times your level, and you reduce any drained and doomed conditions you have by 2 instead of by 1. 
 )
+|
 item( 
 # Edgewalker
 ## Feat 1 
@@ -186,13 +189,12 @@ item(
 ; Kalashtar 
 You have trained to fight extraplanar threats to Eberron. You gain a +1 circumstance bonus to saving throws against extraplanar creatures, and you gain a +1 circumstance bonus to damage with weapons and unarmed attacks against them. If your attack would deal more than one weapon die of damage (as is common at higher levels than 1st), the bonus is equal to the number of weapon dice or unarmed attack dice. 
 )
-|
 item( 
 # Intuitive Link 
 ## Feat 1 
 -
 ; Kalashtar 
-You can link your mind to others with ease. Mind link loses the concentrate trait and has a casting time of :a:, and loses the somatic component.
+You can link your mind to others with ease. Mind link loses the concentrate trait, loses the somatic component, and has a casting time of one action.
 )
 item(
 # Kalashtar Lore 
@@ -208,16 +210,18 @@ item(
 ; Kalashtar 
 One of the basic exercises of the Kalashtar is to practice seeing the world in front of you for what it truly is. You can see through manipulations of reality with greater ease than most. You gain a +2 circumstance bonus to disbelieve illusions. 
 )
+=
 item( 
-# Psi-Blades :a: 
+# Psi-Blades - 1 action
 ## Feat 1 
 -
 ; Kalashtar, Concentration 
-**Frequency** once per 10 minutes 
+Frequency once per 10 minutes 
 -
-You can manifest weapons of the mind that cut just as well as a true blade. You can manifest a psi-blade in a free hand. These simple weapons are attacks that deal 1d4 slashing damage. The blades are in the Knife group and have the agile, finesse, magical, and twin traits. 
-You can choose to dissipate the blades at any time as a free action. 
-) 
+You can manifest weapons of the mind that cut just as well as a true blade. You can manifest a psi-blade in a free hand, or two psi-blades if both your hands are free. These simple weapons are attacks that deal 1d4 slashing damage. The blades are in the Knife group and have the agile, finesse, and twin traits.
+You can choose to dissipate the blades at any time as a free action.
+Special If you gain the Mind Smith dedication, the Psi-Blades you manifest from this feat are included as one of the statistics your mind smith weapon can take on. In addition - rather than during your daily preparations - you can complete a 10 minute activity to focus and change the form of your mind smith weapon to any other mind smith weapon.
+)
 item( 
 # Psi-Shield :a: 
 ## Feat 1 
@@ -232,8 +236,6 @@ item(
 ; Kalashtar 
 You have practised the art of nimbly dancing through the shadows to remain unnoticed. You gain a +1 circumstance bonus to your acrobatics checks and Stealth checks while concealed. 
 )
-=
-
 #### 5th Level 
 item( 
 # Broad Link 
@@ -242,6 +244,7 @@ item(
 ; Kalashtar 
 You have honed your telepathic abilities, allowing you to communicate with more targets at once. Your mind link can target up to 2 creatures at once, and you can have two active telepathic communications at once. 
 )
+|
 item( 
 # Channel Fear 
 ## Feat 5 
@@ -266,7 +269,7 @@ item(
 **Prerequisites** Hashalaq Kalashtar heritage 
 -
 Like the quori that guides you, you have learned how to manipulate other creatures based on their desires. You can cast charm once per day as a 1st-level occult innate spell. 
-) 
+)
 item(
 # Kalaraq Guardian :r:
 ## Feat 5
@@ -278,7 +281,6 @@ item(
 -
 The Kalaraq are the natural leaders of the Quori and can guide their followers to stand resolute. While an ally is under the effects of your Link Minds, you can choose to grant them a +1 circumstance bonus to their AC or saving throw.
 )
-|
 item(
 # Mental Projection
 ## Feat 5
@@ -286,6 +288,7 @@ item(
 ; Kalashtar
 You can project your emotions into any creature's mind, conveying thought without language. When you cast a spell or use an action with the Auditory and Linguistic traits, you may replace the Auditory and Linguistic traits with the Mental trait. Diplomacy checks made in this way take a -2 circumstance penalty.
 )
+=
 item(
 # Sense Alignment 
 ## Feat 5
@@ -304,12 +307,12 @@ item(
 **Frequency** once per hour 
 -
 As a creature succumbs to its feelings of anger and hate, your control over them grows. Choose a hostile foe within 30 feet, that creature must make a Will save against your innate occult spell DC which you become trained in if you are not already. See core rulebook 302.
+
 **Critical Success** The creature resists your taunt.
 **Success**  On the creature's turn, it must spend 1 of its actions to attack you if it can, or in the pursuit of being able to attack you.
 **Failure** The creature becomes Stupefied 1. On the creature's turn, it must spend 2 of its actions to attack you if it can, or in the pursuit of being able to attack you.
 **Critical Failure** The creature becomes Stupefied 1. On the creature's turn, it must spend all of its actions to attack you if it can, or in the pursuit of being able to attack you.
 )
-=
 item( 
 # Feedback 
 ## Feat 9 
@@ -318,6 +321,7 @@ item(
 You are a master of your mind and have used that mastery to ward it against invaders. You can cast Animus Mine as an innate 2nd level spell once per day. At 13th level, this spell is heightened to 3rd level, and at 17th level, this spell is heightened to 4th level.
     Whenever you place any Animus Mine on yourself, you can suppress the effects of the mine for 1 round as a free action to allow someone to safely use a mental effect on you. 
 )
+|
 item( 
 # Mental Fortress 
 ## Feat 9 
@@ -352,7 +356,6 @@ item(
 -
 Your quori spirit sustains the powers that you project into the world. You immediately gain the effects of a Sustain a Spell action to extend the duration of one of your active effects. 
 )
-|
 #### 13th Level 
 item(
 # Distributed Spirit 
@@ -363,6 +366,7 @@ item(
 -
 You have perfected your telepathic communication abilities and can maintain conversations with ease. Your Link Mind can target up to 6 creatures at once. While creatures are linked and in range, these creatures can converse not only with you but with each other target of the Link Mind. If the targets of Link Mind are directly communicating with each other they must share a language.  
 )
+=
 item( 
 # Aura Sense
 ## Feat 13
@@ -385,3 +389,4 @@ item(
 ; Kalashtar 
 The control you have over your dreams lets you extend them to others, intercepting their travels to Dal Quor. You can cast Dream Council or Possession once per day as occult innate spells. 
 )
+|

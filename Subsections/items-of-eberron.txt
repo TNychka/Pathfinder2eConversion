@@ -101,10 +101,10 @@ Clothing<br>&nbsp;&nbsp;&nbsp;&nbsp;Clothing, darkweave (level 3)<b>\*</b><br>&n
 Arcane signet ring | 15 gp | - | -
 Signet brooch | 7 gp | - | -
 Identification papers, standard | 2 sp | - | -
-Identification papers, with portrait | 5 gp | - | -
+Identification papers, with portrait | 5 sp | - | -
 Letter of credit | special | - | -
 Traveling papers | 2 cp | - | -
-Artifice Tools | 5gp | 2 | 2
+Artifice Tools | 5 gp | 2 | 2
 &nbsp;&nbsp;&nbsp;&nbsp;Sterling Artifice Tools (level 3) | 55 gp | 2 | 2
 
 . <b>*</b>Special, see entry
@@ -399,7 +399,7 @@ The covadish plant grows on the island of Aerenal, where it is highly valued by 
 )
 =
 item(
-# Dragonseye acorn
+# Dragonseye Oak Acorn
 ## Item 4
 -
 ; Component, Consumable, Metamagic
@@ -409,10 +409,20 @@ item(
 
 **Activate** :a: interact; **Trigger** You cast a spell from the school of Evocation with the acid, cold, electricity, fire, or sonic trait
 -
-The dragonseye oak grows in Q’barra and its acorn aids in the casting of certain evocation spells. When used as a material component (adding the material
+The dragonseye oak grows in Q’barra and the faded forest in Breland. Its acorn aids in the casting of certain evocation spells. When used as a material component (adding the material component to the spell if it doesn't already have it) for an evocation spell with the acid, cold, electricity, fire, or sonic trait you gain a circumstance bonus to damage equal to twice the level of the spell as well as 1d3 persistent damage of the same type on a critical hit..
 )
 item(
-component to the spell if it doesn't already have it) for an evocation spell with the acid, cold, electricity, fire, or sonic trait you gain a circumstance bonus to damage equal to half the level of the spell rounded up.
+# Ghost Oak acorn
+## Item 3
+-
+; Component, Consumable, Metamagic
+**Price** 13 gp
+
+**Usage** material component of a spell; **Bulk** -
+
+**Activate** :a: interact; **Trigger** You cast a spell from the school of Illusion
+-
+The Ghost Oak grows in the faded forest in Breland. Its acorn aids in the casting of certain Illusion spells. When used as a material component (adding the material component to the spell if it doesn't already have it) for an Illusion spell, you gain a +1 circumstance bonus to the DC of the spell.
 )
 item(
 # Hathil Root
@@ -983,12 +993,12 @@ Riedran Crysteel armour is capable of warding off mental assaults, granting you 
 These items need to be held to use them.
 item(
 # Battle Rod
-## Item 2
+## Item 1
 -
 ; Invested, Magical
 **Usage** held in 2 hands; **Bulk** L
 
-**Price** 35 gp
+**Price** 15 gp
 -
 The battle rod was developed as an alternative to the longer war staff and has gained popularity with wandslingers across Khorvaire. While holding the staff in two hands, you may use it as an arcane focus.
 **Activate** :a: Interact **Effect** The next cantrip you cast this turn uses the rules for range increments. You may cast the spell at a target at a maximum of 2 range increments away. For each range increment above the first, you take a -2 penalty to your attacks or DCs.
@@ -1426,6 +1436,45 @@ Rather than ascribing the blade’s power to the Keeper--whose existence the Dha
 **Activate** :r:; **Frequency** once per day; **Trigger** You reduce a creature to 0 hit points with a strike from this blade' **Effect** the creature is slain and its soul removed. A creature whose soul has been stolen in this way can be restored to life only by means of a wish spell.
 )
 # Worn Items ((+Worn Items))
+item(
+# Featherfall Token
+## Item 1
+-
+; Invested, Magical
+**Price** 10 gp
+
+**Usage** worn; **Bulk** -
+-
+These small feather shaped tokens help significantly reduce the impact of a fall.
+
+**Activate** :r: Interact; *Trigger** You begin to fall **Effect** When you activate the Featherfall Token, you begin to break the effects of your fall. You may treat the fall as though it were 30 feet shorter. If you are in a Syrania manifest zone - most notably Sharn - you gain the benefits of feather fall for 1 minute or until you stop falling, whichever comes first.
+)
+item(
+# Plane Stone of Absorbsion
+## Item 1
+-
+; Invested, Magical
+**Price** 15 gp
+
+**Usage** worn; **Bulk** -
+-
+This special stone is attuned to the particular power of one of the planes of eberron. When this stone is created, choose one of acid (Lamannia), cold (Fernia), electricity (Syrania), fire (Risia), and sonic (Dolurrh). This is the stone's energy resistance type.
+
+**Activate** :r: Interact; **Trigger** You take energy damage of the stone's type **Effect** By channelling the powers of the plane, some of the effect of the triggering damage is mitigated. You gain resistance 3 to the damage.
+)
+item(
+# Plane Stone of Discharge
+## Item 1
+-
+; Invested, Magical
+**Price** 15 gp
+
+**Usage** worn; **Bulk** -
+-
+This special stone is attuned to the particular power of one of the planes of eberron. When this stone is created, choose one of acid (Kythri), cold (Risia), electricity (Shavarath), fire (Fernia), and sonic (Xoriat). This is the stone's energy resistance type.
+
+**Activate** :r: Interact; **Trigger** You succeed on a melee Strike against a creature **Effect** By channelling the powers of the plane, the effects of your strike are magnified. You gain a +1 circumstance bonus to damage, this damage type is the same as the stone type.
+)
 item(
 # Charlatan's Gloves
 ## Item 1
