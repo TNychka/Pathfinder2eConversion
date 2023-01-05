@@ -1,8 +1,8 @@
 {
   "title": "Pathfinders' guide to eberron",
-  "description": "Eberron conversion to pathfinder 2e",
+  "description": "Set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
   "version": "1.1.2",
-  "id": "pathfinders-guide-to-eberron",
+  "id": "pathfinders-guide-to-eberron-compendium",
   "authors": [
     {
       "name": "u/slayercookie"
@@ -22,9 +22,9 @@
     "verified": "10"
   },
   "bugs": "https://github.com/TNychka/Pathfinder2eConversion/issues",
-  "url": "https://github.com/TNychka/Pathfinder2eConversion/tree/compendium",
+  "url": "https://github.com/TNychka/Pathfinder2eConversion",
   "manifest": "https://raw.githubusercontent.com/TNychka/Pathfinder2eConversion/compendium/pathfinders-guide-to-eberron-compendium/module.json",
-  "download": "https://github.com/TNychka/Pathfinder2eConversion/blob/compendium/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron.zip?raw=true",
+  "download": "https://github.com/TNychka/Pathfinder2eConversion/blob/compendium/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip?raw=true",
   "packs": [
     {
       "label": "Eberron Actions",
