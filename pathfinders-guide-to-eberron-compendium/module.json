@@ -24,7 +24,7 @@
   "bugs": "https://github.com/TNychka/Pathfinder2eConversion/issues",
   "url": "https://github.com/TNychka/Pathfinder2eConversion/tree/compendium",
   "manifest": "https://raw.githubusercontent.com/TNychka/Pathfinder2eConversion/compendium/pathfinders-guide-to-eberron-compendium/module.json",
-  "download": "https://github.com/TNychka/Pathfinder2eConversion/blob/compendium/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip?raw=true",
+  "download": "https://github.com/TNychka/Pathfinder2eConversion/blob/compendium/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron.zip?raw=true",
   "packs": [
     {
       "label": "Eberron Actions",
