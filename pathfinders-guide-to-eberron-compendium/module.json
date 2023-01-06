@@ -1,7 +1,7 @@
 {
   "title": "Pathfinders' guide to eberron",
   "description": "Set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "1.1.3",
+"version": "1.1.4",
   "id": "pathfinders-guide-to-eberron-compendium",
   "authors": [
     {
@@ -123,6 +123,15 @@
       "system": "pf2e",
       "private": false,
       "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Creatures",
+      "name": "eberron-creatures",
+      "path": "packs/eberron-creatures.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Actor",
       "flags": {}
     }
   ],
