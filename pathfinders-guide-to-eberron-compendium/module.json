@@ -1,7 +1,7 @@
 {
   "title": "Pathfinders' guide to eberron",
   "description": "Set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "id": "pathfinders-guide-to-eberron-compendium",
   "authors": [
     {
@@ -127,7 +127,7 @@
     }
   ],
   "flags": {
-    "pathfinders-guide-to-eberron": {
+    "pathfinders-guide-to-eberron-compendium": {
       "pf2e-homebrew": {
         "baseWeapons": {
           "gnoll-bow": "Gnoll Bow",
@@ -303,6 +303,10 @@
             "label": "Shifter",
             "description": "Shifters craft and use these weapons."
           },
+          "warforged": {
+            "label": "Warforged",
+            "description": "Warforged craft and use these weapons."
+          },
           "drow": {
             "label": "Drow",
             "description": "Drow craft and use these weapons."
@@ -321,9 +325,18 @@
           }
         },
         "equipmentTraits": {
-          "artificer": "Artificer"
+          "artificer": "Artificer",
+          "warforged": {
+            "label": "Warforged",
+            "description": "These items may only be used by warforged, typically due to their integrated nature."
+	  }
+
         },
         "spellTraits": {
+          "kalashtar": {
+            "label": "Kalashtar",
+            "description": "These spells are innate abilities of the Kalashtar ancestry."
+	  },
           "aberrant-mark": {
             "label": "Aberrant Mark",
             "description": "This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits."
