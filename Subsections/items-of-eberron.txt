@@ -131,14 +131,14 @@ item(
 # Artifice Tools
 ## Item 0+
 -
-; Artificer
+; Uncommon, Artificer
 **Price** 5 gp
 
 **Hands** 2; **Bulk** 2
 
 **Requirements** Must have access to the Artifice class feature.
 -
-Artifice tools are a special subset of artisan's tools with all the equipment required to manufacture magical items of any nature. If you have a set of these tools, you do not need different sets for different work, as may be required of regular Artisan's Tools. If you wear your artisan's tools, you can draw and replace them as part of the action that uses them.
+Artifice tools are a special subset of artisan's tools with all the equipment required to manufacture magical items of any nature. If you have a set of these tools, you do not need different sets for different work, as may be required of regular Artisan's Tools. These tools may also be used in place of the repair kit.
 
 # Artifice Tools
 ## Item 0
@@ -243,7 +243,7 @@ Valenar Riding Horse | 3 sp per day | 20 gp* (level 3)
 Valenar Guard Dog | 3 cp per day | 1 gp* (level 3)
 . * Valenar elves do not sell their animals. However on the rare occasions when a Valenar animal chooses an adventurer of a different ancestry as a companion, it is universally accepted. Price provided for GM balance use.
 /
-**Carver:** A close relative of the clawfoot, a carver is a predatory dinosaur, about the size of a heavy horse, native to the Talenta Plains. Known in some worlds as the deinonychus, it is listed in the monsters section of this guide.
+**Carver:** A close relative of the clawfoot, a carver is a predatory dinosaur, about the size of a heavy horse, native to the Talenta Plains. Known in some worlds as the deinonychus, the statblock is in Beastiary 1 as the Deinonychus.
 
 **Clawfoot:** A human-sized predator of the Talenta Plains, this dinosaur is the halfling equivalent of a warhorse. Well trained and loyal, a clawfoot often continues fighting even after its rider’s death. It is listed in the monsters section of this guide.
 
@@ -317,12 +317,13 @@ item(
 # Breath of Siberys
 ## Item 1+
 -
-; Consumable, Magical
+; Uncommon, Consumable, Magical
 **Usage** held in 1 hand; **Bulk** L
 
 **Activate** :a: Interact
 -
-While still volatile and unstable explosive arcana component, additional refinement has created a small globe containing a highly refined solution of dragonshards held in a suspended state. While suspended in this globe, it is protected from water. When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave, but not a wand), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
+While still volatile and unstable, additional refinement of Siberys Powder has created a small globe containing a highly refined solution of dragonshards held in a suspended state. While suspended in this globe, it is protected from water. 
+When you interact to crush this globe against a magic item that has 0 charges remaining (such as a stave, but not a wand), the item regains charges equal to the following table. This cannot exceed its maximum number of charges.
 )
 =
 item(
@@ -339,10 +340,7 @@ Charges | Level | Price
 9 | 17 | 3000 GP
 10 | 19 | 8000 GP
 -
-**Crafting Requirements** The initial raw materials must be half processed eberron shards by value.
-)
-note(
-It is important to qualify that while Cannith engineers are working on solving the overcharging problem, there are no solutions yet. In the event a charge of the Breath of Siberys is applied to a magic item with charges remaining, the item is subject to overcharging. The next time that a charge is expended from the item, roll a DC 10 flat check. On a success, the item is broken. On a failure, the item is destroyed.
+**Crafting Requirements** The initial raw materials must be half Siberys Powder by value.
 )
 item(
 # Siberys powder
@@ -353,7 +351,7 @@ item(
 
 **Activate** :a: Interact
 -
-Siberys powder is a volatile and explosive alchemical substance commonly used in the production of firearm munitions. Siberys powder becomes inert and useless when wet and must be kept in a sealed, water-tight container.
+Siberys powder is a volatile and explosive alchemical substance commonly used in the production of wand munitions. Siberys powder becomes inert and useless when wet and must be kept in a sealed, water-tight container.
 -
 **Type** dose or round; **Level** 0; **Price** 1cp
 The smallest unit of siberys powder that still has a simple use, a dose can be a simple package paper parcel around siberys powder or it can be packaged with a metal bullet or pellet to be used as ammunition. When ignited with an arcane spark or mundane fire, a dose of siberys powder explodes. This isn't powerful enough to deal damage but it makes a loud sound and could trigger further explosions. A fuse for a dose can be created with a few twists of paper and causes the dose to explode the round after it's lit.
@@ -416,7 +414,7 @@ item(
 ## Item 3
 -
 ; Component, Consumable, Metamagic
-**Price** 13 gp
+**Price** 10 gp
 
 **Usage** material component of a spell; **Bulk** -
 
@@ -433,7 +431,7 @@ item(
 
 **Usage** material component of a spell; **Bulk** -
 
-**Activate** :f: interact; **Trigger** You cast a spell from the school of Transmutation
+**Activate** :a: interact; **Trigger** You cast a spell from the school of Transmutation
 -
 The hathil plant grows in the swamps of the Shadow Marches. When used as a material component (adding the material component to the spell if it doesn't already have it) for a transmutation spell, you gain a +1 item bonus to your spell DC for this spell.
 )
@@ -631,20 +629,27 @@ item(
 ; Uncommon, Dragonmark, Invested, Magical
 **Usage** worn; **Bulk** L
 -
-The simplest and most common form of dragonshard item, a dragonmark focus is an amulet holding a small Siberys shard. This shard is attuned to enhance the power of a specific dragonmark. When worn by a person whose mark has been attuned to the stone, a dragonmark focus increases the wearer’s effective caster level whenever they use any of the spell-like abilities of their mark.
+The simplest and most common form of dragonshard item, a dragonmark focus is an amulet holding a small Siberys shard. This shard is attuned to enhance the power of a specific dragonmark. When worn by a person whose mark has been attuned to the stone, a dragonmark focus increases the wearer’s effectiveness whenever they use any of the spell-like abilities of their mark.
+**Activation** :f:;**Trigger**: You cast a Dragonmark Focus Spell
+**Frequency** Once per day
+**Effect** See Dragonmark Focus type
+
 -
 **Type** Dragonmark Focus (Least); **Level** 7; **Price** 340 gp;
-This shard increases the heightened level of your dragonmark focus spells by 1, up to a maximum of level 4. This effect does not stack.
+
+**Effect**: This focus grants a +1 item bonus the spell attack, DC, or skill check of Dragonmark Focus Spell.
 
 **Craft Requirements** at least 42 gp of siberys shards  
 -
 **Type** Dragonmark Focus (Lesser); **Level** 13; **Price** 2,500 gp;
-This shard increases the heightened level of your dragonmark focus spells by 1, up to a maximum of level 7. This effect does not stack.
+
+**Effect**: This focus grants a +2 item bonus the spell attack, DC, or skill check of Dragonmark Focus Spell.
 
 **Craft Requirements** at least 312 gp of siberys shards  
 -
 **Type** Dragonmark Focus (Greater); **Level** 17; **Price** 13,000 gp;
-This shard increases the heightened level of your dragonmark focus spells you can cast by 1, up to a maximum of level 9. This effect does not stack.
+
+**Effect**: This focus grants a +3 item bonus the spell attack, DC, or skill check of Dragonmark Focus Spell.
 
 **Craft Requirements** at least 1625 gp of siberys shards  
 )
@@ -765,8 +770,6 @@ item(
 ## Item 9+
 -
 ; Dragonmark, Invested, Magical, Mark of Handling
-**Price** 600 gp
-
 **Usage** held in 1 hand; **Bulk** L
 -
 This leather collar is studded with small dragonshards attuned to the Mark of Handling. Each collar of the wild bond has an associated key — a small dragonshard embedded in a metal disk.
@@ -936,7 +939,7 @@ This device is the key to long-distance communications across Khorvaire, powerin
 )
 =
 item(
-minute has no maximum number of words and does not allow an immediate response. When the message reaches its target stone, it is delivered whether or not anyone is around to hear it.
+minute, has no maximum number of words and does not allow an immediate response. When the message reaches its target stone, it is delivered whether or not anyone is around to hear it.
 
 In a Sivis message station, a gnome is always on duty by the speaking stone, listening for any messages that may come in and scribing them upon receipt. Large cities, such as Sharn, may contain multiple stone stations. Major stations often possess more than one speaking stone. 
 -
@@ -1021,6 +1024,7 @@ item(
 -
 ; Invested, Magical
 **Usage** held in 2 hands; **Bulk** 1
+
 **Price** 100 gp
 -
 Aundair developed the war staff to help wandslingers match the range of Thranish archers, but it quickly spread across Khorvaire. While holding the staff in two hands, you may use it as an arcane focus.
@@ -1038,7 +1042,7 @@ note(
 The following unique materials are available, in addition to pathfinder 2e materials.
 item(
 # Byeshk
-## Material 2+
+## Material 0+
 -
 ; Precious
 Byeshk is a rare and heavy metal of lustrous purple, mined from the Byeshk and Graywall Mountains along Droaam’s borders. It can also be found in the Ironlands, a Khyberian demiplane that’s been delved into by the Ghaash’kala and Kech Sharaat. Aberrations tied to the daelkyr-including dolgaunts, dolgrims, and mind flayers-are susceptible to weapons made of byeshk alloys, making the metal highly valued to the Dhakaani, Gatekeepers druids, and others that fight aberrations. Dhakaani weapons forged during the Xoriat Incursion were often forged from byeshk. Byeshk is difficult to work into armour, and it offers no significant advantage over iron armour.
@@ -1149,18 +1153,18 @@ Eberron dragonshards also called bloodstones, are found encased in geode like st
 -
  **Type** unproccessed medium eberron shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 1 gp;<br>  **Bulk** -
 -
- **Type** unproccessed large eberron shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 3 gp; **Bulk** L
+ **Type** unproccessed large eberron shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 3 gp; **Bulk** -
 -
- **Type** unproccessed greater eberron shards (More than 6 inches); **Level** 4; **Price** 13 gp; **Bulk** L
+ **Type** unproccessed greater eberron shards (More than 6 inches); **Level** 4; **Price** 13 gp; **Bulk** -
 -
 -
  **Type** refined small eberron shards (up to 2 inches); **Level** 1; **Price** 3 gp; **Bulk** -
 -
  **Type** refined medium eberron shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 5 gp; **Bulk** -
 -
- **Type** refined large eberron shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 13 gp; **Bulk** L
+ **Type** refined large eberron shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 13 gp; **Bulk** -
 -
- **Type** refined greater eberron shards (More than 6 inches); **Level** 7; **Price** 51 gp; **Bulk** L
+ **Type** refined greater eberron shards (More than 6 inches); **Level** 7; **Price** 51 gp; **Bulk** -
 -
 )
 =
@@ -1175,18 +1179,18 @@ While Siberys shards are the rarest variety of dragonshard, Khyber shards are th
 -
  **Type** unproccessed medium khyber shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
 -
- **Type** unproccessed large khyber shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** L
+ **Type** unproccessed large khyber shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** -
 -
- **Type** unproccessed greater khyber shards (More than 6 inches); **Level** 4; **Price** 20 gp; **Bulk** L
+ **Type** unproccessed greater khyber shards (More than 6 inches); **Level** 4; **Price** 20 gp; **Bulk** -
 -
 -
  **Type** refined small khyber shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
 -
  **Type** refined medium khyber shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 7 gp; **Bulk** -
 -
- **Type** refined large khyber shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 20 gp; **Bulk** L
+ **Type** refined large khyber shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 20 gp; **Bulk** -
 -
- **Type** refined greater khyber shards (More than 6 inches); **Level** 7; **Price** 70 gp; **Bulk** L
+ **Type** refined greater khyber shards (More than 6 inches); **Level** 7; **Price** 70 gp; **Bulk** -
 -
 )
 |
@@ -1201,18 +1205,18 @@ Siberys shards fall from the Ring of Siberys, and as a result, are usually found
 -
  **Type** unproccessed medium siberys shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
 -
- **Type** unproccessed large siberys shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** L
+ **Type** unproccessed large siberys shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** -
 -
- **Type** unproccessed greater siberys shards (More than 6 inches); **Level** 4; **Price** 17 gp; **Bulk** L
+ **Type** unproccessed greater siberys shards (More than 6 inches); **Level** 4; **Price** 17 gp; **Bulk** -
 -
 -
  **Type** refined small siberys shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
 -
  **Type** refined medium siberys shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 6 gp; **Bulk** -
 -
- **Type** refined large siberys shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 18 gp; **Bulk** L
+ **Type** refined large siberys shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 18 gp; **Bulk** -
 -
- **Type** refined greater siberys shards (More than 6 inches); **Level** 7; **Price** 63 gp; **Bulk** L
+ **Type** refined greater siberys shards (More than 6 inches); **Level** 7; **Price** 63 gp; **Bulk** -
 -
 )
 =
@@ -1424,16 +1428,16 @@ item(
 ## Item 14
 -
 ; Rare, Invested, Evil, Magical
-**Price** 3800 gp
+**Price** 4500 gp
 
 **Usage** held in 1 hand; **Bulk** L
 -
-These infamous +2 greater striking daggers, prized by assassins, have a Khyber dragonshard embedded into the pommel that channels the souls of victims but doesn’t itself trap them. There’s much debate over the actual fate of the souls of those slain by a Keeper’s Fang. The common myth says that the souls of victims are trapped in the Lair of the Keeper, and heroes can seek to reclaim a soul from the Sovereign of Death and Decay. Another myth maintains that these weapons channel souls to the overlord Katashka, and that one must deal with the Lords of Dust to restore a victim. Most Keeper’s Fangs were created by the Shaarat’khesh assassins of the Empire of Dhakaan.
+These infamous +2 greater striking sovereign steel daggers, prized by assassins, have a Khyber dragonshard embedded into the pommel that channels the souls of victims but doesn’t itself trap them. There’s much debate over the actual fate of the souls of those slain by a Keeper’s Fang. The common myth says that the souls of victims are trapped in the Lair of the Keeper, and heroes can seek to reclaim a soul from the Sovereign of Death and Decay. Another myth maintains that these weapons channel souls to the overlord Katashka, and that one must deal with the Lords of Dust to restore a victim. Most Keeper’s Fangs were created by the Shaarat’khesh assassins of the Empire of Dhakaan.
 )
 =
 item(
 Rather than ascribing the blade’s power to the Keeper--whose existence the Dhakaani reject--they believe these blades utterly destroy the souls of their victims.
-**Activate** :r:; **Frequency** once per day; **Trigger** You reduce a creature to 0 hit points with a strike from this blade' **Effect** the creature is slain and its soul removed. A creature whose soul has been stolen in this way can be restored to life only by means of a wish spell.
+**Activate** :r:; **Frequency** once per day; **Trigger** You reduce a creature to 0 hit points with a strike from this blade **Effect** the creature is slain and its soul removed. A creature whose soul has been stolen in this way can be restored to life only by means of a wish spell.
 )
 # Worn Items ((+Worn Items))
 item(
@@ -1447,7 +1451,7 @@ item(
 -
 These small feather shaped tokens help significantly reduce the impact of a fall.
 
-**Activate** :r: Interact; *Trigger** You begin to fall **Effect** When you activate the Featherfall Token, you begin to break the effects of your fall. You may treat the fall as though it were 30 feet shorter. If you are in a Syrania manifest zone - most notably Sharn - you gain the benefits of feather fall for 1 minute or until you stop falling, whichever comes first.
+**Activate** :r: Interact; **Trigger** You begin to fall **Effect** When you activate the Featherfall Token, you begin to break the effects of your fall. You may treat the fall as though it were 30 feet shorter. If you are in a Syrania manifest zone - most notably Sharn - you gain the benefits of feather fall for 1 minute or until you stop falling, whichever comes first.
 )
 item(
 # Plane Stone of Absorption 
@@ -1458,7 +1462,7 @@ item(
 
 **Usage** worn; **Bulk** -
 -
-This special stone is attuned to the particular power of one of the planes of eberron. When this stone is created, choose one of acid (Lamannia), cold (Fernia), electricity (Syrania), fire (Risia), and sonic (Dolurrh). This is the stone's energy resistance type.
+This special stone is attuned to the particular power of one of the planes of eberron. When this stone is created, choose one of acid (Lamannia), cold (Fernia), electricity (Syrania), fire (Risia), and sonic (Dolurrh). This is the stone's energy resistance type. On your turn, you may spend an interact action to prepare the stone to dissipate incoming energy.
 
 **Activate** :r: Interact; **Trigger** You would take energy damage of the stone's type **Effect** By channelling the powers of the plane, some of the effect of the triggering damage is mitigated. You gain resistance 3 to the damage.
 )
@@ -1501,7 +1505,7 @@ item(
   **Type** basic; **Level** 0; **Price** 2 gp
 The basic drybrooch produces a field around you that is silvery and translucent
 -
-  **Type** basic; **Level** 1; **Price** 10 gp
+  **Type** custom; **Level** 1; **Price** 10 gp
 A more expensive model, this custom drybrooch has basic illusions woven into the field. One popular drybrooch creates the image of a sunny blue sky overhead.
 )
 |

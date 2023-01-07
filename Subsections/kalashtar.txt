@@ -21,7 +21,7 @@ as Inspired, spiritual guides that now lead the Riedran nation. Not all Kalashta
 
 ## Others Probably... 
 - Think you're human, though you move and act in a slightly otherworldly way. 
-- Find themselves drawn to the wisdom you display, which seems beyond your years. 
+- Find themselves drawn to your raw charisma, and the otherworldly presence you exhibit.
 - Opening their emotions to you, even before they realize they are doing so. 
 
 ## Physical Description... 
@@ -47,7 +47,7 @@ Medium
 ## Speed 
 25 feet 
 ## Ability Boosts 
-Wisdom 
+Charisma 
 Free 
 ## Languages 
 Common 
@@ -212,7 +212,7 @@ One of the basic exercises of the Kalashtar is to practice seeing the world in f
 )
 =
 item( 
-# Psi-Blades - 1 action
+# Psi-Blades :a:
 ## Feat 1 
 -
 ; Kalashtar, Concentration 
@@ -220,7 +220,7 @@ Frequency once per 10 minutes
 -
 You can manifest weapons of the mind that cut just as well as a true blade. You can manifest a psi-blade in a free hand, or two psi-blades if both your hands are free. These simple weapons are attacks that deal 1d4 slashing damage. The blades are in the Knife group and have the agile, finesse, and twin traits.
 You can choose to dissipate the blades at any time as a free action.
-Special If you gain the Mind Smith dedication, the Psi-Blades you manifest from this feat are included as one of the statistics your mind smith weapon can take on. In addition - rather than during your daily preparations - you can complete a 10 minute activity to focus and change the form of your mind smith weapon to any other mind smith weapon.
+**Special** If you gain the Mind Smith dedication, the Psi-Blades you manifest from this feat are included as one of the statistics your mind smith weapon can take on. In addition - rather than during your daily preparations - you can complete a 10 minute activity to focus and change the form of your mind smith weapon to any other mind smith weapon.
 )
 item( 
 # Psi-Shield :a: 
@@ -309,8 +309,11 @@ item(
 As a creature succumbs to its feelings of anger and hate, your control over them grows. Choose a hostile foe within 30 feet, that creature must make a Will save against your innate occult spell DC which you become trained in if you are not already. See core rulebook 302.
 
 **Critical Success** The creature resists your taunt.
+
 **Success**  On the creature's turn, it must spend 1 of its actions to attack you if it can, or in the pursuit of being able to attack you.
+
 **Failure** The creature becomes Stupefied 1. On the creature's turn, it must spend 2 of its actions to attack you if it can, or in the pursuit of being able to attack you.
+
 **Critical Failure** The creature becomes Stupefied 1. On the creature's turn, it must spend all of its actions to attack you if it can, or in the pursuit of being able to attack you.
 )
 item( 

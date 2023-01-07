@@ -108,18 +108,18 @@ info(
 For more information on Goblinoids of Eberron, see Exploring Eberron (p. 96). 
 )
 ## Half-Elves
-Half-Elves are **common** in the world of Eberron. Also called Khoravar, the vast majority of Khoravar are the descendants of two Half-Elves rather than a Human and Elf parent. While Pathfinder 2e provides the rules to apply the Half-Elf ancestry to non-human Ancestries, this should be considered **rare**.
+Half-Elves are **common** in the world of Eberron. Also called Khoravar, the vast majority of Khoravar are the descendants of two Half-Elves rather than a Human and Elf parent. Despite this, Half-Elves remain a Human heritage as currently implemented in PF2e core rules. While Pathfinder 2e provides the rules to apply the Half-Elf ancestry to non-human Ancestries, this should be considered **rare**.
 
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e half-elf heritage.
+This document introduces lore adjustments, dragonmarked variants of the half-elf heritage, and feats for the Pathfinder 2e half-elves.
 info(
 For more information on Khoravar of Eberron, see Eberron Campaign Setting (p. 15). 
 )
 ## Half-Orcs
-Half-Orcs are **common** in the world of Eberron. Half-Orcs lineages are more varied than the Half-Elves. It is as likely as not that your parents were Human and Orc as both Half-Orc. While Pathfinder 2e provides the rules to apply the Half-Orc ancestry to non-human Ancestries, this should be considered **uncommon**.
+Half-Orcs are **common** in the world of Eberron. Half-Orcs lineages are more varied than the Half-Elves. It is as likely as not that your parents were Human and Orc as both Half-Orc. Despite this, Half-Orcs remain a Human heritage as currently implemented in PF2e core rules. While Pathfinder 2e provides the rules to apply the Half-Orc ancestry to non-human Ancestries, this should be considered **uncommon**.
 =
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e half-orc heritage.
+This document introduces lore adjustments, dragonmarked variants of the half-orc heritage, and feats for the Pathfinder 2e half-orcs.
 info(
-For more information on Khoravar of Eberron, see Eberron Campaign Setting (p. 16). 
+For more information on Half-Orcs of Eberron, see Eberron Campaign Setting (p. 16). 
 )
 ## Halflings
 Halflings are **common** in the world of Eberron. Halflings of Eberron are well represented by the Pathfinder 2e implementation.
