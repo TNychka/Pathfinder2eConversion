@@ -1,0 +1,483 @@
+{
+  "title": "Pathfinders' guide to eberron",
+  "description": "Set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
+"version": "2",
+  "id": "pathfinders-guide-to-eberron-compendium",
+  "authors": [
+    {
+      "name": "Eberron Compendium Contributors",
+      "url": "https://github.com/TNychka/Pathfinder2eConversion/"
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "compatibility": {
+    "minimum": "8",
+    "verified": "10"
+  },
+  "bugs": "https://github.com/TNychka/Pathfinder2eConversion/issues",
+  "url": "https://github.com/TNychka/Pathfinder2eConversion",
+  "manifest": "https://raw.githubusercontent.com/TNychka/Pathfinder2eConversion/compendium/pathfinders-guide-to-eberron-compendium/module.json",
+  "download": "https://github.com/TNychka/Pathfinder2eConversion/blob/compendium/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip?raw=true",
+  "packs": [
+    {
+      "label": "Eberron Actions",
+      "name": "eberron-actions",
+      "path": "packs/eberron-actions.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Ancestries",
+      "name": "eberron-ancestries",
+      "path": "packs/eberron-ancestries.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Backgrounds",
+      "name": "eberron-backgrounds",
+      "path": "packs/eberron-backgrounds.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Classes",
+      "name": "eberron-classes",
+      "path": "packs/eberron-classes.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Deities",
+      "name": "eberron-deities",
+      "path": "packs/eberron-deities.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Dragonmarks",
+      "name": "eberron-dragonmarks",
+      "path": "packs/eberron-dragonmarks.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Effects",
+      "name": "eberron-effects",
+      "path": "packs/eberron-effects.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Feats",
+      "name": "eberron-feats",
+      "path": "packs/eberron-feats.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Heritages",
+      "name": "eberron-heritages",
+      "path": "packs/eberron-heritages.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Items",
+      "name": "eberron-items",
+      "path": "packs/eberron-items.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Spells",
+      "name": "eberron-spells",
+      "path": "packs/eberron-spells.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
+    {
+      "label": "Eberron Creatures",
+      "name": "eberron-creatures",
+      "path": "packs/eberron-creatures.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Actor",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "pathfinders-guide-to-eberron-compendium": {
+      "pf2e-homebrew": {
+        "baseWeapons": {
+          "gnoll-bow": "Gnoll Bow",
+          "myrnaxe-axehead": "Myrnaxe Axe",
+          "myrnaxe-spearhead": "Myrnaxe Spear",
+          "boomerang-talenta": "Talenta Boomerang",
+          "boomerang-xendrik": "Xen'drik Boomerang",
+          "sharrash": "Sharrash",
+          "tangat": "Tangat",
+          "double-bladed-scimitar": "Double-Bladed Scimitar"
+        },
+        "creatureTraits": {
+          "bugbear": "Bugbear",
+          "eberron-changelings": "Eberron Changeling",
+          "kalashtar": "Kalashtar",
+          "shifter": "Shifter",
+          "warforged": "Warforged",
+          "aberrant-mark": {
+            "label": "Aberrant Mark",
+            "description": "This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "dragonmarked-heritage": {
+            "label": "Dragonmarked Heritage",
+            "description": "When you select your heritage as one of the dragonmarked bloodlines, you gain this trait. This does not necessarily mean you have a dragonmark, only that you have the potential to develop and use one. You may only pick feats with this trait if you have the dragonmarked heritage trait."
+          },
+          "mark-of-detection": {
+            "label": "Mark of Detection",
+            "description": "This mark heritage trait is unique to the Mark of Detection Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Mark of Detection trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-finding": {
+            "label": "Mark of Finding",
+            "description": "This mark heritage is unique to the Mark of Finding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Finding trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-handling": {
+            "label": "Mark of Handling",
+            "description": "This mark heritage is unique to the Mark of Handling Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Handling trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-healing": {
+            "label": "Mark of Healing",
+            "description": "This mark heritage is unique to the Mark of Healing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Healing trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-hospitality": {
+            "label": "Mark of Hospitality",
+            "description": "This mark heritage is unique to the Mark of Hospitality Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Hospitality trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-making": {
+            "label": "Mark of Making",
+            "description": "This mark heritage is unique to the Mark of Detection Making. You may only select feats and cast spells with this Trait if you possess the Mark of Making trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-passage": {
+            "label": "Mark of Passage",
+            "description": "This mark heritage is unique to the Mark of Passage. You may only select feats and cast spells with this Trait if you possess the Mark of Passage trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-scribing": {
+            "label": "Mark of Scribing",
+            "description": "This mark heritage is unique to the Mark of Scribing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Scribing trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-sentinel": {
+            "label": "Mark of Sentinel",
+            "description": "This mark heritage is unique to the Mark of Sentinel Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Sentinel trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-shadow": {
+            "label": "Mark of Shadow",
+            "description": "This mark heritage is unique to the Mark of Shadow Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Shadow trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-storm": {
+            "label": "Mark of Storm",
+            "description": "This mark heritage is unique to the Mark of Storm Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Storm trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-warding": {
+            "label": "Mark of Warding",
+            "description": "This mark heritage is unique to the Mark of Warding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Warding trait, in which case you ignore any other specific mark heritage traits."
+          }
+        },
+        "featTraits": {
+          "artificer": "Artificer",
+          "bugbear": "Bugbear",
+          "aberrant-mark": {
+            "label": "Aberrant Mark",
+            "description": "This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "aberrant-feedback": {
+            "label": "Aberrant Feedback",
+            "description": "The use of your Aberrant powers can be overwhelming. See the Aberrant Mark rules section for more information."
+          },
+          "dragonmark": {
+            "label": "Dragonmark",
+            "description": "Feats, Items, and Spells with this trait are powered by your dragonmark and require that you have the dragonmark trait to interact with them. Creatures with this trait have manifested a dragonmark."
+          },
+          "dragonmarked-heritage": {
+            "label": "Dragonmarked Heritage",
+            "description": "When you select your heritage as one of the dragonmarked bloodlines, you gain this trait. This does not necessarily mean you have a dragonmark, only that you have the potential to develop and use one. You may only pick feats with this trait if you have the dragonmarked heritage trait."
+          },
+          "true-dragonmark": {
+            "label": "True Dragonmark",
+            "description": "These marks always have the same shape, manifest a consistent set of powers across all marks of the same type, and are generally constructive in nature. All dragonmarks except the Aberrant marked have this trait. If you possess the True Dragonmark trait, you may select feats and use items with the True Dragonmark trait."
+          },
+          "mark-of-detection": {
+            "label": "Mark of Detection",
+            "description": "This mark heritage trait is unique to the Mark of Detection Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Mark of Detection trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-finding": {
+            "label": "Mark of Finding",
+            "description": "This mark heritage is unique to the Mark of Finding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Finding trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-handling": {
+            "label": "Mark of Handling",
+            "description": "This mark heritage is unique to the Mark of Handling Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Handling trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-healing": {
+            "label": "Mark of Healing",
+            "description": "This mark heritage is unique to the Mark of Healing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Healing trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-hospitality": {
+            "label": "Mark of Hospitality",
+            "description": "This mark heritage is unique to the Mark of Hospitality Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Hospitality trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-making": {
+            "label": "Mark of Making",
+            "description": "This mark heritage is unique to the Mark of Detection Making. You may only select feats and cast spells with this Trait if you possess the Mark of Making trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-passage": {
+            "label": "Mark of Passage",
+            "description": "This mark heritage is unique to the Mark of Passage. You may only select feats and cast spells with this Trait if you possess the Mark of Passage trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-scribing": {
+            "label": "Mark of Scribing",
+            "description": "This mark heritage is unique to the Mark of Scribing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Scribing trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-sentinel": {
+            "label": "Mark of Sentinel",
+            "description": "This mark heritage is unique to the Mark of Sentinel Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Sentinel trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-shadow": {
+            "label": "Mark of Shadow",
+            "description": "This mark heritage is unique to the Mark of Shadow Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Shadow trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-storm": {
+            "label": "Mark of Storm",
+            "description": "This mark heritage is unique to the Mark of Storm Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Storm trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-warding": {
+            "label": "Mark of Warding",
+            "description": "This mark heritage is unique to the Mark of Warding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Warding trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "eberron-changelings": "Eberron Changeling",
+          "kalashtar": "Kalashtar",
+          "shifter": "Shifter",
+          "wandslinger": "Wandslinger",
+          "warforged": "Warforged"
+        },
+        "languages": {
+          "riedran": "Riedran",
+          "argon": "Argon",
+          "daan": "Daan",
+          "daelkyr": "Daelkyr",
+          "irial": "Irial",
+          "kythric": "Kythric",
+          "mabran": "Mabran",
+          "quori": "Quori",
+          "risian": "Risian",
+          "syranian": "Syranian",
+          "skincant": "Skincant"
+        },
+        "weaponGroups": {
+          "boomerang": {
+            "label": "Boomerang",
+            "description": "Choose one creature other than the initial target within the first range increment of you. If its AC is lower than your attack roll result for the critical hit, you deal damage to that creature equal to the result of the weapon damage die you rolled (including extra dice for its potency rune, if any). This amount isn't doubled, and no bonuses or other additional dice apply to this damage."
+          }
+        },
+        "weaponTraits": {
+          "shifter": {
+            "label": "Shifter",
+            "description": "Shifters craft and use these weapons."
+          },
+          "warforged": {
+            "label": "Warforged",
+            "description": "Warforged craft and use these weapons."
+          },
+          "drow": {
+            "label": "Drow",
+            "description": "Drow craft and use these weapons."
+          },
+          "volley-45": {
+            "label": "Volley 45 ft.",
+            "description": "PF2E.TraitDescriptionVolley"
+          },
+          "returning": {
+            "label": "Returning",
+            "description": "When you make a thrown attack with this weapon and roll a failure, the weapon returns to you if you have a free hand."
+          },
+          "dual": {
+            "label": "Dual",
+            "description": "A single dual weapon is balanced such that their flurry of blows land with the speed of two weapons. Dual weapons satisfy requirements of dual-wielding melee weapons, such as for the Ranger Twin Takedown feat."
+          }
+        },
+        "equipmentTraits": {
+          "artificer": "Artificer",
+	  "component": {
+		"label":"Component",
+		"description": "These items must be involved in spells as a material component."
+	  },
+	  "metamagic":"Metamagic",
+          "warforged": {
+            "label": "Warforged",
+            "description": "These items may only be used by warforged, typically due to their integrated nature."
+	  },
+	 "aberrant-mark": {
+	    "label": "Aberrant Mark",
+	    "description": "This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "dragonmark": {
+	    "label": "Dragonmark",
+	    "description": "Feats, Items, and Spells with this trait are powered by your dragonmark and require that you have the dragonmark trait to interact with them. Creatures with this trait have manifested a dragonmark."
+	  },
+	  "mark-of-detection": {
+	    "label": "Mark of Detection",
+	    "description": "This mark heritage trait is unique to the Mark of Detection Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Mark of Detection trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-finding": {
+	    "label": "Mark of Finding",
+	    "description": "This mark heritage is unique to the Mark of Finding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Finding trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-handling": {
+	    "label": "Mark of Handling",
+	    "description": "This mark heritage is unique to the Mark of Handling Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Handling trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-healing": {
+	    "label": "Mark of Healing",
+	    "description": "This mark heritage is unique to the Mark of Healing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Healing trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-hospitality": {
+	    "label": "Mark of Hospitality",
+	    "description": "This mark heritage is unique to the Mark of Hospitality Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Hospitality trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-making": {
+	    "label": "Mark of Making",
+	    "description": "This mark heritage is unique to the Mark of Detection Making. You may only select feats and cast spells with this Trait if you possess the Mark of Making trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-passage": {
+	    "label": "Mark of Passage",
+	    "description": "This mark heritage is unique to the Mark of Passage. You may only select feats and cast spells with this Trait if you possess the Mark of Passage trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-scribing": {
+	    "label": "Mark of Scribing",
+	    "description": "This mark heritage is unique to the Mark of Scribing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Scribing trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-sentinel": {
+	    "label": "Mark of Sentinel",
+	    "description": "This mark heritage is unique to the Mark of Sentinel Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Sentinel trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-shadow": {
+	    "label": "Mark of Shadow",
+	    "description": "This mark heritage is unique to the Mark of Shadow Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Shadow trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-storm": {
+	    "label": "Mark of Storm",
+	    "description": "This mark heritage is unique to the Mark of Storm Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Storm trait, in which case you ignore any other specific mark heritage traits."
+	  },
+	  "mark-of-warding": {
+	    "label": "Mark of Warding",
+	    "description": "This mark heritage is unique to the Mark of Warding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Warding trait, in which case you ignore any other specific mark heritage traits."
+	  }
+        },
+        "spellTraits": {
+          "kalashtar": {
+            "label": "Kalashtar",
+            "description": "These spells are innate abilities of the Kalashtar ancestry."
+	  },
+          "aberrant-mark": {
+            "label": "Aberrant Mark",
+            "description": "This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "aberrant-feedback": {
+            "label": "Aberrant Feedback",
+            "description": "The use of your Aberrant powers can be overwhelming. See the Aberrant Mark rules section for more information."
+          },
+          "dragonmark": {
+            "label": "Dragonmark",
+            "description": "Feats, Items, and Spells with this trait are powered by your dragonmark and require that you have the dragonmark trait to interact with them. Creatures with this trait have manifested a dragonmark."
+          },
+          "dragonmarked-heritage": {
+            "label": "Dragonmarked Heritage",
+            "description": "When you select your heritage as one of the dragonmarked bloodlines, you gain this trait. This does not necessarily mean you have a dragonmark, only that you have the potential to develop and use one. You may only pick feats with this trait if you have the dragonmarked heritage trait."
+          },
+          "true-dragonmark": {
+            "label": "True Dragonmark",
+            "description": "These marks always have the same shape, manifest a consistent set of powers across all marks of the same type, and are generally constructive in nature. All dragonmarks except the Aberrant marked have this trait. If you possess the True Dragonmark trait, you may select feats and use items with the True Dragonmark trait."
+          },
+          "mark-of-detection": {
+            "label": "Mark of Detection",
+            "description": "This mark heritage trait is unique to the Mark of Detection Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Mark of Detection trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-finding": {
+            "label": "Mark of Finding",
+            "description": "This mark heritage is unique to the Mark of Finding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Finding trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-handling": {
+            "label": "Mark of Handling",
+            "description": "This mark heritage is unique to the Mark of Handling Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Handling trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-healing": {
+            "label": "Mark of Healing",
+            "description": "This mark heritage is unique to the Mark of Healing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Healing trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-hospitality": {
+            "label": "Mark of Hospitality",
+            "description": "This mark heritage is unique to the Mark of Hospitality Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Hospitality trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-making": {
+            "label": "Mark of Making",
+            "description": "This mark heritage is unique to the Mark of Detection Making. You may only select feats and cast spells with this Trait if you possess the Mark of Making trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-passage": {
+            "label": "Mark of Passage",
+            "description": "This mark heritage is unique to the Mark of Passage. You may only select feats and cast spells with this Trait if you possess the Mark of Passage trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-scribing": {
+            "label": "Mark of Scribing",
+            "description": "This mark heritage is unique to the Mark of Scribing Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Scribing trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-sentinel": {
+            "label": "Mark of Sentinel",
+            "description": "This mark heritage is unique to the Mark of Sentinel Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Sentinel trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-shadow": {
+            "label": "Mark of Shadow",
+            "description": "This mark heritage is unique to the Mark of Shadow Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Shadow trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-storm": {
+            "label": "Mark of Storm",
+            "description": "This mark heritage is unique to the Mark of Storm Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Storm trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "mark-of-warding": {
+            "label": "Mark of Warding",
+            "description": "This mark heritage is unique to the Mark of Warding Heritage. You may only select feats and cast spells with this Trait if you possess the Mark of Warding trait, in which case you ignore any other specific mark heritage traits."
+          }
+        }
+      }
+    },
+    "minimumSystemVersion": "2.16"
+  }
+}
