@@ -96,7 +96,7 @@ item(
 -
 You create an invisible sphere of energy with a 5-foot emanation. Until the spell ends, it moves with you, centred on you. The sphere muffles sound in both directions. All creatures have a -2 circumstance penalty to hear any sounds originating from the other side of the sphere, in addition, creatures have a +2 circumstance bonus on saves against auditory effects originating from the other side of the sphere.
 -
-**Heightened (3rd)** you may choose the area to be up to a 10-foot-radius emanation centred on you.
+**Heightened (3rd)** you may choose the area to be up to a 10-foot-radius emanation centred on you. The circumstance penalty to hear sounds becomes -4, and the circumstance bonus to saves becomes +4.
 )
 item(
 # Banish Dragonmark
@@ -182,12 +182,16 @@ item(
 
 **Cast** :aa: somatic, verbal
 
-**Range** 30 feet; **Targets** 15-foot burst
+**Range** 30 feet
+
+**Area** 15-foot burst
 
 **Saving Throw** Will; **Duration** sustained 10 minutes
 -
-    One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
-    Dragonmarked creatures in the area become nauseated as their marks begin to writhe and dance on their skin. The creature must make a Will save. All creatures without the dragonmark trait automatically critically succeed.
+One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
+
+
+Creatures with the dragonmark trait in the area become nauseated as their marks begin to writhe and dance on their skin. A creature must attempt a Will saving throw if it is inside the burst when you cast it, when it enters the burst, or when it ends its turn within the burst. All creatures without the dragonmark trait automatically critically succeed.
 **Critical Success** The creature is unaffected.
 **Success** The creature is fascinated by its mark.
 **Failure** The creature is sickened 1 and fascinated by its mark.
@@ -228,7 +232,7 @@ item(
 ; Conjuration
 **Traditions** Arcane
 
-**Cast** :aa: material, dragonmark, somatic, verbal
+**Cast** :aa: material, somatic, verbal
 
 **Range** touch; **Target** up to 10 cubic feet of material
 
@@ -256,7 +260,7 @@ A pulse of bright light and energy tears ripples through the air, disrupting cre
 **Critical Success** The creature is unaffected.
 **Success** The creature is dazzled and deafened for 1 round.
 **Failure** The creature is dazzled and deafened for 1 minute. They may make a Fortitude at the end of each of their turns to end the effect.
-**Critical Failure** The creature is deafened and blinded for 1 minute and stunned 1.
+**Critical Failure** The creature is deafened and blinded for 1 minute.
 )
 =
 item(
@@ -298,7 +302,7 @@ item(
 
 **Cast** :aa: somatic, verbal
 
-**Range** 5 feet
+**Range** 30 feet
 -
 You instantaneously cause an unlocked door or window within 30 feet to fly open or slam shut.
 )
@@ -393,7 +397,7 @@ item(
 ; Conjuration
 **Traditions** Primal
 
-**Cast** :aa: somatic, verbal, material
+**Cast** :aaa: somatic, verbal, material
 -
 You conjure a small flower from the ground within 10 feet of you. This flower collapses into pedals after 1 day has passed.
 )
@@ -429,12 +433,14 @@ item(
 # Summon Living Dragonmark
 ## Focus 7
 -
-; Conjuration, Dragonmark
-**Cast** :aaa: dragonmark, dragonmark, somatic, verbal
+; Rare, Conjuration, Dragonmark
+**Cast** :aaa: dragonmark, somatic, verbal
 
 **Range** 30 feet
 
 **Duration** sustained up to 1 minute
+
+**Requirements** A Greater or Siberys dragonmark
 -
 You summon a writhing mass of energy in a dragonlike form, a three-dimensional projection of your dragonmark. A living dragonmark appears where you designate within the spell’s range. Aberrant mark summons gains the Negative trait, while true mark summons gains the Positive trait.
 )
@@ -449,7 +455,7 @@ item(
 # Greater Living Dragonmark
 ## Creature 9
 -
-; N, Medium, Incorporeal, Mindless, Minion, Summoned
+; Rare, N, Medium, Incorporeal, Mindless, Minion, Summoned
 **Perception** +15; Darkvision
 
 **Languages** -
@@ -479,7 +485,7 @@ item(
 # Siberys Living Dragonmark
 ## Creature 13
 -
-; N, Large, Incorporeal, Mindless, Minion, Summoned
+; Rare, N, Large, Incorporeal, Mindless, Minion, Summoned
 **Perception** +22; Darkvision
 
 **Languages** -
@@ -508,10 +514,10 @@ item(
 # Wall of Gears
 ## Spell 5
 -
-; Conjuration, Bludgeoning
+; Conjuration
 **Traditions** arcane
 
-**Cast** :aa: material, somatic, verbal
+**Cast** :aaa: material, somatic, verbal
 
 **Range** 120 feet
 

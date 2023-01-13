@@ -16,7 +16,7 @@ You've learned the intricacies of magic and wands, blending the two with deadly 
 item(
 # Arcane Blowback :f:
 -
-; Gunslinger, Magical
+; Wandslinger, Magical
 **Trigger** You use the Cast a Spell activity from an item such as a Wand or Stave.
 -
 As you discharge the arcane energy of an item, you syphon off the arcane charge that builds around you to reload your gun with a magical bolt or bullet. When you use the Cast a Spell activity to cast a spell (but not a cantrip), you create a magical charge of energy - conjuring an ordinary level-0 bolt or bullet out of thin air and then immediately Interacting to load it into your weapon. You don't need a free hand to reload in this way. If the bolt or bullet isn't fired before the end of your next turn, the effect is wasted.
