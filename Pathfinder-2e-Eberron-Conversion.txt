@@ -72,32 +72,38 @@ Text boxes such as the following are used to provide references for further read
 )
   
 Beyond this, the world is now yours. Welcome to the world of Eberron.
-  
+=
 # Changelog
+
 **V 1.5 - 2023-01-12**
 - Merged dragonmark focus pool with regular focus pool. Points are now shared.
+
 **V 1.4 - 2023-01-07**
 - Dragonmarked Half-Elf and Half-Orc heritage clarifications. These two heritages are Human heritages - though you are still a Half-Elf or Half orc respectively
 - Item adjustments, balance, and clarifications
 - Modified Kalashtar to fit more closely with the Psychic class
+
 **V 1.2.1 - 2022-10-10**
 - Minor eratas, formatting adjustments, and clarifications
+
 **V 1.2.0 - 2022-08-09**
 - Added details regarding the Planes of Eberron
+
 **V 1.1.2 - 2022-06-07**
 - Minor eratas, formatting adjustments, and clarifications
+
 **V 1.1.1 - 2022-04-06**
 - Integrates ancestral weapons of Golarion with no Eberron equivalent
 - Added ancestral rarity to stats
 - Moved warforged stats to general rather than heritage
 - Moved shifter stats to general rather than heritage
 - Modifies shifter feats
-- Removed shapeshifter train from changelings
+- Removed shapeshifter trait from changelings
 - Increased changeling starting languages
 - Made gnoll statistic source more clear
 - modified myrnaxe statistics
 - Increased gnoll bow volley distance
-=
+|
 **V 1.0.10 - 2022-03-01**
 - Errata and clarifications
 - Dragonmark clarifications
@@ -110,7 +116,7 @@ Beyond this, the world is now yours. Welcome to the world of Eberron.
 
 **V 1.0.0 - 2021-10-03**
 - Document created
-
+/
 ***Disclaimer**: In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind-bending corruptions accending from the depths (The Mror Holds declined to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
 
 ***Legal Disclaimer**: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up to date source for the Eberron community.*
@@ -900,7 +906,7 @@ You bear the old blood of the Dhakaani. You have channelled this history, granti
 -
 ## Halflings Feat Modifications
 item(
-# Talentia Prairie Rider
+# TalenPrairie Rider
 ## Feat 1
 -
 ; Halfling

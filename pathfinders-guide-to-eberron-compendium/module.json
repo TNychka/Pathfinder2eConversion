@@ -1,8 +1,13 @@
 {
-  "title": "Pathfinders' Guide to Eberron",
-  "description": "Set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "2.0.1",
+  "title": "Pathfinder's Guide to Eberron",
+  "description": "A set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
+  "version": "2.0.2",
   "id": "pathfinders-guide-to-eberron-compendium",
+  "url": "https://github.com/TNychka/Pathfinder2eConversion",
+  "manifest": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json", 
+  "download": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/pathfinders-guide-to-eberron-compendium.zip",
+  "bugs": "https://github.com/TNychka/Pathfinder2eConversion/issues",
+  "readme": "https://github.com/TNychka/Pathfinder2eConversion/blob/main/README.md",
   "authors": [
     {
       "name": "Eberron Compendium Contributors",
@@ -15,7 +20,10 @@
       {
         "id": "pf2e",
         "type": "system",
-        "compatibility": {}
+        "compatibility": {
+          "minimum": "4.6.0",
+          "verified": "4.6.3"
+        }
       }
     ]
   },
@@ -23,10 +31,6 @@
     "minimum": "8",
     "verified": "10"
   },
-  "bugs": "https://github.com/TNychka/Pathfinder2eConversion/issues",
-  "url": "https://github.com/TNychka/Pathfinder2eConversion",
-  "manifest": "https://raw.githubusercontent.com/TNychka/Pathfinder2eConversion/main/pathfinders-guide-to-eberron-compendium/module.json",
-  "download": "https://github.com/TNychka/Pathfinder2eConversion/blob/main/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip?raw=true",
   "packs": [
     {
       "label": "Eberron Actions",
@@ -138,6 +142,7 @@
     }
   ],
   "flags": {
+    "minimumSystemVersion": "2.16",
     "pathfinders-guide-to-eberron-compendium": {
       "pf2e-homebrew": {
         "baseWeapons": {
@@ -478,7 +483,6 @@
           }
         }
       }
-    },
-    "minimumSystemVersion": "2.16"
+    }
   }
 }
