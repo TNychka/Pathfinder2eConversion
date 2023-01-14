@@ -3,17 +3,12 @@ head(
 Powerfully-built humanoids that bear resemblance to hyenas, gnolls are cunning warriors and hunters. Their frightening visage and efficient tactics have given them an ill-starred reputation.
 -
 )
-Gnolls began their existence being bred for and recruited by the overlords of War, Rak Tulkhesh, and the Wild, the Wild Heart. They served as foot soldiers, fighting against orcs, the early humanoids of Khorvaire, as well as the other gnoll clans belonging to opposing overlords. Even after the overlords were bound by the Silver Flame, gnolls continued to act as their pawns. 
-
-This subjugation was broken by a revelation shared between two rival clans of gnolls in the midst of a battle; their fur soaked by blood and wading through limbs and carnage, they questioned what had led them to destroy their kin. The two clans then turned to each other and formed an alliance, urging their brethren to deny the voices that called for endless war and refuse to chase death in the service of any fiend. The two clans coalesced with many more, and those who absolved themselves of servitude took their idols to the Znir  - a word that means stone - and destroyed the sculptures of the fiends that kept them bound to violence. All of these clans - warrior, shaman, hunter - vowed that no god, chib, nor demon would hold dominion over them and while their clans differed, they all were of the same pact. These were the ancestors of the Znir Pact gnolls, now found throughout Khorvaire but most prevalently in Droaam. 
-
-There are still gnolls that remained bound to the overlords, lacking the freedom of their Znir kin. Is your Gnoll of the long-standing Znir pack, or have they recently been liberated from the grasp of the overlords, trying to find their way through Khorvaire?
+Gnolls began their existence being bred for and recruited by the overlords of War, Rak Tulkhesh, and the Wild, the Wild Heart. Those who absolved themselves of servitude took their idols to the Znir  - a word that means stone - and destroyed the sculptures of the fiends that kept them bound to violence. All of these clans - warrior, shaman, hunter - vowed that no god, chib, nor demon would hold dominion over them and while their clans differed, they all were of the same pact. These were the ancestors of the Znir Pact gnolls, now found throughout Khorvaire but most prevalently in Droaam. 
 
 ## You might...
 - Always try to work smarter, not harder.
 - Be very physically demonstrative-often hugging, punching, or licking your friends.
 - Chew through scraps and bones others would throw away.
-|
 
 ## Others Probably...
 - Are intimidated by your size, teeth, and eerie laugh.
@@ -21,34 +16,27 @@ There are still gnolls that remained bound to the overlords, lacking the freedom
 - Respect the brutal efficiency of your hunting style.
 
 ## Physical Description...
-A typical gnoll stands over seven feet in height, but this is belied by their hunched posture. Males and females are similar in appearance, and other species have difficulty telling them apart. Gnolls have thick fur over their bodies; depending on clan, this can be uniform in colour or broken up with spots or stripes. Their eyes are yellow or green and gleam with reflected light. While these are common traits, the fiendish heritage of gnolls sometimes manifests itself in its appearance. An unusual gnoll could have glowing red eyes, fur with stripes that glow like flames, or other unusual traits. Typically these don’t grant special abilities, though you could attribute a class ability or feat to such a mutation. [49]
+Gnolls are large, hyena-like humanoids with short muzzles, sharp teeth, and large and expressive round ears. Their bodies are covered in shaggy fur, lighter on the stomach and throat. The colour varies depending on the gnoll, but brown shade—spots and stripes are common. Gnolls typically stand between six and seven feet tall. The women are typically larger and stronger than the males. Gnolls are considered adults at fifteen, and live about 60 years on average.
 
 ## Society...
-The Znir gnolls include a dozen different clans, each of which holds distinct traditions. Once the clans were devoted to different faces of the overlords, but when they shattered their statues, each clan chose one of the moons. All gnolls skillfully hunt and fight, but the Barrakas are known to be the finest trackers of the Pact; the Aryth, the deadliest archers; the Olarune, the strongest warriors and most forceful in the vanguard. Typically, mercenary units are comprised of gnolls of a single clan, assigned based on the nature of the task that lies ahead, and contracts are usually negotiated for a period based on cycles of the clan’s moon.
+The Znir gnolls include a dozen different clans, each of which holds distinct traditions. All gnolls skillfully hunt and fight, but the Barrakas are known to be the finest trackers of the Pact; the Aryth, the deadliest archers; the Olarune, the strongest warriors and most forceful in the vanguard. Typically, mercenary units are comprised of gnolls of a single clan, assigned based on the nature of the task that lies ahead, and contracts are usually negotiated for a period based on cycles of the clan’s moon.
 
-The clans maintain distinct territories within the Znir region, but all gnolls are welcome around the hearth of any clan; the Znir take pains to crush any tension that arises between the clans. Shamans and leaders from each clan maintain a council at the Znir, around the idols their ancestors broke. Here they mediate disputes, assign contracts to clans, and allocate funds
+## Alignment and Religion...
+Gnolls have very strong pack instincts and instinctively work together in combat. This means the typical gnoll trends towards a Lawful alignment, but good and evil depend on the current terms of their contract.
+
+## Names...
+A Gnoll's most important identifier is its whoop. Impossible for most non-gnolls to properly replicate a whoop, thus gnolls also use contract names. 
+
+### Sample gnoll contract names
+Dagnyr, Dhyrn, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Gnyrl, Hyrn, Lhoryn, Lhyr, Lhyrl, Mognyr, Myrl, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych
 =
 right(
 # Gnoll Statistics
 Gnolls gameplay statistics, heritages, and additional feats are provided by the Pathfinder 2e Mwangi Expanse book. The following Heritages and feats should be considered an additional pool to pick from in addition to the Pathfinder 2e information already provided.
 )
-and equipment. The Eyre clan has honed their skills as smiths and tanners, and they craft much of the equipment used by the Znir gnolls-though there is still a strong tradition of scavenging among the Znir, and warriors often claim trophies from fallen foes. [49]
-
-## Alignment and Religion...
-
-Gnolls have very strong pack instincts, and an unsentimental matter-of-fact approach to life, and prioritize results over methods. [50] They instinctively work together in combat and think nothing of placing themselves in harm’s way to protect their kin. If a gnoll character adopts a
-/
-group of adventurers as their temporary pack, these things apply to the other characters - but the gnoll will be surprised and angry if their non-gnoll packmates don’t show them the same respect. This means the typical gnoll trends towards a Lawful alignment, but good and evil depend on the current terms of their contract. [51]
-
-## Names...
-A Gnoll's most important identifier is its whoop. While deceptively short, a whoop includes a range of ultrasonic inflexions that indicate clan, a personal identifier, and a suggestion of family affiliation (the Znir trace lineage through the mother). Because it’s impossible for most non-gnolls to properly replicate a whoop, gnolls also use contract names-names intended to be used with clients and other outsiders. There is a basic structure of contract names used by all gnolls; the inflexion of the name indicates gender, though few people recognize this if they don’t speak Gnoll. The Znir typically attach clan names to a formal introduction: “Ghyrryn Barrakas, Znir.” [50]
-
-### Sample gnoll contract names
-Dagnyr, Dhyrn, Ghyrryn, Gnasc, Gnoryc, Gnyrn, Gnyrl, Hyrn, Lhoryn, Lhyr, Lhyrl, Mognyr, Myrl, Sorgnyn, Thyrn, Toryc, Yrgnyn, Yrych
-
 # Gnoll Heritages
 You can select one of the following heritage at 1st level to reflect abilities that are representative of the training and development you received while you were raised in a specific clan. These skills and abilities are specialities of your clan, passed down to you from your ancestors. You have only one heritage and can’t change it later. While you must belong to that clan if you pick one of these heritages, any base pathfinder 2e heritages can belong to any clan. The base heritages are not limited to any particular clan, though some clans might have more or fewer members from a particular base heritage. The pathfinder 2e heritages do not count for clan heritage requirements. 
-|
+/
 ## Aryth Clan
 Your clan is tied to the moon Aryth - the Gateway. Considered the best Archers of the Znir gnolls, you become trained in Simple and Martial ranged weapons. Advanced gnoll weapons count as martial weapons for you.
 
@@ -62,10 +50,8 @@ Your clan is tied to the moon Dravago - the Herder. Your connection to the moon 
 Your clan is tied to the moon Eyre - the Anvil. You become trained in Crafting (or another skill if you were already trained in Crafting), and you gain the Quick Repair skill feat. In addition, if you roll a Critical Failure on a Repair check, you get a failure instead.
 
 ## Lharvion Clan
-Your clan is tied to the moon Lharvion - the Eye. Your clan has unnatural insights and experience with the otherworldly. You become trained in Occultism (or another skill if you were already trained in Occultism) and gain the Root Magic skill feat. When crafting Root Magic talismans you are always able to produce one for yourself, in addition to one which
-=
-you give to one ally (excluding yourself).
-
+Your clan is tied to the moon Lharvion - the Eye. Your clan has unnatural insights and experience with the otherworldly. You become trained in Occultism (or another skill if you were already trained in Occultism) and gain the Root Magic skill feat. When crafting Root Magic talismans you are always able to produce one for yourself, in addition to one which you give to one ally (excluding yourself).
+|
 ## Nymm Clan
 Your clan is tied to the moon Nymm - the Crown. Your clan specializes in leadership in battle, and the ability to direct allies simultaneously. You gain access to the Bark Orders action.
 
@@ -91,13 +77,13 @@ item(
 -
 You are trained to hold the line against any charge. You may take cover behind the shield, gaining the higher bonus for the tower shield.
 )
-
+=
 ## Rhaan Clan
 Your clan is tied to the moon Rhaan - the Book. The Rhaan clan maintains the history of the clans through story and song, and you have a deeper connection to the Primal energies of the world. Choose one cantrip from the primal spell list. You can cast this spell as a primal innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up. You can change this cantrip to a different one from the same list once per day by meditating and connecting to the Primal energies of Eberron; this is a 10-minute activity that has the concentrate trait.
 
 ## Sypheros Clan
 Your clan is tied to the moon Sypheros - the Shadow. You have a natural resilience to the dark manifestations of the world. You gain negative resistance equal to half your level (minimum 1). You also have Darkvision instead of Low-Light vision.
-|
+
 ## Therendor Clan
 Your clan is tied to the moon Therendor - The Healer's Moon. You become trained in Medicine (or another skill if you were already trained in Medicine), and you gain the Battle Medicine skill feat. In addition, when you roll a medicine check to Administer First Aid a critical failure becomes a failure, and a failure becomes a success. 
 
@@ -116,19 +102,8 @@ item(
 **Trigger** You reduce a creature to 0 hp.
 -
 You take advantage of the opening. You may spend your reaction to step, stride half your speed, or make a strike.
-) 
-
-note(
-The Znir pact typically deploys entire mercenary groups composed of one or two clans for a contract, depending on the nature of the mission. 
-
-Aryth, Barrakas, and Rhaan are typically involved in scouting.
-Dravago is typically deployed to any northern engagements.
-Eyre, Nymm, and Therendor are typically deployed to support other clans or participate in coalition forces.
-Lharvion and Sypheros are typically deployed to anything involving the potential for extraplanar contact, or the undead.
-Olarune, Vult, and Zarantyr are typically deployed to where heavy fighting is expected.
-
-Although these are the specialities of each of the clans, all clans are expected to be able to perform in any context.
 )
+|
 =
 # Removed Ancestry Feats
 The following feats provided by pathfinder should be ignored as they conflict with new mechanics or lore.

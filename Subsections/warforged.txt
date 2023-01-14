@@ -33,10 +33,7 @@ Construct
 ## Living Construct
 Your physiological needs are different from those of living creatures. You don't need to eat or drink, but can if you choose to for the effects of consumable spells and magic items. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for at least 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being unconscious. Much like with sleeping, if you go too long without entering your standby state, you become fatigued and can't recover until you enter standby for 2 hours.
 )
-
-Warforged were created as expendable construct soldiers to fight in the last war. Early Cannith development of the warforged war focused on the production of warforged such as the warforged titans which were true constructs - machines of war built to destroy, kill, and die on command. With further refinements and arcane experimentation, the warforged evolved until they were a new type of creature - a living construct. This advancement in development was made possible by the creation forges but came with the side-effect of adding sentience to the new construct known only as warforged. However, with their single-minded focus and combat prowess, sentience empowered warforged with a desire to preserve themselves than Cannith's other mindless constructs exhibit - making them a more efficient soldier than simple golems. 
-
-In the wake of the Last War, the Treaty of Thronehold has granted warforged their rights and freedom from being used as bought-and-sold soldiers of nations. This newfound freedom for warforged is a double-edged sword, as many warforged struggle to find a place in a world that no longer cares for them. Some warforged have taken up new employments as labourers and artisans; many warforged have taken on employment doing what they already know and fight fiercely as a soldier. The warforged that fight on have taken roles as guards, mercenaries, adventurers, and some have found their way back into the employment of armies. Warforged in these roles make steadfast allies and fearsome enemies. They fight with a vigour that most humanoids struggle to match - but with the ability to adapt and learn that mindless constructs can not replicate.
+Warforged were created as expendable construct soldiers to fight in the last war.
 
 ## You might...
 - Have scars and wounds from fighting in the last war, dealing with old injuries and trauma that has never healed
@@ -47,6 +44,14 @@ In the wake of the Last War, the Treaty of Thronehold has granted warforged thei
 - Believe you do not experience emotions and are incapable of higher thinking beyond your programming
 - Are an expendable asset, and to be taken advantage of for your tireless nature and lack of world experience outside the war
 - See you as a valuable ally to have on the battlefield, even if sometimes they struggle to relate to you
+
+## Physical Description...
+Warforged exterior is covered in a series of flexible metallic or leather plates, creating a form of integrated armour which grants them protection on the battlefield. 
+
+As constructs, warforged typically don't need to breathe, eat, or sleep; however, the body of a warforged needs to vent alchemical impurities at a constant rate. This venting process requires breathable air to prevent a buildup of impurities in a warforged's alchemical fluids which can seize a warforged's biological components, sometimes to fatal effect. Thus, warforged can still suffocate much like living creatures, but can in a limited sense hold their breath as other humanoid creatures can. Though they don't sleep, warforged require a period of restoration to allow the alchemical fluids of their body to replenish. Without this process, a warforged is incapable of fully restoring their body and they enter an inefficient state (similar to a humanoid who doesn't get 8 hours of sleep).
+
+## Society...
+Warforged do not have any established cultures or traditions, or any sort of developed place in society.
 =
 right(
 ## Living Body
@@ -58,30 +63,11 @@ Your constructed body has advantages and disadvantages that most humanoid creatu
 ## Emotionally Unaware
 Warforged find it difficult to understand and express complex emotions. You take a –1 circumstance penalty to Diplomacy, and Performance checks, and on Perception checks to Sense Motive. 
 )
-## Physical Description...
-Warforged appear to be a completely constructed creature. Their frame is composed of a composite of materials—obsidian, iron, stone, darkwood, silver, and organic material. Around a warforged's frame is a musculature is composed of root-like cords infused with alchemical liquids that grant strength and surprising grace and flexibility to their body. Their exterior is covered in a series of flexible metallic or leather plates, creating a form of integrated armour which grants them protection on the battlefield. This integrated armour is attached directly into their body by the root-like tendrils of their musculature and is extremely painful to remove. Most warforged share a similar facial structure, with a hinged jaw and crystal eys embedded beneath a reinforced brow ridge. The specific composition and structure of each warforged changes depending on their intended purpose, but all warforged are humanoid in shape. 
-Unique among constructs, warforged have learned to modify their bodies through magic and training. These unique changes that warforged choose helps define their personality and differentiate their physical form from one warforged from another.
-
-As constructs, warforged typically don't need to breathe, eat, or sleep; however, the body of a warforged needs to vent alchemical impurities at a constant rate. This venting process requires breathable air to prevent a buildup of impurities in a warforged's alchemical fluids which can seize a warforged's biological components, sometimes to fatal effect. Thus, warforged can still suffocate much like living creatures, but can in a limited sense hold their breath as other humanoid creatures can. Though they don't sleep, warforged require a period of restoration to allow the alchemical fluids of their body to replenish. Without this process, a warforged is incapable of fully restoring their body and they enter an inefficient state (similar to a humanoid who doesn't get 8 hours of sleep).
-
-Warforged were created by Cannith within the last 30 years, and as a result, their life expectancy is unknown. Older warforged have begun to show signs of physical decay, indicating that they may eventually degrade. Though it is still unclear (and Cannith has never provided a clear answer), it appears that warforged may have innate souls. A warforged's body is as vulnerable to destruction as any other creature's body is, and warforged that have been destroyed require magical intervention such as resurrection magic to restore themselves.
-
-As constructs, warforged have no concept of gender - nor is their body designed to a specific gendered shape. Though some warforged have selected a gender identity, most warforged are unaware or choose to ignore the concept altogether. 
-
-## Society...
-Warforged were created as soldiers to fight in the last war, and have only gained their freedom within the last two years. As a result, warforged do not have any established cultures or traditions, or any sort of developed place in society. Most warforged have picked up the culture of the nation they fought for, and others have latched on to bits and pieces that interest them creating a mixed celebration of traditions. Since most warforged struggle to relate to other humanoids, most of the time they will band together with other warforged who provide a sense of familiarity. Sometimes this group is those they fought with in the last war, other times it is simply others like them who decided to settle in the local area.
-
-Sometimes warforged prefer to lead solitary lives or work to integrate themselves into other humanoid societies. Some warforged wander Khorvaire, looking to find purpose and meaning for themselves and have become ambassadors between cultures.
-=
 ## Alignment and Religion...
-Warforged tend to be neutrally aligned. As constructs of war, they were built to fight without questioning orders - though they are capable of doing so. Warforged are capable of emotion and moral reasoning, however, this is something few were trained or practised in and most struggle to comprehend.
-
-Warforged similarly tend to be unreligious. As a soldier some warforged have picked up the religion of their humanoid companions, beginning the follow the Sovereign Host as a soldier of Cyre, or the Silver Flame as a Thranish soldier, but independently most have not been drawn to religion. Warforged that have begun to follow a religion have sometimes found an answer to the questions of their existence and their purpose in life, but these warforged are few between. 
-
-Some warforged have begun to be drawn towards a messianic figure called the Lord of Blades. The Lord of Blades has begun to gather a cult-like following of warforged by promising purpose to the disaffected and a rebellion against the "weak-fleshed" ancestries. 
+Warforged tend to be neutrally aligned. Warforged similarly tend to be unreligious. 
 
 ## Names...
-Most warforged do not have a name for themselves beyond their creation number such as unit 4859. Only after being able to experience the world outside of military structure have they begun to understand the need of other races to have names for everything. Many warforged accept any name that others give them, and warforged working in proximity to other humanoids are often are referred to by nicknames. Some warforged, however, have come to see having a name as a defining moment of their new existence, and thus search long and hard for the perfect name to attach to themselves.
+Most warforged do not have a name for themselves beyond their creation number such as unit 4859. Others come up with a specific name, typically just a single noun or adjective.
 
 ### Sample warforged names
 Anchor, Banner, Bastion, Blade, Blue, Bow, Cart, Church, Crunch, Crystal, Dagger, Dent, Five, Glaive, Hammer, Iron, Lucky, Mace, Oak, Onyx, Pants, Pierce, Red, Rod, Rusty, Scout, Seven, Shield, Slash, Smith, Spike, Temple, Vault, Wall
@@ -105,37 +91,35 @@ Your body is designed to be extremely resilient. Your integrated armour is heavy
 You select a heritage at 1st level to reflect abilities passed down to you from your ancestors or common among those of your ancestry in the environment where you were born or grew up. You have only one heritage and can’t change it later. A heritage is not the same as a culture or ethnicity, though some cultures or ethnicities might have more or fewer members from a particular heritage.
 
 ## Vanguard Warforged
-The primary soldier of the warforged armies of the last war, the Vanguard warforged was the most commonly created of the warforged. Their development for the exclusive use of warfare means that most of these warforged struggle with socialization, and other aspects Cannith deemed unnecessary to a soldier - it simply wasn't necessary to train them. Given their frequent deployment to front-lines of the most dangerous battlefields of the war, these warforged also frequently suffered the most. Many of the warforged veterans of the war now carry lasting wounds and permanent reminders of the role they played, but some have turned this experience as a soldier into newfound employment after the war.
+The primary soldier of the warforged armies of the last war, the Vanguard warforged was the most commonly created of the warforged.
 
 You have medium integrated armour and gain the Weapon Proficiency general feat.
 
 ## Juggernaut Warforged
-Used as shock troops in the last war, the Juggernaut warforged were a later development of Cannith and only saw deployment toward the end of the war. Developed as a heavier version of the Vanguard Warforged, the Juggernaut Warforged has many of the same physical attributes, with the exception of a much more dense plating over their body. These warforged were often more trained than the Vanguard in the aspects of intimidation, granting them a slight edge in humanoid interactions. However, their physical prowess on the battlefield leads to overconfidence in many situations off the battlefield. 
+Used as shock troops in the last war, they are a heavier version of the Vanguard Warforged but otherwise have many of the same physical attributes.
 
 You have heavy integrated armour. You gain the Armor Proficiency general feat. 
 
 ## Skirmisher Warforged
-Designed as lightly armoured but more mobile warforged, the Skirmisher Warforged were also widely deployed throughout Khorvaire. Frequently used in archer or scouting units, these variants of the standard warforged soldier were capable of longer skirmish engagements that took advantage of the warforged's tireless nature to drain the enemy's morale. Similar to the Vanguard warforged, these warforged were never trained in the finer points of socialization and frequently struggle to understand other humanoid creatures.
+Designed as lightly armoured but more mobile warforged, the Skirmisher Warforged were widely deployed throughout Khorvaire.
 
 You have light integrated armour and gain the fleet general feat.
 
 ## Skilled Warforged heritage
-The Skilled Warforged were a creation of Cannith with both Military and Civilian purposes in mind. Each Skilled Warforged was created to be proficient in a particular area or field of expertise, and as a result, are more uncommon than most other warforged. Some of these warforged were developed with an arcane focus in mind, others to assist with Cannith artifice. On the battlefield, these warforged saw limited deployment as wand troops but were less common than the Living Wand warforged heritage on the battlefield. 
+The Skilled Warforged were a creation with both Military and Civilian purposes in mind.
 
 You have nominal integrated armour and become trained in one lore and one common or uncommon language of your choice. At 5th level, you become an expert in the selected lore.
 
 ## Living Wand Warforged heritage
-The Living Wand Warforged were Cannith's attempt at creating a warforged capable of innate spellcraft. Though the introduction of arcane properties into the warforged creation process worked, the produced warforged were unpredictable in their capabilities. The Living Wand Warforged required additional training
-=
-after production in order to determine their abilities and to match them with other alike warforged. Due to the complexity and non-standard nature of the average Living Wand warforged, they did not see widespread deployment across Khorvaire. The ones that did were typically formed into extremely effective wand troops.
+The Living Wand Warforged were an attempt at creating a warforged capable of innate spellcraft.
 
 You have nominal integrated armour, and gain one cantrip from the arcane spell list. You can cast this spell as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.
 
 ## Prototype Warforged [Uncommon]
-Cannith created many prototype warforged throughout the war. Many of them were experiments into advanced capabilities for war, some with more complex civilian purposes in mind. For whatever reason - whether the cost of production was prohibitive, or the capabilities did not meet expectations, or the war ended too soon - these Prototype Warforged were never released to the outside world of Khorvaire.
+Many prototype warforged throughout the war.
 
 As unique warforged design, work with your GM to figure out what you were created for. Select an integrated armour type, and you become trained in a skill and a 1st level skill feat associated with that skill.
-/
+=
 # Warforged Feats
 #### 1st level
 item(

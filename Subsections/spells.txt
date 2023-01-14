@@ -48,7 +48,6 @@ Cantrip | Force Blast | Launch a bolt of energy at long range.
 3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
 5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
 5 | Fabricate | Convert raw materials.
-5 | Wall of Gears | Create a wall out of moving parts.
 
 ##### Table 8-4: Divine Spell List
 Level | Name | Effect
@@ -510,31 +509,7 @@ item(
 
 **Dragonmark Discharge** :aa: (arcane, evocation, positive/negative) The dragonmark discharges its energy in a blast that deals 15d6 positive or negative depending on the source dragonmark damage in a 40-foot cone (Dragonmark DC of the summoner basic Reflex save). The Siberys Living Dragonmark can't use Dragonmark Discharge again for 1d4 rounds.
 )
-item(
-# Wall of Gears
-## Spell 5
--
-; Conjuration
-**Traditions** arcane
-
-**Cast** :aaa: material, somatic, verbal
-
-**Range** 120 feet
-
-**Duration** 1 minute
-
-**Save** basic reflex
--
-You raise a 6-inch-thick wall of moving iron cogs, wheels, gears, pistons, and assorted mechanical parts
-)
 |
-item(
-up to 60 feet long and 10 feet high. You can shape the wall's path, placing each 5 feet of the wall on the border between squares. The wall doesn't need to stand vertically. You must conjure the wall in an unbroken open space so its edges don't pass through any creatures or objects, or the spell is lost. If you wish, the wall can be of a shorter length or height. Everything on each side of the wall is concealed from creatures on the opposite side.
-Each 5-foot-by-5-foot section of the wall has AC 10, Hardness 10, and 40 Hit Points.
-Both sides of the wall have hundreds of moving parts that flail out, dealing 4d4 points of bludgeoning damage to all creatures that start their turn or move to within 5 feet of a section of the wall.
--
-**Heightened (+1)** The bludgeoning damage increases by 1d4, the Hit Points of each section of the wall increase by 10.
-)
 item(
 # Warded Resilience
 ## Focus 1
@@ -572,11 +547,7 @@ item(
 
 **Range** touch; **Targets** one willing creature
 -
-You substitute your willpower for the creature for the
-)
-=
-item(
-duration of the spell, when the creature makes a will save, the creature may choose to use your will save modifier rather than their own.
+You substitute your willpower for the creature for the duration of the spell, when the creature makes a will save, the creature may choose to use your will save modifier rather than their own.
 )
 item(
 # Verran’s Textile Restoration
@@ -604,35 +575,3 @@ item(
 -
 You flavour up to 1 bulk or 1 cubic foot of nonliving material; this lasts for one hour.
 )
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-|

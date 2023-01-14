@@ -4,9 +4,9 @@ Eberron is a world alone in its planar cosmology, unattached to the rest of the 
 -
 )
 
-The thirteen planes of Eberron are complex and exist as the total embodiment of a concept in all its forms. The planes interact with Eberron and manifest their concepts and effects on the material plane. This can come in the form of being coterminous or remote - in which the planes effect becomes more or less dramatic across the world, or in the form of Manifest Zones which directly affect a small region of the world. Most often manifest zones are evident by the way that a plane strengthens its concept in the region where it manifests - though sometimes the effects can be quite subtle. The following list details all thirteen outer planes of Eberron and the effects they might have on your world.
+The thirteen planes of Eberron are complex and exist as the total embodiment of a concept in all its forms. The planes interact with Eberron and manifest their concepts and effects on the material plane. This can come in the form of being coterminous or remote - in which the planes effect becomes more or less dramatic across the world, or in the form of Manifest Zones which directly affect a small region of the world.
 
-note(
+info(
 For more information on the planes of Eberron, see Exploring Eberron Chapter 5.
 )
 /
@@ -14,10 +14,10 @@ For more information on the planes of Eberron, see Exploring Eberron Chapter 5.
 Planar Effects detail the major mechanical changes that a creature from a different plane might experience while visiting the plane. Though there are numerous other minor effects that you can add to your planes. While the planar effects may wax or wane depending on your location in the plane, they are typically always present no matter where you are in the plane.
 
 ## Manifest Zones
-Manifest zones are locations on the material plane where an outer plane has created a strong zone of resonance that manifests some of the effects of the outer plane. These manifest zones are typically relatively small, being from a few meters to a kilometre in size, though they can exist in much larger or smaller sizes. Only rarely do manifest zones appear or disappear from the world, as typically manifest zones are static in location. During coterminous or remote phases, their size may change dramatically, but they are always present. Manifest zones typically have one or two planar traits or some minor other effects detailed in the manifest zone section. However, some manifest zones can have none or even all of the effects depending on the zone's strength.
+Manifest zones typically have one or two planar traits or some minor other effects detailed in the manifest zone section. However, some manifest zones can have none or even all of the effects depending on the zone's strength.
 
 ## Coterminous and Remote
-The planes of Eberron seem to follow cycles of Coterminous phases and Remote phases - having a stronger or weaker effect on the material plane. Planes can have additional effects if it becomes coterminous or remote. Typically, when coterminous, manifest zones associated with the plane are stronger, but when remote, manifest zones associated with the plane become weaker or can even temporarily disappear altogether.
+The planes of Eberron seem to follow cycles of Coterminous phases and Remote phases. Typically, when coterminous, manifest zones associated with the plane are stronger, but when remote, manifest zones associated with the plane become weaker or can even temporarily disappear altogether.
 |
 ##### Table 2-1: Planes of Eberron
 Plane | Moon | Traits | Description
@@ -46,8 +46,6 @@ item(
 **Moon and Portal Colour** Yellow-gold
 
 **Native Inhabitants** Modrons, Inevitables, Angels, Devils
--
-Daanvi is the embodiement of Law. It is the plane that shows the potential of absolute law to create perfect order and work as the structure of society, but it also demonstrates where absolute law can go wrong and be used for oppression or harm. "It shows that laws can serve justice, but they can also pose an endless series of obstacles, or even be the tools of tyrants. Daanvi encompasses all of these paths. It shows the benefits of law and order - and the risks of taking them too far." [11]
 
 # &nbsp;
 ## Planar Effects
@@ -70,12 +68,9 @@ Manifest zones of Daanvi are uncommon, but those that do manifest typically pres
 # &nbsp;
 ## Coterminous and Remote
 -
-Daanvi has an exceptionally long cycle. Traditionally, when Daanvi becomes coterminous, it remains so for an entire century; one hundred years after that, it becomes remote for a century.
-
 Daanvi has coterminous and remote periods, but unlike those of other planes, these periods have no obvious effects.
 )
-  
-  
+=
 item(
 # Dal Quor: The Region of Dreams ((++Dal Quor))
 ## Plane
@@ -86,13 +81,7 @@ item(
 **Moon and Portal Colour** Not visible in Eberron’s sky; impossibly black, portals are inaccessible
 
 **Native Inhabitants** Dreamers, Quori
--
-Dal Quor is the plane of dreams. It is the embodiment of unbridled imagination, where raw subconscious thought can take form. This can create dreams of greatness or bliss, but from this raw energy so too are nightmares formed. 
 
-"Dal Quor is both impossibly distant and remarkably close. Tens of thousands of years ago, the giants of Xen’drik shattered the ties between Dal Quor and the Material Plane. Since then, it’s been permanently remote, and no naturally occurring manifest zone to Dal Quor has been discovered. Not even plane shift or astral travel can allow direct contact with the Region of Dreams." [12] However when a creature dreams, its consciousness still drifts into the dream realm of Dal Quor.
-)
-=
-item(
 # &nbsp;
 ## Planar Effects
 -
@@ -105,15 +94,14 @@ item(
 # &nbsp;
 ## Manifest Zone
 -
-The metaphysical damage caused in the conflict between Dal Quor and the giants of Xen’drik broke the ties between Eberron and Dal Quor. There are no naturally occurring manifest zones to Dal Quor, and even plane shift won’t allow travel there. [13]
+There have been no manifest zones created by Dal Quor.
 
 # &nbsp;
 ## Coterminous and Remote
 -
-As a result of the separation of Eberron and Dal Quor, the plane no longer goes through Coterminous or Remote cycles.
+The plane no longer goes through Coterminous or Remote cycles.
 )
-  
-  
+=
 item(
 # Dolurrh: The Realm of The Dead ((++Dolurrh))
 ## Plane
@@ -124,9 +112,6 @@ item(
 **Moon and Portal Colour** Orange-red
 
 **Native Inhabitants** The Quick, the Dead, the Lingering
--
-Dolurrh is the plane that embodies the idea of dying - and death itself. As the Realm of the Dead, and it is here that the souls of the mortal dead go when their mortal body perishes. Here, their memories fade and their lives are forgotten. Then, depending on your beliefs, the soul either then ascends to join their god - or becomes nothing for all eternity. [14]
-
 # &nbsp;
 ## Planar Effects
 -
@@ -141,10 +126,8 @@ Dolurrh is the plane that embodies the idea of dying - and death itself. As the 
 # &nbsp;
 ## Manifest Zone
 -
-It is uncommon for a Dolurrh manifest zone to have any of the plane's properties. Despite not manifesting the planar properties, these zones are still frequently haunted and are the source of many ghost stories throughout the world. Despite the haunted nature of these zones, they are not always dangerous or malicious like the Manifest Zones of Mabar. When a zone manifests an effect, it is typically one of the following
-)
-=
-item(
+It is uncommon for a Dolurrh manifest zone to have any of the plane's properties. When a zone manifests an effect, it is typically one of the following
+
 **Path of the Dead** Dolurrh manifest zones can act as a gateway into Dolurrh. Sometimes this may require a ritual or sacrifice to activate, or other times it may simply depend on the alignment of the Aryth or Dolurrh being conterminous.
 
 **The way is shut.** When resurrection magic is used in a Dolurrh manifest zone with this effect, it can backfire dangerously
@@ -166,21 +149,19 @@ The resurrection ritual is always a critical success | yes | no
 If the resurrection is a critical failure, it is only a failure instead | yes | yes
 The level of success of the resurrection is always one step higher | yes | no
 The material cost of resurrection is halved | yes | yes
-
-  
+)
+=
+item(
 **Speaker for the Dead** In these Manifest Zones, anyone can cast the spell Talking Corpse with a casting time of one hour as long as they have a personal connection to the deceased whose corpse they are questioning.
 
 # &nbsp;
 ## Coterminous and Remote
 -
-Dolurrh has a slow planar cycle. It is coterminous for one year every fifty years, followed by a one-year-long remote period fifty years later. The moon Aryth seems to also affect the Coterminous and Remote phases of the plane and may cause Remote or Coterminous periods out of the regular cycle.
-
 When Dolurrh is coterminous, ghosts and spirits of Dolurrh are significantly more common - especially near Dolurrh's manifest zones. 
 
-While Dolurrh is remote, resurrection magic outside of Dolurrh's manifest zones always fails. The soul cannot return from Dolurrh, and the only way to raise the dead is by travelling to Dolurrh itself to retrieve the soul. Ghosts are also common when Dolurrh is remote, but rather than being spirits from Dolurrh, it is typically spirits of those who died and were able to resist the pull of Dolurrh - whether from unfinished business or great emotion at the time of death.
+While Dolurrh is remote, resurrection magic outside of Dolurrh's manifest zones always fails. The soul cannot return from Dolurrh, and the only way to raise the dead is by travelling to Dolurrh itself to retrieve the soul.
 )
-  
-  
+=
 item(
 # Fernia: The Sea of Flame ((++Fernia))
 ## Plane
@@ -191,11 +172,6 @@ item(
 **Moon and Portal Colour** Silver
 
 **Native Inhabitants** Efreet, Dao, Lesser Elementals, Fiends, Celestials
--
-Fernia is the plane of the concept of fire. This is not simply mundane fire, but all the concepts that are associated with flame, burning, and fire. It embodies the destruction caused as a fire rages through a forest, but also the richness of ash that results. It is the embodiment of the industry of the forge, the burning passion of emotion, and the blaze of spectacle and glory. [EE 161]
-)
-=
-item(
 # &nbsp;
 ## Planar Effects
 -
@@ -223,14 +199,11 @@ A Fernia manifest zone typically manifests one or two of the planar effects. In 
 # &nbsp;
 ## Coterminous and Remote
 -
-Fernia is typically coterminous once every five years during the month of Lharvion, and then it is remote once every five years during the month of Zarantyr two and a half years later.
-
-When Fernia is coterminous, temperatures across Eberron rise sharply. Regions that are already hot can become dangerously hot - and can begin to manifest the Fernia Planar traits even if unassociated with a Manifest Zone. On rare occasions, creatures caught by intense flame can find themselves pulled through to Fernia itself.
+When Fernia is coterminous, temperatures across Eberron rise sharply. Regions that are already hot can become dangerously hot - and can begin to manifest the Fernia Planar traits even if unassociated with a Manifest Zone.
 
 While Fernia is remote, intense heat loses some of its edge. Regions of high temperature become one stage lower than normal. In addition, creatures increase their resistance to fire damage by 5. 
 )
-  
-  
+=
 item(
 # Irian: The Eternal Dawn ((++Irian))
 ## Plane
@@ -241,16 +214,11 @@ item(
 **Moon and Portal Colour** Bright Grey
 
 **Native Inhabitants** Embers, lumi, celestials, the Architects
--
-Irian is the embodiment of Life and Birth. Irian is the dawn that inevitably banishes even the darkest night, the promise of spring triumphing over the coldest winter. It’s the bastion of hope, the promise that life always finds a way. [EE 165]
-
 # &nbsp;
 ## Planar Effects
 -
 **Positive Power.** Positive spells are enhanced, while negative spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the positive trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
-)
-=
-item(
+
 **Negative Void.** To Cast a Spell that deals negative damage, a creature must succeed on a flat check with a DC equal to 5 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are lost.
 
 **Pure Light.** There is no darkness in Irian. Any spell, effect, or other situation that would usually create darkness instead only reduces the lighting to dim light.
@@ -279,13 +247,10 @@ In addition to the above uncommon effects, all Irian manifest zones always have 
 **Healing Guidance** You gain a +1 status bonus to all Medicine checks.
 
 **Upwelling of Life** All non-undead creatures gain a +1 status bonus to saves against fear, poison, and disease effects. In addition, when you rest you double the number of hit points you would normally recover.
-
 # &nbsp;
 ## Coterminous and Remote
 -
-Traditionally, Irian is coterminous for ten days in the month of Eyre and remote for ten days in the month of Sypheros. These effects occur once every three years; the remote cycle comes a year and a half after it is coterminous.
-
-When Irian is coterminous, life is plentiful. Health and fertility are enhanced, positive energy flows freely, and living creatures are infused with an abundant sense of hope. While Irian is coterminous, the Positive Power and Upwelling of Life properties apply all across Eberron.
+While Irian is coterminous, the Positive Power and Upwelling of Life properties apply all across Eberron.
 
 When Irian is remote, colours seem to fade and a sense of ennui pervades the world. All creatures take a -1 status penalty to saving throws against fear. In addition, any effect that restores hit points - including spells - only restores half the total.
 )
@@ -301,7 +266,7 @@ item(
 
 **Native Inhabitants** Wild things, Slaadi, Githzerai
 -
-Kythri is known as the Sea of Chaos and embodies chaos in all its forms. There are places of land at the edges of the sea of chaos, where islands linger. These lands steadily and constantly change, but creatures can live on these islands, adapting to the endlessly changing environment. [EE 169]
+Kythri embodies chaos in all its forms.
 
 # &nbsp;
 ## Planar Effects
@@ -326,10 +291,9 @@ Kythri manifest zones are often chaotic in minor or major ways. They may manifes
 # &nbsp;
 ## Coterminous and Remote
 -
-Kythri’s cycle of coterminous and remote periods is completely unpredictable, lasting anywhere from days to centuries. However, neither coterminous nor remote periods have any discernable effect on Eberron.
+Neither coterminous nor remote periods have any discernable effect on Eberron.
 )
-  
-  
+=
 item(
 # Lamannia: The Twilight Forest ((++Lamannia))
 ## Plane
@@ -340,16 +304,11 @@ item(
 **Moon and Portal Colour** Pale orange
 
 **Native Inhabitants** Beasts, Elementals, Humanoids
--
-Lamannia embodies primordial nature, untapped and untamable. It’s often called the Twilight Forest and is depicted as a realm of colossal trees and massive beasts. However, all natural environments are represented in their most extreme by various layers. [EE 179]
-
 # &nbsp;
 ## Planar Effects
 -
 **Extended Primal Magic.** When a creature casts a spell on the primal list, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled.
-)
-=
-item(
+
 **Indomitable Beasts.** Creatures with the animals, beasts, or elemental trait gain a +2 status bonus to Fortitude and Will saves. Upon its arrival in Lamannia, any elemental or beast that’s under the effects of an enchantment spell or bound in any way may choose to immediately end the effect.
 
 **Primal Power.** When you Cast a Spell on the primal list, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
@@ -363,20 +322,15 @@ item(
 # &nbsp;
 ## Manifest Zones
 -
-Lamanna manifest zones are relatively common and usually have at least one of the plane's properties. It’s relatively common for these zones to serve as gateways to Lamannia, though they might require a lunar alignment or a coterminous period. Plants and beasts near Lamannian zones often are significantly larger and healthier than their counterparts in other areas.
-
+Lamanna manifest zones are relatively common and usually have at least one of the plane's properties.
 # &nbsp;
 ## Coterminous and Remote
 -
-Lamannia traditionally becomes coterminous for a week around the summer solstice and is remote for a week during
-the winter solstice.
+While Lamannia is coterminous, spells that target creatures with the animal, beast, or elemental trait are extended; if a spell has a duration of 1 minute or longer, the duration is doubled; spells with a duration of 24 hours or more are unaffected. 
 
-While Lamannia is coterminous, fertility rates of beasts and animals increase and animals and beasts born in these times are strong and hearty. Spells that target creatures with the animal, beast, or elemental trait are extended; if a spell has a duration of 1 minute or longer, the duration is doubled; spells with a duration of 24 hours or more are unaffected. 
-
-While Lamannia is remote, fertility rates of beasts and animals drop, and beasts born in these periods are often weak or sickly. Animals are often uneasy, and the duration of spells that affect creatures with the animal, beast, or elemental trait are cut in half, to a minimum duration of one round. 
+While Lamannia is remote, the duration of spells that affect creatures with the animal, beast, or elemental trait are cut in half, to a minimum duration of one round. 
 )
-  
-  
+=
 item(
 # Mabar: The Endless Night ((++Mabar))
 ## Plane
@@ -388,18 +342,11 @@ item(
 shadowy
 
 **Native Inhabitants** Shadows, Yugoloths and other Immortals, Undead, Dark Powers, Hostages
--
-Mabar embodies the fear of the dark, death, and all that comes to an end. It’s entropy, despair, and loss. Mabar is the plane of darkness and death - the hunger that consumes both light and life.
-
-Mabar is the source of negative energy and the origin of most undead. Manifest zones - and most undead - tied to Mabar consume the life force from the world around them. However, some people maintain that negative energy itself is just a tool and that the power of Mabar can be harnessed for good.
-
 # &nbsp;
 ## Planar Effects
 -
 **Negative Power.** Negative spells are enhanced, while positive spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the negative trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
-)
-=
-item(
+
 **Radiant Void.** To Cast a Spell that deals positive damage, a creature must succeed on a flat check with a DC equal to 5 + the level of the spell. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are lost.
 
 **Eternal Shadows.** There is no light in Mabar. Any spell, effect, or other situation that would usually create bright light instead only increases the lighting to dim light.
@@ -416,21 +363,16 @@ Mabar, it takes 1d6 points of negative damage. If this damage reduces a creature
 # &nbsp;
 ## Manifest Zones
 -
-Mabar's manifest zones are infamous and almost universally shunned, as most are harmful to the flora and fauna of the region. However, such regions are also often powerful sources of negative energy.
-
-While Mabaran manifest zones rarely serve as gateways to the plane, they are powerful sources of negative energy and produce undead. Skeletons, zombies, and ghouls can all spontaneously rise in Mabaran manifest zones, and more powerful undead can be created under the proper circumstances
+Mabar's manifest zones are often powerful sources of negative energy. Skeletons, zombies, and ghouls can all spontaneously rise in Mabaran manifest zones.
 
 # &nbsp;
 ## Coterminous and Remote
 -
-Traditionally, Mabar is coterminous for three nights in the month of Vult - the nights of the new moon closest to the winter solstice. The people of the Five Nations call this time Long Shadows. Mabar is remote less frequently, for five days around the summer solstice, but only once every five years.
-
 On nights when Mabar is coterminous, the Necrotic Power property encompasses the entire world, and the radius of all light sources is halved. 
 
 When Mabar is remote, all creatures increase their resistance to negative damage by 5. 
 )
-  
-  
+=
 item(
 # Risia: The Plain of Ice ((++Risia))
 ## Plane
@@ -441,16 +383,11 @@ item(
 **Moon and Portal Colour** Lavender
 
 **Native Inhabitants** Spirits of Ice, Frost Giants and Dwarves
--
-Risia is the plane of the Plain of Ice. As Fernia is the embodiment of fire, Risia is the embodiment of all things associated with ice and cold. Though the landscape of Risia is primarily an arctic wasteland, the concepts of isolation, stagnation, and preservation are all demonstrated throughout the plane. The endless frozen plane isn’t about snow, it’s about the utter stillness, the empty and unchanging landscape.
-
 # &nbsp;
 ## Planar Effects
 -
-**Lethal Cold.** All regions of Fernia are subject to temperatures of extreme cold (Core Rulebook page 517), though some regions reach temperatures of incredible cold. All creatures increase their resistance to fire damage by 5.
-)
-=
-item(
+**Lethal Cold.** All regions of Risia are subject to temperatures of extreme cold (Core Rulebook page 517), though some regions reach temperatures of incredible cold. All creatures increase their resistance to fire damage by 5.
+
 **Empowered Ice.** Cold spells are enhanced, while fire spells are impeded (Gamemastery Guide page 136). When you Cast a Spell with the cold trait, that spell is automatically heightened 1 level, up to a level equal to the highest spell level you can cast.
 
 **Preservation.** When a creature starts its turn with the dying condition, it loses the dying condition and remains unconscious at 0 hit points, increasing the wounded condition as normal. While unconscious at 0 hit points, you enter a state of suspended animation. If an unconscious creature at 0 hit points remains in contact with the ground for more than 1 minute, it’s drawn below the surface and encased in an ice-encrusted stasis. While encased in this way, time ceases to flow for the creature and it doesn’t grow older.
@@ -471,14 +408,11 @@ A Risia manifest zone typically manifests one or two of the planar effects. In a
 # &nbsp;
 ## Coterminous and Remote
 -
-Traditionally, Risia becomes coterminous once every five years for the full month of Zarantyr. Once every five years, exactly two and a half years after it is coterminous, it’s remote during the month of Lharvion. However, this isn’t always the case. Historians have recorded times when the cycle has extended far longer.
-
-When Risia is coterminous, temperatures across Eberron drop sharply. Regions that are already cold can become dangerously hot - and even begin to manifest the Risia Planar traits even if unassociated with a Manifest Zone. On rare occasions, creatures caught by intense cold can find themselves pulled through to Risia itself.
+When Risia is coterminous, temperatures across Eberron drop sharply. Regions that are already cold can become dangerously cold - and even begin to manifest the Risia Planar traits even if unassociated with a Manifest Zone.
 
 While Risia is remote, intense cold loses some of its bite. Regions of cold temperature become one stage higher than normal. In addition, creatures increase their resistance to cold damage by 5. 
 )
-   
-  
+=
 item(
 # Shavarath: The Battleground ((++Shavarath))
 ## Plane
@@ -489,16 +423,11 @@ item(
 **Moon and Portal Colour** Pockmarked steel-gray
 
 **Native Inhabitants** Conscripts, Sword Wraiths, Whirling Blades, Angels, Demons, Devils
--
-Shavarath is the battleground plane. In Shavarath, there’s only one constant: total war.
-
 # &nbsp;
 ## Planar Effects
 -
 **War Magic.** When a creature casts a spell that grants a bonus to AC, attack rolls, or saving throws or a spell that grants temporary hit points, its range is doubled; if that spell has a duration of at least 1 minute but less than 24 hours, the duration is also doubled. 
-)
-=
-item(
+
 **Unquenchable Fury.** Creatures gain a +2 status bonus to saving throws against any spells or abilities that improve a target's Attitude or soothe their emotions such as Calm Emotions. In addition, the duration of these effects is halved, to a minimum duration of 1 round. In addition, a barbarian's rage cannot be ended early unless they are knocked unconscious.
 
 **Fight On.** On a creature’s turn, it can use an action to spend a Hero Point to regain 1d10 + level + Constitution modifier hit points (minimum of 1).
@@ -510,19 +439,16 @@ item(
 # &nbsp;
 ## Manifest Zones
 -
-Manifest zones tied to Shavarath often inspire people to violence and aggression, but can also encourage martial discipline and enhance training. They typically manifest one or more of the planar effects of Shavarath.
+Manifest zones tied to Shavarath often manifest one or more of the planar effects of Shavarath.
 
 # &nbsp;
 ## Coterminous and Remote
 -
-Shavarath is traditionally coterminous for 1 year every 36 years, and remote for a year every 36 years, which prevents the occasional single-day coterminous spikes, but otherwise has no apparent effect on the Material Plane. In addition to its regular cycle, Shavarath frequently grows coterminous or remote for a single day.
-
-When Shavarath is coterminous, people are quick to anger and must be careful to not fight over trivial things. The plane’s War Magic and Unquenchable Fury properties spread worldwide while it’s coterminous, encouraging violence.
+When Shavarath is coterminous War Magic and Unquenchable Fury properties spread worldwide, encouraging violence.
 
 When Shavarath is remote, there is no apparent effect on the material plane.
 )
-  
-  
+=
 item(
 # Syrania: The Azure Sky ((++Syrania))
 ## Plane
@@ -533,8 +459,6 @@ item(
 **Moon and Portal Colour** Blue-gray
 
 **Native Inhabitants** Angels, Virtues, Dominions, Thrones
--
-Syrania is the plane of peace and all that flourishes in peaceful times: commerce, education, and reflection. It is an endless sky where cities float among the clouds and peace reigns over all. 
 
 # &nbsp;
 ## Planar Effects
@@ -548,9 +472,7 @@ Syrania is the plane of peace and all that flourishes in peaceful times: commerc
 **Absolute Peace.** To make an attack or cast a damaging spell, a creature must succeed on a flat check of DC 5 + spell level. On a failed check, the spell is not cast and its spell slot is not expended, but the actions are still consumed.
 
 **Standard Time.** Time passes at the same pace as on the Material Plane and is consistent across its layers.
-)
-=
-item(
+
 # &nbsp;
 ## Manifest Zones
 -
@@ -559,14 +481,11 @@ Manifest zones tied to Syrania can reflect one or more of the properties of the 
 # &nbsp;
 ## Coterminous and Remote
 -
-Traditionally, Syrania is coterminous on the 9th day of the month of Rhaan, once every ten years. Syrania is remote once every ten years on the same day, five years after the coterminous period.
-
 When Syrania is coterminous, the Absolute Peace and Gentle Thoughts properties apply across Eberron. However, if a creature is attacked, harmed by a spell, or witnesses its friends being harmed, that creature is unaffected by Absolute Peace for one minute. 
 
-When Syrania is remote, people feel quarrelsome and it’s difficult to come to an understanding. Creatures gain a +2 status bonus to intimidation checks, and a -2 status penalty to diplomacy checks. Outside of Syranian manifest zones, all flying speeds are reduced by 10 feet, to a minimum of 5 feet.
+When Syrania is remote creatures gain a +2 status bonus to intimidation checks, and a -2 status penalty to diplomacy checks. Outside of Syranian manifest zones, all flying speeds are reduced by 10 feet, to a minimum of 5 feet.
 )
-  
-  
+=
 item(
 # Thelanis: The Faerie Court ((++Thelanis))
 ## Plane
@@ -577,9 +496,6 @@ item(
 **Moon and Portal Colour** Pale blue
 
 **Native Inhabitants** Supporting Cast, Eladrin and other mortals, Greater Fey, Archfey and Anchor Barons
--
-Thelanis is a plane built on iconic stories and is the heartland of the fey. It’s a fantastic realm essentially built around the idea of adventures, but it’s a deadly place for those who refuse to understand its rules.
-
 # &nbsp;
 ## Planar Effects
 -
@@ -596,21 +512,16 @@ Thelanis is unpredictable, and its cardinal rule is that layers follow their own
 # &nbsp;
 ## Manifest Zones
 -
-Many manifest zones of Thelanis act as gateways into the realm, typically by breaking common superstition and wandering away from known paths. Many other Manifest zones reflect the properties and influence of Thelanis without allowing passage between worlds. 
-)
-=
-item(
+Many manifest zones of Thelanis act as gateways into the realm. Many other Manifest zones reflect the properties and influence of Thelanis without allowing passage between worlds. 
+
 # &nbsp;
 ## Coterminous and Remote
 -
-Traditionally, Thelanis becomes coterminous for 7 years every 225 years, and it is remote for 7 years halfway between these cycles.
+When Thelanis is coterminous, new gateway zones spring up. 
 
-When Thelanis is coterminous, new gateway zones spring up. Mischievous or cruel fey may cross over, and it’s far easier for careless travellers to cross over.
-
-When Thelanis is remote, the effects of Thelanian manifest zones are suppressed. Fey creatures may be temporarily drawn back to Thelanis, even those that normally dwell on Eberron. In general, the world feels less magical.
+When Thelanis is remote, the effects of Thelanian manifest zones are suppressed.
 )
-  
-  
+=
 item(
 # Xoriat: The Realm of Madness ((++Xoriat))
 ## Plane
@@ -622,8 +533,6 @@ item(
 black chasm crossing it
 
 **Native Inhabitants** The Daelkyr, Aberrations
--
-Xoriat is a plane that reassembles and changes fundamentals of reality, warping and bending these fundamentals in ways that may make you question your understanding of the world. Xoriat is a deeply dangerous place, but the plane itself isn’t evil or destructive. Xoriat is a glimpse at what lies behind and beyond, of the other ways reality could have been - and of the unseen ways that it is.
 
 # &nbsp;
 ## Planar Effects
@@ -637,14 +546,10 @@ Xoriat is a plane that reassembles and changes fundamentals of reality, warping 
 # &nbsp;
 ## Manifest Zones
 -
-The seals of the Gatekeepers block travel to Xoriat, but there are still many ways the Realm of Madness can affect the world.
-
-Manifest zones tied to Xoriat are common in the Shadow Marches, but rare elsewhere. Manifest zones typically convey one or more of the universal properties of the plane. The most common is the Dangerous Revelations and Unpredictable Magic are the most common properties.
+Manifest zones typically convey one or more of the universal properties of the plane. The most common is the Dangerous Revelations and Unpredictable Magic are the most common properties.
 
 # &nbsp;
 ## Coterminous and Remote
 -
-The seals crafted long ago by the Gatekeeper druids keep Xoriat from becoming coterminous. 
-
-Xoriat’s remote phases have no known effect, and like Kythri, they’re unpredictable, though the phases tend to come and go far more slowly than Kythri’s do.
+The plane no longer goes through Coterminous or Remote cycles.
 )

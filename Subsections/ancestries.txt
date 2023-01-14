@@ -46,161 +46,128 @@ For more information about the Ancestries of Eberron, see the Eberronicon entrie
 The Pathfinder 2e mapping is denoted in brackets if necessary. All of the following ancestries note their rarity, which replaces any pre-existing rarity trait if it exists.
 
 ## Bugbears
-Bugbears are **uncommon** in the world of Eberron. Bugbears (also referred to as the Guul'dar) in Eberron are primarily residents of the nation of Darguun and Droaam and are less monstrous than is typical of the Bugbears in Pathfinder 2e.
-
+Bugbears are **uncommon** in the world of Eberron.
 The Bugbear Ancestry is provided in this document.
 info(
 For more information on Goblinoids of Eberron, see Exploring Eberron (p. 96). 
 )
 ## Dwarves
-Dwarves are **common** in the world of Eberron. Dwarves of Eberron are well represented by the Pathfinder 2e implementation.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Dwarves Ancestry.
+Dwarves are **common** in the world of Eberron. 
+Dwarves of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on the Dwarves, see Exploring Eberron (p.112)
 )
 ## Drow
-Drow are an Ancestry that are something of a hot topic. Drow in Eberron (like all Ancestries) are not inherently tied to any specific alignment. Drow do exist in Eberron, primarily on the continent of Xen'drik. It would not be unreasonable (although it would be uncommon) to see Drow on the continent of Khorvaire. Drow are **uncommon** in the world of Eberron.
-
+Drow are **uncommon** in the world of Eberron.
 If playing a Drow, use the Elf Ancestry with one of the Cavern Elf, Seer Elf, or Whisper Elf.
-=
+
 note(
 The use of these Heritages for Drow does not preclude their use with Non-Drow Elves. With GM permission, you could also use any Elf Heritage to play a Drow.
 )
 info(
 For more information on the drow, see the Eberronicon (p. 8).
 )
+=
 ## Eberron Changelings
-The Changelings presented in the Pathfinder 2e rules, and Eberron Changelings are significantly different in their lore and mechanical implementation. While Pathfinder 2e changelings are the descendants of Hags, Eberron changelings are a unique shapeshifting Ancestry. Changelings are **uncommon** in the world of Eberron.
-
+The Changelings presented in the Pathfinder 2e rules, and Eberron Changelings are different in their lore and mechanical implementation. Eberron changelings are a unique shapeshifting Ancestry. Changelings are **uncommon** in the world of Eberron.
 The Eberron Changeling Ancestry is provided in this document.
 info(
 For more information on Changelings of Eberron, see Exploring Eberron (p. 33). 
 )
 ## Elves
-Elves are **common** in the world of Eberron. Elves of Eberron are well represented by the Pathfinder 2e implementation.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Elf Ancestry.
+Elves are **common** in the world of Eberron. 
+Elves of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Elves of Eberron, see Eberron Campaign Setting (p. 14).
 )
 ## Gnolls
-Gnolls are **uncommon** in the world of Eberron. Gnolls in Eberron are close, but not quite the same as the Pathfinder 2e implementation. Gnolls of Eberron are instead a pact of clans that have managed to break free of the bindings of the Overlords and have developed as a fiercely independent mercenary culture.
-
+Gnolls are **uncommon** in the world of Eberron. 
 This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Gnoll Ancestry, detailed as a new Eberron Gnoll ancestry.
 info(
 For more information on Gnolls of Eberron, see Exploring Eberron (p. 93.)
 )
 ## Gnomes
-Gnomes are **common** in the world of Eberron. Pathfinder 2e gnomes are significantly more Fey
-|
-aligned than the standard Eberron gnome, which results in feats and heritages that don't quite align with the Eberron vision of gnomes. However, these differences are primarily lore-based and relatively easily adjusted. 
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e gnome ancestry.
+Gnomes are **common** in the world of Eberron.
+Gnomes of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Gnomes of Eberron, see Eberron Campaign Setting (p. 14).
 )
 ## Goblins
-Goblins are **common** in the world of Eberron. Pathfinder 2e has made significant modifications to the Goblin Ancestry to provide additional flavour. While this deviates from the world of Eberron, it adds additional fun lore for the DM to work with that should be fairly simple to integrate into the world. Goblins (also referred to as the Golin'dar) in Eberron are primarily residents of the nation of Darguun and Droaam.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e goblin Ancestry.
+Goblins are **common** in the world of Eberron. 
+Gnomes of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Goblinoids of Eberron, see Exploring Eberron (p. 96). 
 )
+|
 ## Half-Elves
-Half-Elves are **common** in the world of Eberron. Also called Khoravar, the vast majority of Khoravar are the descendants of two Half-Elves rather than a Human and Elf parent. Despite this, Half-Elves remain a Human heritage as currently implemented in PF2e core rules. While Pathfinder 2e provides the rules to apply the Half-Elf ancestry to non-human Ancestries, this should be considered **rare**.
-
-This document introduces lore adjustments, dragonmarked variants of the half-elf heritage, and feats for the Pathfinder 2e half-elves.
+Half-Elves are **common** in the world of Eberron. Also called Khoravar, the vast majority of Khoravar are the descendants of two Half-Elves rather than a Human and Elf parent. 
+Half-Elves of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Khoravar of Eberron, see Eberron Campaign Setting (p. 15). 
 )
 ## Half-Orcs
-Half-Orcs are **common** in the world of Eberron. Half-Orcs lineages are more varied than the Half-Elves. It is as likely as not that your parents were Human and Orc as both Half-Orc. Despite this, Half-Orcs remain a Human heritage as currently implemented in PF2e core rules. While Pathfinder 2e provides the rules to apply the Half-Orc ancestry to non-human Ancestries, this should be considered **uncommon**.
-=
-This document introduces lore adjustments, dragonmarked variants of the half-orc heritage, and feats for the Pathfinder 2e half-orcs.
+Half-Orcs are **common** in the world of Eberron. Half-Orcs lineages are more varied than the Half-Elves. It is as likely as not that your parents were Human and Orc as both Half-Orc.
+Half-Orcs of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Half-Orcs of Eberron, see Eberron Campaign Setting (p. 16). 
 )
 ## Halflings
-Halflings are **common** in the world of Eberron. Halflings of Eberron are well represented by the Pathfinder 2e implementation.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e halfling Ancestry.
+Halflings are **common** in the world of Eberron. 
+Halflings of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Halflings, see Eberron Campaign Setting (p. 16).
 )
 ## Hobgoblins
-Hobgoblins are **uncommon** in the world of Eberron. Hobgoblins (also referred to as the Ghaal'dar) in Eberron are primarily residents of the nation of Darguun and Droaam and are less monstrous than is typical of the Hobgoblins in Pathfinder 2e. Pathfinder 2e has made significant modifications to the hobgoblins ancestry to provide additional flavour. This deviates from the world of Eberron, and unlike the goblin, these changes are more difficult to integrate with the world of Eberron.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Hobgoblins Ancestry.
+Hobgoblins are **uncommon** in the world of Eberron. 
+Hobgoblins of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Goblinoids of Eberron, see Exploring Eberron (p. 96). 
 )
 ## Humans
-Humans are **common** in the world of Eberron. Humans of Eberron are well represented by the Pathfinder 2e implementation.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Humans Ancestry.
+Humans are **common** in the world of Eberron.
+Humans of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Humans, see Eberron Campaign Setting (p. 12).
 )
 ## Kalashtar
-Kalashtar are **uncommon** in the world of Eberron. Kalashtar
-|
-are a unique Ancestry to Eberron. Kalashtar were born with a bond to an otherworldly being. They have memories of a life they've never lived, the vision of battling fiends and an endless struggle against darkness. 
-
+Kalashtar are **uncommon** in the world of Eberron.
 The Kalashtar Ancestry is provided in this document.
 info(
 For more information on Kalashtar, see Exploring Eberron (p. 40). 
 )
+=
 ## Kobolds
-Kobolds are **common** in the world of Eberron. Kobolds of Eberron are well represented by the Pathfinder 2e implementation.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Kobolds Ancestry.
+Kobolds are **common** in the world of Eberron. 
+Kobolds of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Kobolds, see the Eberronicon (p. 14).
 )
 ## Lizardfolk
-Lizardfolk are **uncommon** in the world of Eberron. Lizardfolk of Eberron are well represented by the Pathfinder 2e implementation.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e Lizardfolk Ancestry.
+Lizardfolk are **uncommon** in the world of Eberron.
+Lizardfolk of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Kobolds, see the Eberronicon (p. 15).
 )
 ## Orcs
-Orcs are **common** in the world of Eberron. Orcs of Eberron are well represented by the Pathfinder 2e implementation. Orcs of Eberron have a deep history with the world, which warrants a read.
-
-This document introduces lore adjustments, additional heritages and feats which can be used for additional flavour on top of the Pathfinder 2e orc Ancestry.
+Orcs are **common** in the world of Eberron. 
+Orcs of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Orcs, see the Eberronicon (p. 15).
 )
 ## Shifters
-Shifters are **uncommon** in the world of Eberron. Shifters are an ancestry descended from humans and natural werecreatures. Shifters cannot completely change like their were-counterparts but can shift to take on the features of the animal inherent to their bloodline. While the beastkin ancestry applied to a
-=
-human is a close match to the mechanics of the ancestry, a new Shifter ancestry is provided in this document and the beastkin versatile ancestry is considered exotic.
-
-note(
-Shifters live in the deepest parts of the Eldeen Reaches, and the northern reaches of Sarlona. Given that this ancestry hails from these remote locations, is possible that some variations of Shifters are yet unknown to Khorvaire. As such, consider allowing the PCs to play Catfolk, Ratfolk, Kitsune, Tengu, or Shoony Ancestries as Shifters of Eberron who are more permanently integrated with their animalistic traits.
-)
+Shifters are **uncommon** in the world of Eberron. 
+The Shifters Ancestry is provided in this document.
 info(
 For more information on Shifters, see the Eberronicon (p. 16).
 )
 ## Warforged
-Warforged are **common** in the world of Eberron. Warforged are a unique Ancestry to Eberron. Warforged were created as soldiers of war, and now as the last war ends many of them have lost their purpose. Consider what this means for you.
-
+Warforged are **common** in the world of Eberron.
 The warforged ancestry is provided in this document.
 info(
 For more information on Warforged, see Exploring Eberron (p. 45)
 )
-  
-  
-  
-  
-note (
-# Dragonborn
-Dragonborn are an addition to the world of Eberron as of D&D 4e. Given that they are unique to D&D, that Paizo has (intentionally) avoided implementing their statistics, and that Dragonborn are a late introduction to the world of Eberron, this document does not note them as a Core race and will not provide statistics. If the dragonborn are particularly interesting to you, consider either of the Lizardfolk or Kobold Ancestry which have established cultures in Eberron. As always, talk to your GM.
-)
-|
 # Versatile Ancestries ((++Versatile Ancestries))
-There exist instances of canon NPCs throughout the world of Eberron with the following Versatile Ancestries, as such they are Uncommon in rarity. However, the following Ancestries are typically the result of unique circumstances around the birth of a child. 
+There exist instances of these versatile ancestries throughout the world of Eberron, as such they are Uncommon in rarity. However, the following Ancestries are typically the result of unique circumstances around the birth of a child. 
 
 ## Aasimar
 Aasimar of Eberron are well represented by the Pathfinder 2e implementation.
@@ -210,166 +177,12 @@ For more information on Aasimar, see Exploring Eberron (p. 77)
 
 ## Tieflings
 Tieflings of Eberron are well represented by the Pathfinder 2e implementation.
-
 info(
 For more information on Tieflings, see the Eberronicon (p. 16).
 )
-  
+ 
 # Exotic Ancestries ((++Exotic Ancestries))
-The following Ancestries exist in Pathfinder 2e, however, they do not have any equivalent (or common equivalent) in the world of Eberron. If an Ancestry isn't directly noted in this document, it should be considered an Exotic Ancestry. All Exotic Ancestries gain the Rare trait, replacing other rarity traits they may have. The following are all suggestions about how you might be able to integrate them into your Eberron.
-
-## Anadi
-The Anadi are a difficult race to place, but could be one of the Ancestries native to Xen'drik during the rule of the giants. Alternatively, they may live in the southern jungles of Khorvaire and simply be truely reclusive.
-
-## Android
-Given the conflict that an Android presents with the Warforged Ancestry, and that Eberron is entirely cut off from the Multiverse - Androids are discouraged. However - as always - talk to your GM about having an Android as an advanced Warforged experiment or prototype.
-=
-## Aphorite
-An ancestry native to the Plane of Daanvi, or one of Daanvi's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 149).
-)
-
-## Automaton
-The custom Warforged ancestry presented in this guide is heavily based off of the Automaton ancestry. Given the conflict that an Automaton presents with the Warforged Ancestry, and that Eberron is entirely cut off from the Multiverse - Automatons are discouraged. However - as always - talk to your GM about having an Automaton as an advanced Warforged experiment or prototype.
-
-## Azarketi
-An ancestry native to the depths of the Thunder Sea. While much of the Ancestry's lore does not apply in Eberron, the mechanics are sound.
-info(
-For more information, see Exploring Eberron (p. 127).
-)
-
-## Catfolk
-Consider them a unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities. Alternatively you could consider them to be a mortal bloodline of the Rakshasa, similar to Tieflings.
-
-## Changeling
-Not much needs to change to implement Pathfinder Changelings in Eberron. However, given the overlap in naming and uncommon nature of the Ancestry, it is denoted as exotic. If using Pathfinder Changelings, consider them entirely distinct from Eberron Changelings.
-
-## Conrasu
-Conrasu are an interesting concept, that could have originated in a few different ways. Consider the Conrasu as an experiment of the giants before they created the warforged, or even as the design that Cannith based its warforged on. Alternatively, they could be associated with Dal Quor, and the quori spirits present on the material plane.
-
-## Dhampir
-An ancestry native to the Plane of Mabar, or one of Mabar's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 177).
-)
-|
-## Duskwalker
-An ancestry native to the Plane of Dolurrh, or one of Dolurrh's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 156).
-)
-
-## Fetchling
-An ancestry native to the Plane of Mabar or Dolurrh, or one of Mabar's or Dolurrh's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 156, 177).
-)
-
-## Fleshwarp
-An ancestry native to the Plane of Xoriat, or one of Xoriat's manifest zones. Alternatively, you could be the result of one of Mordain the Fleshweaver's experiments. 
-info(
-For more information, see Exploring Eberron (p. 199).
-)
-
-## Ganzi
-An ancestry native to the Plane of Kythri, or one of Kythri's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 169).
-)
-
-## Goloma
-Goloma are an ancestry that are so reclusive, they could have originated from anywhere and simply not yet have been discovered. Consider also that Goloma may be native to Lamannia, which would suggest their fear of two-eyed people - as they have simply never encountered them before.
-info(
-For more information on Lamannia, see Exploring Eberron (p.173).
-)
-
-## Grippli
-As an Ancestry native to the depths of Q'barra, Xen'drik, or Eldeen Reaches.
-
-## Ifrit
-An ancestry native to the Plane of Fernia, or one of Fernia's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 161).
-)
-
-## Kitsune
-One possibility is as a unique sub-ancestry of Shifter native to the Eldeen Reaches. Alternatively, Kitsune could be an ancestry native to the continent of Sarlona. 
-=
-## Leshy
-As an Ancestry native to the depths of Q'barra, Xen'drik, Eldeen Reaches, or natives of the plane of Lammina or one of its manifest zones.
-info(
-For more information on Lamannia, see Exploring Eberron (p.173).
-)
-
-## Oread
-Oreads are difficult to place. Consider them as an ancestry native to the Plane of Risia, or the Plane of Fernia. If not from the plane itself, then one of the respective manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 161, 182).
-)
-
-## Poppet
-Poppets are small constructs granted a spark of life. This could fit into the world of Eberron in nearly any location where some random happenstance infused a small construct with sentient life. You could consider being the result of the mourning - a soul fused with one of their toys as the mists swept the land, you could consider simply being an advanced creation of your artificer, or you could consider yourself as a story book creature from the planes of Thelanis.
-info(
-For more information, see Exploring Eberron (p. 194).
-)
-
-## Ratfolk
-A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
-
-## Shisk
-Shisks are secretive mountain-dwellers, and may have been the natives to the Mror Holds before the dwarves arrived. However, Shisk could be native to any region of the world with significant mountains present.
-
-## Shoony
-Shoony could be a unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
-
-## Skeleton
-The Odakyr Rites are used to raise the undead in Karrnath as mindless undead soldiers, however, it is possible that due to special circumstances when you were raised that you are not a simple mindless minion. You could have been an intentional experiment into the advancements of necromancy, or simply a mistake due to a miscalculated interaction with a Dolurrh or Mabar manifest zone.
-|
-## Sprite
-An ancestry native to the Plane of Thelanis, or one of Thelanis's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 194).
-)
-
-## Strix
-An ancestry native to the Plane of Syrania, or one of Syrania's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 189).
-)
-
-## Suli
-Suli are difficult to place. Consider them as an ancestry native to the Plane of Risia, the Plane of Fernia, the Plane of Kythri, or the Plane of Lamannia. If not from the plane itself, then one of the respective manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 161, 169, 173, 182).
-)
-
-## Sylph
-An ancestry native to the Plane of Syrania, or one of Syrania's manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 189).
-)
-
-## Tengu
-A unique sub-ancestry of Shifter native to the Eldeen Reaches, or the Lhazaar Principalities.
-
-## Undine
-An ancestry native to the Plane of Risia, or the Plane of Lamannia. If not from the plane itself, then one of the respective manifest zones. 
-info(
-For more information, see Exploring Eberron (p. 173, 182).
-)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+Any Ancestries in the Pathfinder 2e core rules that have are not listed above do not have any equivalent (or common equivalent) in the world of Eberron. All Exotic Ancestries gain the Rare trait, replacing other rarity traits they may have.
   
   
   

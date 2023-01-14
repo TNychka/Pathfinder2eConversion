@@ -3,9 +3,7 @@ head(
 Shifters are an ancestry with many similarities to the werecreatures of Eberron. While shifters cannot completely change like werecreatures, they can shift to take on the features of their beast within. From their beast within a shifter gains extraordinary abilities, such as deadly fangs, refined senses, speed, and other similar traits.
 -
 )
-Shifters are a diverse ancestry that combines the traits of humanoid and beast heritage, not unlike a were-creature. At a young age, each shifter discovers their beast within, which comes to define who they are as a person. With the ability to draw on their inherent beast to temporarily shift into a more animalistic version of themselves, they are sometimes also referred to as the were-touched. While some believe shifters are the descendants of werecreatures, the opposite is true. The first werecreatures to plague Khorvaire are said to be shifters who were cursed with great evil. Shifters are unrelated to modern werecreatures and are a distinct ancestry of Eberron with unique cultures and traditions. 
-
-Despite the distinction between shifters and werecreatures, shifters were persecuted during the fifty-year crusade against werecreatures less than two centuries ago. Targeted by the crusaders who fought against the rising lycanthrope tide, many innocent shifters were killed in the crusade to eliminate the threat. Since then, most shifters across Khorvaire prefer to live in enclaves or districts of other shifters - avoiding other ancestries which may still bear them ill will.
+Shifters are a diverse ancestry that combines the traits of humanoid and beast heritage, not unlike a were-creature. 
 
 ## You might...
 - Prefer the companionship of other shifters or a close group of friends.
@@ -18,19 +16,23 @@ Despite the distinction between shifters and werecreatures, shifters were persec
 - Have difficulty relating to the strong emotions you can feel. 
 
 ## Physical Description... 
-Shifters are humanoid in shape, but their ancestry gives shifters a distinctly lithe form compared to 
-|
-humans. While travelling, shifters tend to move in springs and leaps rather than simply walking alongside their humanoid companions. Their faces and bodies typically show traits of their beast within, such as longer fangs, pointed ears, feline eyes, and other such features. Their bodies -especially their legs and forearms -are typically covered in more hair than a human, creating a fur-like covering over their limbs. 
-A shifter's stance is typically upright with their weight placed on only the front of their clawed feet, creating a semi-digitigrade look. 
-
+Shifters are humanoid in shape, but their ancestry gives shifters a distinctly lithe form compared to humans. Their faces and bodies typically show traits of their beast within, such as longer fangs, pointed ears, feline eyes, and other such features. Their bodies -especially their legs and forearms -are typically covered in more hair than a human, creating a fur-like covering over their limbs. 
 A Shifters' beast within is more obvious when they are transformed into their hybrid shape, their features shifting to resemble the animal to which they are connected. The manifestation of these features varies from shifter to shifter, but typically, their teeth become more prominent, their skin toughens like hide, their hair lengthens, and their eyes reshape. 
 
 ## Society... 
-Shifters are a relatively uncommon race in the Five Nations, there are more changelings in Breland than there are shifters. Yet, the shifters who live throughout Khorvaire have formed tight-knit communities. There are two primary types of shifter communities. The first type of community is a nomadic tribal hunter-gather pack, common in the remote woods of the Eldeen Reaches. The other is common in urban centres where shifters form small enclaves to hold on to their traditions and remain with those who understand their ways.
+Shifters are a relatively uncommon race in the Five Nations. There are two primary types of shifter communities. The first type of community is a nomadic tribal hunter-gather pack. The other is common in urban centres where shifters form small enclaves to hold on to their traditions and remain with those who understand their ways.
 
-The communities of the deep forests of the Eldeen Reaches are typically formed out of a desire to be free of the control of nations and other ancestries. These communities are frequently nomadic hunter-gatherer tribes and are primarily composed of shifters. While it is not unheard of to have other ancestries present in a tribe, shifters typically tend to prefer to bond with fellow shifters. Here the culture and traditions of the shifter communities are strongest, as the shifter community cooperates for the good of one another and the survival of the community. 
+## Alignment and Religion... 
+Shifters are varied in alignment, and can be inclined to any alignment. 
 
-Shifter communities of the enclaves of major cities typically form as a result of shifters desire to hold on to their culture and traditions. As the minority in
+## Names... 
+Shifters typically take on names similar to that of humans, or that of the community around them though with a more rustic inclination. Shifters typically have a personal name that they use with their friends and a wandering name that they use with strangers. 
+
+### Sample names 
+Aethelwulf, Bennin, Bree, Burch, Dominic, Erylis, Geth, Karmos, Lorelai, Lyndra, Taria, Volante 
+### Sample wandering names 
+Ash, Aurora, Autumn, Brook, Claw, Cliff, Dawn, Flint, Frost, Hazel, Iris, Lily, Rain, River, Rose, Rock, Thorn, Torn, Storm, Summer 
+
 =
 right(
 ## Rarity
@@ -61,25 +63,6 @@ You gain the Change Shape action as noted in the shifter entry.
 ## Low-Light Vision
 You can see in dim light as though it were bright light, so you ignore the concealed condition due to dim light. 
 )
-many of these urban regions, without these tight-knit groups shifters struggle to hold on to the culture and traditions of their upbringing.  
-
-While the shifter parents are dedicated to raising their children, the family structure is different from many other ancestries. Shifter children typically form a strong bond with a few other children around their age group. Though the children in these groups are typically from many different families, this initial bond is often the strongest bond that a shifter forms in their life. 
-
-## Alignment and Religion... 
-Shifters are typically neutral and view the world as a struggle to survive. The moral and ethical concerns of a shifter are typically centred around the well-being of those directly around them. However, shifters are as varied in alignment as they are in the animals that they draw ancestry from, and can be inclined to any alignment. 
-
-After the silver crusade, shifters have become suspicious of any outside religion. Having seen how religion can motivate people, they view intense or conflict-prone religions as terrifying forces capable of causing great harm. As a result, shifters' religions are typically varied and less intense than many would expect of their culture.  
-Many shifters follow some form of druidic worship. The most common druidic worship of shifters is that of the order of druids known as the moonspeakers. These moonspeakers draw meaning from the movements of the moons and believe that the moon's influence over their heritage gives the moons great power over shifters. 
-Other shifters who reside in the major cities of Khorvaire have taken up worship of the local religion. Many shifters in the urban centres of Khorvaire revere Balinor and Boldrei of the Sovereign Host, and many shifter adventurers revere the ways of the Traveller of the Dark Six. 
-During the silver purge, some shifters adopted the faith of the Silver Flame and participated in the crusade. There are still shifters active in the church of the silver flame, though to much scorn of other shifters. 
-
-## Names... 
-Shifters typically take on names similar to that of humans, or that of the community around them though with a more rustic inclination. Shifters typically have a personal name that they use with their friends and a wandering name that they use with strangers. 
-
-### Sample names 
-Aethelwulf, Bennin, Bree, Burch, Dominic, Erylis, Geth, Karmos, Lorelai, Lyndra, Taria, Volante 
-### Sample wandering names 
-Ash, Aurora, Autumn, Brook, Claw, Cliff, Dawn, Flint, Frost, Hazel, Iris, Lily, Rain, River, Rose, Rock, Thorn, Torn, Storm, Summer 
 
 item(
 # Change Shape :a: 
@@ -88,9 +71,6 @@ item(
 **Frequency** Once per hour. 
 -
 You assume a more bestial shape. This hybrid shape has a specific, persistent appearance, which appears to be a half mix between a human and your beast within. This change is not similar to the change of a were-creature. While in hybrid shape, you gain a feature of the beast within your heritage. This transformation lasts for 1 minute, or until you spend an action to dismiss it. While in your hybrid form, you gain the beast trait. In addition, you gain a claws unarmed Strike resembling the features of your beast within (claws for felines, talons for
-)
-=
-item(
 eagles, and so on). Your claws deal 1d4 piercing damage, have the agile, finesse, and unarmed traits, and are in the brawling weapon group.
 )
 # Shifter Heritages 
@@ -111,7 +91,7 @@ item(
 -
 You brace yourself to take a hit, using your thick skin and fortitude to protect yourself. You gain a +1 circumstance bonus to AC. 
 )
-
+=
 ## Cliffwalk Shifter 
 Typically manifesting traits of the mountain goat, cliffwalk shifters can have traits of any animal with an aptitude for climbing. Cliffwalk shifters often have a shy and introverted nature but have a strong sense of kindness and justice for those around them.  
 
@@ -122,14 +102,14 @@ While in your hybrid form, you gain a +1 circumstance bonus to your Athletics ch
 
 ## Dreamsight Shifter
 Dreamsight shifters are rare among shifters, and their personage extends beyond their beast within.
-|
+
 Dreamsight shifters have a sharpened instinct and senses compared to other shifters, as they have a deeper connection to the plane of Lamannia. A dreamsight shifter may have any kind of beast within - though the animal is typically found in other shifter heritages too. Dreamsight shifters are usually calm and contemplative, especially when compared to other shifters.
 
 You gain a +1 circumstance to use the Diplomacy or Nature skill checks with animals and beasts.
 
 ### Hybrid form 
 While in your hybrid form, you have the ability to detect the presence of other creatures. You gain an imprecise lifesense of 15 feet which can detect any animal, beast, humanoid, or plant creature. This allows you to sense the life force within living creatures of the natural world.
-
+|
 ## Gorebrute
 Typically manifesting traits of a bull or ram, Gorebrute shifters can have traits of any animal with a violent charge. Gorebrute shifters value assertiveness and confidence, although these shifters' love for a challenge can be viewed as aggressive. These shifters tend to follow a code of honour or have strong principles of how one should carry themselves in conflict. 
 
@@ -145,6 +125,7 @@ You are nimble and can easily recover from a fall. You gain the Cat Fall feat.
 
 ### Hybrid form 
 While in your Hybrid form, you can use bursts of speed to outrun your competition. Your speed increases by 5 feet.
+
 =
 ## Longtooth Shifter
 Typically manifesting traits of a canine, tiger, hyena, or other predator, Longtooth shifters can have traits of any animal with a fierce bite. Longtooth shifters have the greatest connectedness with the natural order of all shifters. Sometimes considered savage by others, they rather prefer to live in tune with their surroundings. 

@@ -3,8 +3,8 @@ head(
 With a flash from the Dragonmark of a Deneith heir, the swing of a blade is deflected at the last moment. As a peace negotiation comes to a close, the glow of a Mark of Detection stops a hidden blade from ending it in war. Dragonmarks are powers that the heirs of twelve houses use to empower their skillset and specialize in their fields.
 -
 )
-    Dragonmarks are arcane symbols marked on the skin of seven of Khorvaire's common races. They are more intricate than a birthmark but more distinct than a tattoo. Dragonmarks are weaved of blue, green, and purple streaks so vivid, that they seem to glow even without producing light. Scholars still aren't sure as to the origins of Dragonmarks, yet their effect on the world is undeniable. 
-    Of the thirteen true dragonmarks that once existed, twelve true dragonmarks remain. As marks manifested on the peoples of Khorvaire, they did so exclusively in specific bloodlines. Each of these bloodlines has since joined with all other bloodlines of the same type of mark to form a dragonmarked house - gaining complete monopoly over the use of their mark in the world. With the power of their marks, these powerful houses now control large pieces of the economy of Khorvaire. Though each house is bound by the laws of the Korth Edict, in the wake of the last war these laws are being tested. If you bear a mark, it is up to you to decide how you relate to these powerful dragonmarked dynasties.
+    Dragonmarks are arcane symbols marked on the skin of seven of Khorvaire's common races. Dragonmarks are weaved of blue, green, and purple streaks so vivid, that they seem to glow even without producing light
+    As marks manifested on the peoples of Khorvaire, they did so exclusively in specific bloodlines. Each of these bloodlines has since joined with all other bloodlines of the same type of mark to form a dragonmarked house - gaining complete monopoly over the use of their mark in the world. With the power of their marks, these powerful houses now control large pieces of the economy of Khorvaire.
 
 ## Dragonmarks ((+Dragonmarks))
     Dragonmarks provide arcane power related to a specific and limited area of specialization. Depending on its type, a dragonmark will produce effects related to Detection, Finding, Handling, Healing, Hospitality, Making, Passage, Scribing, Sentinel, Storm, or Warding. The powers manifested by dragonmarks are spell-like effects, the variety and strength of these powers increase with your power, and the size of the dragonmark itself. These powers granted to you by your dragonmark, are in the form of Dragonmark Spells. 
@@ -343,24 +343,6 @@ item(
 With an eye for the magic of symbols, you gain a +2 status bonus to detect arcane symbols such as Sigil or Glyph of Warding. When you come within 15 feet of a hidden symbol, the GM makes a secret check for you to detect them, even if you didn't spend an action to Seek for the symbol.
 )
 |
-item(
-# Test of Siberys
-## Feat 3
--
-; Unique, Dragonmarked Heritage, General
-**Prerequisites** You do not have a Dragonmark, Your house is willing to run your test
--
-The Test of Siberys is a rite of passage undertaken by adolescent children of the dragonmarked houses. The test varies from house to house and is based both on the powers of the mark and the traditions of the family. Outsiders, even those of dragonmarked houses, know little of what goes on in a particular house’s test. The test is rumoured to induce the kind of extreme stress needed for dragonmarks to manifest. Though a person can fail the test and still manifest a mark at a later age, this is rare. As a rule, it is assumed that those who fail will never develop a dragonmark.
-If you choose the Test of Siberys, your character must undergo the test associated with their mark. _If_ you succeed, gain the Least Mark ancestry feat.
-)
-note(
-# Awarding the feat
-A character can only gain the benefits of the Test of Siberys _if_ they pass the test. A GM should run this as a personal challenge to the player, customized depending on their house. This challenge has a good chance of failure and even the potential of death. When a player would select this feat, do not grant them the bonus of a mark yet. Instead - as soon as reasonably possible in game - they should take the Test of Siberys. On a failure, have the player select a different feat in its place. They may not (except under extraordinary circumstances) ever attempt the test again.
-
-# Higher levels
-If a character takes this general feat at a higher level, such as 7th, you can consider allowing them to manifest any dragonmark of a lower level. However, the stakes associated with manifesting a higher level mark should increase accordingly.
-)
-
 #### 7th Level ((++7th Level))
 item(
 # Kyber's reaper :f:
@@ -373,7 +355,6 @@ item(
 -
 As your powers wreak havoc, your mark reaps the chaos. You instantly regain 1 focus point. 
 )
-=
 item(
 # Orien Battle Stride :r:
 ## feat 7
@@ -400,37 +381,6 @@ item(
 -
 You can quickly channel the powers of your mark. If the next spell you cast is a dragonmark focus spell, reduce the number of actions to cast it by 1 (minimum 1 action).
 )
-#### 19th Level ((++19th Level))
-item(
-# Heart of Siberys :r:
-## Feat 19
--
-; Dragonmark, General, Mark of Sentinel, Mark of Healing
-**Prerequisites** siberys mark
-
-**Frequency** once per day
-
-**Trigger** a creature within 30 feet of you would increase their dying condition
--
-You can call upon the power of your Siberys dragonmark to call a dying ally within 30 feet back from the brink. The ally you mark regains 1 hit point, does not increase their wounded condition, and gains a +2 status bonus to AC until the end of their next turn. Additionally, you may choose to expend one charge of your dragonmark focus pool to transfer as many of your remaining hit points to the marked creature as you wish. You cannot reduce your own hit points below 0 or raise the target's hit point total above its maximum.
-)
-|
-item(
-# Mark of Destiny :r:
-## feat 19
--
-; Dragonmark, Fortune, General
-**Prerequisites** siberys mark
-
-**Frequency** once per day
-
-**Trigger** see feat description
--
-You can use your Siberys mark to bend fate itself. You may invoke the mark of destiny in two circumstances.
-- When you make a check. You may expend one charge of your dragonmarked focus pool to reroll a check. You must use the second result. 
-- If you have at least 2 dragonmarked focus points you may expend them all to avoid death. You can do this when your dying condition would increase. You lose the dying condition entirely and stabilize with 0 Hit Points. You don’t gain the wounded condition or increase its value from losing the dying condition in this way, but if you already had that condition, you don’t lose it or decrease its value.
-)
-/
 =
 head(
 # Mark of Detection ((Dragonmarked Heritages))
@@ -1970,18 +1920,12 @@ head(
 The twelve dragonmarks are predictable, and their powers are generally constructive. But there is another kind of dragonmark, which is dangerous to both the bearer and the people around them. Aberrant dragonmarks can appear on members of any race, at any age, regardless of bloodline. No two aberrant dragonmarks are exactly alike-even if they grant the same power, they manifest in different ways.
 -
 )
-right(
-# Unique Marks
 Aberrant marks are unique - no two marks are the same - though they might produce similar effects. See the notes on Building a Spell list for how you might work with your GM to customize your mark.
-# The Dangers of the Aberrant
-During the war of the mark, the dragonmarked houses united to exterminate those with aberrant marks, significantly reducing their numbers. Survivors of the war had marks with significantly weaker powers. 
 
-Although aberrant marks are no longer hunted by the houses as during the War of the Mark, the fear of the aberrant marks persists. Since the Day of Mourning, the number of aberrant dragonmarks manifesting has begun to increase. This phenomenon is causing alarm in the Twelve. If a player character manifests a powerful aberrant mark and catches the attention of the Twelve, they may find themselves targeted once again.
-)
 Aberrant Mark is a versatile Heritage, which can only be applied to the following ancestries: Dwarf, Elf, Gnome, Human, Human (Half-Elf), Human (Half-Orc), or Halfling. By picking this Heritage at first level you gain access to all of the Mark of Aberrant Mark ancestry feats.
 
 ## Aberrant Mark [Uncommon Versatile (Dragonmarked Ancestries) Heritage]
-Aberrant marks often appear when people from different dragonmarked families produce a child, and for this reason, such unions are forbidden by the Twelve. However, Aberrant marks can appear at any time on any ancestry that has not already manifested a dragonmark. You gain the Dragonmarked Heritage, and the Aberrant Mark traits, in addition to the traits from your ancestry. In addition, you can pick from your original ancestry, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat. 
+Aberrant marks can appear at any time on any ancestry that has not already manifested a dragonmark. You gain the Dragonmarked Heritage, and the Aberrant Mark traits, in addition to the traits from your ancestry. In addition, you can pick from your original ancestry, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat. 
 
 **Special:** If you are a half-elf, this heritage replaces the half-elf heritage, though you still gain the elf trait, the half-elf trait, and low-light vision. In addition, you can select elf, half-elf, and human, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat.
 
@@ -1989,7 +1933,6 @@ Aberrant marks often appear when people from different dragonmarked families pro
 
 ## Aberrant Mark Focus Spells
 If you manifest a mark, you will begin to gain access to the following aberrant mark focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well. 
-
 ### Aberrant Feedback ((++Aberrant Feedback))
 One of the reasons that aberrant marks are so feared, is their potential for causing unintentional harm resulting from their use. The Aberrant Feedback trait applies to most spells that an aberrant mark can cast. 
 

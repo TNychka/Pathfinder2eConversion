@@ -1,5 +1,4 @@
 # Wandslinger (Class Archetype) ((+Wandslinger))
-The development of the cantrip — casual spells that can be used at will — took centuries, as the Arcane Congress studied Aereni techniques and the powers of sorcery. The soldiers of the united kingdom relied on sword and bow. But as the Last War began, Aundair took stock of its resources. Thanks to the presence of the Arcane Congress, Aundair led Galifar in mystical education. Assembling the first regiment of arcane dragoons, Aundair developed the war staff and battle rod. Over the course of the Last War, these techniques spread across the Five Nations and beyond. Today it’s no surprise to see a tough inquisitive or a Sentinel Marshal with a sword in one hand and a wand in the other. But no one calls these people “arcane dragoons.” If you fight your battles with fire bolt or sacred flame, you’re known as a “wandslinger.” EE 26
 Wielding wands alongside weapons, wandslingers are masters of a new form of martial art - wandslinging. Wandslinging is the art of blending arcane spell duelling with martial combat efficiency, enabling wandslingers to perform feats of combat prowess that neither wizard nor fighter could. Though they cast spells, they do so through the use of widespread items - wands and staves - rather than by arcane incantation. The flexibility to perform in many roles, along with their tenacity, grit, and martial expertise, has begun to develop the wandslingers notable reputation throughout Khorvaire. 
 
 ## Way of the Wandslinger (1st)
@@ -65,7 +64,7 @@ item(
 
 **Frequency** until recharged (see below)
 -
-You are the fastest wand in the west, east, south, and north. When you use Spellfire to replace a ranged firearm strike, you may interact to stow the wand, draw a loaded firearm, and fire the regular strike as well. The spell follows the rules for Spellfire, while the strike follows the regular strike rules including multiple targets. This counts as an additional attack for your multiple attack penalty, but you don't apply the penalty until after you've completed the replaced strike.
+You are the fastest wand in the west, east, south, and north. When you use Spellfire to replace a ranged firearm strike, you may interact to stow the wand, draw a loaded firearm, and make a regular strike as well. The spell follows the rules for Spellfire, while the strike follows the regular strike rules including multiple targets. This counts as an additional attack for your multiple attack penalty, but you don't apply the penalty until after you've completed  strike.
 
 After you use Fastest Wand In the West, you can't do so again until you dissipate the arcane charge built up around you as a single action, which has the concentrate trait.
 )
@@ -79,10 +78,12 @@ item(
 -
 You've armed yourself with a wand and a rudimentary knowledge of arcane theory to create temporarily functional wands. You gain the Cast a Spell activity, and can cast arcane spells. Each time you gain a spell slot of a new level from the wandslinger archetype, add a spell of that level or lower to your spellbook. However - unlike a normal spellcaster - you can only use the Cast a Spell activity by Activating an item. You gain a special spellbook with wand incantations for four common arcane cantrips of your choice. During your daily preparations, you create two unique cantrip wands each capable of casting one of these cantrips. These cantrip wands have no limit to their use and are never at risk of overcharge. 
 
-Any wand or stave that you use is considered an advanced martial firearm, and loaded while it still has a least one charge or daily use remaining. The use of these wands or staves still requires the Cast a Spell activity rather than a Strike action, and may not be used as a replacement for Strikes as a result. You do not become trained in spell attack rolls or spell DCs from this source. Instead, when casting from any wand or stave, use your advanced firearm proficiency for the spell attack roll and gunslinger class DC for DCs. Your key spellcasting ability for wandslinger archetype
+Any wand or stave that you use is considered an advanced martial firearm, and loaded while it still has a least one charge or daily use remaining. The use of these wands or staves still requires the Cast a Spell activity rather than a Strike action, and may not be used as a replacement for Strikes as a result. You do not become trained in spell attack rolls or spell DCs from this source. Instead, when casting from any wand
 )
 =
 item(
+
+or stave, use your advanced firearm proficiency for the spell attack roll and gunslinger class DC for DCs. Your key spellcasting ability for wandslinger archetype
 spells is Intelligence, and they are arcane gunslinger spells.
 
 During your daily preparations, you can prepare a staff as a prepared spellcaster. If you do not have the basic bounded spellcasting benefits yet, your highest-level spell slot is considered 1st level for the purposes of preparing a staff during your daily preparations.
