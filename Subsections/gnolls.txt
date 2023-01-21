@@ -48,10 +48,10 @@ Your clan is tied to the moon Dravago - the Herder. Your connection to the moon 
 
 ## Eyre Clan
 Your clan is tied to the moon Eyre - the Anvil. You become trained in Crafting (or another skill if you were already trained in Crafting), and you gain the Quick Repair skill feat. In addition, if you roll a Critical Failure on a Repair check, you get a failure instead.
-
+|
 ## Lharvion Clan
 Your clan is tied to the moon Lharvion - the Eye. Your clan has unnatural insights and experience with the otherworldly. You become trained in Occultism (or another skill if you were already trained in Occultism) and gain the Root Magic skill feat. When crafting Root Magic talismans you are always able to produce one for yourself, in addition to one which you give to one ally (excluding yourself).
-|
+
 ## Nymm Clan
 Your clan is tied to the moon Nymm - the Crown. Your clan specializes in leadership in battle, and the ability to direct allies simultaneously. You gain access to the Bark Orders action.
 
@@ -115,6 +115,7 @@ item(
 ; Gnoll
 This feat is replaced with the Barrakas Clan heritage.
 ) 
+  
 # Modified Ancestry Feats
 The following feats should replace Gnoll feats of the same name.
 
@@ -128,7 +129,6 @@ You're practised with the weapons and arms of the Znir pact. You are trained wit
 
 In addition, you gain access to all uncommon Gnoll weapons. For the purpose of determining your proficiency, martial gnoll weapons are simple weapons and advanced gnoll weapons are martial weapons. 
 )
-
 #### 5th Level
 item(
 # Distant Cackle
@@ -159,6 +159,7 @@ item(
 -
 Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in **composite longbows**, **gnollbows**, flails, khopeshes, mambeles, **myrnaxes**, spears, and war flails.
 )
+  
 # New Ancestry Feats
 The following feats should be considered in addition to the base Gnoll ancestry feats. 
 
@@ -181,6 +182,7 @@ item(
 -
 With the aid of your allies, you hone in on vital points of the enemy. On a successful melee strike, you can deal an extra 1d4 extra precision damage to any creature that’s within reach of at least two of your allies.
 )
+=
 item(
 # Bone Eater
 ## Feat 1
@@ -188,11 +190,7 @@ item(
 ; Gnoll
 You are used to subsisting on scraps of meat that would poison or be inedible to others. You can eat and drink things when you are sickened.
 
-You gain a +2 circumstance bonus to saving throws against afflictions, against gaining the sickened condition and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead. All
-)
-=
-item(
-these benefits apply only when the affliction or condition resulted from something you ingested. 
+You gain a +2 circumstance bonus to saving throws against afflictions, against gaining the sickened condition and to remove the sickened condition. When you roll a success on a Fortitude save affected by this bonus, you get a critical success instead. All these benefits apply only when the affliction or condition resulted from something you ingested. 
 )
 item(
 # Runner
@@ -218,6 +216,7 @@ The Gnoll language is unique, with a range of pitches that are difficult for hum
 
 When in combat with allies that you have been travelling with for at least a week, you can communicate simple orders and messages to them. These barks and laughs are unintelligible to any creature without the gnoll trait that has not been similarly trained in the gnoll language.
 )
+|
 item(
 # Essence of the Moon
 ## Feat 5
@@ -230,9 +229,7 @@ Your connection to the tribe and your moon is strong. You gain the bonus associa
 **Aryth** With keen eyes, your shots land true. You may ignore the penalty for targetting a creature in the second range increment of your ranged weapons, and the volley trait of your weapons is reduced by 15 feet.
 
 **Barrakas** The range of your imprecise smell sense is increased to 60 feet. In addition, when you track creatures that you have previously sensed with your scent you gain a +2 circumstance bonus.
-)
-|
-item(
+
 **Dravago** You gain Terrain Expertise in the arctic (or a different terrain if you have the arctic already) and become trained in survival (or expert if you are already trained).
 
 **Eyre** You can repair damaged weapons and armour on the field, and return companions to the fight swiftly. You gain a +1 circumstance bonus to Crafting checks to repair items, and you don’t need a repair kit for non-magical item repairs as long as you have any amount of junk, spare parts, or debris at your disposal. The gear you are repairing can be worn for the duration of the repair, but the wearer cannot do anything without interrupting the repair.
@@ -244,16 +241,14 @@ item(
 **Olarune** The frequency of Rapid Cover becomes once per hour instead. In addition, when you use the shield block reaction you have resistance 10 to any damage over the shield's hardness.
 
 **Rhaan** Your connection to the primal energies of Eberron lets you reach the fey more easily. You gain the Summon Fey primal spell which you can cast once per day. At 7th level, the spell is heightened to 2nd level, and every 2 levels thereafter, the spell is heightened an additional spell level.
-
+)
+=
+item(
 **Sypheros** The DC of your recovery checks is equal to 9 + your dying value, or 8 + your dying value if you have the Toughness general feat. In addition, whenever someone returns you to life using magic that would normally leave you debilitated for a week (such as raise dead or the resurrect ritual), you don't suffer that condition.
 
 **Therendor** With experience performing first aid in adverse conditions, hostile environments do not increase the difficulty of your Treat Wounds checks. In addition, when you make a Treat Wounds check the healing dice are increased to d10s, and if you roll a critical failure it becomes a failure instead.
 
-**Vult** Your warding abilities extend to others as well. You can cast the Forbidding Ward cantrip at will,
-)
-=
-item(
-and once per day, you can cast Protection as innate occult spells. Both these spells are heightened to half your level.
+**Vult** Your warding abilities extend to others as well. You can cast the Forbidding Ward cantrip at will, and once per day, you can cast Protection as innate occult spells. Both these spells are heightened to half your level.
 
 **Zarantyr** The frequency of rampage is reduced to once per 10 minutes. Additionally, if you miss the strike from your rampage it does not count against your multiple attack penalty.
 )
@@ -279,6 +274,7 @@ item(
 ; Gnoll
 Survivors of gnoll attacks speak of the terrible fear that seized them before encountering a gnoll on the battlefield, leaving them frozen in place. Whenever you get a critical success on a demoralize check, if the creature is lower level than you, you may choose to make the creature stunned 1.
 )
+|
 item(
 # Neither God nor Demon :r:
 ## Feat 9
@@ -288,7 +284,6 @@ item(
 -
 The Znir pact shattered the images of the fiends they once served and swore they would allow no one-not chib, god, or demon-to hold dominion over them. Channelling the power of your ancestors, you ferociously resist divine magic. You gain a +2 circumstance bonus against divine spells, and if you roll a critical failure on the saving throw against that spell, you get a failure instead.
 )
-|
 item(
 # Pack Frenzy
 ## Feat 9
@@ -318,29 +313,29 @@ item(
 By the clan and the pact your powers are heightened, and your senses keen. You channel a connection to your clan that few have ever been able to achieve. You gain the bonus depending on your original clan. Gnoll of many tribes does not count for this feat.
 
 **Aryth** The impact of your ranged weapons is aided by your precision. Once per turn, you gain a circumstance bonus to your ranged attack damage rolls equal to the number of weapon damage dice.
-
+)
+=
+item(
 **Barrakas** Your scent sense becomes a precise sense. Creatures under the effects of magic that would hide their passing or presence find it foiled by your keen smell unless accounted for. If you make a survival check to track a creature under the effects of Pass Without Trace, the DC has a -4 circumstance penalty (no lower than their regular survival DC).
 
 **Dravago** You gain the Terrain Stalker feat for snow and can move up to half your speed without attempting a Stealth check. In addition, you can translate your experience with the difficult terrain of the arctic to anywhere. Creatures in difficult terrain are flat-footed to you.
 
-**Eyre** You can sharpen weapons, polish armour, and apply special techniques to temporarily gain better effects from your armaments. By spending 1 hour
-)
-=
-item(
-working on a weapon or armour, you can grant it the effects of a +1 potency rune until your next daily preparations, gaining a +1 item bonus to attack rolls for a weapon or increasing armour’s item bonus to AC by 1. Once per day, you may choose one of these items to gain a bonus of 2 instead. This has no effect if the weapon or armour already had a potency rune.
+**Eyre** You can sharpen weapons, polish armour, and apply special techniques to temporarily gain better effects from your armaments. By spending 1 hour working on a weapon or armour, you can grant it the effects of a +1 potency rune until your next daily preparations, gaining a +1 item bonus to attack rolls for a weapon or increasing armour’s item bonus to AC by 1. Once per day, you may choose one of these items to gain a bonus of 2 instead. This has no effect if the weapon or armour already had a potency rune.
 
 **Lharvion** Aberrations of the world are the speciality of your clan, and in particular, the series of blows to best fell one. You become trained in Aberration lore. In addition, if you succeed on a strike against an Aberration, it becomes flat-footed to you until the start of your next turn.
 
 **Nymm** Leadership is what keeps the Znir strong, and you have trained to maximize the potential of yourself and your allies. When you are adjacent to at least one ally, you and adjacent allies gain a +1 circumstance bonus to AC and saving throws. This bonus increases to +2 to Reflex saves against area effects.
 
-**Olarune** You no longer need to take cover to gain the higher bonus from tower shields, instead, you always have the higher bonus. In addition, with your great strength, you can wield tower shields beyond what any other mortal could carry. Anyone may craft tower shields out of any precious material, but only you may wield them due to their great bulk. When crafting a tower shield out of a precious material that is not darkwood, you must have the equivalent value in darkwood (up to the maximum price of the shield). For instance, crafting a standard-grade adamantine tower shield is a total cost of 440 GP with at least 55 GP of adamantine and 55 GP of darkwood.
+**Olarune** You no longer need to take cover to gain the higher bonus from tower shields, instead, you always have the higher bonus. In addition, with your great strength, you can wield tower shields beyond what any other mortal could carry. Anyone may craft tower shields out of any precious material, but only you may wield them due to their great bulk. When crafting a tower shield out of a precious material that is not darkwood, you must have the equivalent value in darkwood (up to the
+)
+|
+item(
+maximum price of the shield). For instance, crafting a standard-grade adamantine tower shield is a total cost of 440 GP with at least 55 GP of adamantine and 55 GP of darkwood.
 
 **Rhaan** The tricks of the fey have become part of your repertoire. You can cast haste and slow as primal innate spells once per day. At 17th level, these are heightened to 7th level.
 
 **Sypheros** The realm of the dead grants you a pathway to many abilities some consider to be unnatural. You can save others from death, and also yourself. The DC of your recovery checks is to 8 + your dying value, or 7 + your dying value if you have the Toughness general feat. In addition, once per day you can cast death ward as an occult innate spell. 
-)
-|
-item(
+
 **Therendor** Your healing abilities channelled by the power of the moon can bring back those others could not. If a creature has died of mortal wounds within the last minute, you may attempt an Administer First Aid check. On a critical success, the creature is revived, loses the dying condition (but remains unconscious), and becomes drained 1 for 1 week. This check can not overcome extraordinary circumstances, such as diseases, curses, or massive damage to the body. After you attempt this special check, the creature becomes immune to it for a week.
 
 **Vult** You can ward off even the eyes that would follow your movements. You gain nondetection as an innate occult spell once per day, which can only be cast on yourself and is automatically heightened to half your level rounded up.

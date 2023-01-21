@@ -25,7 +25,7 @@ item(
 # Quick Wand :a:
 -
 ; Wandslinger
-As part of your Arcane incantations, you stow a wand, or stave and draw another to cast from with a single fluid motion. If you are holding something in one hand, you may stow the object. You may then interact to draw a wand or stave.
+With flourish, you stow a wand, or stave and draw another to cast from with a single fluid motion. If you are holding something in one hand, you may interact to stow the object. You may then interact to draw a wand or stave.
 )
 ### Advanced Deed 9th
 item(
@@ -76,15 +76,13 @@ item(
 ; Archetype, Class, Dedication
 **Prerequisites** way of the wandslinger
 -
-You've armed yourself with a wand and a rudimentary knowledge of arcane theory to create temporarily functional wands. You gain the Cast a Spell activity, and can cast arcane spells. Each time you gain a spell slot of a new level from the wandslinger archetype, add a spell of that level or lower to your spellbook. However - unlike a normal spellcaster - you can only use the Cast a Spell activity by Activating an item. You gain a special spellbook with wand incantations for four common arcane cantrips of your choice. During your daily preparations, you create two unique cantrip wands each capable of casting one of these cantrips. These cantrip wands have no limit to their use and are never at risk of overcharge. 
+You've armed yourself with a wand and a rudimentary knowledge of arcane theory to create temporarily functional wands. You gain the Cast a Spell activity, and can cast arcane spells. However - unlike a normal spellcaster - you can only use the Cast a Spell activity by Activating an item. You gain a special spellbook with wand incantations for four common arcane cantrips of your choice. During your daily preparations, you create two unique cantrip wands each capable of casting one of these cantrips heightened to half your level rounded up. These cantrip wands are functionally wands, however they have no limit to their use and are never at risk of overcharge. 
 
 Any wand or stave that you use is considered an advanced martial firearm, and loaded while it still has a least one charge or daily use remaining. The use of these wands or staves still requires the Cast a Spell activity rather than a Strike action, and may not be used as a replacement for Strikes as a result. You do not become trained in spell attack rolls or spell DCs from this source. Instead, when casting from any wand
 )
 =
 item(
-
-or stave, use your advanced firearm proficiency for the spell attack roll and gunslinger class DC for DCs. Your key spellcasting ability for wandslinger archetype
-spells is Intelligence, and they are arcane gunslinger spells.
+or stave, use your advanced firearm proficiency for the spell attack roll and gunslinger class DC for DCs. Your key spellcasting ability for wandslinger archetype spells is Intelligence, and they are arcane gunslinger spells.
 
 During your daily preparations, you can prepare a staff as a prepared spellcaster. If you do not have the basic bounded spellcasting benefits yet, your highest-level spell slot is considered 1st level for the purposes of preparing a staff during your daily preparations.
 
@@ -107,7 +105,7 @@ item(
 ; Archetype
 **Prerequisites** Wandslinger Dedication
 -
-You gain the [basic bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). However, your use of scrolls, staves, and wands is bounded as described by the wandslinger dedication. During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged.
+You gain the [basic bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). However, your use of scrolls, staves, and wands is bounded as described by the wandslinger dedication. During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged. For each spell slot you gain from this feat, add a spell of that level or lower to your spellbook. 
 )
 item(
 # Charged Shot :f:
@@ -131,7 +129,7 @@ item(
 ; Archetype
 **Prerequisites** Basic Wandslinger Casting; master in Arcana
 -
-You gain the [expert bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged.
+You gain the [expert bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged. For each spell slot you gain from this feat, add a spell of that level or lower to your spellbook. 
 )
 item(
 # Master Wandslinger Casting

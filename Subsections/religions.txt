@@ -4,12 +4,12 @@ Without the presence of physically manifesting gods, Eberron is a world of diver
 -
 )
 Anyone can worship a deity, but those who do so devoutly draw divine power from the strength of their faith. Each deity below has a short description, followed by their alignment, edicts, anathemas, and devotee benefits. In Eberron, you are not required to fit exactly into your deity's alignments, edicts, or anathemas. As a devout follower of the faith, you may follow a lawful good sovereign, but be chaotic evil in nature. Similarly, if you break the Edicts and Anathemas of your diety, divine retribution is unlikely - though you may still draw the ire of your church. If you do so break these guidelines, it is up to you to explain how this difference came to be, and how you resolve this as a divine follower.
-  
+
 # The Sovereign Host [NG] ((++The Sovereign Host))
 -
-/
-The Sovereign Host consists of the deities most commonly worshipped by the majority of Khorvaire’s population. Most people revere the Host as a whole pantheon, offering prayers to different deities in different situations. Even clerics are often devoted to the entire Host rather than to a specific patron. If you are a cleric of the sovereign host, you may take divine font, abilities, skills, domains, spells, edicts, anathemas, or favoured weapons of your worship from any Sovereign. However once you have selected one of these sources, you may not mix further increases (such as in the case of cleric spells at 1st, 3rd and 5th level). Taken as a whole, the pantheon is neutral good, and its favoured weapon is the longsword-the weapon of its martial champion, Dol Dorn.
 
+The Sovereign Host consists of the deities most commonly worshipped by the majority of Khorvaire’s population. Most people revere the Host as a whole pantheon, offering prayers to different deities in different situations. Even clerics are often devoted to the entire Host rather than to a specific patron. If you are a cleric of the sovereign host, you may take divine font, abilities, skills, domains, spells, edicts, anathemas, or favoured weapons of your worship from any Sovereign. However once you have selected one of these sources, you may not mix further increases (such as in the case of cleric spells at 1st, 3rd and 5th level). The pantheon is neutral good, and its favoured weapon is the longsword-the weapon of its martial champion, Dol Dorn.
+/
 ### Arawai: Goddess of Agriculture [NG]
 Arawai is neutral good and her domain is fertility, plant life, and abundance.
 **Areas of Concern** Fertility, crops, abundance, plants, the wilderness, birth
@@ -18,12 +18,11 @@ Arawai is neutral good and her domain is fertility, plant life, and abundance.
 **Divine Ability** Wisdom or Constitution
 **Divine Skill** Nature
 **Domains** Earth, family, healing, nature, stars, sun, passion, toil, water
-|
-<null> **Cleric Spells** 1st: temporary tool, 2nd: shape wood, 3rd: wall of thorns.
+**Cleric Spells** 1st: temporary tool, 2nd: shape wood, 3rd: wall of thorns.
 **Edicts** Encourage hard work that benefits all, ensure the health of crops and vegetation, protect forests and farmland from ravagers.
 **Anathema** Destroy healthy crops, waste food, refuse to help others in your community.
 **Favoured Weapon** Flail
-
+|
 ### Aureon: God of Law and Knowledge [LN]
 Aureon is lawful neutral and his domain is lore and magic.
 **Areas of Concern** Law, knowledge, learning, logic, magic
@@ -130,9 +129,8 @@ Onatar is the patron of all those who make things, in particular artisans and ar
 =
 # The Dark Six [NE] ((++The Dark Six))
 -
-/
 The Dark Six are considered to be part of the sovereign host, yet they represent destructive forces. As such, most shun the names of the Dark Six. 
-
+/
 ### The Devourer: The Sovereign of Wave and Whelm [NE]
 The Devourer is the deity of the raw power of nature, and the destruction it can bring.
 **Areas of Concern** Devastation, hunger, nautical travel, storms, water

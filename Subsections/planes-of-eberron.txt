@@ -7,7 +7,7 @@ Eberron is a world alone in its planar cosmology, unattached to the rest of the 
 The thirteen planes of Eberron are complex and exist as the total embodiment of a concept in all its forms. The planes interact with Eberron and manifest their concepts and effects on the material plane. This can come in the form of being coterminous or remote - in which the planes effect becomes more or less dramatic across the world, or in the form of Manifest Zones which directly affect a small region of the world.
 
 info(
-For more information on the planes of Eberron, see Exploring Eberron Chapter 5.
+For more information on the planes of Eberron, see **Exploring Eberron** Chapter 5.
 )
 /
 ## Planar Effects
@@ -70,7 +70,7 @@ Manifest zones of Daanvi are uncommon, but those that do manifest typically pres
 -
 Daanvi has coterminous and remote periods, but unlike those of other planes, these periods have no obvious effects.
 )
-=
+|
 item(
 # Dal Quor: The Region of Dreams ((++Dal Quor))
 ## Plane
@@ -131,7 +131,7 @@ It is uncommon for a Dolurrh manifest zone to have any of the plane's properties
 **Path of the Dead** Dolurrh manifest zones can act as a gateway into Dolurrh. Sometimes this may require a ritual or sacrifice to activate, or other times it may simply depend on the alignment of the Aryth or Dolurrh being conterminous.
 
 **The way is shut.** When resurrection magic is used in a Dolurrh manifest zone with this effect, it can backfire dangerously
-
+|
 Effect | When Dolurrh is coterminous | When Dolurrh is remote
 --- | --- | ---
 1d4 status penalty to the primary check of a resurrection ritual | yes | yes
@@ -149,9 +149,7 @@ The resurrection ritual is always a critical success | yes | no
 If the resurrection is a critical failure, it is only a failure instead | yes | yes
 The level of success of the resurrection is always one step higher | yes | no
 The material cost of resurrection is halved | yes | yes
-)
-=
-item(
+
 **Speaker for the Dead** In these Manifest Zones, anyone can cast the spell Talking Corpse with a casting time of one hour as long as they have a personal connection to the deceased whose corpse they are questioning.
 
 # &nbsp;
@@ -195,7 +193,9 @@ A Fernia manifest zone typically manifests one or two of the planar effects. In 
 **Continual Flame** Motes of continual flame are spontaneously generated in this region, typically attached to some vegetation or minerals from the area. These flames persist even if they are removed from the region.
 
 **Geothermal** The area is dotted with pools of molten earth and fissures of scalding water, from which mephits and elementals emerge with regularity.
-
+)
+|
+item(
 # &nbsp;
 ## Coterminous and Remote
 -
@@ -230,7 +230,7 @@ item(
 **Positive Energy Ley Line.** Irian is attuned to positive energy, and by tapping into this source you can enhance positive spells using that energy’s power. The strength of this power varies throughout Irian. (Secrets of Magic pg 214)
 
 **Standard Time.** Time passes at the same pace as on the Material Plane and is consistent across its layers.
-
+|
 # &nbsp;
 ## Manifest Zones
 -
@@ -293,7 +293,7 @@ Kythri manifest zones are often chaotic in minor or major ways. They may manifes
 -
 Neither coterminous nor remote periods have any discernable effect on Eberron.
 )
-=
+|
 item(
 # Lamannia: The Twilight Forest ((++Lamannia))
 ## Plane
@@ -359,7 +359,7 @@ Mabar, it takes 1d6 points of negative damage. If this damage reduces a creature
 **Negative Energy Ley Line.** Mabar is attuned to negative energy, and by tapping into this source you can enhance negative spells using that energy’s power. The strength of this power varies throughout Mabar. (Secrets of Magic pg 214)
 
 **Standard Time.** Time passes at the same pace as on the Material Plane and is consistent across its layers.
-
+|
 # &nbsp;
 ## Manifest Zones
 -
@@ -395,7 +395,7 @@ item(
 **Stagnation.** When a creature rests, it does not regain any hit points.
 
 **Stillness of Flesh.** Time passes at the same pace as on the Material Plane and is consistent across its layers. However, the passage of time has no effect on a mortal creature’s body, and creatures don’t age or grow while in Risia. Exhaustion, starvation, and disease merely reduce a creature to 0 hit points and do not kill it. Dwarves are immune to this property’s effects, and in Risia they can grow, age, and die, just as they would on the Material Plane.
-
+|
 # &nbsp;
 ## Manifest Zones
 -
@@ -404,7 +404,7 @@ A Risia manifest zone typically manifests one or two of the planar effects. In a
 **Continual Ice** Bits of ice and snow that will not melt seem to persist throughout the region. These frozen bits do not melt even if they are removed from the region.
 
 **Permafrost** The area is dotted with ice and permafrost, from which mephits and elementals emerge with regularity. Bodies of water are unusually cool even if the surrounding region is hot.
- 
+
 # &nbsp;
 ## Coterminous and Remote
 -
@@ -448,7 +448,7 @@ When Shavarath is coterminous War Magic and Unquenchable Fury properties spread 
 
 When Shavarath is remote, there is no apparent effect on the material plane.
 )
-=
+|
 item(
 # Syrania: The Azure Sky ((++Syrania))
 ## Plane
@@ -513,7 +513,9 @@ Thelanis is unpredictable, and its cardinal rule is that layers follow their own
 ## Manifest Zones
 -
 Many manifest zones of Thelanis act as gateways into the realm. Many other Manifest zones reflect the properties and influence of Thelanis without allowing passage between worlds. 
-
+)
+|
+item(
 # &nbsp;
 ## Coterminous and Remote
 -
@@ -521,7 +523,6 @@ When Thelanis is coterminous, new gateway zones spring up.
 
 When Thelanis is remote, the effects of Thelanian manifest zones are suppressed.
 )
-=
 item(
 # Xoriat: The Realm of Madness ((++Xoriat))
 ## Plane

@@ -19,7 +19,6 @@ item(
 ## Feat 1
 -
 ; General
--
 You can use your Knowledge skills to extract information from books, scrolls, and other repositories of facts and figures. You become trained in Academia Lore. When you research a topic, you can treat the result of your check as one step better. 
 )
 item(

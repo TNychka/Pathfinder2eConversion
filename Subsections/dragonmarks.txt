@@ -55,9 +55,7 @@ If you have the dragonmarked heritage trait, you may pick from any of the follow
 =
 right(
 # Manifesting a Dragonmark
-Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. 
-    Children are not born with their marks. Rather, a dragonmark most often appears in response to a stressful situation in which the powers of the mark could prove useful. A Deneith heir feels her dragonmark flare to life as her best friend would take a mortal wound. A Lyrandar scion instinctively dashes across the ropes of a storm-tossed ship, and in an instant of burning pain, their mark appears. However, this is not exclusively the case. Sometimes marks will appear later in life, or even never manifest.
-    If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities.
+Despite the rigorous study of dragonmarks, it is not entirely understood how marks manifest. If a dragonmark does appear, often the mark will manifest first as the least mark. Through study and focus the bearer increases their power, and the dragonmark similarly increases in size and complexity. As their power grows, the marks channel not just stronger powers, but additional abilities.
 # Bypassing Prerequisites
 Though most marks start as Least Marks, some will manifest a Lesser Mark or even Greater Mark without explanation. Siberys marks in particular have been known to manifest on previously unmarked individuals. As a GM, you can consider allowing players to bypass the prerequisites or level of a dragonmark feat. If the prerequisites or level of the dragonmarked feat is not met, it gains the Rare trait. When bypassing requirements in this way, assume that each of the prerequisite feats has also been gained for the purposes of Dragonmark Pool size and Dragonmark Focus Spell selection. 
 )
@@ -67,7 +65,11 @@ item(
 ## Feat 1
 -
 ; Uncommon, Dragonmarked Heritage
-You gain or increase your Focus Pool by 1 and select a Focus Spell of 3rd level or lower with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection). You become trained in Dragonmark attack rolls and DCs, and you must select your spellcasting ability modifier for Dragonmark Spells from Intelligence, Wisdom, or Charisma. You gain the Dragonmark trait.
+You gain or increase your Focus Pool by 1 and select a new dragonmark Focus Spell. 
+
+When you gain new dragonmark focus spells, you may select from any focus spell with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection). The spell you select may be up to half your level rounded up, but no more than 3rd level.
+
+You become trained in Dragonmark attack rolls and DCs, and you must select your spellcasting ability modifier for Dragonmark Spells from Intelligence, Wisdom, or Charisma. You gain the Dragonmark trait.
 )
 #### 5th Level
 item(
@@ -77,18 +79,25 @@ item(
 ; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Least Mark
 -
-Your dragonmark grows along with your powers. You may select an additional Focus Spell of of 6th level or lower with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection), but you do not gain an additional Focus Point from this feat.
+Your dragonmark grows along with your powers. You may select a new dragonmark Focus Spell, however you do not increase your Focus Pool.
+
+When you gain new dragonmark focus spells, you may select from any focus spell with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection). The spell you select may be up to half your level rounded up, but no more than 6th level.
+
+You become expert in Dragonmark attack rolls and DCs.
 )
 #### 9th Level
 item(
-# Lesser Dragonmarked Reserve
+# Lesser Dragonmarked Evolution
 ## Feat 9
 -
 ; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Lesser Mark
 -
-The well of power that you draw from your dragonmark grows deeper. You increase the size of your Focus pool by 1. In addition, you may pick another two additional Focus Spells of 8th level or lower with the Dragonmark trait and the same trait as your Mark (ie. Mark of Detection).
+The well of power that you draw from your dragonmark grows deeper. You increase the size of your focus pool by 1, and you may select two new dragonmark focus spells.
+
+By spending a week retraining, you may change any dragonmark focus spell in your repertoire with a different dragonmark focus spell you select.
 )
+=
 #### 13th Level
 item(
 # Greater Mark ((++Greater Mark))
@@ -97,7 +106,11 @@ item(
 ; Uncommon, Dragonmarked Heritage
 **Prerequisites:** Lesser Mark
 -
-You become Master Proficiency in Dragonmark attack rolls and DCs. You may select an additional Focus Spell of 8th level or lower with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection), but you do not gain an additional Focus Point from this feat.
+You have gained a greater mark. You may select a new dragonmark Focus Spell, however you do not increase your Focus Pool.
+
+When you gain new dragonmark focus spells, you may select from any focus spell with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection). The spell you select may be up to half your level rounded up, but no more than 8th level.
+
+You become Master Proficiency in Dragonmark attack rolls and DCs.
 )
 #### 17th Level
 item(
@@ -107,11 +120,15 @@ item(
 ; Rare, Dragonmarked Heritage 
 **Prerequisites:** You must have the Dragonmark trait
 -
-You have manifested a Siberys Mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You become Legendary Proficiency in Dragonmark attack rolls and DCs. You may select an additional Focus Spell with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection). You gain 1 additional Focus Point from this feat.
+You have manifested a Siberys Mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You gain or increase your Focus Pool by 1 and select a new dragonmark Focus Spell.
+
+When you gain new dragonmark focus spells, you may select from any focus spell with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection). The spell you select may be up to half your level rounded up.
+
+You become Legendary Proficiency in Dragonmark attack rolls and DCs.
 )
-=
 ## Dragonmark general feats ((+Dragonmarked General Feats))
 The following feats are available to all ancestries unless otherwise denoted by a Dragonmark trait or a Mark trait. When you gain a general feat, you may additionally select from among one of the following feats as long as you meet the Trait requirements and prerequisites.
+|
 #### 1st Level ((++1st Level))
 item(
 # Cannith Forgecraft :f:
@@ -157,7 +174,6 @@ item(
 -
 Your eye for detail is enhanced by your training with house Medani. If you fail a perception check, you can reroll the check. You may select the better of the two rolls.
 )
-|
 item(
 # Grace of Ghallanda :f:
 ## Feat 1
@@ -171,6 +187,7 @@ item(
 -
 Formal training with house Ghallanda allows you to upkeep your social grace. If you fail a Diplomacy check, you can reroll the check. You may select the better of the two rolls.
 )
+=
 item(
 # Jorasco Treatment :f:
 ## Feat 1
@@ -202,7 +219,6 @@ item(
 ; General, Mark of Storm, Skill
 You were trained in the navigation and piloting of Lyrandar ships. You become trained in Sailing lore. At 3rd, 6th, and 13th levels, you gain an additional skill increase to Sailing lore. Additionally, if you have a Mark of Storm you may sail elemental ships using Lyrandar focus items.
 )
-=
 item(
 # Lyrandar Stormrider :f:
 ## Feat 1
@@ -216,6 +232,7 @@ item(
 -
 Hard training on ships in all conditions improves your balance. If you fail an Acrobatics check, you can reroll the check. You may select the better of the two rolls.
 )
+|
 item(
 # Mark of Vengeance
 ## Feat 1
@@ -250,7 +267,6 @@ item(
 -
 Your training with house Phiarlan grants you a stage presence that masks your mistakes. If you fail a performance check, you can reroll the check. You may select the better of the two rolls.
 )
-|
 item(
 # Scribe of Sivis :f:
 ## Feat 1
@@ -264,6 +280,7 @@ item(
 -
 Your training grants an eye and hand for scribing words, magical and mundane. If you fail a Decipher Writing, Learn a Spell, Create Forgery check, or Craft check to produce a Scroll, you can reroll the check. You may select the better of the two rolls. 
 )
+=
 item(
 # Shield of Siberys
 ## Feat 1
@@ -297,7 +314,6 @@ item(
 -
 Your training with house Thuranni grants you an understanding of using the light and shadow around you to your advantage. If you fail a stealth check, you can reroll the check. You may select the better of the two rolls.
 )
-=
 item(
 # Vadalis Instincts :f:
 ## Feat 1
@@ -319,6 +335,7 @@ item(
 ; Dragonmark, General, Aberrant Mark
 You bring the powers of your Aberrant Mark under your control. When you cast a spell with the Aberrant Feedback trait, you may choose to ignore the effects. 
 )
+|
 item(
 # Blood of the Dauntless
 ## Feat 3
@@ -342,7 +359,6 @@ item(
 -
 With an eye for the magic of symbols, you gain a +2 status bonus to detect arcane symbols such as Sigil or Glyph of Warding. When you come within 15 feet of a hidden symbol, the GM makes a secret check for you to detect them, even if you didn't spend an action to Seek for the symbol.
 )
-|
 #### 7th Level ((++7th Level))
 item(
 # Kyber's reaper :f:
@@ -364,6 +380,7 @@ item(
 -
 You have been trained to make your way through any danger that may be encountered on the road. When an enemy misses a melee strike against you, you may immediately step.
 )
+=
 #### 11th Level ((++11th Level))
 item(
 # Forewarned
@@ -381,6 +398,7 @@ item(
 -
 You can quickly channel the powers of your mark. If the next spell you cast is a dragonmark focus spell, reduce the number of actions to cast it by 1 (minimum 1 action).
 )
+|
 =
 head(
 # Mark of Detection ((Dragonmarked Heritages))
@@ -391,23 +409,27 @@ The Mark of Detection manifests on the Khoravar of Eberron. Khoravar are half-el
 ## Mark of Detection [Human Heritage] ((+Mark of Detection))
 At least one of your parents is a half-elf descendant of a mark of detection bloodline, whether or not they manifested a mark. You have slightly pointed ears and other telltale signs of half-elf heritage. You gain the elf trait, the half-elf trait, the dragonmarked heritage trait, mark of detection trait, and low-light vision. In addition, you can pick elf, half-elf, human, dragonmarked heritage, and mark of detection feats whenever you gain an ancestry feat.
 ## Mark of Detection Focus Spells
-If you manifest a mark, you will begin to gain access to the following mark of detection focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
-### Additional Focus Spells
-As a member of the Mark of Detection, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Detection traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+If you manifest a mark, you will begin to gain access to the mark of detection focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+### Focus Spells
+As a member of the Mark of Detection, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Detection traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+|
 Level | Focus Spell
 --- | :---
+1 | Deductive Intuition*
 1 | Dragonmarked Guidance*
+2 | Cantrip of Detection*
+2 | Detect Danger*
+2 | Dragonmarked Detector*
 1 | Hyperfocus
 1 | Warded Reflex*
 2 | Light of Revelation
 4 | Glimpse the Truth
 4 | Know the Enemy
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
+. *appears below or in the spell section of this document
 
 ### New Focus Spells
-As a member of the Mark of Detection, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Detection, the following spells are new unique spells for your mark.
 item(
 # Cantrip of Detection
 ## Cantrip 2
@@ -419,7 +441,7 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast the Cantrip of Detection you can choose Detect Magic or Read the Air. Cantrip of Detection gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of Detection doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
+=
 item (
 # Deductive Intuition
 ## Focus 1
@@ -439,7 +461,6 @@ You call upon your dragonmark's power to better uncover secrets. When you Cast t
 
 **Heightened (9th)** The bonus increases to +3.
 )
-=
 item(
 # Dragonmarked Detector
 ## Focus 2
@@ -450,8 +471,11 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per daily preparation - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Detector, you can select a spell from the Dragonmarked Detector spell list at the heightened level of this spell or lower. Dragonmarked Detector gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Detector.
+    When you begin to cast Dragonmarked Detector, you can select a spell from the Dragonmarked Detector spell list at the heightened level of Dragonmarked Detector or lower. Dragonmarked Detector gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Detector.
     A spell cast by Dragonmarked Detector doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
+)
+|
+item(
 ### dragonmarked detector spell list
 **Heightened Level** | **Spell**
 --- | :---
@@ -469,9 +493,7 @@ With a concentrated effort to bend the powers of your mark, you can replicate th
 **Heightened (6th)** You may cast Dragonmarked Detector up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
 
 **Heightened (7th)** You may cast Dragonmarked Detector up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
-)
-|
-item(
+
 **Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Detector.
 )
 item (
@@ -509,22 +531,27 @@ At least one of your parents is a half-orc descendant of the mark of finding blo
 ## Mark of Finding Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of finding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
-### Additional Focus Spells
-As a member of the Mark of Finding, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Finding traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Finding, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Finding traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+|
 Level | Focus Spell
 --- | :---
 1 | Dragonmarked Guidance*
+1 | Hunter's Intuition*
+2 | Cantrip of Finding*
+2 | Dragonmarked Hunter*
+2 | Eyes of the Finder*
 1 | Hyperfocus
 1 | Zenith Star
 2 | Light of Revelation
 3 | Ephemeral Tracking
 5 | Hunter's Vision
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
+.*appears below or in the spell section of this document
 
 ### New Focus Spells
-As a member of the Mark of Finding, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Finding, the following spells are new unique spells for your mark.
+
 item(
 # Cantrip of Finding
 ## Cantrip 2
@@ -536,7 +563,7 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast the Cantrip of Finding you can choose Detect Magic or Know Direction. Cantrip of Finding gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of Finding doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
+=
 item (
 # Hunter's Intuition
 ## Focus 1
@@ -556,7 +583,6 @@ You call upon your dragonmark's power to better locate objects. When you Cast th
 
 **Heightened (9th)** The bonus increases to +3.
 )
-=
 item(
 # Dragonmarked Hunter
 ## Focus 2
@@ -567,9 +593,11 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per daily preparation - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Hunter, you can select a spell from the Dragonmarked Hunter spell list at the heightened level of this spell or lower. Dragonmarked Hunter gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Hunter.
+    When you begin to cast Dragonmarked Hunter, you can select a spell from the Dragonmarked Hunter spell list at the heightened level of Dragonmarked Hunter or lower. Dragonmarked Hunter gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Hunter.
     A spell cast by Dragonmarked Hunter doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
-
+)
+|
+item (
 ### dragonmarked hunter spell list
 **Heightened Level** | **Spell**
 --- | :---
@@ -590,7 +618,6 @@ With a concentrated effort to bend the powers of your mark, you can replicate th
 
 **Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Hunter.
 )
-|
 item (
 # Eyes of the finder
 ## Focus 2
@@ -623,22 +650,28 @@ The Mark of Handling is a Human Heritage. By picking this Heritage at first leve
 At least one of your parents is a human descendant of the Mark of Handling bloodline, whether or not they manifested a mark. You gain the Dragonmarked Heritage trait. In addition, you can pick human, Dragonmarked Heritage, and Mark of Handling feats whenever you gain an ancestry feat.
 ## Mark of Handling Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of handling focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
-### Additional Focus Spells
-As a member of the Mark of Handling, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Handling traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Handling, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Handling traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+
 Level | Focus Spell
 --- | :---
+1 | Animal Friendship*
 1 | Dragonmarked Guidance*
+1 | Feral Blessing*
 1 | Heal Animal
 1 | Heal Companion
 1 | Magic Hide
+1 | Primal Connection*
+2 | Cantrip of the Handler*
+2 | Dragonmarked Handler*
 3 | Beastmaster Trance
 4 | Enlarge Companion
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
-
+.*appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Handling, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Handling, the following spells are new unique spells for your mark.
+
 item(
 # Cantrip of the Handler
 ## Cantrip 2
@@ -650,7 +683,6 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast the Cantrip of the Handler you can choose Protect Companion or Tame. Cantrip of the Handler gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of the Handler doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
 item (
 # Primal Connection
 ## Focus 1
@@ -733,7 +765,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per daily preparation - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Handler, you can select a spell from the Dragonmarked Handler spell list at the heightened level of this spell or lower. Dragonmarked Handler gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Handler.
+    When you begin to cast Dragonmarked Handler, you can select a spell from the Dragonmarked Handler spell list at the heightened level of Dragonmarked Handler or lower. Dragonmarked Handler gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Handler.
     A spell cast by Dragonmarked Handler doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 ### dragonmarked handler spell list
 **Heightened Level** | **Spell**
@@ -750,28 +782,11 @@ With a concentrated effort to bend the powers of your mark, you can replicate th
 **Heightened (3rd)** You may cast Dragonmarked Handler up to twice per daily preparation. Only one of these casts may be from the heightened level 4 or above.
 
 **Heightened (6th)** You may cast Dragonmarked Handler up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
-
+|
 **Heightened (7th)** You may cast Dragonmarked Handler up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
 
 **Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Handler. The spells you cast are no longer restricted by Animal or Beast trait restrictions.
 )
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-/
 =
 head(
 # Mark of Healing ((+Mark of Healing))
@@ -783,22 +798,26 @@ The Mark of Healing is a Halfling Heritage. By picking this Heritage at first le
 At least one of your parents is a halfling descendant of the Mark of Healing bloodline, whether or not they manifested a mark. You gain the Dragonmarked Heritage trait. In addition, you can pick halfling, Dragonmarked Heritage, and Mark of Healing feats whenever you gain an ancestry feat.
 ## Mark of Healing Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of healing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
-### Additional Focus Spells
-As a member of the Mark of Healing, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Healing traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Healing, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Healing traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Focus Spell
 --- | :---
 1 | Dragonmarked Guidance*
 1 | Life Boost
 1 | Healer's Blessing
+1 | Healer's Intuition*
+1 | Healing Word*
 1 | Warded Willpower*
+2 | Dragonmarked Healer*
+2 | Guidance of the Healer*
 4 | Rebuke Death
 5 | Restorative Moment
 7 | Summon Living Dragonmark*
 10 | Revival
-. *appears in the spell section of this document
-
+.*appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Handling, you may select also select from among the following new focus spells.
+As a member of the Mark of Handling, the following spells are new unique spells for your mark.
 item(
 # Guidance of the Healer
 ## Cantrip 2
@@ -831,7 +850,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per daily preparation - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Healer, you can select a spell from the Dragonmarked Healer spell list at the heightened level of this spell or lower. Dragonmarked Healer gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Healer.
+    When you begin to cast Dragonmarked Healer, you can select a spell from the Dragonmarked Healer spell list at the heightened level of Dragonmarked Healer or lower. Dragonmarked Healer gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Healer.
     A spell cast by Dragonmarked Healer doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 
 ### dragonmarked healer spell list
@@ -899,23 +918,27 @@ The Mark of Hospitality is a Halfling Heritage. By picking this Heritage at firs
 At least one of your parents is a halfling descendant of the Mark of Hospitality bloodline, whether or not they manifested a mark. You gain the Dragonmarked Heritage trait. In addition, you can pick halfling, Dragonmarked Heritage, and Mark of Hospitality feats whenever you gain an ancestry feat.
 ## Mark of Hospitality Focus Spells
 If you manifest a mark, you will begin to gain access to the following Mark of Hospitality focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
-### Additional Focus Spells
-As a member of the Mark of Hospitality, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Hospitality traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Hospitality, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Hospitality traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Focus Spell
 --- | :---
 1 | Charming Touch
 1 | Charming Words
 1 | Dragonmarked Guidance*
+1 | Kindle Friendship*
+1 | Innkeeper's Magic
 1 | Soothing Words
 1 | Warded Willpower*
 1 | Sweet Dream
+2 | Dragonmarked Hospitality*
+2 | Homely Touch*
+3 | Shield of Ghallanda*
 4 | Unity 
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
-
+. *appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Hospitality, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Hospitality, the following spells are new unique spells for your mark.
 item(
 # Homely Touch
 ## Cantrip 2
@@ -927,7 +950,6 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast Homely Touch, you can choose Mage Hand or Prestidigitation. Homely Touch gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Homely Touch doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
 item (
 # Innkeeper's Magic
 ## Focus 1
@@ -958,8 +980,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per daily preparation - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Hospitality, you can select a spell from the Dragonmarked Hospitality spell list at the heightened level of this spell or lower. Dragonmarked Hospitality gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated
-spell is automatically heightened to the level of Dragonmarked Hospitality.
+    When you begin to cast Dragonmarked Hospitality, you can select a spell from the Dragonmarked Hospitality spell list at the heightened level of Dragonmarked Hospitality or lower. Dragonmarked Hospitality gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Hospitality.
     A spell cast by Dragonmarked Hospitality doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 
 ### Dragonmarked Hospitality spell list
@@ -1032,20 +1053,26 @@ At least one of your parents is a Human descendant of the Mark of Making bloodli
 ## Mark of Making Focus Spells
 If you manifest a mark, you will begin to gain access to the following Mark of Making focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
-### Additional Focus Spells
-As a member of the Mark of Making, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Making traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Making, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Making traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 Level | Focus Spell
 --- | :---
 1 | Dragonmarked Guidance*
+1 | Inanimate Animation*
+1 | Maker's Gift*
 1 | Object Memory
 1 | Practice Makes Perfect
+2 | Cantrip of the Crafter*
+2 | Dragonmarked Construction*
 4 | Tireless Worker
+5 | Construction Savant*
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
-
+10 | Siberys' Reconstruction*
+. *appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Making, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Making, the following spells are new unique spells for your mark.
+
 item (
 # Maker's Gift
 ## Focus 1
@@ -1065,7 +1092,6 @@ You call upon your dragonmark's power to drive your creative crafting powers. Wh
 
 **Heightened (9th)** The bonus increases to +3.
 )
-|
 item(
 # Cantrip of the Crafter
 ## Cantrip 2
@@ -1088,7 +1114,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Construction, you can select a spell from the Dragonmarked Construction spell list at the heightened level of this spell or lower. Dragonmarked Construction gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Construction.
+    When you begin to cast Dragonmarked Construction, you can select a spell from the Dragonmarked Construction spell list at the heightened level of Dragonmarked Construction or lower. Dragonmarked Construction gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Construction.
     A spell cast by Dragonmarked Construction doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 
 #### Dragonmarked Construction Spell List
@@ -1107,11 +1133,11 @@ With a concentrated effort to bend the powers of your mark, you can replicate th
 **Heightened (3rd)** You may cast Dragonmarked Construction up to twice per daily preparation. Only one of these casts may be from the heightened level 4 or above.
 
 **Heightened (6th)** You may cast Dragonmarked Construction up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
-
-**Heightened (7th)** You may cast Dragonmarked Construction up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
 )
 |
 item(
+**Heightened (7th)** You may cast Dragonmarked Construction up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
+
 **Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Construction.
 )
 item(
@@ -1157,32 +1183,13 @@ Examples of these simple gadgets include the following:
 - A small message relay, which whenever tapped by a creature the object emits a 5 word long recorded message that can be heard up to 10 feet away.
 - A small censer that continuously emits your choice of an odour or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
 - A small visual effect on the construct's surface, which can be up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
-  
-
+)
+|
+item(
 The chosen property lasts indefinitely, or until dismissed by you with a touch. You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. If you try to exceed 3 active objects, the oldest property immediately ends, and then the new property applies.
 -
 **Heightened (+1)** you may have 1 additional active object at a time.
 )
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-/
 =
 head(
 # Mark of Passage ((+Mark of Passage))
@@ -1197,23 +1204,28 @@ At least one of your parents is a Human descendant of the Mark of Passage bloodl
 ## Mark of Passage Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of passage focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
-### Additional Focus Spells
-As a member of the Mark of Passage, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Passage traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Passage, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Passage traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
 1 | Agile Feet
+1 | Courier's Skill*
 1 | Dragonmarked Guidance*
+1 | Dragonmarked Mobility*
 1 | Warded Reflex*
 1 | Unimpeded Stride
+2 | Cantrip of the Courier*
+2 | Dimension Step*
+3 | Long March*
 4 | Abundant Step
 4 | Traveler's Transit
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
-
+. *appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Passage, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Passage, the following spells are new unique spells for your mark.
+
 item(
 # Cantrip of the Courier
 ## Cantrip 2
@@ -1225,7 +1237,6 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
 When you cast the Cantrip of the Courier, you can choose to Know Direction or Warp Step. The Cantrip of the Courier gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
 A spell cast by Cantrip of the Courier doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
 item (
 # Courier's Skill
 ## Focus 1
@@ -1256,7 +1267,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Mobility, you can select a spell from the Dragonmarked Mobility spell list at the heightened level of this spell or lower. Dragonmarked Mobility gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Mobility.
+    When you begin to cast Dragonmarked Mobility, you can select a spell from the Dragonmarked Mobility spell list at the heightened level of Dragonmarked Mobility or lower. Dragonmarked Mobility gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Mobility.
     A spell cast by Dragonmarked Mobility doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 #### Dragonmarked Mobility Spell list
 **Heightened Level** | **Spell**
@@ -1274,10 +1285,11 @@ With a concentrated effort to bend the powers of your mark, you can replicate th
 **Heightened (6th)** You may cast Dragonmarked Mobility up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
 
 **Heightened (7th)** You may cast Dragonmarked Mobility up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
-
-**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Mobility.
 )
 |
+item(
+**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Mobility.
+)
 item(
 # Dimension Step
 ## Focus 2
@@ -1321,23 +1333,28 @@ At least one of your parents is a Gnome descendant of the Mark of Scribing blood
 ## Mark of Scribing Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of scribing focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
-### Additional Focus Spells
-As a member of the Mark of Scribing, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Scribing traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Scribing, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Scribing traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
 1 | Dragonmarked Guidance*
 1 | Forced Quiet
+1 | Loremaster's Scribe*
+1 | Scribe's Insight*
 1 | Redact
+2 | Cantrip of the Messenger*
+2 | Dragonmarked Scribe*
+2 | Relay*
 4 | Ghostly Transcription
 4 | Safeguard Secret
 4 | Transcribe Moment
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
-
+. *appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Scribing, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Scribing, the following spells are new unique spells for your mark.
+
 item(
 # Cantrip of the Messenger
 ## Cantrip 2
@@ -1349,7 +1366,6 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast the Cantrip of the Messenger, you can choose Message or Sigil. Cantrip of the Messenger gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
     A spell cast by Cantrip of the Messenger doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
 item(
 # Relay
 ## Focus 2
@@ -1381,7 +1397,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Scribe, you can select a spell from the Dragonmarked Scribe spell list at the heightened level of this spell or lower. Dragonmarked Scribe gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Scribe.
+    When you begin to cast Dragonmarked Scribe, you can select a spell from the Dragonmarked Scribe spell list at the heightened level of Dragonmarked Scribe or lower. Dragonmarked Scribe gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Scribe.
     A spell cast by Dragonmarked Scribe doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 #### Dragonmarked Scribe Spell List
 **Heightened Level** | **Spell**
@@ -1450,25 +1466,30 @@ At least one of your parents is a Human descendant of the Mark of Sentinel blood
 ## Mark of Sentinel Focus Spell
 If you manifest a mark, you will begin to gain access to the following mark of sentinel focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
-### Additional Focus Spells
-As a member of the Mark of Sentinel, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Sentinel traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Sentinel, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Sentinel traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
 1 | Dragonmarked Guidance*
 1 | Protector's Sacrifice
+1 | Sentinel's Intuition*
 1 | Warded Resilience*
+2 | Cantrip of the Sentinel*
+2 | Dragonmarked Sentinel*
 2 | Perfect Strike
+2 | Sentinel's Defense*
 3 | Battlefield Persistence
 4 | Enduring Might
 4 | Spell Guard*
 4 | Unity
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
-
+9 | Siberys' Sentinel*
+. *appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Sentinel, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Sentinel, the following spells are new unique spells for your mark.
+
 item(
 # Cantrip of the Sentinel
 ## Cantrip 2
@@ -1480,7 +1501,6 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast the Cantrip of the Sentinel you can choose Forbidding Ward or Shield. Cantrip of the Sentinel gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell. 
     A spell cast by Cantrip of the Sentinel doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
 item(
 # Sentinel's Defense
 ## Focus 2
@@ -1505,7 +1525,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Sentinel, you can select a spell from the Dragonmarked Sentinel spell list at the heightened level of this spell or lower. Dragonmarked Sentinel gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Sentinel.
+    When you begin to cast Dragonmarked Sentinel, you can select a spell from the Dragonmarked Sentinel spell list at the heightened level of Dragonmarked Sentinel or lower. Dragonmarked Sentinel gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Sentinel.
     A spell cast by Dragonmarked Sentinel doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 #### Dragonmarked Sentinel Spell List
 **Heightened Level** | **Spell**
@@ -1523,10 +1543,11 @@ With a concentrated effort to bend the powers of your mark, you can replicate th
 **Heightened (6th)** You may cast Dragonmarked Sentinel up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
 
 **Heightened (7th)** You may cast Dragonmarked Sentinel up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
-
-**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Sentinel.
 )
 |
+item (
+**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Sentinel.
+)
 item (
 # Sentinel's Intuition
 ## Focus 1
@@ -1571,24 +1592,27 @@ At least one of your parents is an Elf descendant of the Mark of Shadow bloodlin
 ## Mark of Shadow Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of shadow focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
-### Additional Focus Spells
-As a member of the Mark of Shadow, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Shadow traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Shadow, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Shadow traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
 1 | Cloak of Shadow
 1 | Dim the Light
 1 | Dragonmarked Guidance*
+1 | Shadow's Veil*
+2 | Become Shadow*
+2 | Cantrip of the Shadow*
+2 | Dragonmarked Shadow*
 4 | Trickster's Twin
 5 | Dance of Darkness
 5 | Shadow Illusion
 5 | Shadow Jump
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
-
+. *appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Shadow, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Shadow, the following spells are new unique spells for your mark.
 item(
 # Become Shadow
 ## Focus 2
@@ -1604,7 +1628,6 @@ You blend yourself with shadow, losing visual definition. For the duration, whil
 -
 **Heightened (6th)** You do not need to sustain the spell.
 )
-|
 item(
 # Cantrip of the Shadow
 ## Cantrip 2
@@ -1627,7 +1650,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Shadow, you can select a spell from the Dragonmarked Shadow spell list at the heightened level of this spell or lower. Dragonmarked Shadow gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Shadow.
+    When you begin to cast Dragonmarked Shadow, you can select a spell from the Dragonmarked Shadow spell list at the heightened level of Dragonmarked Shadow or lower. Dragonmarked Shadow gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Shadow.
     A spell cast by Dragonmarked Shadow doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 #### Dragonmarked Shadow Spell List
 **Heightened Level** | **Spell**
@@ -1646,10 +1669,11 @@ With a concentrated effort to bend the powers of your mark, you can replicate th
 **Heightened (6th)** You may cast Dragonmarked Shadow up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
 
 **Heightened (7th)** You may cast Dragonmarked Shadow up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
-
-**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Shadow.
 )
 |
+item(
+**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Shadow.
+)
 item (
 # Shadow's veil
 ## Focus 1
@@ -1683,21 +1707,26 @@ At least one of your parents is a half-elf descendant of a Mark of Storm bloodli
 ## Mark of Storm Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of storm focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
 
-### Additional Focus Spells
-As a member of the Mark of Storm, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Storm traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As a member of the Mark of Storm, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Storm traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
 1 | Pushing Gust
+1 | Storm's Riposte*
+1 | Windwight's Intuition*
+2 | Cantrip of the Storm*
+2 | Dragonmarked Stormbringer*
+2 | Rain Cloud*
 3 | Personal Blizzard
 4 | Bottle the Storm
 4 | Downpour
 4 | Dust Storm
 4 | Stormwind Flight
-
+. *appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Storm, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Storm, the following spells are new unique spells for your mark.
 item(
 # Cantrip of the Storm
 ## Cantrip 2
@@ -1709,7 +1738,6 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast the Cantrip of the Storm you can choose Electric Arc or Gale Blast. Cantrip of the Storm gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
     A spell cast by Cantrip of the Storm doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
 item (
 # Windwright's Intuition
 ## Focus 1
@@ -1740,7 +1768,7 @@ item(
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Stormbringer, you can select a spell from the Dragonmarked Stormbringer spell list at the heightened level of this spell or lower. Dragonmarked Stormbringer gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Stormbringer.
+    When you begin to cast Dragonmarked Stormbringer, you can select a spell from the Dragonmarked Stormbringer spell list at the heightened level of Dragonmarked Stormbringer or lower. Dragonmarked Stormbringer gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Stormbringer.
     A spell cast by Dragonmarked Stormbringer doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 #### Dragonmarked Stormbringer Spell List
 **Heightened Level** | **Spell**
@@ -1806,25 +1834,29 @@ At least one of your parents is a Dwarf descendant of the Mark of Warding bloodl
 
 ## Mark of Warding Focus Spells
 If you manifest a mark, you will begin to gain access to the following mark of warding focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
-/
-### Additional Focus Spells
-As a member of the Mark of Warding, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Warding traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+
+### Focus Spells
+As a member of the Mark of Warding, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Mark of Warding traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
 1 | Dragonmarked Guidance*
 1 | Warded Resilience*
+1 | Warder's Intuition*
+2 | Cantrip of the Guard*
+2 | Dragonmarked Warder*
+2 | Guard and Seal*
 4 | Adaptive Ablation
 4 | Protector's Sphere
 4 | Spell Guard*
 4 | Stasis
 5 | Spellmaster's Ward
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
-
+. *appears below or in the spell section of this document
+|
 ### New Focus Spells
-As a member of the Mark of Warding, you may select also select from among the following new focus spells.
-/
+As a member of the Mark of Warding, the following spells are new unique spells for your mark.
+
 item(
 # Cantrip of the Guard
 ## Cantrip 2
@@ -1836,7 +1868,6 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast the Cantrip of the Guard you can choose Forbidding Ward or Sigil. Cantrip of the Guard gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
     A spell cast by Cantrip of the Guard doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-|
 item (
 # Warder's Intuition
 ## Focus 1
@@ -1857,6 +1888,41 @@ You call upon your dragonmark's power to ward off attacks. When you Cast the Spe
 **Heightened (9th)** The bonus increases to +3.
 )
 =
+item(
+# Dragonmarked Warder
+## Focus 2
+-
+; Abjuration, Dragonmark, Mark of Warding
+**Cast** see replicated spell; dragonmark, somatic
+
+**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
+-
+With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
+    When you begin to cast Dragonmarked Warder, you can select a spell from the Dragonmarked Warder spell list at the heightened level of Dragonmarked Warder or lower. Dragonmarked Warder gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Warder.
+    A spell cast by Dragonmarked Warder doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
+
+#### Dragonmarked Warder Spell List
+**Heightened Level** | **Spell**
+--- | :---
+2 | Alarm, Lock, Tether
+3 | Knock, Magical Fetters
+4 | Circle of Protection, Glyph of Warding
+5 | Dimensional Anchor, Private Sanctum
+6 | Wall of Stone
+7 | Dimensional Lock
+8 | Force Cage
+9 | Disappearance
+-
+**Heightened (3rd)** You may cast Dragonmarked Warder up to twice per daily preparation. Only one of these casts may be from the heightened level 4 or above.
+
+**Heightened (6th)** You may cast Dragonmarked Warder up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
+
+**Heightened (7th)** You may cast Dragonmarked Warder up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
+)
+|
+item(
+**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Warder.
+)
 item(
 # Guard and Seal
 ## Focus 2
@@ -1880,40 +1946,6 @@ You draw upon your powers of warding to guard the presence of an item. Once the 
 
 **Heightened (8th)** The duration is permanent until the object moves more than 15 feet from its starting location. You may target up to 10 items at once in this way. You can dismiss this spell.
 )
-|
-item(
-# Dragonmarked Warder
-## Focus 2
--
-; Abjuration, Dragonmark, Mark of Warding
-**Cast** see replicated spell; dragonmark, somatic
-
-**Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
--
-With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Dragonmarked Warder, you can select a spell from the Dragonmarked Warder spell list at the heightened level of this spell or lower. Dragonmarked Warder gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Dragonmarked Warder.
-    A spell cast by Dragonmarked Warder doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
-
-#### Dragonmarked Warder Spell List
-**Heightened Level** | **Spell**
---- | :---
-2 | Alarm, Lock, Tether
-3 | Knock, Magical Fetters
-4 | Circle of Protection, Glyph of Warding
-5 | Dimensional Anchor, Private Sanctum
-6 | Wall of Stone
-7 | Dimensional Lock
-8 | Force Cage
-9 | Disappearance
--
-**Heightened (3rd)** You may cast Dragonmarked Warder up to twice per daily preparation. Only one of these casts may be from the heightened level 4 or above.
-
-**Heightened (6th)** You may cast Dragonmarked Warder up to three times per daily preparation. Only one of these casts may be from the heightened level 4 or above.
-
-**Heightened (7th)** You may cast Dragonmarked Warder up to three times per daily preparation. Only one of these casts may be from the heightened level 6 or above.
-
-**Heightened (9th)** Spells of the third heightened level or lower do not count against the frequency of Dragonmarked Warder.
-)
 =
 head(
 # Aberrant Mark ((+Aberrant Mark))
@@ -1932,11 +1964,12 @@ Aberrant marks can appear at any time on any ancestry that has not already manif
 **Special:** If you are a half-orc, this heritage replaces the half-orc heritage, though you still you gain the orc trait, the half-orc trait, and low-light vision. In addition, you can select orc, half-orc, human, dragonmarked heritage, and aberrant mark feats whenever you gain an ancestry feat.
 
 ## Aberrant Mark Focus Spells
-If you manifest a mark, you will begin to gain access to the following aberrant mark focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well. 
+If you manifest a mark, you will begin to gain access to the following aberrant mark focus spells. As the powers of your mark are heightened, the powers and variety of spells will increase as well.
+|
 ### Aberrant Feedback ((++Aberrant Feedback))
 One of the reasons that aberrant marks are so feared, is their potential for causing unintentional harm resulting from their use. The Aberrant Feedback trait applies to most spells that an aberrant mark can cast. 
 
-After you cast a focus spell with the Aberrant Feedback trait, you must make a Will save against your dragonmark DC. On a critical failure, you increase your drained condition by 1. If the save is a natural 1, a random creature within 30 feet of the caster (potentially including the caster) takes 1d4 persistent acid, cold, fire, bleeding, or poison damage of the GM's choice. This is in addition to increasing the caster's drained condition. The number of damage dice increases to two with a Lesser Mark, three with a Greater Mark, and four with a Siberys Mark.
+After you cast a focus spell with the Aberrant Feedback trait, you must make DC 5 flat check. On a failure, you increase your drained condition by 1. On a critical failure, a random creature within 30 feet of the caster (potentially including the caster) takes 1d4 persistent acid, cold, fire, bleeding, or poison damage of the GM's choice. This is in addition to increasing the caster's drained condition. The number of damage dice increases to two with a Lesser Mark, three with a Greater Mark, and four with a Siberys Mark.
 
 note(
 #### Consider the following
@@ -1945,24 +1978,29 @@ If Aberrant Feedback is undesirable for your play style, consider awarding the A
 Alternatively, if you wish to keep Aberrant Feedback but simplify your combat loop, ignore the natural 1 clause of Aberrant Feedback.
 )
 =
-### Additional Focus Spells
-As an Aberrant Marked character, you may select from among the following Pathfinder focus spells. If you do so they lose the class and archetype traits if they have it, and gain the Dragonmark, and Aberrant Mark traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
+### Focus Spells
+As an Aberrant Marked, you may utilise the following focus spells. Some of these spells may belong to a class or archetype. If you select one of these focus spells, they lose the class and archetype traits if they have it, and gain the Dragonmark, and Aberrant Mark traits. The tradition of the spell becomes Aracne. Note that rarity is maintained, and uncommon spells should still be verified with your GM.
 
 Level | Focus Spell
 --- | :---
 1 | Cry of Destruction
 1 | Eject Soul
+1 | Induce Chaos*
 1 | Swarmsense
 1 | Waking Nightmare
+2 | Aberrant Cantrip*
+2 | Corrupted Replication*
+2 | Mask Dragonmark*
 3 | Aberrant Whispers
 4 | Overflowing Sorrow
 7 | Shadow's Web
 7 | Summon Living Dragonmark*
-. *appears in the spell section of this document
+10 | Wrath of Kyber*
+. *appears below or in the spell section of this document
 
 ### New Focus Spells
-As an Aberrant Marked character, you may select also select from among the following new focus spells.
-/
+As an Aberrant Marked character, the following spells are new unique spells for your mark.
+
 item (
 # Induce Chaos
 ## Focus 1
@@ -1972,35 +2010,28 @@ item (
 
 **Range** 30 feet; **Targets** 1 creature
 
-**Saving Throw** Will **Duration** sustained up to 1 minute
+**Saving Throw** Will
 -
 The target is subject to a random condition as its senses, mind, or body are twisted. The effects are determined by the target's Will save.
 
-#### Minor Table
+#### Induce Chaos Table
 d4 | Condition
 --- | :---
-1 | Stupified 1
-2 | Enfeebled 1
-3 | Clumsy 1
-4 | Drained 1
-
-#### Major Table
-d4 | Condition
---- | :---
-1|	Dazzled
-2 | Slowed 1
-3 | Immobilized
-4 | Fleeing
-
-**Critical Success** The target is unaffected. 
-
-**Success** The target takes a random condition from the minor table.
-
-**Failure** The target takes a random condition from the minor table for the duration of the spell, which is not reduced at the end of its turn. It can attempt a new save at the end of each of its turns to end the condition.
+1 | Stupified
+2 | Enfeebled
+3 | Clumsy
+4 | Stunned
 )
 |
 item(
-**Critical Failure** The target takes a random condition from the major table the duration of the spell, which is not reduced at the end of its turn. It can attempt a new save at the end of each of its turns to end the condition.
+**Critical Success** The target is unaffected. 
+
+**Success** The target takes a random condition from the table at value 1.
+
+**Failure** The target takes a random condition from the table, however the condition value is 2.
+)
+item(
+**Critical Failure** The target takes a random condition from the table, however the condition value is 3.
 -
 **Heightened (4th)** you may target 2 creatures at once
 
@@ -2019,7 +2050,6 @@ With a subtle manipulation of the powers of your mark, you can replicate simple 
     When you cast the Aberrant Cantrip, you can choose Chill Touch or Daze. Aberrant Cantrip gains the traits of the cast cantrip. You then replicate the cantrip's effect by completing the Cast a Spell activity using the normal number of actions. These cantrips are automatically heightened to the level of this spell.
     A spell cast by Aberrant Cantrip doesn’t require material or verbal components but always requires a dragonmark and somatic component.
 )
-=
 item(
 # Mask Dragonmark
 ## Focus 2
@@ -2036,6 +2066,7 @@ If you use any dragonmark focus spell with the Aberrant Feedback trait, this spe
 -
 **Heightened (+1)** the duration increases by 5 minutes
 )
+=
 item(
 # Wrath of Kyber
 ## Focus 10
@@ -2058,16 +2089,14 @@ item(
 ; Aberrant Mark, Aberrant Feedback, Dragonmark
 **Cast** see replicated spell; dragonmark, somatic
 
-
 **Frequency** The strain of bending your dragonmark to replicate a specific spell is so great, that you can only cast this spell once per 24 hours - even if you have focus points to cast it with.
 -
 With a concentrated effort to bend the powers of your mark, you can replicate the effects of a spell.
-    When you begin to cast Corrupted Replication, you can select a spell from the Corrupted Replication spell list at the heightened level of this spell or lower. Corrupted Replication gains the traits of the selected spell, then you may replicate the spell's effect by 
+    When you begin to cast Corrupted Replication, you can select a spell from the Corrupted Replication spell list at the heightened level of Corrupted Replication or lower. Corrupted Replication gains the traits of the selected spell, then you may replicate the spell's effect by completing the Cast a Spell activity using the selected spell's number of actions. The replicated spell is automatically heightened to the level of Corrupted Replication.
+    A spell cast by Corrupted Replication doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 )
 |
 item(
-completing the Cast a Spell activity using the normal number of actions. The replicated spell is automatically heightened to the level of Corrupted Replication.
-    A spell cast by Corrupted Replication doesn’t require material or verbal components but always requires a dragonmark and somatic component. If the spell requires a focus, you must still have that focus to cast the spell, and if the spell has a cost, you must still pay that cost to cast the spell.
 #### Corrupted Replication Spell List
 **Heightened Level** | **Spell**
 --- | :---
@@ -2081,6 +2110,7 @@ completing the Cast a Spell activity using the normal number of actions. The rep
 9 | Volcanic Eruption
 10 | Storm of Vengeance
 . The above table is themed around acid and storms
+
 -
 **Heightened (3rd)** You may cast Corrupted Replication up to twice per daily preparation. Only one of these casts may be from the heightened level 4 or above.
 
@@ -2108,31 +2138,3 @@ When building the Heightened Level list, spells should be placed at the heighten
 9 | "All is One, One is All", Earthquake, Finger of Death, Possession, Volcanic Eruption
 10 | Massacre, Meteor Swarm, Nature's Enmity, Power Word Kill, Storm of Vengeance
 )
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-/

@@ -36,10 +36,8 @@ Tieflings | Uncommon
 
 # Core Ancestries ((++Core Ancestries))
 Pathfinder 2e integrates a significant amount of Golarian lore into the mechanics and feats of core ancestries. While all of the mechanics are solid, the flavour associated with the ancestries and their feats occasionally diverge from the flavour or lore of Eberron. In the majority of cases, it is close enough to Eberron that it doesn't warrant a rewrite, however, you should consider modifying the flavour of your PC to fit the world of Eberron. As always, work with your GM if you are unsure.
-
-This guide does not aim to provide information about
 |
-the Ancestries, but instead guidance about implementing their mechanics in the world.
+This guide does not aim to provide information about the Ancestries, but instead guidance about implementing their mechanics in the world.
 
 For more information about the Ancestries of Eberron, see the Eberronicon entries.
 
@@ -166,6 +164,7 @@ The warforged ancestry is provided in this document.
 info(
 For more information on Warforged, see Exploring Eberron (p. 45)
 )
+|
 # Versatile Ancestries ((++Versatile Ancestries))
 There exist instances of these versatile ancestries throughout the world of Eberron, as such they are Uncommon in rarity. However, the following Ancestries are typically the result of unique circumstances around the birth of a child. 
 
@@ -174,31 +173,11 @@ Aasimar of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Aasimar, see Exploring Eberron (p. 77)
 )
-
 ## Tieflings
 Tieflings of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Tieflings, see the Eberronicon (p. 16).
 )
- 
+  
 # Exotic Ancestries ((++Exotic Ancestries))
-Any Ancestries in the Pathfinder 2e core rules that have are not listed above do not have any equivalent (or common equivalent) in the world of Eberron. All Exotic Ancestries gain the Rare trait, replacing other rarity traits they may have.
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+Any ancestries in the Pathfinder 2e core rules that are not listed above do not have any equivalent (or common equivalent) in the world of Eberron. All exotic ancestries gain the Rare trait, replacing other rarity traits they may have.

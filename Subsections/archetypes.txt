@@ -11,7 +11,7 @@ item(
 ## Feat 2
 -
 ; Archetype, Dedication, Dragonmark
-**Prerequisites** A Dragonmark
+**Prerequisites** The dragonmark trait
 -
 You train to empower your mark and the reserves of power that you can draw on. You can select an additional dragonmarked focus spell to cast. In addition, if you spend a week of downtime retraining, you can switch your known dragonmark focus spells for different dragonmark focus spells that you have access to. Your house provides this retraining free of charge.
 )
@@ -75,7 +75,7 @@ item(
 As you approach mastery over your mark, energy seems to return to you naturally. If you have spent at least 3 Dragonmark Focus Points since the last time you Refocused, you recover 3 Dragonmark Focus Points when you Refocus instead of 1.
 )
 note(
-There is no way to elevate your dragonmark to Siberys through training with the Dragonmarked Scion Archetype. How and who Siberys marks choose to appear on remains a mystery. At the moment it seems the only deciding factor in whether the mark will appear is fate.
+There is no way to elevate your dragonmark to Siberys through training with the Dragonmarked Scion Archetype. At the moment it seems the only deciding factor in whether the mark will appear is fate.
 )
 =
 <!-- Wandslinger -->

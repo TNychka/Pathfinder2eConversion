@@ -5,7 +5,6 @@ These new spells are a combination of regular spells and focus spells found thro
 )
 # Spell Lists ((+Spell Lists))
 The following spells are provided by this supplement, and accessible to any caster of the respective school.
-
 ## Common Cantrips
 These cantrips are employed in the day to day life of many NPCs in the world of Eberron.
 ##### Table 8-1: Common Cantrips
@@ -24,8 +23,9 @@ Level | Name | Effect
 1 | Aundair's Silent Sanctum | Create a privacy barrier for conversation.
 1 | Magecraft | Improve your craft.
 
+  
 ## Dragonmark Focus
-Dragonmarked heirs channel the powers of these spells. Some marks create similar effects, despite being innately different. Individual houses may refer to their spell effects differently, but these spells are commonly referred to (and behave identically to) the following spells. 
+Dragonmarked heirs channel the powers of these spells. Some marks create similar effects, despite being innately different. Individual houses may refer to their spell effects differently, but the mechanical effects are the same. 
 ##### Table 8-2: New Dragonmark Focus Spells
 Level | Name | Effect
 --- | :--- | :---
@@ -49,6 +49,7 @@ Cantrip | Force Blast | Launch a bolt of energy at long range.
 5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
 5 | Fabricate | Convert raw materials.
 
+  
 ##### Table 8-4: Divine Spell List
 Level | Name | Effect
 --- | :--- | :---
@@ -58,6 +59,7 @@ Level | Name | Effect
 4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
 5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
 
+  
 ##### Table 8-5: Occult Spell List
 Level | Name | Effect
 --- | :--- | :---
@@ -77,7 +79,7 @@ Level | Name | Effect
 3 | Curse Dragonmark | You curse a dragonmark to be unreliable.
 4 | Sai'la's moonblade | You bring a blade of moonlight down on your enemies, revealing shapeshifters.
 5 | Banish Dragonmark | You temporarily remove a dragonmark's powers from a creature.
-
+  
 # Spell Descriptions ((+Spell Descriptions))
 When selecting spells for your caster, you can additionally select from among the following.
 item(
@@ -97,6 +99,7 @@ You create an invisible sphere of energy with a 5-foot emanation. Until the spel
 -
 **Heightened (3rd)** you may choose the area to be up to a 10-foot-radius emanation centred on you. The circumstance penalty to hear sounds becomes -4, and the circumstance bonus to saves becomes +4.
 )
+|
 item(
 # Banish Dragonmark
 ## Spell 5
@@ -112,7 +115,6 @@ item(
 -
 One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
 )
-|
 item(
 You utter a harsh incantation and point a finger at the target. Suddenly, your foe’s dragonmark begins to writhe and separate from its body. They must attempt a Will save.
 **Critical Success** the target is unaffected.
@@ -135,6 +137,7 @@ item(
 -
 You clean an object or surface made from wood, stone, or metal no larger than 1 bulk or 1 cubic foot.
 )
+=
 item(
 # Curse Dragonmark
 ## Spell 3
@@ -158,7 +161,6 @@ Every time the target creature attempts to use a feature, spell, or item with th
 -
 **Heightened (+1)** the DC of the flat check increases by 1
 )
-=
 item(
 # Culinary Transmutation
 ## Cantrip 0
@@ -188,8 +190,9 @@ item(
 **Saving Throw** Will; **Duration** sustained 10 minutes
 -
 One of the spells developed by the twelve to hunt Aberrant Marks, they found these dragonmark targeting spells could disable any dragonmark - not just Aberrant marks. The twelve determined it to be too great a risk to make public. However, this spell has since been acquired by various intelligence agencies, held until the day it may be necessary.
-
-
+)
+|
+item(
 Creatures with the dragonmark trait in the area become nauseated as their marks begin to writhe and dance on their skin. A creature must attempt a Will saving throw if it is inside the burst when you cast it, when it enters the burst, or when it ends its turn within the burst. All creatures without the dragonmark trait automatically critically succeed.
 **Critical Success** The creature is unaffected.
 **Success** The creature is fascinated by its mark.
@@ -213,10 +216,7 @@ You may substitute your speciality for the creature for the duration of the spel
 **Mark of Handling** nature
 **Mark of Healing** medicine
 **Mark of Hospitality** diplomacy
-)
-|
-item(
-<null> **Mark of Making** crafting
+**Mark of Making** crafting
 **Mark of Passage** acrobatics
 **Mark of Scribing** lore
 **Mark of Sentinel** athletics
@@ -224,6 +224,7 @@ item(
 **Mark of Storm** acrobatics
 **Mark of Warding** thievery
 )
+=
 item(
 # Fabricate
 ## Spell 5
@@ -261,7 +262,7 @@ A pulse of bright light and energy tears ripples through the air, disrupting cre
 **Failure** The creature is dazzled and deafened for 1 minute. They may make a Fortitude at the end of each of their turns to end the effect.
 **Critical Failure** The creature is deafened and blinded for 1 minute.
 )
-=
+|
 item(
 # Force Blast
 ## Cantrip 1
@@ -331,6 +332,7 @@ item(
 -
 You light a candle, torch, or small campfire.
 )
+=
 item(
 # Magecraft
 ## Cantrip 1
@@ -343,7 +345,6 @@ item(
 **Duration** sustained up to 10 minute
 -
 )
-|
 item(
 You gain a +1 circumstance bonus to the next check you make with this set of tools. The spell then ends. If you integrate this spell into your downtime crafting activity, this bonus applies to the final crafting check.
 )
@@ -380,15 +381,17 @@ Channelling your divine powers, you bring a blade of moonlight down onto a creat
 :a: (somatic) The spell has a range of touch.
 :aa: (somatic, verbal) The spell has a range of 30 feet.
 :aaa: (material, somatic, verbal) The spell has a range of 60 feet and creates a 20-foot burst of blades of moonlight
-
 **Critical Success** The creature is unaffected.
 **Success** The creature takes half damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success worse. 
 **Failure** The creature takes full damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it.
+)
+|
+item(
+<null>
 **Critical Failure** The creature takes double damage. If the creature is under the effects of a Polymorph, this spell attempts to counteract it. The counteract check is one degree of success better. 
 -
 **Heightened (+1)** the damage increases by 1d10.
 )
-=
 item(
 # Savage Blossom
 ## Cantrip 0
@@ -428,6 +431,7 @@ You may immediately make a counteract check against the triggering spell.
 -
 **Heightened (8th)** When you successfully counteract a spell that affects targeted creatures or an area, you can turn that spell’s effect back on its caster. When reflected, the spell affects only the original caster, even if it’s an area spell or it would normally affect more than one creature. The original caster can attempt a save and use other defences against the reflected spell as normal. 
 )
+=
 item(
 # Summon Living Dragonmark
 ## Focus 7
@@ -442,14 +446,12 @@ item(
 **Requirements** A Greater or Siberys dragonmark
 -
 You summon a writhing mass of energy in a dragonlike form, a three-dimensional projection of your dragonmark. A living dragonmark appears where you designate within the spell’s range. Aberrant mark summons gains the Negative trait, while true mark summons gains the Positive trait.
-)
-|
-item(
 -
 **Heightened (+1)** the level of the Greater Living Dragonmark summoned increases by 2. Its AC, DCs, and Saves increase by the equivalent amount. 
 
 **Heightened (9th)** you summon a Siberys Living Dragonmark instead of a Greater Living Dragonmark
 )
+|
 item(
 # Greater Living Dragonmark
 ## Creature 9

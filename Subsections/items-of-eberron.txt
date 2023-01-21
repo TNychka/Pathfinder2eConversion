@@ -974,6 +974,7 @@ Riedran Crysteel makes excellent weapons, and the crystalline component makes th
 -
 **Type** high-grade riedran crysteel weapon; **Level** 19; **Price** 32,000 gp +3,200 gp per Bulk; **Craft Requirements** at least 16,000 gp of riedran crysteel + 1,600 gp per Bulk
 )
+|
 # Worn Items ((+Worn Items))
 The following worn items are available in the world of Eberron.
 item(
@@ -1002,7 +1003,7 @@ When this stone is created, choose one of acid (Lamannia), cold (Fernia), electr
 
 **Activate** :r: Interact; **Trigger** You would take energy damage of the stone's type **Effect** By channelling the powers of the plane, some of the effect of the triggering damage is mitigated. You gain resistance 3 to the damage.
 )
-|
+=
 item(
 # Plane Stone of Discharge
 ## Item 1
@@ -1045,7 +1046,7 @@ The basic drybrooch produces a field around you that is silvery and translucent
   **Type** custom; **Level** 1; **Price** 10 gp
 This custom drybrooch has basic illusions woven into the field.
 )
-=
+|
 item(
 # Final Messenger
 ## Item 1
@@ -1071,7 +1072,7 @@ A final messenger uses the Homunculus stat block but loses the Master Link, and 
 
 **Activate** :a: Interact; **Effect** You release the final messenger, at which point it flies to its destination by the most direct route possible. Once it reaches the destination it seeks the target individual; if no target has been set, it approaches the nearest warforged.
 )
-|
+=
 item(
 **Activate** :f:; **Trigger** you are reduced to 0 hit points while a final messenger is attached to you; **Effect** You release the final messenger, it immediately detaches and seek out its target. It retains its stored message but replaces its stored image with the last thing you saw before dropping to zero hit points.
 )
@@ -1108,4 +1109,5 @@ item(
 The spark is a small oval stone engraved with Fernian glyphs.
 **Activate** :a: Interact; **Frequency** Unlimited **Effect** You can light or snuff out a candle, torch, small campfire, or similar source of flame that you touch with the stone.
 )
+|
 =

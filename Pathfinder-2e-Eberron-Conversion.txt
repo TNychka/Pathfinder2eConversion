@@ -1,9 +1,66 @@
 watermark (
-Version 1.6.0
+Version 1.6.2
 )
-title (
-Pathfinder's Guide to Eberron 
+title(
+Pathfinder's Guide to Eberron
 )
+# Legal
+*Pathfinder's Guide to Eberron is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.*
+
+*This document can only be utilized for personal use and not to create new games incorporating Wizards IP or anything else that can or will be distributed that does not also conform to Wizards of the Coast’s Fan Content Policy.*
+
+*Eberron and its respective logo are trademarks of Wizards of the Coast, Inc., in the U.S.A. and other countries.*
+
+  
+*Pathfinder's Guide to Eberron uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/communityuse). We are expressly prohibited from charging you to use or access this content. Pathfinder's Guide to Eberron is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit paizo.com.*
+
+  
+*This guide aims to be within the terms of fair use under the OGL and Fan Content Policy. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up-to-date source for the Eberron community.*
+
+*In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind-bending corruptions accending from the depths (The Mror Holds declined to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
+
+# Credits
+**Eberron created by** Keith Baker
+
+**Contributors and Supporters:** Thank you to all the many people who have helped in large or small ways through feedback or suggestions, and contributions to the GitHub repository. The Pathfinder2eCreations community, the Eberron Pathfinder2e discord community, and everyone else.
+|
+# Changelog
+**V 1.6.1 - 2023-01-13**
+- Clarifies focus spell selection from dragonmark feats
+- Removes extraneous text
+- Adds improved credits, changelog, and legal section
+
+**V 1.5 - 2023-01-12**
+- Merged dragonmark focus pool with regular focus pool. Points are now shared.
+
+**V 1.4 - 2023-01-07**
+- Dragonmarked Half-Elf and Half-Orc heritage clarifications. These two heritages are Human heritages - though you are still a Half-Elf or Half-orc respectively
+- Modified Kalashtar stat boost from Wisdom to Charisma to fit with the psychic class
+- Errata and clarifications
+
+**V 1.2.1 - 2022-10-10**
+- Errata and clarifications
+
+**V 1.2.0 - 2022-08-09**
+- Added Planes of Eberron
+
+**V 1.1.2 - 2022-06-07**
+- Errata and clarifications
+
+**V 1.1.1 - 2022-04-06**
+- Moved warforged stats to general rather than heritage
+- Moved shifter stats to general rather than heritage
+- Removed shapeshifter trait from changelings
+- Increased changeling starting languages
+- Errata and clarifications
+
+**V 1.0.10 - 2022-03-01**
+- Errata and clarifications
+
+**V 1.0.0 - 2021-10-03**
+- Document created
+
+=
 head (
 # The Pathfinder's Guide to Eberron ((Pathfinder's Guide to Eberron))
 Train cars crackle with lightning as they thunder on elemental rails through the countryside. Veterans of a hundred-year war now not only defend their fragment of a shattered kingdom but protect against nameless horrors from apocalyptic mists. Dragonmarked monopolies dominate the trade of the Khorvaire and increasingly push the boundaries of their governing laws. The world is in desperate need of heroes, and only you can answer the call. Welcome to the World of Eberron. This guide will help you run the Eberron Campaign setting using the Pathfinder 2e system.
@@ -12,10 +69,10 @@ Train cars crackle with lightning as they thunder on elemental rails through the
 # What is Eberron? ((+What is Eberron))
 Eberron started with a contest run by Wizards of the Coast to develop a new campaign setting. The winner of the competition was Keith Baker with the Eberron Campaign Setting. In 2005 after developing the setting in concert with Wizards of the Coast, the Eberron campaign setting was published for Dungeons and Dragons 3e. 
 
-Eberron is a pulp action world where morality is a shade of grey, but the call to adventure is always present. Adventure is everywhere, from the continent of Khorvaire: where arcane industry powered a hundred-year-war which now stands in an uneasy truce gone cold war; to Xen'drik where ancient ruins of the giant civilization wait to be discovered; there are many backdrops for a story in Eberron - and equally many dangers. Some of these dangers threaten nations, while others put the fate of the world at risk. Only a few legendary people can ever hope to stand against these threats, which is where the PCs come in. The need for heroes is desperate, but there is hope.
+Eberron is a pulp-action world where morality is a shade of grey, but the call to adventure is always present. Adventure is everywhere, from the continent of Khorvaire: where arcane industry powered a hundred-year-war which now stands in an uneasy truce gone cold war; to Xen'drik where ancient ruins of the giant civilization wait to be discovered; there are many backdrops for a story in Eberron - and equally many dangers. Some of these dangers threaten nations, while others put the fate of the world at risk. Only a few legendary people can ever hope to stand against these threats, which is where the PCs come in. The need for heroes is desperate, but there is hope.
 /
 info (
-Recommended additional reading
+Recommended source material
 ## D&D 3 Eberron Campaign Setting
 The Eberron Campaign Setting (ECS) is the book that started it all. Released in 2005, this is the primary source of mechanics and lore added in this guide. It provides a detailed description of the world, mechanics, and lore.
 -
@@ -28,694 +85,49 @@ Exploring Eberron (EE) independent book developed by Keith Baker focused on the 
 ## Eberronicon
 The Eberronicon - A Pocket Guide to the World (EPG) is a community project that provides a high-level summary of the world of Eberron and all of the lore to date.
 )
-# Pathfinders' Guide to Eberron ((+Pathfinders' Guide to Eberron))
-
-The Pathfinder's guide to Eberron provides Pathfinder 2e mechanics to support the gameplay of Eberron. It would be prohibitive and against the OGL to provide the lore that Eberron has developed over the years. This guide suggests the following books as references [D&D 3 Eberron Campaign Setting](https://www.dmsguild.com/product/28474/Eberron-Campaign-Setting-3e) by Keith Baker, [Exploring Eberron](https://www.dmsguild.com/product/315887/Exploring-Eberron) by Keith Baker, and the [Eberronicon](https://www.dmsguild.com/product/297249/Eberronicon-A-Pocket-Guide-to-the-World). All of these are available for purchase on the [Dungeon Masters Guild](https://www.dmsguild.com/) and provide all of the
 |
-background information you might need to run the world of Eberron.
+# Pathfinders' Guide to Eberron ((+Pathfinders' Guide to Eberron))
+The Pathfinder's guide to Eberron provides Pathfinder 2e mechanics to support the gameplay of Eberron. It would be prohibitive and against the OGL to provide the lore that Eberron has developed over the years. This guide suggests the following books as references [D&D 3 Eberron Campaign Setting](https://www.dmsguild.com/product/28474/Eberron-Campaign-Setting-3e) by Keith Baker, [D&D 5e Eberron: Rising from the Last War](https://www.dndbeyond.com/sources/erftlw) by Keith Baker, [Exploring Eberron](https://www.dmsguild.com/product/315887/Exploring-Eberron) by Keith Baker, and the [Eberronicon](https://www.dmsguild.com/product/297249/Eberronicon-A-Pocket-Guide-to-the-World). All of these are available for purchase on the [Dungeon Masters Guild](https://www.dmsguild.com/) and provide all of the background information you might need to run the world of Eberron.
 
-## Why Pathfinder 2e? ((++Why Pathfinder 2e))
-Pathfinder 2e's levelling system supports the pulp action and swashbuckling of Eberron well. At low levels, adventurers will fight against threats to towns or cities, while at high levels these become trivial and  adventurers will be called on to fight one or more of the threats to nations or even the entire world.
-Not only this, but players will find that with the customization enabled by pathfinder 2e's feat system, they'll be able to build characters far more intricately tied to the lore than ever before. This is most evident in the new dragonmarked system, where a player can be a member of the dragonmarked houses without ever manifesting a mark!
-Since Eberron was developed for the D&D 3 system, translating mechanics and items to Pathfinder 2e is frequently indirect. The Pathfinder's Guide to Eberron primarily provides support for Ancestries, Dragonmarks, Equipment, Spells, and conversions of specific mechanics or lore of the world tied to the D&D 3 and D&D 5e. In addition, some new feats and ideas add to the potential of the Pathfinder 2e system for the world of Eberron.
+## Using this guide
+This guide aims to be as balanced and interesting as possible while using the pathfinder 2e base rules. If something seems too good - or too bad - to be true, it likely is. Work with your GM to figure out a better solution, and if possible submit a question to the [Github](https://github.com/TNychka/Pathfinder2eConversion/issues) for clarification or correction. All Uncommon and Rare traits should _always_ be verified with your GM.
 =
+### The World
+There are a number of nations that have risen from the last war, and many continents, ancient empires, and other places that have been around far longer. This document provides stat blocks for all these locations including the planes and any planar effects.
+
+### Languages
+There are many varied languages in Eberron, and this document outlines the common, uncommon, and exotic languages of the world that you might encounter.
+
+### Religions
+Deities are tied into the mechanics of many of the Pathfinder 2e classes, this document provides the statblocks for their worship.
+
 ### Ancestries
 There are several unique playable Ancestries in Eberron, such as the Bugbear, Eberron Changeling, Kalashtar, Shifter, and Warforged. The Pathfinder's Guide to Eberron provides support for these new ancestries or ways to play them with the existing Pathfinder 2e ancestries.
 
-With the Pathfinder 2e feats system, some feats tie Golarian lore directly into Ancestry. Suggestions are provided for altering these to fit the world of Eberron (although mechanics are rarely changed). 
-
 ### Dragonmarks
-Dragonmarks are a new system of focus spells provided by the Dragonmarks which manifest on many of the Ancestries present in the world of Eberron. This guide provides the steps and support to use Dragonmarks in Eberron.
+Dragonmarks are a new system of focus spells provided by the Dragonmarks which manifest on many of the Ancestries present in the world of Eberron. This guide provides the steps and mechanical support to use Dragonmarks in Eberron.
 
 ### Equipment
 With the wide magic of Eberron, access to magic items and crafting supplies is different from the world of Golarion. New magic items are provided, along with common more mundane adventuring gear and weapons.
 
 ### Spells
-With the arms race brought about by the last war, and the magic of dragonmarks, several new spells are introduced into the world. Eberron is a wide-magic, but the low-level-magic setting, so the majority of these spells are low level as well.
+With the arms race brought about by the last war, and the magic of dragonmarks, several new spells are introduced into the world. Eberron is a wide-magic, but low-level-magic setting, so the majority of these spells are low-level as well.
 
 ### Other
 There are many other details sourced from canon and kanon about running the world of Eberron to its full depth of lore. Eberron is a rich living world, and it can truly shine with some minor tweaks to the Pathfinder 2e system!
-
-## Using this guide
-This guide aims to be as balanced and interesting as possible while using the pathfinder 2e base rules. If something seems too good - or too bad - to be true, it likely is. Work with your GM to figure out a better solution, and if possible submit a question to the [Github](https://github.com/TNychka/Pathfinder2eConversion/issues) for clarification or correction. All Uncommon and Rare traits from pathfinder sources should _always_ be verified with your GM. Similarly, this guide aims to tag information with appropriate rarity. These are typically applied to potentially imbalanced options, options that require GM work to integrate with the world, or even options that your GM might decide
 |
-doesn't exist in their Eberron. If something is Uncommon, Rare, or Unique, you should check with your GM to see how to work it into your character.
 note(
 Occasionally, notes are used to clarify the design intent of an option, and sometimes explain the rarity of the option.
 )
-  
 info(
-Text boxes such as the following are used to provide references for further reading. Inline citations are done with the [X] format which references a citation at the end of the document.
+Text boxes such as the following are used to provide references for further reading.
 )
 =
-# Changelog
-**V 1.6 - 2023-01-13**
-- Removes extraneous text
-
-**V 1.5 - 2023-01-12**
-- Merged dragonmark focus pool with regular focus pool. Points are now shared.
-
-**V 1.4 - 2023-01-07**
-- Dragonmarked Half-Elf and Half-Orc heritage clarifications. These two heritages are Human heritages - though you are still a Half-Elf or Half orc respectively
-- Item adjustments, balance, and clarifications
-- Modified Kalashtar to fit more closely with the Psychic class
-- 
-**V 1.2.1 - 2022-10-10**
-- Minor eratas, formatting adjustments, and clarifications
-
-**V 1.2.0 - 2022-08-09**
-- Added details regarding the Planes of Eberron
-
-**V 1.1.2 - 2022-06-07**
-- Minor eratas, formatting adjustments, and clarifications
-
-**V 1.1.1 - 2022-04-06**
-- Integrates ancestral weapons of Golarion with no Eberron equivalent
-- Added ancestral rarity to stats
-- Moved warforged stats to general rather than heritage
-- Moved shifter stats to general rather than heritage
-- Modifies shifter feats
-- Removed shapeshifter trait from changelings
-- Increased changeling starting languages
-- Made gnoll statistic source more clear
-- modified myrnaxe statistics
-- Increased gnoll bow volley distance
-|
-**V 1.0.10 - 2022-03-01**
-- Errata and clarifications
-- Dragonmark clarifications
-- Changeling feat balance
-- Bugbear feat balance
-- Bugbear speed increase
-- Gnoll feat balance
-- Kalashtar feat balance
-- Wand Mastery adjustments
-
-**V 1.0.0 - 2021-10-03**
-- Document created
-/
-***Disclaimer**: In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind-bending corruptions accending from the depths (The Mror Holds declined to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
-
-***Legal Disclaimer**: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up to date source for the Eberron community.*
+<!--# World of Eberron-->
+https://scribe.pf2.tools/v/60BxLHYq
 =
-head (
-# The World of Eberron ((The World of Eberron))
-The world of Eberron is an interconnected network of Nations, Territories, and Ancient Empires. Ancient grudges and fresh wounds simmer in the embers of the last war. Tensions are high, and the need for heroes is desperate.
--
-)
-The world of Eberron is composed of five main continents: Aerenal, Argonessen, Frostfell, Khorvaire, Sarlona, and Xen'drik. Most PCs will start on the continent of Khorvaire, one of the major humanoid population centres of Eberron.
-right (
-# National Lore
-Most PCs will be natives to one of the Nations of Khorvaire. This nationality will likely be an important part of their character, so consider giving each PC a Trained Lore skill for their Nation.
-# Regional Language
-Languages in Eberron are typically based on location rather than Ancestry. When picking languages, consider the languages local to your home region. As a result of this approach to language, it wouldn't be unreasonable to have characters such as a Dwarf that cannot speak Dwarven or an Elf that only speaks Goblin.
-)
- 
-# Khorvaire ((+Khorvaire))
-Khorvaire once stood as a proud human nation. Five heirs to the Five nations of Aundair, Thrane, Breland, Cyre, and Karrnath worked as one under the crown. This all came to an end 100 years ago when Thrane, Breland, and Karrnath rejected Cyre's claim to the throne, starting a hundred-year war that ripped the kingdom of Galifar apart. This war is now known as the Last War.
-
-As the Last War comes to an end, twelve nations now stand recognized amid the ashes by the Treaty of Thronehold. Although, not all territories are recognized - such as the recently formed Droaam. When building a PC, consider which Nations you lived in, and how the neighbouring nations affected you.
- 
-info(
-For more information on the Nations at a high level: see the **Eberronicon** (P. 20) or more in-depth in the **Eberron Campaign Setting** (p. 129). All the following excerpts are from the Eberron Campaign Setting.
-)
-/
-item(
-# Aundair ((++Aundair))
-## Nation
--
-; Five Nations, Khorvaire, Recognized by Thronehold
-**Government** Monarchy
-
-**Capital**: Fairhaven (92,500)
-
-**Population**  2,000,000 (Humans 51%, Half-elves 16%, Elves 11%, Gnomes 11%, Halflings 5%, Shifter 3%, Changelings 2%, Other 1%)
-
-**Languages:** Common, Draconic, Elf, Halfling
-
-**Religion:** Sovereign Host, Silver Flame
--
-**Exports** Wine, cheese, grains, agriculture, books
-
-**Houses** House Cannith West, House Lyrandar, House Orien
-
-**Factions** The Royal Family, The Arcane Congress, Nobles and Vassal Lords
--
-**Queen Aurala Ir'Wynarn** (NG female human) Queen of Aundair
-
-**Adal Ir'Wynarn** (LN male human) Warlord and minister of magic, Aurala's brother
-
-**Aurad Ir'Wynarn** (LG male human) Chief advisor and governor of Fairhaven, Aurala's brother
-)
-=
-item(
-# Breland ((++Breland))
-## Nation
--
-; Khorvaire, Five Nations, Recognized by Thronehold
-**Government** Constitutional Monarchy
-
-**Capital** Wroat (80,870)
-
-**Population** 3,700,000 (Humans 44%, Gnomes 14%, Half-elves 10%, Elves 8%, Halflings 4%, Changelings 4%, Goblinoids 4%, Orcs 3%, Other 2%)
-
-**Languages** Common, Gnome, Elven, Dwarven, Halfling, Orc, Goblin
-
-**Religion** Sovereign Host, Silver Flame
--
-**Exports** Weapons, armour, tools, processed ore, metalwork, manufactured goods, heavy industry
-
-**Houses** House Cannith South, House Medani, House Phiarlan, House Vadalis
-
-**Factions** The Brelish Crown, The Breland Parliament, The King's Citadel, Nobles and Vassal Lords
--
-**Boranel Ir'Wynarn** (CG male human) King of Breland
-
-**Kor Ir'Wynarn** (NG male human) Royal advisor, Boranel's brother
-
-**Bortan Ir'Wynarn** (LG male human) Royal steward and controller of the crown's finances, Boranel's son
-)
-item(
-# Cyre (Destroyed - 994 YK) ((++Cyre))
-## Nation
--
-; Five nations, Khorvaire, Wasteland
-**Government** Kingdom
-
-**Capital** Metrol
-
-**Population** 1,500,000 in 992 YK (humans, half-elves, halflings, elves, gnomes, changelings, shifters, goblinoids)
-
-**Languages** Common, Gnome, Elven, Dwarven, Halfling, Goblin
-
-**Religion** Sovereign Host, Silver Flame
--
-**Exports** Fine manufactured goods, arts, crafts, fashion
-
-**Houses** House Cannith, House Phiarlan
--
-**Dannel Ir'Wynarn** (CG female human) Queen of Cyre - deceased
-
-**Oargev Ir'Wynarn** (LN male human) Prince in Exile, son of Dannel
-)
-item(
-# Darguun ((++Darguun))
-## Nation
--
-; Khorvaire, Recognized by Thronehold
-
-**Government** Feudal (official), Tribal (traditional)
-
-**Capital** Rhukaan Draal (82,460)
-
-**Population** 800,000 (39% Goblin, 29% Hobgoblin, 13% Bugbear, 6% Kobolds, 6% Human, 7% Other)
-
-**Languages** Goblin, Common, Draconic
-
-**Religion** Dark Six, Sovereign Host
--
-**Exports** Mercenaries
-
-**Houses** House Deneith, House Tharashk
-
-**Factions** The Ghaal'dar, The Marguul, The Heirs of Dhakaan
--
-**Lhesh Haruuc Shaarat'kor** (LN male hobgoblin) High Warlord Haruuc of the Scarlet Blade
-)
-=
-item(
-# Demon Wastes ((++Demon Waste))
-## Territory
--
-; Khorvaire, Wasteland
-**Population** 600,000 (45% humans, 28% orcs, 2% half-orcs, 25% demons (rakshasa, zakya, others))
-
-**Languages:** Common, Orc, Infernal
-
-**Religion:** Some Variation of Fiendish worship
--
-**Factions** The Lords of Dust, The Maruk Ghaash'kala, The Moon Reavers, Night Hags, The Plaguebearers
-)
-item(
-# Droaam ((++Droaam))
-## Nation
--
-; Khorvaire
-**Government** Despotic Regime
-
-**Capital** The Great Crag (32,500)
-
-**Population** 500,000 (20% Gnoll, 19% Orcs, 18% Goblins, 5% Shifters, 38% Other Races (including half-orcs, harpies, hill giants, humans, kobolds, medusas, minotaurs, ogres, and trolls))
-
-**Languages** Goblin, Common, Orc, Giant, Gnoll, Draconic, and various monster languages, not all of which have been studied
-
-**Religion** Dark Six
--
-**Exports** Mercenary services, byeshk
-
-**Houses** House Deneith, House Tharashk
-
-**Factions** The Daughters of Sora Kell, The Warlords of Droaam, The Znir Pact, The Harpy Flights, The Dark Pack
--
-**Sora Katra** (NE female green hag) The voice of the Sora Kell coven
-
-**Sora Maenya** (CE female annis) The fist of the Sora Kell coven
-
-**Sora Teraza** (LN female dusk hag) The diviner of the Sora Kell coven
-)
-=
-item(
-# The Eldeen Reaches ((++The Eldeen Reaches))
-## Nation
--
-; Khorvaire, Recognized by Thronehold
-
-**Government** Druidic Autocracy
-
-**Capital** Greenheart (1,000)
-
-**Population** 500,000 (45% Humans, 16% Half Elves, 16% Shifters, 7% Gnomes, 7% Halflings, 3% Orcs, 3% Elves, 3% Other Races)
-
-**Languages** Common, Elven, Orc, Gnome
-
-**Religion** Various druidic sects, the Sovereign Host, Cults of the Dragon Below
--
-**Exports** Agriculture, Animal Husbandry
-
-**Houses** House Vadalis
-
-**Factions** The Gatekeepers, The Wardens of the Wood, The Cults of the Dragon Below
--
-**Great Druid Oalian** (N awakened greatpine) Voice of the Wardens of the Wood
-)
-item(
-# Karrnath ((++Karrnath))
-## Nation
--
-; Five nations, Khorvaire, Recognized by Thronehold
-**Government** Monarchy
-
-**Capital** Korth (85,000)
-
-**Population** 2,500,00 (Humans 52%, Dwarf 18%, Halflings 10%, Half-elves 8%, Elves 8%, Other 4%)
-
-**Languages** Common, Dwarven, Elven
-
-**Religion** Sovereign Host, Blood of Vol
--
-**Exports** Ale, dairy, glass, grain livestock, lumber, paper, textiles
-
-**Houses** House Deneith, House Jorasco, The Twelve
-
-**Factions** The Royal Family, Nobles and Vassal Lords, The Blood of Vol, The Order of the Emerald Claw
--
-**Kaius III ir'Wynarn** (LE male human) King of Karrnath
-
-**Moranna ir'Wynarn** (LE female human) Chief Advisor
-
-**Etrigani ir'Wynarn** (CG female elf) Queen of Karrnath
-)
-item(
-# The Lhazaar Principalities ((++The Lhazaar Principalities))
-## Nation
--
-; Khorvaire, Recognized by Thronehold
-
-**Government** Confederation of Principalities
-
-**Capital** Regalport (3,300)
-
-**Population** 500,000 (42% Human, 16% Gnome, 14% Half-Elf, 12% Changeling, 5% Dwarf, 4% Elf, 4% Halfling, 3% Other)
-
-**Languages** Common, Gnome, Dwarven, Elven, Halfling
-
-**Religion** Agnostic, Blood of Vol
--
-**Exports** Ships, Mercenaries, Trade Goods
-
-**Houses** House Thuranni
-
-**Factions** Prince Ryger’s Seadragons, Prince Mika’s Cloudreavers, The Blood of Vol
--
-**Ryger ir'Wynarn** (LN male human) High Prince of Regalport
-
-**Prince Mika Rockface** (CE female dwarf) Commander of the Cloudreavers
-)
-=
-item(
-# The Mror Holds ((++The Mror Holds))
-## Nation
--
-; Khorvaire, Recognized by Thronehold
-
-**Government** Oligarchy
-
-**Capital** Krona Peak (24,200)
-
-**Population** 700,000 (Dwarves 65%, Humans 12%, Orcs 10%, Gnomes 8%, Other 5%)
-
-**Languages** Dwarven, Common, Orc, Gnomish
-
-**Religion** Sovereign Host, The Mockery, Cults of the Dragon Below
--
-**Exports** Banking, Precious and Non-Precious Metals
-
-**Houses** House Kundarak, House Orien, House Sivis
-
-**Factions** The Clans of the Iron Council, The Aurum, Jhorash’tar
--
-**Torlan Mroranon** (LG male dwarf) Arbiter of the Iron Council
-)
-item(
-# Q'Barra ((++Q'Barra))
-## Nation
--
-; Khorvaire, Recognized by Thronehold
-**Government** Feudal
-
-**Capital** Newthrone (23,260)
-
-**Population** 300,000 (Lizardfolk 40%, Humans 30%, Kobolds 15%, Halflings 7%, Dwarves 3%, Half-elves 2%, Other 3%)
-
-**Languages:** Common, Draconic, Riedran
-
-**Religion:** Sovereign Host, Silver Flame
--
-**Exports** Eberron dragonshards, Rare herbs
-
-**Houses** House Tharashk
-
-**Factions** New Galifar, Blackscale Lizardfolk, The Dreaming Dark, The Lords of Dust, Rhashaak, Poison Dusk Lizardfolk, The Cold sun Tribes
--
-**Sebastes ir'Kesslan** (male human) King of Newthrone
-)
-item(
-# The Shadow Marches ((++The Shadow Marches))
-## Territory
--
-; Khorvaire
-**Capital:** Zarash’ak (unofficial) (5,960)
-
-**Population** 500,000 (Orc 55%, Humans 25%, Goblins 10%, Half-orcs 7%, Other 3%)
-
-**Languages:** Orc, Common, Goblin
-
-**Religion:** The druidic path of the Gatekeepers, Cults of the Dragon Below
--
-**Exports** Eberron dragonshards, herbs
-
-**Houses** House Tharashk
-
-**Factions** The Gatekeepers
-)
-=
-item(
-# The Talenta Plains ((++The Talenta Plains))
-## Nation
--
-; Khorvaire, Recognized by Thronehold
-**Government** Tribal
-
-**Capital** Gatherhold (2,300)
-
-**Population** 400,00 (Halfling 80%, human 10%, changeling 4%, dwarf 4%, other 2%)
-
-**Languages** Halfling, Common, Dwarven
-
-**Religion** Ancestral and animal spirit worship
--
-**Exports** Crafts, exotic creatures, native art, mercenaries
-
-**Houses** House Ghallanda, House Jorasco
--
-**Lathon Halpum** (CG male halfling) Lathon of the tribes 
-)
-item(
-# Thrane ((++Thrane))
-## Nation
--
-; Five Nations, Khorvaire, Recognized by Thronehold
-**Government** Theocracy 
-
-**Capital** Flamekeep (150,000)
-
-**Population** 2,300,000 (human 70%, half-elf 10%, dwarf 9%, elf 4%, other 3%)
-
-**Languages** Common, Draconic, Dwarven, Elven, Halfling
-
-**Religion** Silver Flame, Sovereign Host
--
-**Exports**  Fine crafts, fruit, livestock, missionaries, textiles, wool
-
-**Factions** Council of Cardinals, Knights of Thrane
--
-**Jaela Daran** (LG female human) The Keeper of the Flame
-
-**Krozen** (LE male human) High Cardinal of the Council
-)
-=
-item(
-# Valenar ((++Valenar))
-## Nation
--
-; Khorvaire, Recognized by Thronehold
-
-**Government** League of Warclans
-
-**Capital** Taer Valaestas (19,060)
-
-**Population** 70,000 (elves 43%, human 28%, half-elves 15%, halflings 5%, hobgoblins 5%, other 4%)
-
-**Languages** Elven, Common
-
-**Religion** Ancestor worship
--
-**Exports** Horses, mercenaries
-
-**Houses** House Lyrandar
-
-**Factions** The Keepers of the Past
--
-**Vadallia** (N male elf) High King
-)
-
-item(
-# Zilargo ((++Zilargo))
-## Nation
--
-; Khorvaire, Recognized by Thronehold
-**Government** Triumvirate
-
-**Capital** Trolanport (27,500)
-
-**Population** 250,000 (Gnome 60%, human 16%, dwarves 11%, kobolds 7%, other 6%)
-
-**Languages** Gnome, Common, Dwarven, Goblin
-
-**Religion** Sovereign Host, The Silver Flame
--
-**Exports** Alchemical goods, education, elemental binding stones, entertainment, maps, precious stones, ships
-
-**Houses** House Kundarak, House Sivis
-
-**Factions** The Aurum, The Library of Korranberg, The Trust
-)
-# Sarlona ((+Sarlona))
-Sarlona is a land of ancient civilizations and the origin of human civilization and culture. After fifteen hundred years of conflict, intrigue, and repression, four nations remain among the many ancient ruins. While there are still holdouts against their power, the Riedra is the strongest among them. The lands are primarily ruled by the Riedran inspired, which work to extend the grasp of the dreaming dark into the world. Visitors are watched at all times, and the risk to travel to Sarlona is great. If adventurers take the risk, they may be able to find treasures of civilizations long lost.
-
-info(
-For more information on the Sarlona at a high level: see the **Eberronicon** (p. 24) or more in-depth in the **Secrets of Sarlona** (p. 9). All the following excerpts are from Secrets of Sarlona.
-)
-=
-item(
-# Adar ((++Adar))
-## Nation
--
-; Sarlona
-**Government** No formal government
-
-**Capital** Kasshta Keep (unofficial)
-
-**Population** 320,000 (Human 51%, kalashtar 45%, other 4%)
-
-**Languages** Riedran
-
-**Religion** Path of Light, Aarakti (Arawai), Braahyn (Balinor)
--
-**Factions** Keepers of the Word, Storm Guardians, Endseekers
--
-**Chanaaka** (LG male human) Speaker of the Word (unofficial)
-)
-item(
-# Riedra ((++Riedra))
-## Nation
--
-; Sarlona
-**Government** The Unity
-
-**Capital** Durat Tal (631,022)
-
-**Population** 13,878,000 ((Percent varies by region) Changelings, chosen/inspired, dwarves, half-giants, humans, ogres, shifters, other)
-
-**Languages** Riedran
-
-**Religion** Path of Inspiration
--
-**Factions** The Dreaming Dark, The Unity
-)
-item(
-# Syrkarn ((++Syrkarn))
-## Territory
--
-; Sarlona
-**Government** None
-
-**Capital** Nderitese (unofficial)
-
-**Population** 260,000 (Human 44%, eneko 42%, half-giant 12%, kalashtar 1%, other 1%)
-
-**Languages** Giant, Riedran
-
-**Religion** Agnostic, Sovereign Host, Karrak the Final Guardian
--
-**Factions** The eyes of Riedra, Various Tribes and Clans
-)
-=
-item(
-# The Tashana Tundra ((++Tashana Tundra))
-## Territory
--
-; Sarlona
-**Government** None
-
-**Capital** Nasq (unofficial capital of Qiku nation)
-
-**Population** 400,000 (Shifters 70%, dwarves/duergar 20%, humans 5%, half-giants 3%, maenads 2%)
-
-**Languages** Riedran
-
-**Religion** Druidic Sects
--
-**Exports** Medicinal and magical lichens, herbs, spices
-
-**Factions** The Dreaming Dark, The Unity
-)
-# The Lands Beyond ((+Lands Beyond))
-The many other continents are composed of large unified empires, or near uninhabited wilderness waiting to be explored. The following entries all detail entire continents and their cultures at a high level.
-info(
-For more information on other lands at a high level: see the **Eberronicon** (Aerenal, Argonnessen, Frostfell, Everice p. 19; Xen'drik p. 25) or more in-depth in the **Eberron Campaign Setting** (p. 216). All the following excerpts are from the Eberron Campaign Setting.
-)
-item(
-# Aerenal ((++Aerenal))
-## Continent
--
-; Kingdom
-**Government** The Sibling Kings, the Undying Court 
-
-**Capital** Shae Cairdal (52,460)
-
-**Population** 2,650,000 (Elves 77%, undying 19%, half-elves 3%, other 1%)
-
-**Languages** Elven, Common, Draconic
-
-**Religion** The Undying Court
--
-**Exports** Crafts, bronzewood, densewood, livewood
-
-**Factions** The Cairdal Blades, The Deathguard, The Tairnadal, The Stillborn
-)
-item(
-# Argonnessen ((++Argonnessen))
-## Continent
--
-; Continent
-**Government** The Eyes of Chronepsis
-
-**Capital Region** The Great Aerie
-
-**Population** 261,310 (dragons 18%, other 82%)
-
-**Languages** Draconic
-
-**Religion** Chronepsis, The Sovereign Host
--
-**Factions** The Conclave, The Eyes of Chronepsis, The Light of Siberys, The Chamber
-)
-item(
-# Frostfell ((++Frostfell))
-## Continent
--
-; Continent
-**Government** None
-
-**Capital Region** None
-
-**Population** Unknown
-)
-item(
-# Xen'drik ((++Xen'drik))
-## Continent
--
-; Continent
-**Government** None
-
-**Capital Region** Stormreach (unofficial)
-
-**Languages** Common, Elven, Giant
-)
-=
-# Languages((+Languages))
-The following languages are present in the world of Eberron. Most humanoids in the world of Eberron speak at least one of the common languages. Uncommon languages are typically only be found in isolated cultures. Exotic languages exist but are typically the language of extra-planar entities. 
-
-##### Table 1-1: Common Languages ((++Common Languages))
-Language | Main Speakers | Script
---- | :--- | :---
-Common* | All major nations, Trade Language of Khorvaire | Common
-Draconic | Argonnessen, Kobolds, lizardfolk, dragons | Draconic
-Dwarven | Mror Holds, Dwarves  | Dwarven
-Elven | Aerenal, Valenar, Elves, Drow  | Elven
-Jotun | Droaam, Xen'drik | Jotun
-Gnomish | Zilargo, House Sivis | Dwarven
-Goblin* | Droaam, Darguun, Goblinoids | Goblin
-Halfling | Talenta Plains, House Ghallanda, House Jorasco | Common
-. *Major language, most PCs will likely speak at least one if not both.
-All these languages are available to all players at the Common rarity, which replaces the Uncommon or Rare traits if present.
-
-
-##### Table 1-2: Uncommon Languages ((++Uncommon Languages))
-Language | Main Speakers | Script
---- | :---: | :---:
-Argon | Barbarians of Argonnessen and Seren | Common
-Aquan | Water-based creatures | Elven
-Druidic | Druids (only) | Druidic
-Gnoll | The Znir Pact, Gnolls |  Infernal
-Orcish | The Gatekeepers, Orcs | Goblin
-Riedran | Lower classes of Sarlona | Old Common
-
-All of these languages are uncommon, available to only PCs who had access to speakers of the language. All the following languages receive the Uncommon trait, replacing the Rare trait if present.
-
-##### Table 1-3: Exotic Languages ((++Exotic Languages))
-Language | Main Speakers | Script
---- | :---: | :---:
-Abyssal | Demons of Shavarath | Infernal
-Auran | Air-based creatures | Draconic
-Celestial | Archons of Shavarath | Celestial
-Daan | Formians, lawful outsiders of Daanvi | Daan
-Daelkyr | Daelkyr, mind flayers, other aberrations, creatures of Xoriat | Daelkyr
-Ignan |	Fire-based creatures | Draconic
-Infernal | Devils of Shavarath | Infernal
-Irial | Ravids, positive energy users of Irian | Draconic
-Kythric | Slaadi, chaotic outsiders of Kythri | Daan
-Mabran | Nightshades, shadows, creatures of Mabar | Draconic
-Quori | Quori, the Inspired, kalashtar | Quori
-Risian | Ice-based creatures | Dwarven
-Sylvan | Fey, creatures of Thelanis | Elven
-Syranian | Angels of Syrania | Celestial
-Terran | Xorns and other earth-based creatures | Dwarven
-Undercommon | Chokers, underground denizens | Daelkyr
-
-All these languages are Rare, available to only PCs who had access to speakers of the language. All the following languages receive the Rare trait, replacing the Uncommon trait if present.
-
+<!--# Languages -->
+https://scribe.pf2.tools/v/jRWZ2dQp
 =
 <!--# Religions-->
 https://scribe.pf2.tools/v/tsFdTP7X

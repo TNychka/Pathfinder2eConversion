@@ -1,0 +1,542 @@
+head (
+# The World of Eberron ((The World of Eberron))
+The world of Eberron is an interconnected network of Nations, Territories, and Ancient Empires. Ancient grudges and fresh wounds simmer in the embers of the last war. Tensions are high, and the need for heroes is desperate.
+-
+)
+right (
+# National Lore
+Most PCs will be natives of one of the nations of Khorvaire. This nationality will likely be an important part of their character, so consider giving each PC a trained lore skill for their nation.
+# Regional Language
+Languages in Eberron are typically based on location rather than ancestry. When picking languages, consider the languages local to your home region. As a result of this approach to language, it wouldn't be unreasonable to have characters such as a dwarf that cannot speak dwarven or an elf that only speaks goblin.
+)
+The world of Eberron is composed of five main continents: Aerenal, Argonessen, Frostfell, Khorvaire, Sarlona, and Xen'drik. Most PCs will start on the continent of Khorvaire, one of the major humanoid population centres of Eberron.
+
+# Khorvaire ((+Khorvaire))
+Khorvaire once stood as a united, proud human nation. However, in the wake of the last war it has splinted into the following separate nations and territories.
+
+info(
+For more information on the Nations at a high level: see the **Eberronicon** (P. 20) or more in-depth in the **Eberron Campaign Setting** (p. 129).
+)
+/
+item(
+# Aundair ((++Aundair))
+## Nation
+-
+; Five Nations, Khorvaire, Recognized by Thronehold
+**Government** Monarchy
+
+**Capital**: Fairhaven (92,500)
+
+**Population**  2,000,000 (Humans 51%, Half-elves 16%, Elves 11%, Gnomes 11%, Halflings 5%, Shifter 3%, Changelings 2%, Other 1%)
+
+**Languages:** Common, Draconic, Elf, Halfling
+
+**Religion:** Sovereign Host, Silver Flame
+-
+**Exports** Wine, cheese, grains, agriculture, books
+
+**Houses** House Cannith West, House Lyrandar, House Orien
+
+**Factions** The Royal Family, The Arcane Congress, Nobles and Vassal Lords
+-
+**Queen Aurala Ir'Wynarn** (NG female human) Queen of Aundair
+
+**Adal Ir'Wynarn** (LN male human) Warlord and minister of magic, Aurala's brother
+
+**Aurad Ir'Wynarn** (LG male human) Chief advisor and governor of Fairhaven, Aurala's brother
+)
+=
+item(
+# Breland ((++Breland))
+## Nation
+-
+; Khorvaire, Five Nations, Recognized by Thronehold
+**Government** Constitutional Monarchy
+
+**Capital** Wroat (80,870)
+
+**Population** 3,700,000 (Humans 44%, Gnomes 14%, Half-elves 10%, Elves 8%, Halflings 4%, Changelings 4%, Goblinoids 4%, Orcs 3%, Other 2%)
+
+**Languages** Common, Gnome, Elven, Dwarven, Halfling, Orc, Goblin
+
+**Religion** Sovereign Host, Silver Flame
+-
+**Exports** Weapons, armour, tools, processed ore, metalwork, manufactured goods, heavy industry
+
+**Houses** House Cannith South, House Medani, House Phiarlan, House Vadalis
+
+**Factions** The Brelish Crown, The Breland Parliament, The King's Citadel, Nobles and Vassal Lords
+-
+**Boranel Ir'Wynarn** (CG male human) King of Breland
+
+**Kor Ir'Wynarn** (NG male human) Royal advisor, Boranel's brother
+
+**Bortan Ir'Wynarn** (LG male human) Royal steward and controller of the crown's finances, Boranel's son
+)
+item(
+# Cyre (Destroyed - 994 YK) ((++Cyre))
+## Nation
+-
+; Five nations, Khorvaire, Wasteland
+**Government** Kingdom
+
+**Capital** Metrol
+
+**Population** 1,500,000 in 992 YK (humans, half-elves, halflings, elves, gnomes, changelings, shifters, goblinoids)
+
+**Languages** Common, Gnome, Elven, Dwarven, Halfling, Goblin
+
+**Religion** Sovereign Host, Silver Flame
+-
+**Exports** Fine manufactured goods, arts, crafts, fashion
+
+**Houses** House Cannith, House Phiarlan
+-
+**Dannel Ir'Wynarn** (CG female human) Queen of Cyre - deceased
+
+**Oargev Ir'Wynarn** (LN male human) Prince in Exile, son of Dannel
+)
+item(
+# Darguun ((++Darguun))
+## Nation
+-
+; Khorvaire, Recognized by Thronehold
+
+**Government** Feudal (official), Tribal (traditional)
+
+**Capital** Rhukaan Draal (82,460)
+
+**Population** 800,000 (39% Goblin, 29% Hobgoblin, 13% Bugbear, 6% Kobolds, 6% Human, 7% Other)
+
+**Languages** Goblin, Common, Draconic
+
+**Religion** Dark Six, Sovereign Host
+-
+**Exports** Mercenaries
+
+**Houses** House Deneith, House Tharashk
+
+**Factions** The Ghaal'dar, The Marguul, The Heirs of Dhakaan
+-
+**Lhesh Haruuc Shaarat'kor** (LN male hobgoblin) High Warlord Haruuc of the Scarlet Blade
+)
+=
+item(
+# Demon Wastes ((++Demon Waste))
+## Territory
+-
+; Khorvaire, Wasteland
+**Population** 600,000 (45% humans, 28% orcs, 2% half-orcs, 25% demons (rakshasa, zakya, others))
+
+**Languages:** Common, Orc, Infernal
+
+**Religion:** Some Variation of Fiendish worship
+-
+**Factions** The Lords of Dust, The Maruk Ghaash'kala, The Moon Reavers, Night Hags, The Plaguebearers
+)
+item(
+# Droaam ((++Droaam))
+## Nation
+-
+; Khorvaire
+**Government** Despotic Regime
+
+**Capital** The Great Crag (32,500)
+
+**Population** 500,000 (20% Gnoll, 19% Orcs, 18% Goblins, 5% Shifters, 38% Other Races (including half-orcs, harpies, hill giants, humans, kobolds, medusas, minotaurs, ogres, and trolls))
+
+**Languages** Goblin, Common, Orc, Giant, Gnoll, Draconic, and various monster languages, not all of which have been studied
+
+**Religion** Dark Six
+-
+**Exports** Mercenary services, byeshk
+
+**Houses** House Deneith, House Tharashk
+
+**Factions** The Daughters of Sora Kell, The Warlords of Droaam, The Znir Pact, The Harpy Flights, The Dark Pack
+-
+**Sora Katra** (NE female green hag) The voice of the Sora Kell coven
+
+**Sora Maenya** (CE female annis) The fist of the Sora Kell coven
+
+**Sora Teraza** (LN female dusk hag) The diviner of the Sora Kell coven
+)
+=
+item(
+# The Eldeen Reaches ((++The Eldeen Reaches))
+## Nation
+-
+; Khorvaire, Recognized by Thronehold
+
+**Government** Druidic Autocracy
+
+**Capital** Greenheart (1,000)
+
+**Population** 500,000 (45% Humans, 16% Half Elves, 16% Shifters, 7% Gnomes, 7% Halflings, 3% Orcs, 3% Elves, 3% Other Races)
+
+**Languages** Common, Elven, Orc, Gnome
+
+**Religion** Various druidic sects, the Sovereign Host, Cults of the Dragon Below
+-
+**Exports** Agriculture, Animal Husbandry
+
+**Houses** House Vadalis
+
+**Factions** The Gatekeepers, The Wardens of the Wood, The Cults of the Dragon Below
+-
+**Great Druid Oalian** (N awakened greatpine) Voice of the Wardens of the Wood
+)
+item(
+# Karrnath ((++Karrnath))
+## Nation
+-
+; Five nations, Khorvaire, Recognized by Thronehold
+**Government** Monarchy
+
+**Capital** Korth (85,000)
+
+**Population** 2,500,00 (Humans 52%, Dwarf 18%, Halflings 10%, Half-elves 8%, Elves 8%, Other 4%)
+
+**Languages** Common, Dwarven, Elven
+
+**Religion** Sovereign Host, Blood of Vol
+-
+**Exports** Ale, dairy, glass, grain livestock, lumber, paper, textiles
+
+**Houses** House Deneith, House Jorasco, The Twelve
+
+**Factions** The Royal Family, Nobles and Vassal Lords, The Blood of Vol, The Order of the Emerald Claw
+-
+**Kaius III ir'Wynarn** (LE male human) King of Karrnath
+
+**Moranna ir'Wynarn** (LE female human) Chief Advisor
+
+**Etrigani ir'Wynarn** (CG female elf) Queen of Karrnath
+)
+item(
+# The Lhazaar Principalities ((++The Lhazaar Principalities))
+## Nation
+-
+; Khorvaire, Recognized by Thronehold
+
+**Government** Confederation of Principalities
+
+**Capital** Regalport (3,300)
+
+**Population** 500,000 (42% Human, 16% Gnome, 14% Half-Elf, 12% Changeling, 5% Dwarf, 4% Elf, 4% Halfling, 3% Other)
+
+**Languages** Common, Gnome, Dwarven, Elven, Halfling
+
+**Religion** Agnostic, Blood of Vol
+-
+**Exports** Ships, Mercenaries, Trade Goods
+
+**Houses** House Thuranni
+
+**Factions** Prince Ryger’s Seadragons, Prince Mika’s Cloudreavers, The Blood of Vol
+-
+**Ryger ir'Wynarn** (LN male human) High Prince of Regalport
+
+**Prince Mika Rockface** (CE female dwarf) Commander of the Cloudreavers
+)
+=
+item(
+# The Mror Holds ((++The Mror Holds))
+## Nation
+-
+; Khorvaire, Recognized by Thronehold
+
+**Government** Oligarchy
+
+**Capital** Krona Peak (24,200)
+
+**Population** 700,000 (Dwarves 65%, Humans 12%, Orcs 10%, Gnomes 8%, Other 5%)
+
+**Languages** Dwarven, Common, Orc, Gnomish
+
+**Religion** Sovereign Host, The Mockery, Cults of the Dragon Below
+-
+**Exports** Banking, Precious and Non-Precious Metals
+
+**Houses** House Kundarak, House Orien, House Sivis
+
+**Factions** The Clans of the Iron Council, The Aurum, Jhorash’tar
+-
+**Torlan Mroranon** (LG male dwarf) Arbiter of the Iron Council
+)
+item(
+# Q'Barra ((++Q'Barra))
+## Nation
+-
+; Khorvaire, Recognized by Thronehold
+**Government** Feudal
+
+**Capital** Newthrone (23,260)
+
+**Population** 300,000 (Lizardfolk 40%, Humans 30%, Kobolds 15%, Halflings 7%, Dwarves 3%, Half-elves 2%, Other 3%)
+
+**Languages:** Common, Draconic, Riedran
+
+**Religion:** Sovereign Host, Silver Flame
+-
+**Exports** Eberron dragonshards, Rare herbs
+
+**Houses** House Tharashk
+
+**Factions** New Galifar, Blackscale Lizardfolk, The Dreaming Dark, The Lords of Dust, Rhashaak, Poison Dusk Lizardfolk, The Cold sun Tribes
+-
+**Sebastes ir'Kesslan** (male human) King of Newthrone
+)
+item(
+# The Shadow Marches ((++The Shadow Marches))
+## Territory
+-
+; Khorvaire
+**Capital:** Zarash’ak (unofficial) (5,960)
+
+**Population** 500,000 (Orc 55%, Humans 25%, Goblins 10%, Half-orcs 7%, Other 3%)
+
+**Languages:** Orc, Common, Goblin
+
+**Religion:** The druidic path of the Gatekeepers, Cults of the Dragon Below
+-
+**Exports** Eberron dragonshards, herbs
+
+**Houses** House Tharashk
+
+**Factions** The Gatekeepers
+)
+=
+item(
+# The Talenta Plains ((++The Talenta Plains))
+## Nation
+-
+; Khorvaire, Recognized by Thronehold
+**Government** Tribal
+
+**Capital** Gatherhold (2,300)
+
+**Population** 400,00 (Halfling 80%, human 10%, changeling 4%, dwarf 4%, other 2%)
+
+**Languages** Halfling, Common, Dwarven
+
+**Religion** Ancestral and animal spirit worship
+-
+**Exports** Crafts, exotic creatures, native art, mercenaries
+
+**Houses** House Ghallanda, House Jorasco
+-
+**Lathon Halpum** (CG male halfling) Lathon of the tribes 
+)
+item(
+# Thrane ((++Thrane))
+## Nation
+-
+; Five Nations, Khorvaire, Recognized by Thronehold
+**Government** Theocracy 
+
+**Capital** Flamekeep (150,000)
+
+**Population** 2,300,000 (human 70%, half-elf 10%, dwarf 9%, elf 4%, other 3%)
+
+**Languages** Common, Draconic, Dwarven, Elven, Halfling
+
+**Religion** Silver Flame, Sovereign Host
+-
+**Exports**  Fine crafts, fruit, livestock, missionaries, textiles, wool
+
+**Factions** Council of Cardinals, Knights of Thrane
+-
+**Jaela Daran** (LG female human) The Keeper of the Flame
+
+**Krozen** (LE male human) High Cardinal of the Council
+)
+=
+item(
+# Valenar ((++Valenar))
+## Nation
+-
+; Khorvaire, Recognized by Thronehold
+
+**Government** League of Warclans
+
+**Capital** Taer Valaestas (19,060)
+
+**Population** 70,000 (elves 43%, human 28%, half-elves 15%, halflings 5%, hobgoblins 5%, other 4%)
+
+**Languages** Elven, Common
+
+**Religion** Ancestor worship
+-
+**Exports** Horses, mercenaries
+
+**Houses** House Lyrandar
+
+**Factions** The Keepers of the Past
+-
+**Vadallia** (N male elf) High King
+)
+
+item(
+# Zilargo ((++Zilargo))
+## Nation
+-
+; Khorvaire, Recognized by Thronehold
+**Government** Triumvirate
+
+**Capital** Trolanport (27,500)
+
+**Population** 250,000 (Gnome 60%, human 16%, dwarves 11%, kobolds 7%, other 6%)
+
+**Languages** Gnome, Common, Dwarven, Goblin
+
+**Religion** Sovereign Host, The Silver Flame
+-
+**Exports** Alchemical goods, education, elemental binding stones, entertainment, maps, precious stones, ships
+
+**Houses** House Kundarak, House Sivis
+
+**Factions** The Aurum, The Library of Korranberg, The Trust
+)
+=
+# Sarlona ((+Sarlona))
+Sarlona is a land of ancient civilizations and the origin of human civilization and culture. The lands are primarily ruled by the Riedran inspired, which work to extend the grasp of the dreaming dark into the world.
+info(
+For more information on the Sarlona at a high level: see the **Eberronicon** (p. 24) or more in-depth in the **Secrets of Sarlona** (p. 9).
+)
+item(
+# Adar ((++Adar))
+## Nation
+-
+; Sarlona
+**Government** No formal government
+
+**Capital** Kasshta Keep (unofficial)
+
+**Population** 320,000 (Human 51%, kalashtar 45%, other 4%)
+
+**Languages** Riedran
+
+**Religion** Path of Light, Aarakti (Arawai), Braahyn (Balinor)
+-
+**Factions** Keepers of the Word, Storm Guardians, Endseekers
+-
+**Chanaaka** (LG male human) Speaker of the Word (unofficial)
+)
+item(
+# Riedra ((++Riedra))
+## Nation
+-
+; Sarlona
+**Government** The Unity
+
+**Capital** Durat Tal (631,022)
+
+**Population** 13,878,000 ((Percent varies by region) Changelings, chosen/inspired, dwarves, half-giants, humans, ogres, shifters, other)
+
+**Languages** Riedran
+
+**Religion** Path of Inspiration
+-
+**Factions** The Dreaming Dark, The Unity
+)
+item(
+# Syrkarn ((++Syrkarn))
+## Territory
+-
+; Sarlona
+**Government** None
+
+**Capital** Nderitese (unofficial)
+
+**Population** 260,000 (Human 44%, eneko 42%, half-giant 12%, kalashtar 1%, other 1%)
+
+**Languages** Giant, Riedran
+
+**Religion** Agnostic, Sovereign Host, Karrak the Final Guardian
+-
+**Factions** The eyes of Riedra, Various Tribes and Clans
+)
+item(
+# The Tashana Tundra ((++Tashana Tundra))
+## Territory
+-
+; Sarlona
+**Government** None
+
+**Capital** Nasq (unofficial capital of Qiku nation)
+
+**Population** 400,000 (Shifters 70%, dwarves/duergar 20%, humans 5%, half-giants 3%, maenads 2%)
+
+**Languages** Riedran
+
+**Religion** Druidic Sects
+-
+**Exports** Medicinal and magical lichens, herbs, spices
+
+**Factions** The Dreaming Dark, The Unity
+)
+=
+# The Lands Beyond ((+Lands Beyond))
+The many other continents are composed of large unified empires, or near uninhabited wilderness waiting to be explored. The following entries all detail entire continents and their cultures at a high level.
+info(
+For more information on other lands at a high level: see the **Eberronicon** (Aerenal, Argonnessen, Frostfell, Everice p. 19; Xen'drik p. 25) or more in-depth in the **Eberron Campaign Setting** (p. 216).
+)
+item(
+# Aerenal ((++Aerenal))
+## Continent
+-
+; Kingdom
+**Government** The Sibling Kings, the Undying Court 
+
+**Capital** Shae Cairdal (52,460)
+
+**Population** 2,650,000 (Elves 77%, undying 19%, half-elves 3%, other 1%)
+
+**Languages** Elven, Common, Draconic
+
+**Religion** The Undying Court
+-
+**Exports** Crafts, bronzewood, densewood, livewood
+
+**Factions** The Cairdal Blades, The Deathguard, The Tairnadal, The Stillborn
+)
+item(
+# Argonnessen ((++Argonnessen))
+## Continent
+-
+; Continent
+**Government** The Eyes of Chronepsis
+
+**Capital Region** The Great Aerie
+
+**Population** 261,310 (dragons 18%, other 82%)
+
+**Languages** Draconic
+
+**Religion** Chronepsis, The Sovereign Host
+-
+**Factions** The Conclave, The Eyes of Chronepsis, The Light of Siberys, The Chamber
+)
+item(
+# Frostfell ((++Frostfell))
+## Continent
+-
+; Continent
+**Government** None
+
+**Capital Region** None
+
+**Population** Unknown
+)
+item(
+# Xen'drik ((++Xen'drik))
+## Continent
+-
+; Continent
+**Government** None
+
+**Capital Region** Stormreach (unofficial)
+
+**Languages** Common, Elven, Giant
+)
