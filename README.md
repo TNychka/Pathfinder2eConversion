@@ -45,7 +45,17 @@ By contributing, you agree that your contributions will be licensed under the OG
 Thank you to all the many people who have helped in large or small ways through feedback or suggestions. The Pathfinder2eCreations community, and the Eberron Pathfinder2e discord community, and everyone else.
 
 ---
+# Legal
+*Pathfinder's Guide to Eberron is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.*
 
-*Legal Disclaimer: This guide aims to be within the terms of fair use under the OGL - as a result, this guide will never be for sale. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL. If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to u/Slayercookie or 360Broscope#4704. You will be credited for your work, and this document will be maintained as a centralized consistent base for the Eberron community to use as a conversion guide.*
+*This document can only be utilized for personal use and not to create new games incorporating Wizards IP or anything else that can or will be distributed that does not also conform to Wizards of the Coast’s Fan Content Policy.*
 
-*Disclaimer: In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind bending corruptions ascending from the depths (The Mror Holds decline to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
+*Eberron and its respective logo are trademarks of Wizards of the Coast, Inc., in the U.S.A. and other countries.*
+
+  
+*Pathfinder's Guide to Eberron uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/communityuse). We are expressly prohibited from charging you to use or access this content. Pathfinder's Guide to Eberron is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit paizo.com.*
+
+  
+*This guide aims to be within the terms of fair use under the OGL and Fan Content Policy. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL and Fan Content Policy. The work is done to the best of my ability to meet these rules, and I ask that if there is violation, breach of ownership, or other issue to contact me directly through Github for any needed alteration or removal.  If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up-to-date source for the Eberron community.*
+
+*In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind-bending corruptions accending from the depths (The Mror Holds declined to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
