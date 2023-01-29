@@ -1,0 +1,84 @@
+head(
+# Animal Companions
+Throughout the land of Eberron, brave adventurers are often accompanied by fierce and loyal companions. These companions come in many forms, from the majestic dinosaurs ridden by halflings, to the powerful constructs crafted to assist in tasks and guard their masters. These companions are not just allies in battle, but they also provide a sense of companionship and connection to the natural world. In Eberron, a trusty companion is not just a luxury, it's a necessity for any adventurer looking to make their mark on the world.
+-
+)
+## Contributor: u/helicopterpig
+
+# Animal Companions
+
+In Eberron, animal companions can be a valuable asset to adventurers, providing not only combat support but also cultural and thematic depth to the character and their story.
+
+
+## Companions of the Talenta Planes
+
+The Following Animal Companions are appropriate fore a Halfling character from the talenta planes and are conidered common to such a character.
+
+## Clawfoot
+item(
+; uncommon
+<null>**Size** Medium
+
+**Melee** :a: jaws (finesse), **Damage** 1d8 piercing 
+
+**Melee** :a: talon (agile, finesse), **Damage** 1d6 slashing 
+
+**Str** +2, **Dex** +3, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0 
+
+**Hit Points** 6 
+
+**Skill** Survival 
+
+**Senses** low-light vision, scent (imprecise, 30 feet) 
+
+**Speed** 40 feet
+
+**Support Benefit** Your clawfoot tears tendons with each opening. Until the start of your next turn, your Strikes that damage creatures your clawfoot threatens give the target a –5-foot status penalty to its Speeds for 1 minute (–10 on a critical success).
+
+**Advanced Maneuver** Leaping Charge
+)
+item(
+# 
+# Leaping Charge :a:
+-
+; Flourish
+The clawfoot Strides up to 10 feet, ignoring difficult terrain as it leaps over obstacles. It then makes a Strike with its talons, gaining a +1 circumstance bonus to its attack roll.
+)
+|
+## Fasteeth
+item(
+; uncommon 
+<null>**Size** Medium 
+
+**Melee** :a: jaws (finesse), **Damage** 1d6 piercing 
+
+**Str** +2, **Dex** +3, **Con** +2, **Int** -4, **Wis** +1, **Cha** +0 
+
+**Hit Points** 6 
+
+**Skill** Stealth 
+
+**Senses** low-light vision, scent (imprecise, 30 feet)
+
+**Speed** 40 feet 
+
+**Special** Mount 
+
+**Support Benefit** Until the start of your next turn, if you’re mounted on your Fasteeth and moved 10 feet or more on the action before a melee Strike, add a circumstance bonus to damage for that Strike equal to twice the number of weapon damage dice. If your weapon already has the jousting weapon trait, increase the trait’s damage bonus by 2 per die instead. 
+
+**Advanced Maneuver** Darting Attack
+)
+item(
+# Darting Attack :a:
+-
+;Flourish
+The Fasteeth Steps up to 10 feet and then Strikes, or Strikes and then Steps up to 10 feet.
+)
+  
+item(
+# Glidewing
+-
+;uncommon
+This fish-eating pterasaur has sharp claws and leathery wings. Use the stats for a Cave Pterosaur from Pathfinder #154: Siege of the Dinosaurs pg. 74
+)
+<!-- It would be nice to have a Glidewing with the "Mount" trait but that would be exteremly powerful. It would need the rare trait or some mechanic so that you could not ride it untill higher lvl when characters start to get permanant flight abilities } -->
