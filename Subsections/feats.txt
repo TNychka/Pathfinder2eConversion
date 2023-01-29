@@ -28,7 +28,8 @@ item(
 ; General
 When you overcharge a wand, make a DC 11 flat check. On a failure, the wand is broken. On a critical failure, the wand is destroyed. Regardless of the result, the wand may not be used again until your next daily preparations.
 )
-## Skill ((+Skill Feats))
+|
+## Skill Feats ((+Skill Feats))
 These feats are general skill feats available to anyone regardless of ancestry or background.
 ### Crafting
 item(
@@ -40,7 +41,6 @@ item(
 -
 When you spend downtime to use the Craft activity, you need only spend 3 days at work at which point you attempt a Crafting check. For consumable items, you may build them one at a time. If you do, you only need to spend 1 day at work before attempting a Crafting check.
 )
-|
 item(
 # Proficient Prototyper ((++Proficient Prototyper))
 ## Feat 1

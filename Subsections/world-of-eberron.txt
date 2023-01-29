@@ -7,7 +7,7 @@ right (
 # National Lore
 Most PCs will be natives of one of the nations of Khorvaire. This nationality will likely be an important part of their character, so consider giving each PC a trained lore skill for their nation.
 # Regional Language
-Languages in Eberron are typically based on location rather than ancestry. When picking languages, consider the languages local to your home region. As a result of this approach to language, it wouldn't be unreasonable to have characters such as a dwarf that cannot speak dwarven or an elf that only speaks goblin.
+Languages in Eberron are typically based on location rather than ancestry. When picking languages, consider the languages local to your home region.
 )
 The world of Eberron is composed of five main continents: Aerenal, Argonessen, Frostfell, Khorvaire, Sarlona, and Xen'drik. Most PCs will start on the continent of Khorvaire, one of the major humanoid population centres of Eberron.
 
@@ -45,7 +45,6 @@ item(
 
 **Aurad Ir'Wynarn** (LG male human) Chief advisor and governor of Fairhaven, Aurala's brother
 )
-=
 item(
 # Breland ((++Breland))
 ## Nation
@@ -73,6 +72,7 @@ item(
 
 **Bortan Ir'Wynarn** (LG male human) Royal steward and controller of the crown's finances, Boranel's son
 )
+=
 item(
 # Cyre (Destroyed - 994 YK) ((++Cyre))
 ## Nation
@@ -120,7 +120,6 @@ item(
 -
 **Lhesh Haruuc Shaarat'kor** (LN male hobgoblin) High Warlord Haruuc of the Scarlet Blade
 )
-=
 item(
 # Demon Wastes ((++Demon Waste))
 ## Territory
