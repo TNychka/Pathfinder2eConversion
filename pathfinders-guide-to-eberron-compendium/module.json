@@ -1,7 +1,7 @@
 {
   "title": "Pathfinder's Guide to Eberron",
   "description": "A set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "id": "pathfinders-guide-to-eberron-compendium",
   "url": "https://github.com/TNychka/Pathfinder2eConversion",
   "manifest": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json", 
