@@ -76,6 +76,6 @@ Characters can develop dragonmarks only by virtue of blood ties to a dragonmarke
 
 Choose two ability boosts. One must be to **Wisdom**, **Charisma**, or **Intelligence**; and one is a free ability boost.
 
-You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain a Lore related to that skill rather than the dragonmarked houses.
+You've picked up the skill related to your house (table 4-1), and a Lore related to that skill rather than the dragonmarked houses. You gain the associated skill feat related to your house.
 )
 |

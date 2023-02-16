@@ -1,9 +1,9 @@
 head(
 # Eberron Changelings ((++Eberron Changelings))
-Known under the moniker of "The Children of Jes", changelings are humanoid creatures with shape-changing abilities. In particular, their abilities allow them to take the form of other humanoid creatures with little limitation on who. Many use their gifts as a form of artistic expression or to convey their current emotional state, adopting certain personas depending on the context of their moods. However, it does not go unnoticed by many, including some changelings themselves, that their ability is an invaluable tool for grifters, spies, and those whose aims are to deceive. This leads many people to treat changelings with general suspicion.
+Known under the moniker of "The Children of Jes", changelings are humanoid creatures with shape-changing abilities. In particular, their abilities allow them to take the form of other humanoid creatures with little limitation.
 -
 )
-Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, families who keep their true nature hidden from the single-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler. Wherever humans live, changelings reside also; the question is whether they make their presence known.
+Changelings are shapeshifters capable of replicating any other humanoid creatures near perfectly. While this talent makes them a highly-valuable asset to espionage agencies, most Changelings simply wish to make their own way with their own personas.
 
 ## You might...
 - Shift your shape to a persona that matches your mood or current activity. Though you, never use a particular form for too long before moving on to the next.
@@ -22,8 +22,6 @@ Changeling society is fragmented, and no two groups of changelings have the same
 
 ## Alignment and Religion...
 Changelings tend towards pragmatic neutrality, and few changelings embrace evil. As changelings are primarily products of the culture in which they grow, their moral alignment tends to match the alignment of their peers. Similarly, for religion, a changeling might be inclined to follow the dominant faith of their peers. 
-
-However, many changelings find a connection to the Traveler.
 =
 right(
 ## Rarity
@@ -277,13 +275,18 @@ You can recreate non-fleshy materials such as chitin or metal plates such that t
 )
 |
 item(
-# Terrifying Shift
+# Terrifying Shift :aa:
 ## Feat 13
 -
-; Eberron Changeling
+; Concentrate, Eberron Changeling, Emotion, Fear, Mental, Visual
+
 **Frequency** Once per 10 minutes
 -
-With a rapid change of your form, you take on a monstrous form for an instant before shifting back. When you Demoralize, you can choose to replace the auditory trait and with the visual trait. You can then attempt a demoralize check against each enemy that can see you within 30 feet.
+With a rapid change, you take on a monstrous form for an instant before shifting back. Choose any creatures that you're aware of within 30 feet as your targets. Make an Intimidation check and compare the result of the check to each target's Will DCs. It’s possible to get a different degree of success for each target. Regardless of your result, all targets are temporarily immune to your Demoralize attempts for 10 minutes.
+
+**Critical Success** The target becomes frightened 2.
+
+**Success** The target becomes frightened 1.
 )
 #### 17th level
 item(
@@ -291,7 +294,7 @@ item(
 ## Feat 17
 -
 ; Eberron Changeling, secret
-**Frequency** once per form of shift shape
+**Frequency** Once per 10 minutes
 -
 With your ability to read a situation and change your form in precise and subtle ways, people second-guess whether or not they did see through disguise - as if the Traveller protects you still.
 

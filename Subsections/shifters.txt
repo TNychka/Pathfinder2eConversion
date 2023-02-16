@@ -23,7 +23,7 @@ A Shifters' beast within is more obvious when they are transformed into their hy
 Shifters are a relatively uncommon race in the Five Nations.
 
 ## Alignment and Religion... 
-Shifters are varied in alignment, and can be inclined to any alignment. 
+Shifters are varied and can be inclined to any alignment. 
 
 ## Names... 
 Shifters typically take on names similar to that of humans, or that of the community around them though with a more rustic inclination. Shifters typically have a personal name that they use with their friends and a wandering name that they use with strangers. 
@@ -89,7 +89,7 @@ item(
 ; Shifter 
 **Requirements** You are in your hybrid form. 
 -
-You brace yourself to take a hit, using your thick skin and fortitude to protect yourself. You gain a +1 circumstance bonus to AC. 
+You brace yourself, using your thick skin and fortitude to protect yourself. You gain a +1 circumstance bonus to AC. You remain braced until the start of your next turn.
 )
 =
 ## Cliffwalk Shifter 
@@ -132,7 +132,7 @@ Typically manifesting traits of a canine, tiger, hyena, or other predator, Longt
 
 Using the menace of your teeth, you intimidate others. You gain the Intimidating Glare feat.
 ### Hybrid form 
-While in your hybrid form, your long fangs are formidable weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the pick group and have the grapple trait.
+While in your hybrid form, your long fangs are formidable weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group and have the grapple trait.
 
 ## Razorclaw Shifter
 Typically manifesting traits of a feline, Longtooth shifters can have traits of any animal with sharp claws. Razorclaw shifters prioritize their physical might and constitution more than others. They are ardent protectors of those they love, and vigilant warriors against those who have wronged them.
@@ -140,7 +140,7 @@ Typically manifesting traits of a feline, Longtooth shifters can have traits of 
 As a razorclaw shifter in your humanoid form, you still have particularly long, sharp claws. You gain a claw unarmed attack that deals 1d4 slashing damage. Your claws are in the brawling group and have the agile, finesse, and unarmed traits. 
 
 ### Hybrid form 
-While in your hybrid form, your claws become capable of delivering vicious wounds with a wicked swipe. Your claw attack deals 1d6 damage is part of the knife group and gains the versatile (piercing) trait.  
+While in your hybrid form, your claws become capable of delivering vicious wounds with a wicked swipe. Your claw attack deals 1d6 damage, is part of the brawling group, and gains the versatile (piercing) trait.  
 
 ## Swiftwing Shifter
 A swiftwing shifter's beast within is typically a bird such as an eagle or falcon but can have an animal representing any aerial predator. Swiftwing shifters often come across as twitchy or nervous but instead are incredibly perceptive and quick to respond to signs of danger. As adept scouts, Swiftwing shifters value perceptiveness and caution.  
@@ -171,7 +171,7 @@ In addition, you gain a +2 circumstance bonus to Track a creature or object if y
 While in your hybrid form, you can use the Seek action to sense undetected creatures within a 30-foot burst instead of a 15-foot burst.
 =
 # Ancestry Feats
-At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Bugbear, you select from among the following ancestry feats.
+At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13th, and 17th levels). As a Shifter, you select from among the following ancestry feats.
 
 #### 1st Level
 item(
@@ -213,7 +213,7 @@ item(
 ## Feat 1
 -
 ; Shifter
-You favor the weapons common to shifters. You are trained with the hatchet, kama, kukri, scimitar, and sickle. In addition, you gain access to kama, kukris, and all uncommon shifter weapons. For you, martial shifter weapons are simple weapons and advanced shifter weapons are martial weapons.
+You favour the weapons common to shifters. You are trained with the hatchet, kama, kukri, scimitar, and sickle. In addition, you gain access to kama, kukris, and all uncommon shifter weapons. For you, martial shifter weapons are simple weapons and advanced shifter weapons are martial weapons.
 )
 |
 item(
@@ -325,7 +325,7 @@ item(
 ## Feat 5
 -
 ; Shifter
-Like many shifters raised in a close-knit community, you have always been strongly attuned to the presence of others. Willing allies that you are aware of within 60 feet that would otherwise be undetected by you are instead hidden from you. The flat check for you to target willing allies within 60 feet that are hidden from you is 5 instead of 11.
+Like many shifters raised in a close-knit community, you have always been strongly attuned to the presence of others. Willing allies that you are aware of within 60 feet that would otherwise be undetected by you are instead hidden from you. The flat check DC for you to target willing allies within 60 feet that are hidden from you is 5 instead of 11.
 )
 item(
 # Shifter Weapon Prowess
@@ -426,7 +426,7 @@ item(
 ; Shifter
 **Prerequisites** Longstride shifter heritage
 -
-You increase your Speed by 5 feet. While in your hybrid form, your Speed is increased by an additional 5 feet.
+You have honed your speed in all forms. You increase your Speed by 5 feet. When you enter your Hybrid form, this speed increase becomes 10 feet.
 )
 item(
 # Longtooth Elite
@@ -461,7 +461,7 @@ item(
 ; Shifter
 **Prerequisites** Razorclaw shifter heritage
 -
-Your proficiency with your claws causes bleeding wounds. Your claws unarmed attack becomes part of the Knife weapon group and you gain the Critical Specialization effect for your claws unarmed attack.
+Your proficiency with your claws causes bleeding wounds. Your claw unarmed attack becomes part of the Knife weapon group and you gain the Critical Specialization effect for your claw unarmed attack.
 )
 item(
 # Terrain Advantage

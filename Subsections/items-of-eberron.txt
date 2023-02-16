@@ -50,7 +50,7 @@ Thunder Sling | - | - | - | - | - | - | - | Agile, Propulsive, Uncommon
 
 Uncommon Advanced Weapons | Price | Damage | Range | Reload | Bulk | Hands | Group | Weapon Traits
 --- | :---: | :---: | :---: | :---: | :---:
-Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Great arrows | 5gp<br><br>2sp | 1d8 P<br><br>&nbsp; | 150ft.<br><br>&nbsp; | 0<br><br>&nbsp; | 2<br><br>&nbsp; | 1+<br><br>&nbsp; | Bow<br><br>&nbsp; | Fatal d10, propulsive, gnoll, volley 50ft.<br>&nbsp;
+Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Gnoll arrows | 5gp<br><br>2sp | 1d8 P<br><br>&nbsp; | 150ft.<br><br>&nbsp; | 0<br><br>&nbsp; | 2<br><br>&nbsp; | 1+<br><br>&nbsp; | Bow<br><br>&nbsp; | Fatal d10, propulsive, gnoll, volley 50ft.<br>&nbsp;
 /
 ## Armour Traits
 **Primal:** This armour is created entirely out of primal components, and can be considered wooden armour for druid and other anathemas.
@@ -78,8 +78,10 @@ Gnoll bow<br><br>&nbsp;&nbsp;&nbsp;&nbsp;10 Great arrows | 5gp<br><br>2sp | 1d8 
 
 **Double-Bladed Scimitar:** The Double-Bladed Scimitar is the signature weapon of Valenar elves. A haft of fine wood supports a long, curving blade on either end. 
 
-**Gnoll bow:** Though the gnollbow is not significantly larger than a normal longbow, the draw of the weapon is deceptively heavy. Gnoll bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles at much higher velocity, resulting in greater penetrating power. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to gnoll bows unless otherwise stated. To craft a gnoll bow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
+**Gnoll bow:** Though the gnollbow is not significantly larger than a normal longbow, the draw of the weapon is deceptively heavy. Gnoll bows are made from horn, a darkwood core, and sinew laminated together to increase the power of its pull and the force of its projectile. This allows the bow to fire larger projectiles at much higher velocity, resulting in greater penetrating power. However, regular arrows shatter under the force of the bow and only gnoll arrows can be used as ammunition. You must use two hands to fire it, and it cannot be used while mounted. Any time an ability is specifically restricted to a longbow, such as Erastil’s favoured weapon, it also applies to gnoll bows unless otherwise stated. To craft a gnoll bow, you must have at least 5sp worth of darkwood to form the core of the weapon. 
 =
+**Gnoll Arrows:** These projectiles are the only ammunition that can withstand the force of gnoll bows. The shaft of an arrow is made of darkwood. It is stabilized in flight by fletching at one end and bears a metal head on the other. To craft gnoll arrows, you must have at least 2cp worth of darkwood to form the shaft of the arrow.
+
 **Myrnaxe** As mercenaries in a land of monsters, the Znir gnolls prepare to face a wide range of exotic opponents. A myrnaxe has a sturdy wooden haft with a curved axe blade on one end and a long spearhead on the other. Depending on the wielder's stance, the myrnaxe is either functionally a battleaxe or a spear. A user may switch between the sides of the myrnaxe with an interact action. The myrnaxe has the damage, hands, group, and weapon traits of the side in user. Myrnaxes are composed of two attached items: the Myrnaxe - Axe, and the Myrnaxe - Spearhead. It’s common for each head to be made of a different metal, so the spearhead might be silver while the axe blade is made of byeshk-thus maximizing its versatility against multiple foes. When crafting a myrnaxe, both sides are manufactured at the same time, using their respective crafting costs for material, and forming a completed Myrnaxe when finished. Each side of the weapon gains the effect of its respective precious material. You may not wield individual halves of the Myrnaxe.
 
 **Sharrash:** Similar to a scythe, the Talenta Sharrash developed by the halflings of the Plains consists of a sicklelike blade at the end of a long pole.
@@ -192,11 +194,11 @@ The following modes of transportation are available as services to the people of
 Service | Price | Speed
 --- | :--- | :---
 Airship (House Lyrandar) | 5 sp per 5 miles | 20 mph
-Elemental galleon (House Lyrandar) | 25 cp per 5 miles | 10 mph
+Elemental galleon (House Lyrandar) | 25 cp per 5 miles | 20 mph
 Lightning rail, first-class (House Orien) | 2 sp, 5 cp per 5 miles | 30 mph
 Lightning rail, standard (House Orien) | 1 sp per 5 miles | 30 mph
 Lightning rail, steerage (House Orien) | 1 cp per 5 miles | 30 mph
-Magebred coach (House Orien) | 15 cp per 5 miles | 5 mph
+Magebred coach (House Orien) | 5 cp per 5 miles | 5 mph
 Teleportation circle (House Orien) | 250 gp | Instant
 
 **Airship (House Lyrandar)** Airships primarily travel between major cities with docking towers, but not bound to terrain, these airships can provide transportation to any location.
@@ -352,7 +354,7 @@ item(
 
 **Activate** :a: interact; **Trigger** You cast a spell from the school of Evocation with the acid, cold, electricity, fire, or sonic trait
 -
-When used as a material component (adding the material component to the spell if it doesn't already have it) for an evocation spell with the acid, cold, electricity, fire, or sonic trait you gain a circumstance bonus to damage equal to twice the level of the spell as well as 1d3 persistent damage of the same type on a critical hit.
+When used as a material component (adding the material component to the spell if it doesn't already have it) for an evocation spell with the acid, cold, electricity, fire, or sonic trait you gain a circumstance bonus to damage equal to twice the level of the spell as well as 1d4 persistent damage of the same type on a critical hit.
 )
 item(
 # Ghost Oak acorn
@@ -897,18 +899,6 @@ The shield has Hardness 8, HP 32, and BT 16.
 # Wands ((+Wands))
 The following wands are available in the world of Eberron.
 item(
-# Duster
-## Item 0
--
-; Common, Magical, Wand
-**Usage** held in 1 hand; **Bulk** L
-
-**Price** 3 gp
--
-This light cloured wand ending in a feather cleans with ease.
-**Activate** :aa: (Cast a Spell); **Frequency** Unlimited **Effect** Clean an area within 10 feet of you that is no larger than 1 cubic foot, removing dirt and grime.
-)
-item(
 # Lamplighter
 ## Item 1
 -
@@ -1081,7 +1071,9 @@ item(
 ## Item 3
 -
 ; Kalashtar, Invested, Magical
-**Usage** worn
+**Usage** worn; **Bulk** L
+
+**Price** 45 gp
 -
 This item is a small amulet manufactured by the Kalashtar to focus their psionic powers. You may apply fundamental weapon runes to this amulet. Any runes applied to this amulet also manifest on the psi-blades manifested by the kalashtar Psi-Blade feat. 
 )

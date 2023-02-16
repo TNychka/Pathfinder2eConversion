@@ -32,7 +32,7 @@ item(
 ; Archetype, Dragonmark
 **Prerequisites** Dragonmarked Scion Dedication
 -
-The well of power that you draw from your dragonmark grows deeper. You increase the size of your Dragonmark focus pool by 1. In addition, you may pick another dragonmark focus spell from your list. This spell can be up to the maximum level you can currently cast. 
+The well of power that you draw from your dragonmark grows deeper. You increase the size of your focus pool by 1. In addition, you may pick another dragonmark focus spell from your list. This spell can be up to the maximum level you can currently cast. 
 **Special** you may pick this feat multiple times, each time picking a different focus spell.
 )
 |
@@ -53,7 +53,7 @@ item(
 ; Archetype, Dragonmark
 **Prerequisites** Dragonmarked Scion Dedication
 -
-As your control over your mark increases, you are better able to restore your energy. If you have spent at least 2 Dragonmarked Focus Points since the last time you Refocused, you recover 2 Dragonmarked Focus Points when you Refocus instead of 1.
+As your control over your mark increases, you are better able to restore your energy. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.
 )
 item(
 # Greater Dragonmarked Scion
@@ -72,7 +72,7 @@ item(
 ; Archetype, Dragonmark
 **Prerequisites** Dragonmarked Scion Dedication, Lesser Mark
 -
-As you approach mastery over your mark, energy seems to return to you naturally. If you have spent at least 3 Dragonmark Focus Points since the last time you Refocused, you recover 3 Dragonmark Focus Points when you Refocus instead of 1.
+As you approach mastery over your mark, energy seems to return to you naturally. If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you Refocus instead of 1.
 )
 note(
 There is no way to elevate your dragonmark to Siberys through training with the Dragonmarked Scion Archetype. At the moment it seems the only deciding factor in whether the mark will appear is fate.

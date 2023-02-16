@@ -268,7 +268,7 @@ item(
 You may pick an additional Gnoll clan heritage, as you begin to understand their learnings. You may pick this feat multiple times, each time picking a different clan. When you pick a clan, it must not be the same as a clan that you already have learned from.
 )
 item(
-# Intimidating Ferosity
+# Intimidating Ferocity
 ## Feat 9
 -
 ; Gnoll

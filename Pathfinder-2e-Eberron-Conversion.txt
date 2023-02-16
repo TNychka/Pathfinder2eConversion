@@ -1,5 +1,5 @@
 watermark (
-Version 1.6.2
+Version 1.6.3
 )
 title(
 Pathfinder's Guide to Eberron
@@ -15,7 +15,7 @@ Pathfinder's Guide to Eberron
 *Pathfinder's Guide to Eberron uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/communityuse). We are expressly prohibited from charging you to use or access this content. Pathfinder's Guide to Eberron is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit paizo.com.*
 
   
-*This guide follows the terms of fair use under the OGL and Fan Content Policy. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL and Fan Content Policy. The work is done to the best of my ability to meet these rules, and I ask that if there is violation, breach of ownership, or other issue to contact me directly through Github for any needed alteration or removal.  If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up-to-date source for the Eberron community.*
+*This guide aims to be within the terms of fair use under the OGL and Fan Content Policy. Feel free to copy and distribute this document however you want as long as you continue to follow the terms of fair use under the OGL and Fan Content Policy. The work is done to the best of my ability to meet these rules, and I ask that if there is violation, breach of ownership, or other issue to contact me directly through Github for any needed alteration or removal.  If there are modifications, corrections, updates, features, or anything you would like to add to this document please submit it back to [Github](https://github.com/TNychka/Pathfinder2eConversion/issues). You will be credited for your work, and this document will be maintained as an up-to-date source for the Eberron community.*
 
 *In the event of crashing airships, attacks by the Emerald Claw, or invasions by mind-bending corruptions accending from the depths (The Mror Holds declined to comment on whether or not they have dug too deep), don't panic... and keep at least one hero point in your back pocket.*
 
@@ -63,7 +63,7 @@ Pathfinder's Guide to Eberron
 =
 head (
 # The Pathfinder's Guide to Eberron ((Pathfinder's Guide to Eberron))
-Train cars crackle with lightning as they thunder on elemental rails through the countryside. Veterans of a hundred-year war now not only defend their fragment of a shattered kingdom but protect against nameless horrors from apocalyptic mists. Dragonmarked monopolies dominate the trade of the Khorvaire and increasingly push the boundaries of their governing laws. The world is in desperate need of heroes, and only you can answer the call. Welcome to the World of Eberron. This guide will help you run the Eberron Campaign setting using the Pathfinder 2e system.
+Train cars crackle with lightning as they thunder on elemental rails through the countryside. Veterans of a hundred-year war now not only defend their fragment of a shattered kingdom but protect against nameless horrors from apocalyptic mists. Dragonmarked monopolies dominate the trade of the Khorvaire and increasingly push the boundaries of their governing laws. The world is in desperate need of heroes, and only you can answer the call.
 -
 )
 # What is Eberron? ((+What is Eberron))
@@ -71,13 +71,17 @@ Eberron started with a contest run by Wizards of the Coast to develop a new camp
 
 Eberron is a pulp-action world where morality is a shade of grey, but the call to adventure is always present. Adventure is everywhere, from the continent of Khorvaire: where arcane industry powered a hundred-year-war which now stands in an uneasy truce gone cold war; to Xen'drik where ancient ruins of the giant civilization wait to be discovered; there are many backdrops for a story in Eberron - and equally many dangers. Some of these dangers threaten nations, while others put the fate of the world at risk. Only a few legendary people can ever hope to stand against these threats, which is where the PCs come in. The need for heroes is desperate, but there is hope.
 /
-info (
-Recommended source material
+info(
+#### Recommended Source Material
+-
 ## D&D 3 Eberron Campaign Setting
 The Eberron Campaign Setting (ECS) is the book that started it all. Released in 2005, this is the primary source of mechanics and lore added in this guide. It provides a detailed description of the world, mechanics, and lore.
 -
 ## D&D 5 Eberron: Rising from the Last War
 The most recent version of the Eberron setting, this book provides additional detailed descriptions of the world, mechanics, and lore.
+)
+info(
+#### Recommended Source Material
 -
 ## Exploring Eberron
 Exploring Eberron (EE) independent book developed by Keith Baker focused on the D&D 5e system. Exploring Eberron explores in depth much of the world that never made the cut for official books.
@@ -87,7 +91,7 @@ The Eberronicon - A Pocket Guide to the World (EPG) is a community project that 
 )
 |
 # Pathfinders' Guide to Eberron ((+Pathfinders' Guide to Eberron))
-The Pathfinder's guide to Eberron provides Pathfinder 2e mechanics to support the gameplay of Eberron. It would be prohibitive and against the OGL to provide the lore that Eberron has developed over the years. This guide suggests the following books as references [D&D 3 Eberron Campaign Setting](https://www.dmsguild.com/product/28474/Eberron-Campaign-Setting-3e) by Keith Baker, [D&D 5e Eberron: Rising from the Last War](https://www.dndbeyond.com/sources/erftlw) by Keith Baker, [Exploring Eberron](https://www.dmsguild.com/product/315887/Exploring-Eberron) by Keith Baker, and the [Eberronicon](https://www.dmsguild.com/product/297249/Eberronicon-A-Pocket-Guide-to-the-World). All of these are available for purchase on the [Dungeon Masters Guild](https://www.dmsguild.com/) and provide all of the background information you might need to run the world of Eberron.
+The Pathfinder's guide to Eberron provides Pathfinder 2e mechanics to support the gameplay of Eberron. It does not provide the lore or information required to run the Eberron setting. This guide suggests the following books as references [D&D 3 Eberron Campaign Setting](https://www.dmsguild.com/product/28474/Eberron-Campaign-Setting-3e) by Keith Baker, [D&D 5e Eberron: Rising from the Last War](https://www.dndbeyond.com/sources/erftlw) by Keith Baker, [Exploring Eberron](https://www.dmsguild.com/product/315887/Exploring-Eberron) by Keith Baker, and the [Eberronicon](https://www.dmsguild.com/product/297249/Eberronicon-A-Pocket-Guide-to-the-World). All of these are available for purchase on the [Dungeon Masters Guild](https://www.dmsguild.com/) and provide all of the background information you might need to run the world of Eberron.
 
 ## Using this guide
 This guide aims to be as balanced and interesting as possible while using the pathfinder 2e base rules. If something seems too good - or too bad - to be true, it likely is. Work with your GM to figure out a better solution, and if possible submit a question to the [Github](https://github.com/TNychka/Pathfinder2eConversion/issues) for clarification or correction. All Uncommon and Rare traits should _always_ be verified with your GM.
@@ -196,7 +200,7 @@ Eberron is a world of swashbuckling adventure, noir mysteries, and can fit most 
 
 ## Consider the following
 - Free Archetype is an optional rule available in the Gamemastery Guide. The rule allows characters to become more diverse, and specialize in a greater selection of options. Eberron is a world in need of heroes, and this optional rule allows characters to stand out as increasingly special.
-- Ancestral Paragon is an optional rule available in the Gamemastery Guide. If you have a dragonmarked character, you could consider adding this rule to enable the full powers of a dragonmark to manifest while allowing the selection of regular ancestry feats as well. Regular characters can benefit from channelling the archetype of their ancestry, perhaps as a champion of their people (such as a hero of the Valenar elves).
+- Ancestry Paragon is an optional rule available in the Gamemastery Guide. If you have a dragonmarked character, you could consider adding this rule to enable the full powers of a dragonmark to manifest while allowing the selection of regular ancestry feats as well. Regular characters can benefit from channelling the archetype of their ancestry, perhaps as a champion of their people (such as a hero of the Valenar elves).
 =
 - Deep backgrounds are an excellent way to increase your player's connection to Eberron. Work with your players to build out their beginnings, or allow them to roll. 
 - Ley Lines and Magical Terrain help capture the power of manifest zones. While the Planes entry details a few potential applications of these rules, you can consider enabling all of the features of Ley Lines and Magical Terrain to apply to manifest zones.

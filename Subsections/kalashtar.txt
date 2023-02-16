@@ -67,8 +67,15 @@ item(
 
 **Duration** 10 minutes 
 -
-You link your mind with a creature you can see, allowing two-way communication with a creature while they are in range. This link lasts for up to 1 hour if you choose to sustain the effect, or until the target is outside the range. You can communicate basic ideas telepathically with creatures using shared mental imagery even if you don't share a language.
-You may only have one active Link Mind in this way at a time. 
+You link your mind with a creature you can see, allowing two-way communication with a creature while they are in range. You can communicate basic ideas telepathically with creatures using shared mental imagery even if you don't share a language. You can Dismiss the spell, and the link ends if the target moves outside the range. You may only have one active Link Mind in this way at a time. 
+
+If the creature is unwilling, they must attempt a Will saving throw to resist your connection. Regardless of the result, the creature is immune to Link Minds as long as they are unwilling for up to 1 hour.
+
+**Success** The Link Mind spell fails.
+
+**Failure** You successfully link your mind with the creature. The creature may make a Will saving throw at the end of each of their turns.
+
+**Critical Failure** As failure, but the creature may only make a Will saving throw once per minute.
 -
 **Heightened (+1)** The range increases by 15ft, and the duration increases by 10 minutes. 
 )

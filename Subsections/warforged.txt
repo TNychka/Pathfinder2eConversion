@@ -165,7 +165,7 @@ item(
 ## Feat 1
 -
 ; Warforged
-You can integrate toolsets as a direct extension of yourself. You can use a 1-minute activity which has the manipulate trait to integrate a set of tools you own, such as thieves' tools or healer's tools, that weigh a total of 2 Bulk or less into your body. You can draw or stow this item as an Interact action. Creatures don't automatically see this integrated item when it's stowed and must actively Seek in order to find it. They take a –2 circumstance penalty to any checks to do so. While you are holding the item, it can't be Disarmed and you can't drop or Release it; you must Interact to store the item and free that hand. A creature determined to retrieve the item can do so, but it requires either 1 minute to remove it or extreme violence to you — such as physically removing portions of the limb.
+You can integrate toolsets as a direct extension of yourself. You can use a 1-minute activity which has the manipulate trait to integrate a set of tools you own, such as thieves' tools or healer's tools, that weigh a total of 2 Bulk or less into your body. These items count as carried bulk. You can draw or stow this item as an Interact action. Creatures don't automatically see this integrated item when it's stowed and must actively Seek in order to find it. They take a –2 circumstance penalty to any checks to do so. While you are holding the item, it can't be Disarmed and you can't drop or Release it; you must Interact to store the item and free that hand. A creature determined to retrieve the item can do so, but it requires either 1 minute to remove it or extreme violence to you — such as physically removing portions of the limb.
 )
 =
 item(
@@ -323,10 +323,10 @@ Your body can internally process the impurities building in your alchemical flui
 )
 |
 item(
-# Juggernaut Repair
+# Juggernaut Repair :a:
 ## Feat 9
 -
-; Warforged
+; Concentrate, Warforged
 **Prerequisites** Juggernaut Warforged heritage
 
 **Frequency** once per day
@@ -383,7 +383,7 @@ item(
 -
 Your innate combat ability enables you to strengthen your attack. You gain a +1 status bonus to the triggering attack roll.
 
-**Enhancement** You can execute a series of practised blows to take advantage of this surge of strength, the +1 status bonus applies to each attack roll you make for the next round.
+**Enhancement** You can execute a series of practised blows to take advantage of this surge of strength, the +1 status bonus applies to each attack roll you make until the start of your next turn.
 )
 item(
 # Precious Material Tracery

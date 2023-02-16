@@ -138,7 +138,7 @@ item(
 ; Archetype
 **Prerequisites** Expert Wandslinger Casting; legendary in Arcana
 -
-You gain the [master bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged.
+You gain the [master bounded spellcasting benefits](https://2e.aonprd.com/Rules.aspx?ID=1485) (SoM 74). During your daily preparations, you may create a unique wand for each of your prepared spell slots. Due to the unstable arcane energy supporting them, only you are capable of using these wands. These wands follow the normal rules of wands, including once per day use, but they may not be overcharged. For each spell slot you gain from this feat, add a spell of that level or lower to your spellbook.
 )
 item(
 # Arcane Overcharge

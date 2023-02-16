@@ -147,7 +147,7 @@ info(
 For more information on Kobolds, see the Eberronicon (p. 15).
 )
 ## Orcs
-Orcs are **common** in the world of Eberron. 
+Orcs are **uncommon** in the world of Eberron. 
 Orcs of Eberron are well represented by the Pathfinder 2e implementation.
 info(
 For more information on Orcs, see the Eberronicon (p. 15).
