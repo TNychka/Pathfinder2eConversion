@@ -1,18 +1,23 @@
+
+title(
+V3 - INCOMPLETE. WORK IN PROGRESS
+)
 head(
-# Artificer ((+Artificer))
-In Eberron, magic is the driving force behind the technology of the world. Much like an engineer is to a pure mathematician - artificers tinker with the fundamental structures and applications, while spellcasters specialize in the high-level abstract structures of advanced magic. Artificers have a similar yet very different understanding of magic that simply isn't necessary for a spellcaster, and as a result, they cannot cast spells as a wizard can. Yet, an artificer can use the fundamental arcane forces of magic to create new arcane effects that a spellcaster could never hope to achieve. By applying the theory of magic to everyday life, artificers are the innovators and inventors of the future of Khorvaire.
+## Artificer ((+Artificer))
+-
+Spellcasters specialize in the theoretical side of magic, while artificers excel at the practical application. Their unique understanding of magic enables them to wield arcane forces in the field, serving as innovators and inventors shaping the future of Khorvaire.
 -
 )
 
 right(
-# Rarity 
+# Rarity
 Uncommon
 
 # Initial Proficiencies
 At 1st level, you gain the listed proficiency ranks in the following statistics. You are untrained in anything not listed unless you gain a better proficiency rank in some other way.
 
 # Perception
-Trained in Perceptionar
+Trained in Perception
 
 # Saving Throws
 Expert in Fortitude
@@ -22,295 +27,187 @@ Trained in Will
 # Skills
 Trained in Arcana
 Trained in Crafting
-Trained in a number of additional skills equal to 3 plus your Intelligence modifier
+Trained in a number of
+ additional skills equal to 2
+ plus your Intelligence modifier
 
 # Attacks
 Trained in simple weapons
-Trained in all crossbows
+Trained in martial crossbows
+Trained in martial firearms
 Trained in unarmed attacks
 
-# Defenses
 Trained in light armour
 Trained in medium armour
 Trained in unarmored defence
 
-# Class DC
-Trained in artificer class DC
+# Spells
+Trained in spell attack rolls of your spellcasting tradition, as indicated by your specialization.
+Trained in spell DCs of your spellcasting tradition, as indicated by your specialization.
 )
-
 info(
-###### Key Ability
-<b style="font-size:13px">INTELLIGENCE</b>
+<b style="font-size:16px">KEY ABILITY</b>
+
+<b style="font-size:12px">INTELLIGENCE</b>
 At 1st level, your class gives you an ability boost to Intelligence.
 |
-###### Hit Points
-<b style="font-size:13px">8 plus your Constitution modifier.</b>
+<b style="font-size:16px">HIT POINTS</b>
+
+<b style="font-size:12Px">8 plus your Constitution modifier.</b>
 You increase your maximum number of HP by this number at 1st level and every level thereafter.
 )
 ## During Combat Encounters...
-With clever insight and understanding of the magical tools, you use your skill as an artificer to create the perfect item to give you and your allies an edge in combat. These items might increase the damage of your ally's weapons, coat the ground in a slippery oil causing the enemies to fall, reinforce your armour to ensure you only take glancing blows or even assist your team in overcoming obstacles in your way.
+With clever insight, you create the perfect items to give you and your allies an edge in combat. These items might allow you to target an enemy's vulnerability, reinforce armour to deflect great blows, or even grant the ability to climb shear walls. Understanding the battlefield and a robust formula book are key to your success as an artificer.
 
 ## During Social Encounters...
-During social encounters, you can provide insight into academic topics, particularly those related to magical items and crafting. You might often try to pick up on potential new applications of your artifice or learn about new developments and advancements of artifice in your technique.
+During social encounters, you can provide insight into magical items and aspects of crafting. You might even create items that enhance the outcomes of your social encounter.
 
 ## While Exploring...
-While exploring the world you may search for deposits of rare minerals and dragonshards to use in your creations, and keep an eye out for hidden arcane secrets related to making magic items or constructs. All the while, you create and improvise solutions to overcome hazards and obstacles in your journeys.
+While exploring the world you create and improvise solutions to overcome hazards and obstacles in your journey. All the while keeping an eye out for hidden arcane secrets you could use to advance your artifice.
 
 ## In Downtime...
-You gather collected components and tinker with the fundamentals of arcana to create new and advanced designs for magical technology. This may be in the manufacture of new items, or the development of fundamental arcane magics.
+You might create new and advanced designs for magical technology, reverse-engineer magical equipment from recent adventures, or search for advanced formulas to add to your book.
 
 ## You Might...
-- Thrive when you refine your applications of magic or assemble bits of arcane theory never tested before.
-- Take a chance on the construction of your arcane fundamentals to improvise a rapid solution to a problem.
-=
-- Have a variety of gizmos, arcane bits, tools, and dragonshards hidden in various pockets and pouches across your person - and venture off on excited and technical tangents when asked simple questions.
+- Push the limits of magic theory with your applications of artifice.
+- Thrive in high-pressure situations where you derive prototype items and solutions on the fly.
+- Have a variety of arcane bits, tools, and dragonshards hidden in various pockets and pouches across your person.
 
 ## Others Probably...
-- Are in awe of the variety of magical applications you can improvise a solution to at a moment's notice.
-- Believe you would be better off working as an extraordinarily talented magewright rather than an adventurer.
-- Others who see your arcane fundamentals functionally assembled may fear that it's held together by nothing but spit, grit, and prayers to Onatar. They may be right. 
-
-# Class Features
-You gain these abilities as an artificer. Abilities gained at higher levels list the levels at which you gain them next to the features' names.
-
-## Ancestry and Background
-In addition to what you gain from your chosen class at 1st level, you have the benefits of your selected ancestry and background.
-
-## Artifice
-You understand the fundamentals of arcana and tinker with its workings. While spellcasters specialize in the utilization of arcane forces, you can assemble that same magic at a fundamental level to rapidly create temporary items to meet your needs. These temporary items allow you to replicate difficult to create permanent magical items on the fly. You can create permanent magic items using the normal Crafting activity, or you can use arcane fundamentals to rapidly create artifice items that last for a short duration at no cost. Over time, you can improvise stronger artifice items more often. With your ability to create a magical solution for any situation, you are the ultimate magical improviser.
-
-You gain the Crafter's Appraisal and Magical Crafting feats, even if you don't meet the feats' prerequisites. You gain the four magical formulas granted by Magical Crafting, which may include 2nd level items.
-|
+- Are in awe of your ability to improvise a solution at a moment's notice.
+- Believe you are simply a magewright rather than an adventurer.
+- Fear that your artifice items are held together by nothing but spit, grit, and a whole lot of adhesive. They might be right.
+=
 ##### Table 6-1: Artificer Advancement
-Your Level | Class Features
+**Your Level** | **Class Features**
 --- | :---
-1 | Ancestry and background, initial proficiencies, 
+1 | Ancestry and background, artifice, artifice specialization, initial proficiencies, magical ingenuity, spell replication
 2 | Artificer feat, skill feat
-3 | General feat, skill increase
+3 | General feat, skill increase, skilled expert
 4 | Artificer feat, skill feat
-5 | Ability boosts, ancestry feat, skill increase
+5 | Ability boosts, ancestry feat, artificer Weapon Expertise, skill increase
 6 | Artificer feat, skill feat
-7 | General feat, skill increase
+7 | General feat, skill increase, skilled master, iron will
 8 | Artificer feat, skill feat
-9 | Ancestry feat, skill increase
+9 | Ancestry feat, skill increase, alertness, artificer expertise
 10 | Ability boost, artificer feat, skill feat
-11 | General feat, skill increase
+11 | General feat, skill increase, medium Armor expertise, evasion
 12 | Artificer feat, skill feat
-13 | Ancestry feat, skill increase
+13 | Ancestry feat, skill increase, artificer weapon mastery, weapon specialization
 14 | Artificer feat, skill feat
-15 | Ability boosts, general feat, skill increase
+15 | Ability boosts, general feat, skill increase, legendary artifice, juggernaut
 16 | Artificer feat, skill feat
-17 | Ancestry feat, skill increase
+17 | Ancestry feat, skill increase, artificer master
 18 | Artificer feat, skill feat
-19 | General feat, skill increase
+19 | General feat, skill increase, medium armour mastery
 20 | Ability boosts, Artificer feat, skill feat
 
-##### Table 6-2: Arcane Fundamentals Per Day
-Your Level | 2nd | 4th | 6th | 8th | 10th | 12th | 14th | 16th | 18th | 20th
---- | --- | --- |  --- |  --- |  --- |  --- |  --- |  --- |  --- |  ---
-1 | 2 | - | - | - | - | - | - | - | - | -
-2 | 3 | - | - | - | - | - | - | - | - | -
-3 | 3 | 2 | - | - | - | - | - | - | - | -
-4 | 3 | 3 | - | - | - | - | - | - | - | -
-5 | 3 | 3 | 2 | - | - | - | - | - | - | -
-6 | 3 | 3 | 3 | - | - | - | - | - | - | -
-7 | 3 | 3 | 3 | 2 | - | - | - | - | - | -
-8 | 3 | 3 | 3 | 3 | - | - | - | - | - | -
-9 | 3 | 3 | 3 | 3 | 2 | - | - | - | - | -
-10 | 3 | 3 | 3 | 3 | 3 | - | - | - | - | -
-11 | 3 | 3 | 3 | 3 | 3 | 2 | - | - | - | -
-12 | 3 | 3 | 3 | 3 | 3 | 3 | - | - | - | -
-13 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | - | - | -
-14 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | - | - | -
-15 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | - | -
-16 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | - | -
-17 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2 | -
-18 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | -
-19 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 2
-20 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3 | 3
+##### Table 6-2: Imbuement Catalysts Per Day
+<table style="margin-bottom:-7px;"><thead><tr><th style="text-align:left"><b>Your</b></th><th style="text-align:center"><b>Imbuement Catalyst Level&nbsp;&nbsp;&nbsp;&nbsp;</b></th><th></th></tr></thead></table>
+| **Level** | **1st** | **2nd** | **3rd** | **4th** | **5th** | **6th** | **7th** | **8th** | **9th** | **10th** | **Collection**
+:--- | :---: | :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: | :---:
+1  | 1 | - | - | - | - | - | - | - | - | - | 3
+2  | 2 | - | - | - | - | - | - | - | - | - | 4
+3  | 2 | 1 | - | - | - | - | - | - | - | - | 6
+4  | 2 | 2 | - | - | - | - | - | - | - | - | 7
+5  | 2 | 2 | 1 | - | - | - | - | - | - | - | 9
+6  | 2 | 2 | 2 | - | - | - | - | - | - | - | 10
+7  | 2 | 2 | 2 | 1 | - | - | - | - | - | - | 12
+8  | 2 | 2 | 2 | 2 | - | - | - | - | - | - | 13
+9  | 2 | 2 | 2 | 2 | 1 | - | - | - | - | - | 15
+10 | 2 | 2 | 2 | 2 | 2 | - | - | - | - | - | 16
+11 | 2 | 2 | 2 | 2 | 2 | 1 | - | - | - | - | 18
+12 | 2 | 2 | 2 | 2 | 2 | 2 | - | - | - | - | 19
+13 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | - | - | - | 21
+14 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | - | - | - | 22
+15 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | - | - | 24
+16 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | - | - | 25
+17 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1 | - | 27
+18 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | - | 28
+19 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1* | 30
+20 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 2 | 1* | 30
+. The legendary artifice class feature gives you a 10th-level imbuement slot that works a bit differently from other imbuement catalysts.
 =
-### Arcane fundamentals
-You prepare your artificer's tools and set of arcane components, dragonshards, gizmos, and gadgets - collectively called arcane fundamentals - for the day. These arcane fundamentals are the key component to your artifice that allow you to prototype temporary magical items called artifice items quickly and at no cost.  Each day during your daily preparations, you prepare up to two 2nd-level arcane fundamentals. You may only use these arcane fundamentals for Quick Artifice, described below. All of your arcane fundamentals are considered to be part of the bulk of your artificer's tools.
+## Artifice
+As an artificer, you understand the fundamentals of magic and can tinker with its workings. You are adept at manipulating magic's core principles to create and infuse items with powerful imbuements, bestowing them with a vast range of magical effects. Through your artifice, you can rapidly fashion powerful tools that harness the fundamental magical forces of the universe.
 
-As soon as you make your next daily preparations, your arcane fundamentals from the previous day lose their power and expire. All the nonpermanent effects of your previous day's arcane fundamentals' artifice items immediately end. While arcane fundamentals are magical physical objects, they can't be duplicated, preserved, or created in any way other than during your daily preparations. Any arcane fundamentals that you did not prepare yourself are an enigma to you, and may not be used by you for any purpose.
+At 1st level, you select up to three 1st-level imbuements each morning from the imbuements in your formula book. The selected imbuements form your imbuement collection for the day. The number of imbuements you can select for your imbuement collection each day is noted in Table 6-2: Imbuement Catalysts Per Day. The only restriction is that you must select at least one 1st-level imbuement for your imbuement collection each time you prepare, ensuring that you can use all your imbuement catalysts each day.
 
-As you increase in level as an artificer, the number and strength of arcane fundamentals you can prepare increases - as shown in Table 6-2: Arcane Fundamentals per Day. Your advanced artificer level is the same as your level as an artificer.
+After selecting your imbuement collection, you ready your artificer's tools to produce these imbuements on the fly. You can use Quick Artifice to create any of the imbuements in your collection by using an imbuement catalyst of an appropriate level. Upon reaching 2nd-level imbuement slots, you can heighten any imbuement in your collection to a level that matches an available imbuement catalyst.
+
+Some of your imbuements require you to attempt a spell attack roll to see how effective they are or have your enemies roll against your spell DC (typically by attempting a saving throw). Since your key ability is Intelligence, your spell attack rolls and spell DCs use your Intelligence modifier.
+
+### Imbuement Catalysts
+In addition to your artificer's tools, your artifice is fueled by your imbuement catalysts. Imbuement catalysts are small sets of magical components, dragonshards, and precious materials primed to imbue items with magic. Each day during your daily preparations, you create up to one 1st-level imbuement catalyst. Your imbuement catalysts are expended to fuel your artifice, most importantly for the Quick Artifice activity. Your imbuement catalysts are part of the bulk of your artificer's tools.
+|
+As soon as you make your next daily preparations, your imbuement catalysts from the previous day lose their power and expire. While imbuement catalysts are magical physical objects, they cannot be duplicated, preserved, or created in any way other than during your daily preparations. Since imbuement catalysts are part of your unique set of tools and specialization of artifice, you cannot use any imbuement catalysts you did not prepare yourself.
+
+As you increase in level as an artificer, the number and strength of the imbuement catalysts you can prepare increases, as shown in Table 6-2: Imbuement Catalysts Per Day.
+
+### Imbuements
+Artificers use imbuements, a unique form of magic created by infusing items with new magical effects fueled by imbuement catalysts. Although imbuements have the same rules and stat blocks as [spells](https://2e.aonprd.com/Rules.aspx?ID=259), they cannot be activated using the Cast a Spell activity or crafted into scrolls, wands, or staves. To apply an imbuement, artificers must use the Quick Artifice activity.
+
+As an artificer, you can also learn and use spells from your spellcasting tradition as imbuements. When using a spell as an imbuement, you cannot use any target except object or surface, and if the spell statblock's range is longer than touch, it becomes touch. As a result, some spells associated with your tradition list may not be used as imbuements as they require ranges, areas, or targets other than an object or surface - this includes stat blocks that do not list an object or surface target such as Mage Armour or Longstrider.
+
+When you gain new imbuements, you can choose to add spells from your tradition list to your formula book instead. Additionally, you can use the Learn a Spell activity to add new imbuements and spells you encounter during your adventures to your formula book. Imbuements are added using the crafting skill. 
+=
+### Formula book
+Imbuements are precious innovations that artificers track with diligent notes. You start with a Formula Book worth 1gp or less which you receive for free. It contains all formulas for level-0 common items. In addition to crafting formulas, this formula book is your source of imbuements and contains all your notes on the imbuements you have access to, which you must study in order to prepare your imbuement collection each day. The Formula Book also gains your choice of four level-1 imbuements. Your formula book's form is up to you. It might be a grease-stained, leather-bound tome or an assortment of spellshards connected to a brass chain.
+
+Each time you gain a level, you add three more imbuements to your formula book, of any level up to your highest arcane fundamental level. 
 
 ### Quick Artifice
-If you need a specific artifice item on the fly, you can use your arcane fundamentals to quickly create it with the Quick Artifice action.
-|
-item(
-# Quick Artifice :a:
-; Artificer, Manipulate
--
-**Cost** 1 arcane fundamental of the artifice item level or higher
-
-**Requirements** You have the formula for the artifice item that you're creating, and the item is your advanced artifice level or lower. You're either holding your Artificer's tools, or wearing them and have a free hand. 
-
-**Targets, Range, Duration** Detailed artifice item's category noted below.
--
-You swiftly prototype an artifice item to replicate a more permanent magic item at a moment's notice. You select a magical artifice item that's in your formula book of your advanced artifice level or lower, and create that item using an arcane fundamental of the item's level or higher without having to spend the normal monetary cost in components or needing to attempt a Crafting check. This item has the magical and temporary trait, but it remains potent only for the next 10 minutes.
-)
-
-## Artifice Items
-Artifice items are magical temporary prototype versions of permanent items composed of arcane fundamentals. Due to their haphazard construction, all artifice items radiate magical auras and rapidly destabilize, but otherwise behave the same as any normal item. Their effects last for a set amount of time or until they are countered in some way, typically magically.
-
-You may create any common Adventuring gear, Magic Held Items, Magic Worn Items, or Runes as artifice items. As you increase in level as an artificer, the repertoire of types of items you can create along with the number and level of these items increases. You may use items with other rarities as artifice items with GM permission. Some artifice items have additional requirements beyond those stated in the Craft activity; these apply to the Quick Artifice action and must be satisfied as part of the requirements. If there are additional requirements for artifice items, they are noted below. You may only create items as artifice items if you have access to them as part of your artifice item repetoire - this does not restrict your regular crafting. 
-
-All artifice items have the artifice, magical, and temporary traits, in addition to their regular traits. If an item has the invested trait, it loses it. Since artifice items are simply a copy of a permanent magical item, their unstable and temporary nature means they have no market price.
-=
-### Artifice Item Categories
-Artifice items generally fall into an overall category which dictates how they are created and behave.
+When you need to create a magical device or effect on the fly, you apply your knowledge of artifice to assemble imbuement slot using the Quick Artifice activity.
 
 item(
-# Equipment Artifice Items
+# Quick Artifice
+---
+; Artificer, Concentrate, Magical, Manipulate
+**Requirements** You have the imbuement you're creating in your imbuement collection, and you're either holding or wearing artificer's tools.
 -
-; Artifice, Magical, Temporary
-**Targets** 1 willing creature or empty adjacent square
+You rapidly apply your artifice to improvise a magical device. When you use Quick Artifice, select one of the imbuements in your imbuement collection, and expend an arcane fundamental of the imbuement's level or higher. The imbuement heightened to the level of the arcane fundamental.
 
-**Range** Touch; **Duration** 1 hour
--
-Equipment artifice items are made manifest by the magic of your arcane fundamentals. If you target a willing creature, you may manifest the item directly to its appropriate usage (such as held, or worn) or into their inventory to be retrieved with an interact action. For example you may manifest plate armour directly on an unarmoured willing creature, a longsword directly into a creature's free hand, or a dagger into their backpack. You could not however, manifest plate armour onto a creature wearing a different set of armour, or a longsword into the hands of a creature who's hands are full, or a dagger into the inventory of a creature without means to carry an object. Alternatively, you may manifest the object directly in a free adjacent square.
-)
-item(
-# Consumable Artifice Items
--
-; Artifice, Magical, Temporary
-**Targets** 1 willing creature, or empty adjacent square
+Quick Artifice is a special activity that takes a variable number of actions depending on the imbuement, as listed in each imbuement's stat block. As soon as the Quick Artifice activity is completed, the imbuement's effect occurs.
 
-**Range** Touch; **Duration** 10 minutes
--
-Consumable artifice items are made manifest by the magic of your arcane fundamentals. If you target a willing creature, you may manifest the item directly into their possession to be retrieved by them. This may either be in their backpack, held by them, worn by them if they have an appropriate holder such as a bandolier for potions or quiver for arrows. Alternatively, you may manifest the object directly in a free adjacent square.
-)
-item(
-# Magical Implement Artifice Items
--
-; Artifice, Magical, Temporary
-**Targets** 1 willing creature or empty adjacent square
-
-**Range** Touch; **Duration** 10 minutes
--
-You create and infuse a mundane implement you carry with you to sustain the magic of your artifice.  If you target a willing creature, you may manifest the item directly to its appropriate usage (such as held) or into their inventory to be retrieved with an interact action.
-)
-item(
-# Applied Artifice Items
--
-; Artifice, Magical, Temporary
-**Targets** 1 willing creature, or object in possession of a willing creature;
-
-**Range** Touch; **Duration** 10 minutes
--
-When you create an applied artifice item, if you are touching the object in possession of a willing creature or willing creature to be affixed you may affix it as part of the Quick Artifice action. Otherwise, you may create the object in temporary stasis in a free hand and then apply the artifice item as a 1 action activity.
-
-Applying an applied artifice item to an object does not supress any existing objects - such as affixed talismans or tattoos. You may only have one applied artifice item per object and creature at a time.
+Some imbuements are cast as a reaction or free action. In those cases, you can use Quick Artifice as a reaction or free action (as appropriate) instead of as an activity. Such cases will be noted in the imbuement's stat block.
 )
 |
-item(
-# Worn Artifice Items
--
-; Artifice, Magical, Temporary
-**Targets** worn item of the appropriate type either unposessed or in possession of a willing creature;
+## Magical Ingenuity
+You manipulate materials together to replicate magic with inconceivable methods. You gain the [Magical Crafting](https://2e.aonprd.com/Feats.aspx?ID=812) skill feat, even if you don't meet its prerequisites, and you gain the four common up-to-2nd-level items granted by that feat. 
 
-**Range** Touch; **Duration** 10 minutes
--
-When you create a worn artifice item, you must be touching the mundane or magical worn item of the same usage (GM's discretion) that does not already have the artifice trait. If the item is in the possession of a different creature, it must be willing to allow the item to be a target. 
+## Spell Replication
+Using your magical ingenuity, you may attempt to improvise spell requirements for crafting even though do not have access to the Cast a Spell activity. If you have the spell in your formula book, you may supply the spell at any level up to your highest arcane fundamental as if you had the Cast a Spell activity.
 
-The targeted item takes on the magical properties and traits of the artifice item in addition to any properties it currently has.
-)
-item(
-# Held Artifice Items
--
-; Artifice, Magical, Temporary
-**Targets** held item of the appropriate type either unposessed or in possession of a willing creature;
+In addition, you gain the [Trick Magic Item](https://2e.aonprd.com/Feats.aspx?ID=857) skill feat.
 
-**Range** Touch; **Duration** 10 minutes
--
-When you create a held artifice item, you must be touching the mundane or magical held item of the same appropriate type (GM's discretion) that does not already have the artifice trait. If the item is in possession of a different creature, it must be willing to allow the item to be a target.
+## Artifice Specialization
+Artifice has many paths to mastery, and your journey has led you to a specific specialization. You may have delved deep into the fundamentals of magic at an arcane institute, honed your skills on the front line of the last war, or have started your own magewright practice developing a unique approach to artifice that set you apart from your peers. This specialization is a blend of your unique talents and expertise, which shape the way you practice artifice.
 
-The targeted item takes on the magical properties and traits of the artifice item in addition to any properties it currently has.
-)
-item(
-# Rune Artifice Items
--
-; Artifice, Magical, Temporary
-**Targets** item of the appropriate type either unposessed or in possession of a willing creature;
+### Traditional Specialization
+As a traditional artificer, you follow the established field and theories of Artifice. With long-standing techniques developed and refined by the artificers before you, your work explores and expands upon their great work. You have studied the arcane arts extensively and can use this knowledge to imbue your items with arcane abilities. 
 
-**Range** Touch; **Duration** 10 minutes
--
-When you create a rune artifice item, if you are touching the object to be etched you may etch it as part of the Quick Artifice action. Otherwise, you may create the rune on a temporary runestone in a free hand and complete the Transfer a Rune activity as a 1 action activity. You may use your artificer tools rather than a repair kit for Transfering the Rune.
+Your spellcasting tradition is Arcane.
 
-Artifice Item runes do not count towards the number of property runes on an item, and thus may exceed the standard number allowed by the potency rune or be applied to an item without a potency rune. Fundamental runes still may not stack, and thus you cannot add a fundamental rune of the same type to an item that already has one - artifice item or not.
-)
+### Planar Specialization
+As a Planar Artificer, you possess a deep knowledge of the arcane forces that underlie Eberron, and are able to channel these energies into your creations. You draw directly on the primal energies of the planes and ley lines. Instead of using standard arcane components, you may use pieces of the planes themselves to create temporary micro-manifest zones, giving you unparalleled control over the fundamental forces of reality.
+
+Your spellcasting tradition is Primal.
 =
-## Formula Book
-An artificer keeps meticulous records of the formulas for every item they can create. You start with a standard formula book containing worth 10 sp or less for free. The formula book contains the formulas for common adventuring gear, armor, shields, and weapons. It also contains four common 1st-level artifice items of your choice, in addition to the artifice item formulas you gained from the Magical Crafting skill feat.
+### Spirit Specialization
+As a Spirit Artificer, you have delved deep into the occult magic of the world, gaining knowledge of the mysterious and otherworldly. Your creations are imbued with eldritch powers, which you manipulate to create powerful occultic items. Instead of using conventional arcane components, you may call upon the such spirits of dolurrh to empower your items, or incorporate rare and esoteric materials into your work.
 
-Each time you gain a level, you can add the formulas for two common artifice items to your formula book. These new formulas can be for any level up to your advanced artifice level. You learn these formulas automatically, but it's also possible to find or buy additional formulas in settlements or from other artificers, or to invent them with the Inventor feat. 
+Your spellcasting tradition is Occult.
 
-### Sample Formula Book
-You can choose any 1st-level common artifice items or items from your technique for your formula book, but the list below contains a good selection of starter formulas.
+### Vassal Specialization
+Vassal Artificers are masters of divine magic and specialize in infusing their creations with divine energy. You have a strong understanding of your religion and draw upon your faith to imbue items with powerful blessings and abilities. Through the use of sacred texts, rituals, or prayer, Vassal Artificers are able to imbue their creations with divine power.
 
-**Item Formulas:** Charlatan's Gloves (PFGtE), Cloak of Feline Rest, Everburning Torch, Plane Stone of Absorbsion (PFGtE), Plane Stone of Discharge (PFGtE), Featherfall Token (PFGtE), Ring of Discretion, Battle Rod (PFGtE)
+Your spellcasting tradition is Divine.
 
-## Artifice Technique
-Your developments in artifice have led you to specialize in a particular aspect of artifice. You might have a degree from an arcane institute, correspond with other artificers in your field, or work as a genius loner. Choose an artificer technique.
-|
-### Traditional
-As a traditional artificer, you follow the established field and theories of Artifice. With long-standing techniques developed and refined by Cannith and the Arcane Congress, your work explores and expands upon the great work of those before you. 
-
-At first level, pick two artifice items from your formula book to make your signature artifice items. Twice per day, you can choose to ignore the arcane fundamental cost to use Quick Artifice to create a signature artifice item of your advanced artifice level or lower. 
-
-Each time you gain a level you may learn one additional formula for a common artifice item. In addition, you can swap one of your signature artifice items with another artifice item formula in your formula book.
-
-**Expert Traditional Artificer 5th**
-Three times per day, you can create a signature artifice item of your artifice level or lower without expending an arcane fundamental. In addition, select one additional artifice item to add to your signature artifice item list.
-
-**Master Traditional Artificer 11th**
-You have learned how to assemble your arcane fundamentals in a way that allows near infinite supply of your signature items. Once 10 per minutes, you may create one of your signature items of 2nd level or lower using Quick Artifice without expending an arcane fundamental. In addition, select one additional artifice item to add to your signature artifice item list.
-
-**Legendary Traditional Artificer 17th**
-You have become a legend of Artifice, and specialized your technique in the manufacture of specific types of items. You may pick one category of artifice item that you have access to. This category becomes your signature artifice list, and you may treat any artifice item from the list as a signature item. You may reselect all of your current signature items when you gain this feature. With downtime and retraining, you may spend a week to reselect this category of item, specializing in a new artifice item category that you have access to.
-=
-### Homonculus Crafter
-Your artifice is structured around the creating small magical creatures powered by magic called homunculi. By specializing in this technique, you have created a specialized and unique homunculus familiar. You gain the Homunculus artificer feat - granting you a homunculus familiar, a Tiny construct of some ingenious artifice design. Since your homonculous familiar is so advanced, your familiar gains an extra ability. See the additional artificer familiar and master abilities in this document. In addition, you may change one of your familiar's abilities with a 10 minute activity by tweaking and changing the form of your familiar using your artificer's tools. You can reselect only familiar abilities you would normally be able to reselect each day, not required familiar abilities for your familiar. You can't remove an ability that is required for another ability your familiar has (for instance, you can't remove manual dexterity if the familiar has lab assistant). When you do so, you may change any one of their abilities with any other ability they would normally have access to.
-
-**Expert Homonculus Artificer - 5th**
-Your familiar gains an extra ability. In addition, you have the ability to draw power from your familiar and use them as a substitute for an arcane fundamental of your advanced artifice level or lower for Quick Artifice. When the artifice item expires, your familiar is also drained and becomes inert. During your next daily preparations, your familiar recharges itself to full functionality. If your familiar is ever destroyed, you may expend an arcane fundamental of your advanced artifice level during your daily preparations to restore your familiar to life.
-
-**Master Homonculus Artificer 11th**
-Your familiar gains an extra ability. You have improved your ability to reconstruct your familiar, and you may expend an arcane fundamental of one less than your advanced artifice level or higher to rebuild or recharge your familiar with a 10-minute activity.
-
-**Legendary Homonculus Artificer 17th**
-Your familiar gains an extra ability, and you have become so proficient at fixing and recreating your homoculus familars that when you rebuild your familiar you may do so without using any arcane fundamentals.
-
-### Arcanist
-As an arcanist artificer, you apply the pure magical theory of spellcasting to your crafts - combining high-level theory with fundamentals to powerful results. By utilising the arcane stabilization matrix inherent to items and analyzing the weave of magic spells, you have the ability to manufacture items that cast spells - bypassing the need to cast spell yourself. You may craft Scrolls as artifice items, which are of the Magical Implements category. Additionally, you gain the Trick Magic Item feat. When using Trick Magic Item on artifice items, you gain a +2 circumstance bonus to your check.
-|
-When you gain formulas, you may also learn a special type of formula called a Spell Formula. Spell Formulas are unique way for you to write spells into your formula book. Though you do not have spellcasting to cast these spells, you can substitute a Spell Formula in place of casting a spell during the creation process of items that requires the spell. When you level up, you may select to learn a Spell Formula for a spell from the arcane list rather than selecting a formula for an artifice item. A Spell Forumla's level is equal to an equivalent scroll of the same spell (which is twice the spell level minus one). You can use the Learn a Spell activity for arcane spells, though it takes you twice as long. If you successfully learn a spell, you may add it to your formula book as a Spell Formula.
-
-**Expert Arcanist Artificer 5th**
-You are a master in the utilisation of spell casting artifice items and your creations never fail you. You automatically succeed on Trick Magic Item when using artifice items.
-
-**Master Arcanist Artificer 11th**
-You have reduced the activation energy of your spell-casting items, and you may use Trick Magic Item as a free action. In addition you may select one of the occult, primal, or divine traditions and learn spell formulas for spells of the associated spell list. The spells formulas must be no more than half your advanced artifice level.
-
-**Legendary Arcanist Artificer 17th**
-You have become legendary in your craft, and you can recreate the effect of spells from any tradition of magic. You may learn spell formulas for spells any of occult, primal, or divine spell lists. The spells formulas must be no more than half your advanced artifice level.
-
-## Initial Proficiencies
-At 1st level, you gain a number of proficiencies that represent your basic training. These proficiencies are noted at the start of this class.
-
-## Powerful Artifice
-The artifice items you create are particularly potent. When you create an artifice item that allows a saving throw, you can change its DC to your class DC.
-=
 ## Artificer Feats
-At 1st level and every even-numbered level, you gain an artificer class feat. Most features and feats require you to have your artificer tools and arcane fundamentals available. If you are deprived of your gear for some reason, you might lose access to many feats and features, subject to GM discretion.
+At 2nd level and every even-numbered level, you gain an artificer class feat. Most features and feats require you to have your artificer tools and imbuement slot available. If you are deprived of your gear for some reason, you might lose access to many feats and features, subject to GM discretion.
 
 ## Skill Feats 2nd
 At 2nd level and every 2 levels thereafter, you gain a skill feat. You must be trained or better in the corresponding skill to select a skill feat.
-
-## Sustained Artifice 2nd
-At 2nd level, you have the ability to maintain your artifice items beyond their normal duration. You may sustain your artifice items using the Sustain an Activation action, maintaining them beyond their normal expiration. You only need to begin Sustaining Artifice items once they go beyond their maximum duration. If you cease to sustain an artifice item, the item expires as normal. 
 
 ## General Feats 3rd
 At 3rd level and every 4 levels thereafter, you gain a general feat.
@@ -319,9 +216,12 @@ At 3rd level and every 4 levels thereafter, you gain a general feat.
 At 3rd level and every 2 levels thereafter, you gain a skill increase. You can use this increase to either become trained in one skill you're untrained in or become an expert in one skill in which you're already trained.
 
 At 7th level, you can use skill increases to become a master in a skill in which you're already an expert, and at 15th level, you can use them to become legendary in a skill in which you're already a master.
-
+|
 ## Skilled Expert 3rd
 You've increased your skill in Artifice. You become an expert in Crafting.
+
+## Imbuement Expansion 5th
+You gain the ability to utilize imbuements that have no target, typically because they directly empower you. When using a spell that has no target, you must select a reasonable worn object to hold the power of the imbuement. This may be your boots for longstrider, or your helmet for Illusory Disguise.
 
 ## Ability Boosts 5th
 At 5th level and every 5 levels thereafter, you boost four different ability scores. You can use these ability boosts to increase your ability scores above 18. Boosting an ability score increases it by 1 if it's already 18 or above, or by 2 if it starts out below 18.
@@ -330,167 +230,151 @@ At 5th level and every 5 levels thereafter, you boost four different ability sco
 In addition to the ancestry feat you started with, you gain an ancestry feat at 5th level and every 4 levels thereafter.
 
 ## Artificer Weapon Expertise 5th
-You develop tricks for using your weapons more effectively. Your proficiency ranks for simple, all crossbows, and unarmed attacks increase to expert. If using your artifice item attack with an item that has a critical specialization, you gain access to the critical specialization effect of the item.
-|
-## Technique Expert 5th
-You've increased your skill in Artifice. You gain access to the expert portion of your artifice style.
+You develop tricks for using your weapons more effectively. Your proficiency ranks for simple weapons, martial crossbows, martial firearms, and unarmed attacks increase to expert. If using your artifice item attack with an item that has a critical specialization, you gain access to the critical specialization effect of the item.
+
+## Iron Will 7th
+Your mental defences are an iron fortress. Your proficiency rank for Will saves increases to expert.
 
 ## Skilled Master 7th
 You've increased your skill in Artifice. You become a master in Crafting.
 
-## Iron Will 7th
-Your mental defenses are an iron fortress. Your proficiency rank for Will saves increases to expert.
+## Weapon Specialization 7th
+You fully understand your weapons. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you’re a master, and to 4 if you’re legendary.
 
-## Artificer Expertise 9th
-Through innovation and experimentation, you've made your artifice creations more effective and reliable. Your proficiency ranks for your artificer class DC and artifice item attack increase to expert.
+## Artifice Expert 9th
+Through innovation and experimentation, you've made your artifice creations more effective and reliable. Your proficiency ranks for your spell DC and spell attack increase to expert.
 
 ## Alertness 9th
 You remain alert to threats around you. Your proficiency rank for Perception increases to expert.
-
-## Medium Armor Expertise 11th
-You've learned to better defend yourself against attacks. Your proficiency ranks for light armour, medium armour, and unarmored defence increase to expert.
-
+=
 ## Evasion 11th
-You’ve learned to move quickly to avoid explosions, dragon’s breath, and worse - your own artifice. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
+You’ve learned to move quickly to avoid explosions, dragon’s breath, and worse - your failed artifice experiments. Your proficiency rank for Reflex saves increases to master. When you roll a success on a Reflex save, you get a critical success instead.
 
-## Technique Master 11th
-You've increased your skill as an Artificer to become a master of your art. You gain access to the master portion of your artifice style.
+## Imbuement Extension 11th
+You gain the ability to extend the power of your imbuements to other creatures. You gain the ability to utilize imbuements that target creatures. When using an imbuement that targets creatures, you must select a reasonable worn object to hold the power of the imbuement. This may an improvised magical weapon you are holding for offensive targeting, or a worn item for beneficial targeting.
 
 ## Artificer Weapon Mastery 13th
-Your proficiency ranks for simple, all crossbows, and unarmed attacks increase to master.
+Your proficiency ranks for simple weapons, martial crossbows, martial firearms, and unarmed attacks increase to master.
 
-## Weapon Specialization 13th
-You fully understand your weapons. You deal 2 additional damage with weapons and unarmed attacks in which you are an expert. This damage increases to 3 if you’re a master, and to 4 if you’re legendary.
-=
+## Medium Armor Expertise 13th
+You've learned to better defend yourself against attacks. Your proficiency ranks for light armour, medium armour, and unarmored defence increase to expert.
+
+## Greater Weapon Specialization 15th
+Your damage from weapon specialization increases to 4 with weapons and unarmed attacks in which you’re an expert, 6 if you’re a master, and 8 if you’re legendary.
+
 ## Legendary Artifice 15th
 You are peerless in your skill as an Artificer, and become legendary among the artificers of the world. You become Legendary in Crafting.
 
 ## Juggernaut 15th
 Your body has become accustomed to physical hazards and resistant to pathogens and ailments. Your proficiency rank for Fortitude saves increases to master. When you roll a success on a Fortitude save, you get a critical success instead.
 
-## Artificer Master 17th
-Your artifice is incredibly effective. Your proficiency ranks for your artificer class DC and artifice item attack increase to master.
 
-## Technique Legend 17th
-You've increased your skill as an Artificer to become a legend of your technique. You gain access to the legendary portion of your artifice style.
+## Artifice Master 17th
+Your artifice is incredibly effective. Your proficiency ranks for your spell DC and spell attack increase to master.
 
 ## Medium Armor Mastery 19th
 Your skill with armour improves, helping you avoid more blows. Your proficiency ranks for light and medium armour, as well as for unarmored defence, increase to master.
+|
 =
-# Feats
+# Artificer Feats
+The following are Artificer class feats you may select as you level up.
 note(
 # Magewright Spells
-Certain feats grant you magewright spells, which are a type of focus spells. It costs 1 Focus Point to cast a focus spell. When you gain your first magewright spell, you also gain a focus pool of 1 focus point. You refill your focus pool during your daily preparations, and you regain 1 focus point by spending 10 minutes using the Refocus activity to reorganize your tools and study your formulas.
+Certain feats grant you magewright spells, which are a type of focus spell. It costs 1 Focus Point to cast a focus spell. When you gain your first magewright spell, you also gain a focus pool of 1 focus point. You refill your focus pool during your daily preparations, and you regain 1 focus point by spending 10 minutes using the Refocus activity to reorganize your tools and study your formulas.
 
-Your magewright spells are spells of the arcane tradition. You become trained in arcane spell attacks and spell DCs and your key spellcasting ability is Intelligence.
+Your magewright spells always match your spellcasting tradition.
 
 Focus spells are automatically heightened to half your level rounded up. Taking feats can give you more focus spells and increase the size of your focus pool, though your focus pool can never hold more than 3 focus points. The full rules for focus spells appear [here](https://2e.aonprd.com/Rules.aspx?ID=276).
+
+# Metartifice
+Actions with the metartifice trait are methods by which you change your Quick Artifice. You must use a metartifice action directly before the Quick Artifice action you want to alter. If you use any action (including free actions and reactions) other than Quick Artifice directly after, you waste the benefits of the metartifice action. Any additional effects added by a metartifice action are part of the spell’s effect, not of the metartifice action itself.
 )
-#### 1st Level
+
+#### 1st Level (7)
 item(
-# Arcane Analysis
+# Built-In Tools
+## Feat 1
+-
+; Artificer 
+You've built tools into your artificer's kit so you can access and use them easily. When you take this feat, choose up to two sets of tools you own, such as thieves' tools or healer's tools, that weigh a total of 2 Bulk or less. These tools become part of your artificer's tools. The artificer's tools Bulk doesn't increase from this addition. As long as you are wielding, or wearing your artificer's tools, you have the same quick access to these tools as the tools you are wearing, and they don't count against the usual limit of tools you can wear.
+)
+item(
+# Cantrip Constructor
 ## Feat 1
 -
 ; Artificer
-You have an inherent understanding of the magic of items, and can pick out quickly which items likely do or do not have magical properties. You can cast detect magic and read aura at will as arcane innate spells. These cantrips are automatically heightened to the appropriate level. Additionally if the item is of your advanced artifice level or lower, treat the result of your Identify Magic check as one degree of success better.
+You maintain a small set of imbuement catalyst scraps to create cantrip imbuements. A cantrip imbuement is a special type of imbuement that doesn't use imbuement slot. You can create a cantrip imbuement at will, any number of times per day. A cantrip is automatically heightened to half your level rounded up—this is usually equal to the highest level of imbuement catalyst you have.
+You learn and add five cantrip imbuements of your choice to your Formula Book. During your daily preparations, you may add three imbuement cantrips to your imbuement collection. 
 )
 item(
-# Artificer's Kit
+# Crossbow Dynamo
 ## Feat 1
 -
 ; Artificer
-The best artificers are master of their craft, and their tools. You gain access to a special belt you have designed specifically for your craft, which may be worn as a belt, bandolier, or satchel. This belt holds your Artificer's Tools, and one other set of tools you own that weigh 1 Bulk or less. You may use Quick Artifice without having a hand free, and you do not need to have a free hand to use other set of tools contained in this belt. These two tools do not count against the usual limit of tools you can wear. If you're carrying or stowing the belt rather than wearing it as a belt or bandolier, its Bulk is light instead of negligible and these benefits do not apply.
+You have a deep understanding of the crossbow. When you're wielding a crossbow and Interact to reload it, you gain a +2 circumstance bonus to the damage roll on your next Strike with that crossbow. If the crossbow is a simple crossbow, also increase the damage die size for that attack by one step. You must make the attack before the end of your turn or these benefits are lost. 
 )
 |
 item(
-# Disable Hazards
+# Diligent Documentation
 ## Feat 1
 -
 ; Artificer
-You have an intuitive sense that alerts you to the dangers and presence of traps. You gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if you aren’t Searching, you get a check to find traps that normally require you to be Searching. You still need to meet any other requirements to find the trap.
-
-You can Disable a Device using Crafting in place of the regular Theivery skill. If the device could regularly be disabled with crafting, you automatically target the lower of the two DCs.
+You are particularly adept at learning new imbuements to add to your formula book. You can use the Learn a Spell activity in half the time it normally takes. Further, when you roll a critical failure on your check to Learn an Imubement, you get a failure instead. When you roll a failure, you can try again after 1 week.
 )
 item(
-# Focused Defense
+# Homunculus Familiar
 ## Feat 1
 -
 ; Artificer
-Though your focus is on your artifice, you leave no gap for enemies to exploit in your crafting. Quick Artifice loses the manipulate trait.
-)
-item(
-# Homunculous Familiar
-## Feat 1
--
-; Artificer
-You have created a specialized homunculus familiar, a Tiny construct of some ingenius artifice design. Other than taking the form of a construct design of your choice and replacing the animal trait with the construct trait, this familiar uses all the same rules as other familiars. Your familiar is an extension of your artifice, and can assist you with the creation of artifice items. See the additional artificer familiar and master abilities in this document.
-)
-item(
-# Meticulous Notes
-## Feat 1
--
-; Artificer
-Meticulous notes ensure that your attempts to reverse engineer an item's formula never prevent you from reassembling the parts - though sometimes you're left with a few extra screws. You gain the Reverse Engineering skill feat. When you critically fail a reverse engineering check, you treat the degree of success as a failure instead. You may use the item's disassembled parts to reassemble the original item even if you did not successfully obtain its formula. Reassembling the item from the these parts works just like Crafting it from scratch; you use the disassembled parts as the necessary raw materials.
-)
-=
-item(
-# Prepared for Anything :r:
-## Feat 1
--
-; Artificer
-You have some of your artifice items ready for less than a moment's notice. If the trigger for one of your artifice item formulas with an activation of a reaction occurs, you may immediately complete the Quick Artifice action and activate the item. This item is destroyed as soon as the effects of its activation finish - and its duration may not be extended in any way.
+You construct a small a creature that serves you and assists your spellcasting. You gain a [familiar](https://2e.aonprd.com/Familiars.aspx).
 )
 item(
 # Prototype Companion
 ## Feat 1
 -
 ; Artificer
-You have created a construct companion what serves as a trustworthy companion to your artifice misadventures. You gain a [prototype construct companion](https://2e.aonprd.com/Rules.aspx?ID=1602). 
+You have created a construct companion, which serves as a trustworthy minion. You gain a [prototype construct companion](https://2e.aonprd.com/Rules.aspx?ID=1602). 
 )
 item(
-# Quartermaster
+# Tamper :a:
+## Feat 1
+-
+; Artificer, Manipulate
+You tamper with a foe's weapon or armor, using a free hand. Choose either a weapon held by an enemy in your reach or a suit of armor worn by an enemy in your reach. Attempt a Crafting check against the enemy's Reflex DC.
+
+Critical Success Your tampering is incredibly effective. If you tampered with a weapon, the enemy takes a –2 circumstance penalty to attack rolls and damage rolls with that weapon. If you tampered with armor, the armor hampers the enemy's movement, making the enemy flat-footed and inflicting a –10-foot penalty to its Speeds. The effect lasts until the enemy Interacts to remove it, regardless of which one you used.
+Success Your tampering is temporarily effective. As critical success, but the effect ends at the start of your next turn, even if the enemy doesn't Interact to end it.
+Critical Failure Your tampering backfires dramatically, creating a small explosion from your own tools or gear. You take fire damage equal to your level.
+)
+item(
+# Trap Finder
 ## Feat 1
 -
 ; Artificer
-You have developed the intuition needed to create mundane equipment using your arcane fundamentals. You may create non-magical armor, shields, and weapons as artifice items. These artifice items are considered to be of the equipment artifice item category.
+You have an intuitive sense that alerts you to the dangers and presence of traps. You gain a +1 circumstance bonus to Perception checks to find traps, to AC against attacks made by traps, and to saves against traps. Even if you aren’t Searching, you get a check to find traps that normally require you to be Searching. You still need to meet any other requirements to find the trap.
+
+You can disable traps that require a proficiency rank of master in Thievery. If you have master proficiency in Thievery, you can disable traps that require a proficiency rank of legendary instead, and your circumstance bonuses against traps increase to +2.
+
 )
 item(
 # Reach Artifice :a:
 ## Feat 1
 -
-; Artificer, Concentrate, Metartifice
-You have gained the ability to channel the power of your artifice at range. You may select targets for your artifice you can see up to 30 feet away.
+; Artificer, Metartifice
+You can extend the range of your imbuements. If the next action you use is Quick Artifice, increase that imbuement’s range to 30 feet.
 )
+=
+#### Level 2 (4)
 item(
-# Artificer Knowledge
-## Feat 1
--
-; Artificer
-You become trained in Artificer Lore. You may use this lore to recall knowledge about any magical item or effect. At 7th level you become expert in Artificer Lore.
-)
-#### 2nd Level
-item(
-# Augment Item
+# Expanded Cantrip Constructor
 ## Feat 2
 -
 ; Artificer
-You reinforce an item with more potent arcana to fortify its normal properties. You gain the Augment Item focus spell and a focus pool of 1 Focus Point.  
-)
-item(
-# Ablate Energy
-## Feat 2
+**Prerequisites** Cantrip Constructor
 -
-; Artificer
-You reinforce yourself with arcana to fortify yourself again energy. You gain the Ablate Energy focus spell and a focus pool of 1 Focus Point.
+A greater understanding of your artifice broadens your range of simple imbuements.
+You learn an additional three cantrip imbuements of your choice. Additionally, during your daily preparations you may add a total of five imbuement cantrips to your imbuement collection. 
 )
-item(
-# Bond item :a:
-## Feat 2
--
-; Artificer
-During your daily preparations, you may designate items of 1 Bulk or less as bonded items by expending an arcane fundamental of half the item's level (rounded down) or higher. You can call this item to your free hand from up to 1 mile away, and have it materialize instantly in your hand.
-)
-|
 item(
 # Enhanced Familiar
 ## Feat 2
@@ -498,457 +382,298 @@ item(
 ; Artificer
 **Prerequisites** a familiar
 -
-You infuse your familiar with additional magical energy. You can select a base of four familiar or master abilities each day, instead of two.
+You infuse your familiar with additional magical energy. You can select four familiar or master abilities each day, instead of two.
 )
 item(
-# Magical Focus Artifice Items
+# Reverse Engineer
 ## Feat 2
 -
 ; Artificer
-**Prerequisite** Arcanist Artificer
--
-With research into the practical applications of spell formulas, you have expanded your repetoire of artifice items to include staves and wands. You may produce staves and wands as artifice items. These items are of the Consumable Artifice Item category. 
+You are incredibly skilled at reverse engineering items to learn their formulas, or disassembling them just to disable them. You gain a +2 circumstance bonus to Crafting checks to reverse engineer a formula from an item. If you get a critical success on your Crafting check, you can opt to both create the formula and reassemble the original item at the same time, leaving you with the formula and the item instead of the formula and raw materials equal to half the item's value. Furthermore, you can use Crafting instead of Thievery to Disable a Device or Pick a Lock. 
 )
 item(
-# Minor Magic
+# Risky Reload :a:
 ## Feat 2
 -
-; Artificer
-You’ve dabbled in a variety of tricks, gaining minor magical abilities from a particular tradition. Choose two cantrips from the common cantrips available to any tradition. Your key spellcasting ability is Intelligence, and you're trained in spell attack rolls and DCs for the traditions of your chosen cantrips.
-)
-item(
-# Trick Magic Tradition
-## Feat 2
+; Artificer, Flourish
+**Requirements** You're wielding a crossbow.
 -
-; Artificer
-Your understanding of the nature of magic items and ability to break them down grants you the Trick Magic Item skill feat. When using the Trick Magic Item feat, you may use Arcana as the skill check regardless of the item's magic tradition. Whenver you roll a critical failure on a Trick Magic Item check, you get a failure instead.
-
-**Special** If you are an Arcanist Artificer your Trick Magic Item benefits apply to all items, not just artifice items.
+You've practiced a technique for rapidly reloading your crossbow, but attempting to use this technique is a dangerous gamble. Interact to reload a crossbow, then make a Strike with that crossbow. If the Strike fails, the crossbow misfires, destroying the ammunition amd jamming the crossbow. The crossbow must be fixed with an interact action before you can reload the crossbow and fire again.
 )
-=
-#### 4th Level
+#### 4th (5)
 item(
 # Advanced Construct Companion
 ## Feat 4
 -
-**Prerequisites** construct companion
 ; Artificer
+**Prerequisite** Construct Companion
 -
-You've upgraded your construct companion's power and decision-making ability. It becomes an [advanced construct companion](https://2e.aonprd.com/Rules.aspx?ID=1612). During an encounter, even if you don't use the Command a Minion action, your construct companion can still use 1 action on your turn that round to Stride or Strike.
+You've upgraded your construct companion's power and decision-making ability. It becomes an advanced construct companion. During an encounter, even if you don't use the Command a Minion action, your construct companion can still use 1 action on your turn that round to Stride or Strike.
 )
 item(
-# Applied Artifice
+# Bespell Weapon
 ## Feat 4
 -
 ; Artificer
-With sufficient testing, you have learned how to apply your less stable arcane fundamentals to objects using intermediate items. You may produce Talismans, Tattoos, Magical Ammunition, and Gadgets with Quick Artifice. Talismans and Tattoos are of the Applied category. Magical Ammunition an is of the Consumable category, but you may produce four pieces at a time. Gadgets are of the Consumable category.
-)
-item(
-# Consumable Artifice
-## Feat 4
+**Frequency** once per turn
+**Requirements** Your most recent action was to use a non-cantrip imbuement with the energy trait.
 -
-; Artificer
-Though it may look like a mere water flask saturated with as many crushed dragonshards as you could afford, with the focused efforts of research - and a water flask saturated with as many crushed dragonshards as you could afford - you have created a liquid capable of sustaining the power of your arcane fundamentals for consumption. You may produce Alchemical Items, Potions, and Oils with Quick Artifice. These items are of the Consumable Artifice Item category.
-)
-item(
-# Dual Duratons
-## Feat 4
--
-; Artificer
-Maintaining your artifice is has become a trival task, allowing you to maintain multiple items at once. When you use the Sustain an Activation action to sustain an artifice item's duration, you may select two items to be sustained by this action rather than one.
-)
-item(
-# Tattoo of Making
-## Feat 4
--
-; Artificer
-**Prerequisites** expert in Arcana, focus pool
+You siphon the residual energy from the last imbuement you created into one weapon you're wielding. Until the end of your turn, the weapon deals an extra 1d6 damage of a type depending on the school of the imbuement you just created.
 
-**Pathfinder's Guide Note** This feat is the Irezoko Tattoo feat from Absalom, City of Lost Omens reflavoured
--
-You bear an intricate magical tattoo - not unlike a dragonmark - known as the irezoko, a badge of your understanding of artifice. Once per day, you may concentrate upon the pattern of your irezoko to recover 1 Focus Point as a three-action activity.
+- **Abjuration** force damage
+- **Conjuration** or **Transmutation** the same type as the weapon
+- **Divination**, **Enchantment**, or **Illusion** mental damage
+- **Evocation** a type the spell dealt, or force damage if the spell didn't deal damage
+- **Necromancy** negative damage
 )
 item(
-# Long Lasting Charge :a:
-## Feat 4
--
-; Artificer, Metartifice
-By chanelling more of your power into the next item you make, you increase the duration of the the next artifice item you make. If your next action is Quick Artifice to create an item that lasts less than an hour, the item has a duration of 1 hour until it expires.
-)
-item(
-# Crossbow Delivery
+# Gadget Specialist
 ## Feat 4
 -
 ; Artificer
-With minor tweaks to your crossbow you have turned it from a high velocity ranged *bolt* delivery method, into a high velocity ranged *anything* delivery method. If you load a consumable thrown item such as an alchemical flask or bomb into your crossbow, you may use your crossbow to launch the item. You may make a Strike with your crossbow with a range increment of 30 ft, applying the modifiers of the crossbow as normal. Rather than applying weapon damage, use the degree of success of the strike to determine the effect of the thrown item.
+Rather than just using your imbuement catalysts for various boosts and tweaks, you also craft a few specific temporary consumable gadgets each day. You gain the formulas for three common or uncommon gadgets. Each day during your daily preparations, you can create two temporary gadgets from your formula book. Gadgets prepared in this way don't cost you any resources to Craft and don't have any sale value. They are temporary items and fall apart the next time you make your daily preparations if you haven't already used them.
+
+If you're a master in Crafting, you can create three gadgets per day, and you gain three additional common or uncommon gadget formulas. If you're legendary in Crafting, you can create four gadgets per day, and you gain another additional three common or uncommon gadget formulas, for a total of nine.
 )
 |
-#### 6th Level
 item(
-# Magical Quartermaster
+# Rapid Interchange :a:
+## Feat 4
+-
+; Artificer, Flourish
+You can evoke your artifice to empower your objects manipulation. You gain access to the adept hands focus spell.
+)
+#### 6th (4)
+item(
+# Crossbow Terror
 ## Feat 6
 -
 ; Artificer
-**Prerequisite** Quartermaster
+**Prerequisite** Crossbow Dynamo
 -
-Your artifice can now enhance the arcana of mundane items in addition to creating them. You may use formulas for magical or specific adventuring gear, armor, shields, and weapons to create artifice items, though this may not include items which are made magical by other attached means such as runes or talismans.
+You are a terror with the crossbow, the effects of crossbow dynamo are constant.
 )
-item(
-# Perfected Artificer's Kit
-## Feat 6
--
-; Artificer
-**Prerequisite** Artificer's Kit
--
-With tinkering and adjustments from practice, your Artificer's belt is fit to your exact needs. Your belt may now hold your Artificer's Tools, and up to 2 Bulk of items. You can interact to draw or stow an item to or from this to this belt as a free action.
-)
-item(
-# Push the limits
-## Feat 6
--
-; Artificer
-You can push the limits of magical items beyond their normal. Once each day, you can Activate an Item that has been activated the maximum number of times for its frequency. You can do so only if the item's level is half your advanced artifice level or lower, the activation has a frequency of once per day or more frequent, and you haven't already used the activation this round. 
-)
-item(
-# Arcane Conduit :r:
-## Feat 6
--
-; Artificer
-**Trigger** An ally Casts a Spell and you are within that spell's range.
--
-You use the massive arcane aura that surrounds you to extend your ally's range. Your ally can use you as the point of origin for their spell, calculating range and cover from your space instead of their own.
-)
-item(
-# Fundamental Siphon
-## Feat 6
--
-; Artificer
-When you expend an arcane fundamental of the highest level you have access to, you may immediately regain 1 Focus Point.
-)
-=
-#### 8th Level
+#### 8th (4)
 item(
 # Incredible Construct Companion
 ## Feat 8
 -
 ; Artificer
-**Prerequisites** Advanced Construct Companion
+**Prerequisite** Advanced Construct Companion
 -
-Thanks to your continual tinkering, your construct companion has advanced to an astounding new stage of engineering, enhancing all its attributes. Your construct companion becomes an [incredible construct companion](https://2e.aonprd.com/Rules.aspx?ID=1613).
+Thanks to your continual tinkering, your construct companion has advanced to an astounding new stage of artifice, enhancing all its attributes. Your construct companion becomes an incredible construct companion.
 )
 item(
-# Incredible Familiar
+# Ubiquitous Gadgets
 ## Feat 8
 -
 ; Artificer
-**Prerequisites** Enhanced Familiar
+**Prerequisites** Gadget Specialist
 -
-Your familiar is imbued with even more magic than other familiars. You can select a base of six familiar or master abilities each day, instead of four.
-)
-item(
-# Invested Sustainment
-## Feat 8
--
-; Artifice
-Your items become more permanent, lasting longer as you channel some of your essence into them. When you complete Quick Artifice, you or one willing creature may choose to immediately invest in the item granting it the invested trait. While invested, this item's duration is the end of your next daily preparations.
-)
-item(
-# Long Lasting Artifice
-## Feat 8
--
-; Artificer
-**Prerequisites** Increase Charge
--
-When you use Quick Artifice, all artifice items you produce last at minimum 1 hour rather than 10 minutes before expiring.
-)
-item(
-# Engery Weapon
-## Feat 8
--
-; Artificer
-**Prerequisites** Magewright spells
--
-You apply your arcane fundamentals to enhance the power of a weapon strike. You gain access to the Energy Weapon focus spell. Increase the number of Focus Points in your focus pool by 1.
-)
+They thought you had used up all your devices, but they thought wrong! You have a few more gadgets up your sleeve than others expect. Increase the number of temporary gadgets you can create each day by 2.
 
-|
-#### 10th Level
-item(
-# Precious Material Tracery
-## Feat 10
--
-; Artificer
-In addition to the mundane items you make, you may also fortify or create items with precious metal tracery - an amount of precious material just sufficient to grant the precious material's properties to the item. When you use Quick Artifice to target or create armour, a weapon, or shield, you may trace it with any metallic precious material and grant it the properties of that material in addition to its existing precious material properties if any. You must have access to at least one chunk of the new material, which is consumed for the duration of the artifice item's lifetime - and regained when the artifice item expires. The precious material item you create must of appropriate level for the arcane fundamental expended.
+**Special** You can select this feat a second time if you are 14th level or higher.
 )
+#### 10th (4)
 item(
-# Rend Magic :aa:
-## Feat 10
--
-; Artificer, Manipulate
-As you focus on the magic of an object, you can attempt to rend its power away. Select an item you can see within 30 feet that you are aware is magical and in your formula book. Expend an arcane fundamental to attempt a counteract check against the item's level using your crafting check modifier.
-
-**Critical Failure** No effect.
-
-**Failure** You partially rend the magic from the item, removing its magical trait and any magical effects it might have. The magic remains impotent until the the end of your turn.
-
-**Success** You rend the magic from the item, removing its magical trait and any magical effects it might have. The magic remains impotent until a creature spends an interact action to kickstart its energy.
-
-**Critical Success** You completely rend the magic from the item, removing its magical trait and any magical effects it might have. The magic remains impotent for 1 minute, as long as you Sustain this Activation.
-)
-item(
-# Artifice's Investiture
-## Feat 10
--
-; Artificer
-**Prerequisites** Intelligence 16
--
-You gain the Incredible Investiture feat.  You gain the Incredible Investiture skill feat, increasing your limit on invested items from 10 to 12. The limit increases to 14 if you have Intelligence 18, 16 if you have Intelligence 20, 18 if you have Intelligence 22, and 20 if you have Intelligence 24. When you remove an item, it no longer counts against your daily limit of investiture. 
-)
-=
-item(
-# Reartifice
-## Feat 10
--
-; Artificer, Exploration, Concentrate
-**Prerequisites** Traditional Artifice Technique
-
-**Requirements** You're either holding or wearing Artificer's tools, and touching the signature artifice item you created. The item may not have any activations that currently count against its frequency, have lost any charges, or be depleted in any way - subject to GM discretion.
--
-With additional practice in all the facets of your field, you are skilled at manipulating your signature artifice item enhancements into slightly different forms.
-
-You spend 10 minutes tinkering with the arcane fundamentals woven into one of your signature artifice items to reassemble it for a different purpose. The object expires, and after 10 minutes of tinkering, you rebuild it into a different signature artifice item. Make a Crafting check with a high DC for the item's level. On a success, you replace the original artifice item with the new artifice item.
-)
-item(
-# Quickened Artifice :f:
+# Quickened Infusion :f:
 ## Feat 10
 -
 ; Artificer
 **Frequency** once per day
 -
-If your next action is to use Quick Artifice with an Arcane Fundamental least 2 levels lower than the highest level Arcane Fundamental you have, Quick Artifice is a free action.
+If your next action is to use Quick Imbuement on an imbuement that is at least 2 levels lower than the highest level imbuement catalyst you have, reduce the number of actions to activate it by 1 (minimum 1 action).
 )
+#### 12th (4)
 item(
-# Scroll Preparation
-## Feat 10
--
-; Artificer
-**Prerequisites** Arcanist Artificer
--
-During your daily preparations, you can manufacture all the scrolls you might need for the day. Artifice Item scrolls that you create last until your next daily preparations. In addition, you may create two scrolls of half your advanced artifice level or lower during your daily preparations.
-)
-|
-#### 12th Level
-item(
-# Magewright Focus
+# Contingency Gadgets
 ## Feat 12
 -
 ; Artificer
-**Prerequisites** magewright spell
--
-Your focus recovers faster. If you have spent at least 2 Focus Points since the last time you Refocused, you recover 2 Focus Points when you Refocus instead of 1.
+**Prerequisites** Gadget Specialist
+You are too brilliant to be caught off guard, and you always have just the right gadget for the situation. When you prepare your gadgets during your daily preparations, you can choose to leave one of them as a contingency gadget that you keep ready for just this situation, rather than declaring which gadget you're making. You can pull the contingency gadget out using an Interact action, at which point you must choose which gadget you had prepared as a contingency.
+
+If you're legendary in Crafting, you can leave two contingency gadgets during your daily preparations, instead of just one.
 )
 item(
 # Magic Sense
 ## Feat 12
 -
-; Arcane, Detection, Divination, Artificer
+; Detection, Divination, Artificer
+
 You have a literal sixth sense for ambient magic in your vicinity. You can sense the presence of magic auras as though you were always using a 1st-level detect magic spell. This detects magic in your field of vision only. When you Seek, you gain the benefits of a 3rd-level detect magic spell on things you see (in addition to the normal benefits of Seeking). You can turn this sense off and on with a free action at the start or the end of your turn.
+
+**Special** This feat has the trait corresponding to your artificer tradition (arcane, divine, occult, or primal).
 )
-item(
-# Overcharge
-## Feat 12
--
-; Artificer
-Your magical tinkering allows you to empower all items beyond their normal strength. If you next action is to activate an that has a saving throw DC, you can choose to expend an arcane fundamental of any level to use your artificer class DC instead of the item's DC if it is higher. 
-)
-item(
-# Restore Arcana
-## Feat 12
--
-; Artificer
-**Prerequisites** Magewrite spells
--
-You gain the Restore Arcana artifice spell. Increase the number of Focus Points in your focus pool by 1.
-)
-=
-#### 14th Level
+#### 14th (4)
 item(
 # Paragon Companion
 ## Feat 14
 -
+; Artificer
 **Prerequisites** Incredible Construct Companion
-; Artificer
 -
-Your construct companion has reached the pinnacle of form and function. Your construct companion becomes a [paragon construct companion](https://2e.aonprd.com/Rules.aspx?ID=1614). 
+Your construct companion has reached the pinnacle of form and function. Your construct companion becomes a paragon construct companion. 
 )
+#### 16th (4)
 item(
-# Persistent Artifice
-## Feat 14
--
-; Artificer
-Channeling inherent magical powers present throughout the world, simple artifice items you create no longer need the arcane boost from your tools. When creating artifice items of 2nd level or lower, you do not need to expend arcane fundamentals.
-)
-item(
-# Break Investiture :r:
-## Feat 14
--
-; Artificer, Fortune
-**Trigger** You fail a saving throw.
--
-As you fail to save your self from a harmful effect, you may redirect its power into one of your bonds. Select one item you are currently invested in. The item immediately becomes broken - or destroyed if it was an artifice item - and you can reroll the triggering saving throw and use the better result.
-)
-item(
-# Uber Rend :aa:
-## Feat 14
--
-; Artificer
-**Prerequisites** Rend Magic
--
-You can disappate the effects of a magic item with violent force - causing it to destabilize and explode. When you rend magic, you may choose for it to gain the additional following effects.
-
-**Failure** No additional effect.
-
-**Success** The item releases its energy in a violent blast and deals 1 force damage per item level with a basic Reflex save to all creatures in a 5-foot emanation around the item.
-
-**Critical Success** As success, but the item deals 1d4 force damage per item level.
-)
-|
-#### 16th Level
-item(
-# Effortless Concentration :f:
+# Imbuement Tinker :aa:
 ## Feat 16
 -
-; Artificer
-**Trigger** Your turn begins.
--
-You maintain your artifice with hardly a thought. You immediately gain the effects of the Sustain an Activation action, allowing you to extend the duration of one of your active artifice items. 
+; Artificer, Concentrate
+You’ve learned to alter choices you make when creating imbuements. After casting a spell that has a single target that offers several choices of effect (such as resist energy, spell immunity, or a polymorph spell that offers several potential forms), you can alter the choice you made when using Quick Artificer (for instance, choosing a different type of damage for resist energy). However, your tinkering weakens the imbuement’s integrity, reducing its remaining duration by half.
+
+You can’t use this feat if the benefits of the imbuement have already been used up or if the effects of the first choice would persist in any way after switching (for instance, if one of the choices was to create a consumable item you already used, or to heal you), or if the feat would create an effect more powerful than that offered by the base imbuement. The GM is the final arbiter of what Imbuement Tinker can be applied to.
 )
+#### 18th (3)
 item(
-# Rend Spell
-## Feat 16
--
-; Artificer
-**Prerequisite** Rend Magic
--
-Applying the theory of magic item creation to spells, you can rend the effects of a spell in addition to magic items. When you Rend Magic, you may select a creature you can see within 30 feet rather than an object. Expend an arcane fundamental to attempt a counteract check against a single spell active on the target of your choice using your crafting check modifier
-)
-item(
-# Improvise, Artifice, Overcome
-## Feat 16
--
-; Artificer
-**Frequency** once per hour
--
-Need to balance on a razor's edge, force open an iron door, or sneak by a dragon to loot its horde? Never fear! No matter the situation, you always have just the thing. You attempt a skill action that takes 1 minute or less to complete, using the same number of actions or amount of time as normal. However, as you take the action, expend an arcane fundamental of any level and describe an artifice item you assemble and use to accomplish the skill. The specifics of how you accomplish this are up to you, but they should fit the challenge at hand. For instance, you might use an arcane stabilizer to balance on the razor's edge, a small siege wand to blast open the iron door, or a ring that turns you invisible to sneak past the ancient red dragon. Using an artifice item in this way lets you alter how you calculate the skill check used in the action. Instead of the normal skill modifier associated with that skill action, you use your Crafting modifier.
-)   
-=
-#### 18th Level
-item(
-# Magewright Wellspring
+# Industrial Catalysts
 ## Feat 18
 -
 ; Artificer
-**Prerequisites** Magewright Focus
--
-Your arcana recovers faster than ever. If you have spent at least 3 Focus Points since the last time you Refocused, you recover 3 Focus Points when you Refocus instead of 1.
+You’ve discovered how to reuse some of your imbuement catalysts over and over. You can spend 10 minutes to recycle an imbuement catalyst that you already used today, regaining access to that imbuement catalyst. The imbuement must be of 4th level or lower and one that does not have a duration. You can recycle an imbuement catalyst in this way even if you’ve already recycled that imbuement catalyst previously in the same day. The recycled imbuement catalyst can only be used for the imbuement that you originally used it for.
 )
+#### 20th (2)
 item(
-# Apex Artificer
-## Feat 18
--
-; Artificer
-You have the ability to manufacture items so potent, that the bearer of the item becomes empowered in their abilities as well. You may create Apex items as Artifice items. Apex items are typically of the Worn category - subject to GM discretion.
-)
-|
-#### 20th Level
-item(
-# Impossible Arcana
+# TODO Imbuement Combination
 ## Feat 20
 -
 ; Artificer
-You become so integrated with arcane energy that your every movement is boosted by magic. You're permanently quickened. You can use the extra action to Stride, Step, or complete Quick Artifice.
-)
-item(
-# Unlimited Ingenuity
-## Feat 20
--
-; Artificer
-During your downtime, you can manufacture items at an impossible rate from nearly no resources. When you use the craft activity, on a success you can reduce the total cost of non-specific or rare raw materials required by the item by an additional 1000 gp per day spent crafting the item - including the initial days spent at work. If this reduction during the intitial days at work would reduce remaining cost to 0 gp, you only need spend however many days it takes to do so (rounding up) to complete the item rather than the 4 days typically necessary.
+You can merge magic, producing multiple effects with a single imbuements. One imbuement catalyst of each level of imbuement catalyst you can have, except 2nd level and 1st level, becomes an imbuement combination slot (this doesn’t apply to cantrips). When you prepare your spells, you can fill a combination slot with a combination of two spells. Each spell in the combination must be 2 or more spell levels below the slot’s level, and both must target only one creature or object or have the option to target only one creature or object. Each spell in the combination must also have the same means of determining whether it has an effect—both spells must require a ranged spell attack roll, require the same type of saving throw, or automatically affect the target.
 
-If you spend your down time to earn income in this way, you treat the effort as a 20th-level task to Earn Income using Crafting, except that manage to sell 500 gp worth of items on a success or 750 gp worth per day on a critical success.
+When you cast a combined spell, it affects only one target, even if the component spells normally affect more than one. If any spell in the combination has further restrictions (such as targeting only living creatures), you must abide by all restrictions. The combined spell uses the shorter of the component spells’ ranges. Resolve a combined spell as if were a single spell, but apply the effects of both component spells. For example, if the spell’s target succeeded at the save against a combined spell, it would apply the success effect of each spell, and if it critically failed, it would apply the critical failure effect of both spells.
 )
-item(
-# Artifice Perfection
-## Feat 20
--
-; Artificer
-You command the ultimate powers of artifice. You gain access to a special arcane fundamental of 25th level, which you may use to craft any item of 25th level or lower as an artifice item - as long as you have its formula in your formula book. When you select this feat, you may add the formula for one item of 25th level or lower to your formula book.
-)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 =
-# Homunculous Abilities
-**Artificing Assistant:** If your familiar is in your space, you can have it deliver your artifice with range touch at a range. You may use the Quick Artifice action, transfer the artifice item or infusion to your familiar, and command the familiar to deliver it. You familiar must have the manual dexterity ability to select this. If you do, the familiar uses its 2 actions for the round to move to a target of your choice and touch that target. If it doesn’t reach the target to touch it this turn, the infusion has no effect.
+# Imbuements
+#### 1st 
+item(
+# Manufacture Armament
+## Imbuement 1
+-
+; Conjuration
+-
+**Cast** :aaa: somatic, material, verbal
 
-**Integrated Toolset:** If your familar is in your space, you are considered to be holding or wearing your artifice tool set. Since you supply your familiar with the tools, you can choose which set of artificer tools you own that your familiar is equivalent to.
+**Range** touch
+-
+Using your ingenuity and magic you manipulate your imbuement catalysts to conjure armament pieces, weaving them together into fully formed sets of armor or weapons. Select a common non-magical armour or weapon of 2nd level or lower from your formula book. You instantly create a temporary copy of the item which lasts until your next daily preparations or until dismissed. As part of the imbuement, you can choose to allow a creature within range to use a free interact action to instantly don the armor or take hold of the weapon.
+-
+**Heightened (+1)** The level of item you may create increases by 2
+)
+item(
+# Manufacture Equipment
+## Imbuement 1
+-
+; Conjuration
+-
+**Cast** :aaa: somatic, material, verbal
 
-# Master Abilities
-**Fundamental Components:** Like the items you make, your familiar is simply a composition of arcane elements. You can convert your familiar into a set of arcane fundamentals of your level with an interact action. You may convert these arcane fundamentals back into your familiar with three interact actions. If the item expires or is consumed, you gather the components again and rebuild your familiar during your next daily preparations.
+**Range** touch
+-
+Using your ingenuity and magic you manipulate your imbuement catalysts to conjure adventuring equipment, weaving them together into fully formed sets useful tools. Select a common non-magical piece of adventuring gear or similar non-magical equipment of the GM's discretion of 2nd level or lower from your formula book. You instantly create a temporary copy of the item which lasts until your next daily preparations or until dismissed. As part of the imbuement, you can choose to allow a creature within range to use a free interact action to use the item.
+-
+**Heightened (+1)** The level of item you may create increases by 2
+)
+item(
+# Manufacture Consumable
+## Imbuement 1
+-
+; Conjuration
+-
+**Cast** :aaa: somatic, material, verbal
 
+**Range** touch
+-
+By utilizing pre-distilled imbuement catalysts, you are able to conjure a temporary vessel to hold a magical effect. Choose a common piece of ammunition, alchemical, potion, or oil of 2nd level or lower from your formula book. You instantly create a temporary copy of the item which lasts until your next daily preparations or until dismissed. As part of the imbuement, you can choose to allow a creature within range to use a free interact action to use the item.
+-
+**Heightened (+1)** The level of item you may create increases by 2
+)
+item(
+# Manufacture Talisman
+## Imbuement 1
+-
+; Conjuration
+-
+**Cast** :aaa: somatic, material, verbal
+
+**Range** touch
+-
+By utilizing imbuement catalysts, you are able to conjure a magical talisman. Choose a common talisman of 2nd level or lower from your formula book. You instantly create a temporary copy of the item which lasts until your next daily preparations or until dismissed. As part of the imbuement, you can choose to affix the talisman to a valid object in range. As this talisman is magically imbued it does not count against the total allowed affixed talismans or deactivate currently affixed talismans. You may only have one temporary talisman affixed to the item at a time. The talisman lasts until your next daily preparations, until consumed, or until dismissed.
+-
+**Heightened (+1)** The level of item you may create increases by 2
+)
 |
-# Focus Spells
 item(
-# Augment Item
-## Focus 1
+# Manufacture Snare
+## Imbuement 1
 -
-; Artificer, Uncommon
-**Cast** :aa: somatic, material
-
-**Duration** sustained up to one minute
-
-**Range** touch; **Target** one Weapon, Armour, or Tool
+; Conjuration
 -
-You tinker with an item and temporarily increase its potency. As a reaction to a use of the object, you may dismiss the spell and grant the item a +1 item bonus - to its Attack rolls if it is a weapon, to its AC if it is armour, or to its checks if it is a tool until the end of the creature's turn    .
--
-**Heightened (5th)** The item gains a +2 item bonus.
+**Cast** :aaa: somatic, material, verbal
 
-**Heightened (9th)** The item gains a +3 item bonus.
+**Range** 5 feet
+-
+By utilizing imbuement catalysts, you are able to snares to entrap your enemies. Choose a common snare of 2nd level or lower from your formula book. You instantly create a temporary copy of the item which lasts until your next daily preparations or until dismissed. As part of the imbuement, you place the active snare on one tile in range. Snares manufactured in this way use your spell DC for detection. The snare lasts until your next daily preparations, until consumed, or until dismissed.
+-
+**Heightened (+1)** The level of item you may create increases by 2
 )
 item(
-# Ablate Energy
-## Focus 1
+# Manufacture Implement
+## Imbuement 1
 -
-; Artificer, Uncommon
-**Cast** :aa: somatic, material
+; Conjuration
+-
+**Cast** :aaa: somatic, material, verbal
 
-**Duration** sustained up to one minute
-
-**Range** touch; **Target** Armour worn by a willing creature
+**Range** touch
 -
-You tinker with a creature's armour, and ward it from energy. The creature gains resistance 2 to one energy damage type.
--
-**Heightened (+1)** The resistance increases by 2.
+Using your ingenuity you combine your imbuement catalysts to conjure an implement of magic. Select a common wand or stave of 2nd level or lower from your formula book, or a scroll. You must have all spells used by the implement in your formula book. You instantly create a temporary copy of the item which lasts until your next daily preparations or until dismissed. Staves start with charges equal to the level of imbuement that manufactured it. The implement lasts until your next daily preparations, until consumed, or until dismissed.
 )
 item(
-# Energy Weapon
-## Focus 4
+# Imbue Precious Tracery
+## Imbuement 1
 -
-; Artificer, Uncommon
-**Cast** :aa: somatic, material
+; Conjuration
+-
+**Cast** :aaa: somatic, material, verbal
 
-**Duration** sustained up to one minute
-
-**Range** touch; **Target** Weapon held by a willing creature
+**Range** touch
 -
-You modify a weapon's damage, adding additional energy damage to it's hit. When you cast this spell, select an energy damage type. The target weapon now deals an additional 1d6 damage of the energy damage type.
+Using scrap precious materials and imbuement catalysts to fuse them together, you imbue an item with precious metal tracery. Choose an item in range which could be made using the precious material of your choice. The resulting precious material item must 2nd level or lower. You imbue the object with a precious metal tracery which with the benefits of your imbuement catalyst magic, grants it the benefits of the precious material tracery in addition to any precious material benefits it already has. Since this tracery is temporary, the grade of precious material tracery does not alter the rune availablilty of the item. The precious material tracery lasts until your next daily preparations or until dismissed.
 -
-**Heightened (8th)** The damage becomes 2d6 of the selected energy type.
+**Heightened (+1)** The level of item you may create increases by 2
 )
 item(
-# Restore Arcana
-## Focus 7
+# Imbue Rune
+## Imbuement 1
 -
-; Uncommon, Artificer
+; Conjuration
+-
+**Cast** :aaa: somatic, material, verbal
 
-**Targets** touch 1 object with a frequency
+**Range** touch
 -
-You can restore the energy of a depleted item. Touch 1 object with a frequency and make an Arcana check against a high DC for the item's level. On a success, the remaining time to satisfy the frequency requirement is bypassed and the item is recharged. You may use the item again immediately. Once an item has been restored in this way, it may not be restored again until your next daily preparations.
+Using precious inks and imbuement catalysts to empower them, you imbue an item with rune power. Select a 2nd level or lower rune from your formula book. Choose an item in range which is a valid target of the rune. You instantly etch the rune onto the object, granting it the benefits of the rune in addition to any rune benefits it already has. As this rune is magically imbued, it does not count against the total allowed etched runes, though you may only have one temporary rune applied to the item at a time. The rune lasts until your next daily preparations or until dismissed.
+-
+**Heightened (+1)** The level of item you may create increases by 2
 )
+# Familiar Abilities
+ **Trinket Form:** Your familiar can transform to and from a small object, such as a key, a book, or pen, using a single action. This allows you to carry it around unnoticed, with a +4 status bonus to Deception checks to prevent others from seeing through its disguise.
