@@ -125,7 +125,7 @@ item(
 ## Feat 1
 -
 ; gnoll
-You're practised with the weapons and arms of the Znir pact. You are trained with **composite longbows**, **gnollbows**, flails, khopeshes, mambeles, **myrnaxes**, spears, and war flails.
+You're practised with the weapons and arms of the Znir pact. You are trained with **composite longbows**, **gnoll bows**, flails, khopeshes, mambeles, **myrnaxes**, spears, and war flails.
 
 In addition, you gain access to all uncommon Gnoll weapons. For the purpose of determining your proficiency, martial gnoll weapons are simple weapons and advanced gnoll weapons are martial weapons. 
 )
@@ -146,7 +146,7 @@ item(
 **Prerequisites** Gnoll Weapon Familiarity
 -
 ; Gnoll
-You are brutally efficient with the weapons of your gnoll ancestors. Whenever you critically hit using **composite longbows**, **gnollbows**, flails, khopeshes, mambeles, **myrnaxes**, spears, or war flails, you apply the weapon's critical specialization effect. 
+You are brutally efficient with the weapons of your gnoll ancestors. Whenever you critically hit using **composite longbows**, **gnoll bows**, flails, khopeshes, mambeles, **myrnaxes**, spears, or war flails, you apply the weapon's critical specialization effect. 
 )
 |
 #### 13th Level
@@ -157,7 +157,7 @@ item(
 ; Gnoll
 **Prerequisites** Gnoll Weapon Practicality
 -
-Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in **composite longbows**, **gnollbows**, flails, khopeshes, mambeles, **myrnaxes**, spears, and war flails.
+Whenever you gain a class feature that grants you expert or greater proficiency in a given weapon or weapons, you also gain that proficiency in **composite longbows**, **gnoll bows**, flails, khopeshes, mambeles, **myrnaxes**, spears, and war flails.
 )
   
 # New Ancestry Feats

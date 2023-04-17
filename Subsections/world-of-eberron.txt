@@ -12,7 +12,7 @@ Languages in Eberron are typically based on location rather than ancestry. When 
 The world of Eberron is composed of five main continents: Aerenal, Argonessen, Frostfell, Khorvaire, Sarlona, and Xen'drik. Most PCs will start on the continent of Khorvaire, one of the major humanoid population centres of Eberron.
 
 # Khorvaire ((+Khorvaire))
-Khorvaire once stood as a united, proud human nation. However, in the wake of the last war it has splinted into the following separate nations and territories.
+Khorvaire once stood as a united, proud human nation. However, in the wake of the last war, it has splinted into the following separate nations and territories.
 
 info(
 For more information on the Nations at a high level: see the **Eberronicon** (P. 20) or more in-depth in the **Eberron Campaign Setting** (p. 129).
@@ -77,7 +77,7 @@ item(
 # Cyre (Destroyed - 994 YK) ((++Cyre))
 ## Nation
 -
-; Five nations, Khorvaire, Wasteland
+; Five Nations, Khorvaire, Wasteland
 **Government** Kingdom
 
 **Capital** Metrol
@@ -120,6 +120,7 @@ item(
 -
 **Lhesh Haruuc Shaarat'kor** (LN male hobgoblin) High Warlord Haruuc of the Scarlet Blade
 )
+
 item(
 # Demon Wastes ((++Demon Waste))
 ## Territory
@@ -156,7 +157,7 @@ item(
 -
 **Sora Katra** (NE female green hag) The voice of the Sora Kell coven
 
-**Sora Maenya** (CE female annis) The fist of the Sora Kell coven
+**Sora Maenya** (CE female annis hag) The fist of the Sora Kell coven
 
 **Sora Teraza** (LN female dusk hag) The diviner of the Sora Kell coven
 )
@@ -194,7 +195,7 @@ item(
 
 **Capital** Korth (85,000)
 
-**Population** 2,500,00 (Humans 52%, Dwarf 18%, Halflings 10%, Half-elves 8%, Elves 8%, Other 4%)
+**Population** 2,500,000 (Humans 52%, Dwarf 18%, Halflings 10%, Half-elves 8%, Elves 8%, Other 4%)
 
 **Languages** Common, Dwarven, Elven
 
@@ -282,7 +283,7 @@ item(
 
 **Houses** House Tharashk
 
-**Factions** New Galifar, Blackscale Lizardfolk, The Dreaming Dark, The Lords of Dust, Rhashaak, Poison Dusk Lizardfolk, The Cold sun Tribes
+**Factions** New Galifar, Blackscale Lizardfolk, The Dreaming Dark, The Lords of Dust, Rhashaak, Poison Dusk Lizardfolk, The Cold Sun Tribes
 -
 **Sebastes ir'Kesslan** (male human) King of Newthrone
 )
@@ -315,7 +316,7 @@ item(
 
 **Capital** Gatherhold (2,300)
 
-**Population** 400,00 (Halfling 80%, human 10%, changeling 4%, dwarf 4%, other 2%)
+**Population** 400,000 (Halfling 80%, human 10%, changeling 4%, dwarf 4%, other 2%)
 
 **Languages** Halfling, Common, Dwarven
 

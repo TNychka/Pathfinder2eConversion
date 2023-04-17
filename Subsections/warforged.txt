@@ -58,7 +58,7 @@ right(
 Your body is formed of both wood and steel which by the powers of the creation forge are granted life. This life energy flows through you much like the blood of humanoids. As a result, you are a living creature. You don't have the typical construct immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via positive energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin dying when reduced to 0 Hit Points.
 
 ## Constructed Resistance
-Your constructed body has advantages and disadvantages that most humanoid creatures do not. You gain a +1 circumstance bonus to saving throws against diseases and poisons. However, you are considered to be a creature composed entirely of wood and metal for the purposes of magical or other effects - regardless of your integrated armour type. 
+Your constructed body has advantages and disadvantages that most humanoid creatures do not. You gain a +1 circumstance bonus to saving throws against diseases and poisons. However, you are considered to be a creature composed entirely of wood and metal for the purposes of magical or other effects regardless of your integrated armour type. Your integrated armour and physical composition do not violate anathemas - such as the druid's anathema - against metals.
 
 ## Emotionally Unaware
 Warforged find it difficult to understand and express complex emotions. You take a –1 circumstance penalty to Diplomacy, and Performance checks, and on Perception checks to Sense Motive. 
@@ -210,7 +210,7 @@ item(
 ## Feat 1
 -
 ; Warforged
-You gain either a claw or slam unarmed attack. The claw deals 1d4 slashing damage, is in the brawling group, and has the agile, and finesse, and unarmed traits. The slam deals 1d8 bludgeoning damage, is in the brawling group,  and has the shove and unarmed traits.
+You gain either a claw or slam unarmed attack. The claw deals 1d4 slashing damage, is in the brawling group, and has the agile, and finesse, and unarmed traits. The slam deals 1d8 bludgeoning damage, is in the brawling group,  and has the shove and unarmed traits. This attack is not affected by the ma
 
 Your weapon can be reconfigured; you can select this feat at any level, and you can retrain into or out of this feat or change the type of attack you gain.
 
@@ -344,7 +344,7 @@ You've focused on enhancing yourself and have received an improvement to one of 
 
 You are also capable of reconfiguring your augmentations to meet your needs. You can spend one week of downtime to change the enhancement you gain with this feat.
 
-**Enhancement** You gain the enhancement benefits of another 1st- or 5th-level automaton ancestry feat. Also, your reconfigurations take less time. You only need to spend 1 day of downtime to change any of your enhancements. If you have multiple enhancements, changing each one requires a separate day.
+**Enhancement** You gain the enhancement benefits of another 1st- or 5th-level warforged ancestry feat. Also, your reconfigurations take less time. You only need to spend 1 day of downtime to change any of your enhancements. If you have multiple enhancements, changing each one requires a separate day.
 )
 item(
 # Slam :aa:
