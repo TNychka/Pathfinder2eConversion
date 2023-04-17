@@ -1,7 +1,7 @@
 {
   "title": "Pathfinder's Guide to Eberron",
   "description": "A set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "2.0.4",
+  "version": "2.1.0",
   "id": "pathfinders-guide-to-eberron-compendium",
   "url": "https://github.com/TNychka/Pathfinder2eConversion",
   "manifest": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json", 
@@ -22,14 +22,14 @@
         "type": "system",
         "compatibility": {
           "minimum": "4.6.0",
-          "verified": "4.6.3"
+          "verified": "4.10.4"
         }
       }
     ]
   },
   "compatibility": {
     "minimum": "8",
-    "verified": "10"
+    "verified": "11"
   },
   "scripts" : [
       "scripts/legal.js"
@@ -345,6 +345,7 @@
         },
         "equipmentTraits": {
           "artificer": "Artificer",
+          "kalashtar": "Kalashtar",
           "component": {
             "label": "Component",
             "description": "These items must be involved in spells as a material component."
