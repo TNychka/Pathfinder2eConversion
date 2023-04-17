@@ -272,7 +272,7 @@ item(
 ## Feat 9
 -
 ; Gnoll
-Survivors of gnoll attacks speak of the terrible fear that seized them before encountering a gnoll on the battlefield, leaving them frozen in place. Whenever you get a critical success on a demoralize check, if the creature is lower level than you, you may choose to make the creature stunned 1.
+Survivors of gnoll attacks speak of the terrible fear that seized them before encountering a gnoll on the battlefield, leaving them frozen in place. Whenever you get a critical success on a demoralize check, if the creature is lower level than you, you may also choose to make the creature stunned 1.
 )
 |
 item(

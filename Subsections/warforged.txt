@@ -210,7 +210,7 @@ item(
 ## Feat 1
 -
 ; Warforged
-You gain either a claw or slam unarmed attack. The claw deals 1d4 slashing damage, is in the brawling group, and has the agile, and finesse, and unarmed traits. The slam deals 1d8 bludgeoning damage, is in the brawling group,  and has the shove and unarmed traits. This attack is not affected by the ma
+You gain either a claw or slam unarmed attack. The claw deals 1d4 slashing damage, is in the brawling group, and has the agile, and finesse, and unarmed traits. The slam deals 1d8 bludgeoning damage, is in the brawling group, and has the shove and unarmed traits. This attack is not affected by the material configuration of your integrated armour.
 
 Your weapon can be reconfigured; you can select this feat at any level, and you can retrain into or out of this feat or change the type of attack you gain.
 
