@@ -1,5 +1,5 @@
 watermark (
-Version 1.6.3
+Version 1.6.4
 )
 title(
 Pathfinder's Guide to Eberron
@@ -25,6 +25,16 @@ Pathfinder's Guide to Eberron
 **Contributors and Supporters:** Thank you to all the many people who have helped in large or small ways through feedback or suggestions, and contributions to the GitHub repository. The Pathfinder2eCreations community, the Eberron Pathfinder2e discord community, and everyone else.
 |
 # Changelog
+**V 1.6.4 - 2023-04-21**
+- Typos, Errata, Clarifications
+- Bugbear Flexible Might clarifies intent
+- Dragonmarked series spells are now per day frequency rather than 24 hours
+- Added actions to Changeling Terrifying Shift
+- Clarified Changeling The Traveller's Protection frequency
+- Clarified Gnoll Bows require Gnoll Arrows as ammunition
+- Changed Kalashtar Link Minds to allow saving throws from unwilling targets
+- Shifter Longstride Elite clarifies speed benefit 
+
 **V 1.6.1 - 2023-01-13**
 - Clarifies focus spell selection from dragonmark feats
 - Removes extraneous text
