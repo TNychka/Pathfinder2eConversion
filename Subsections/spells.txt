@@ -346,7 +346,7 @@ item(
 -
 )
 item(
-You gain a +1 circumstance bonus to the next check you make with this set of tools. The spell then ends. If you integrate this spell into your downtime crafting activity, this bonus applies to the final crafting check.
+You gain a +1 status bonus to the next check you make with this set of tools. The spell then ends. If you integrate this spell into your downtime crafting activity, this bonus applies to the final crafting check.
 )
 item(
 # Jackrabbit Agility
