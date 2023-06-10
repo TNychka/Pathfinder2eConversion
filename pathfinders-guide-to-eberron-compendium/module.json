@@ -1,11 +1,11 @@
 {
   "title": "Pathfinder's Guide to Eberron",
   "description": "A set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "2.1.0",
+  "version": "0.0.2",
   "id": "pathfinders-guide-to-eberron-compendium",
   "url": "https://github.com/TNychka/Pathfinder2eConversion",
-  "manifest": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json", 
-  "download": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/pathfinders-guide-to-eberron-compendium.zip",
+  "manifest": "https://raw.githubusercontent.com/TNychka/Pathfinder2eConversion/artificer/pathfinders-guide-to-eberron-compendium/module.json", 
+  "download": "https://github.com/TNychka/Pathfinder2eConversion/raw/artificer/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip",
   "bugs": "https://github.com/TNychka/Pathfinder2eConversion/issues",
   "readme": "https://github.com/TNychka/Pathfinder2eConversion/blob/main/README.md",
   "authors": [
