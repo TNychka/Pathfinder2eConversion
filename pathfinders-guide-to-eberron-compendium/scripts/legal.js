@@ -1,5 +1,5 @@
 Hooks.once('ready', (canvas) => {
-	const thisVersion = "1.6.4";
+	const thisVersion = "1.7.0";
 	game.settings.register('pathfinders-guide-to-eberron-compendium', 'license-accepted', {
 		name: "License Accepted",
 		scope: "world",

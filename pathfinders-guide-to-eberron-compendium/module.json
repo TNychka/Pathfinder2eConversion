@@ -22,7 +22,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "4.6.0",
-          "verified": "4.10.4"
+          "verified": "5.3.1"
         }
       }
     ]
@@ -35,6 +35,15 @@
       "scripts/legal.js"
   ],
   "packs": [
+    {
+      "label": "Eberron Compendium Beta",
+      "name": "eberron-compendium-beta",
+      "path": "packs/eberron-compendium-beta.db",
+      "system": "pf2e",
+      "private": false,
+      "type": "Item",
+      "flags": {}
+    },
     {
       "label": "Eberron Actions",
       "name": "eberron-actions",
@@ -142,6 +151,33 @@
       "private": false,
       "type": "Actor",
       "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+        "name": "Bestiaries",
+        "sorting": "m",
+        "folders": [
+            {
+                "name": "Eberron Compendium",
+                "sorting": "m",
+                "packs": [
+                    "eberron-compendium-beta",
+                    "eberron-actions",
+                    "eberron-ancestries",
+                    "eberron-backgrounds",
+                    "eberron-classes",
+                    "eberron-deities",
+                    "eberron-dragonmarks",
+                    "eberron-effects",
+                    "eberron-feats",
+                    "eberron-heritages",
+                    "eberron-items",
+                    "eberron-spells",
+                    "eberron-creatures"
+                ]
+            }
+        ]
     }
   ],
   "flags": {
