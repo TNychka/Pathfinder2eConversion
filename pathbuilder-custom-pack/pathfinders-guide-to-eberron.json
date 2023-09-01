@@ -4359,21 +4359,6 @@
             ]
         },
         {
-            "id": "e17b989f-52cc-4e05-b803-be3ff92ea80f",
-            "name": "Kalashtar",
-            "textDescription": "Kalashtar are born with a bond to an otherworldly being. They have memories of lives never lived, visions of combat with fiends that they never fought, and the sense of an endless struggle against darkness. For all the pain and suffering in the world, the Kalashtar know that there is a path to light. Some faceless enemies would hunt all the Kalashtar down and would see their bloodlines eradicated. The Kalashtar's path to light is a dangerous one, as death awaits in the shadows.<br><br>As a result of their bonds to their Quori spirit, Kalashtar experience the world differently than other creatures. Their bonded nature enables an aptitude for psionics and greater resistance against psionic attacks.",
-            "traits": "Human, Uncommon, 3rd Party",
-            "src": "Pathfinder's Guide to Eberron",
-            "databaseID": 1,
-            "listCustomEffects": [
-                {
-                    "proficiencyName": "06ec623d-6b71-4a2e-a96a-cab8af11751e",
-                    "effectType": 9,
-                    "bonusType": 2
-                }
-            ]
-        },
-        {
             "id": "1fa26af8-d06f-47a5-ab7b-bcade72bdd3e",
             "name": "Khesh Guul'dar",
             "textDescription": "Your stealth is uncanny, your step light, and your muddy yellow fur seems to blend with the natural world more than most bugbears. You are trained in Stealth (or another skill if you were already trained in Stealth). In addition, you gain the Terrain Stalker feat.",
