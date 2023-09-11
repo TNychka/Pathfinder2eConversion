@@ -1,18 +1,17 @@
 {
   "title": "Pathfinder's Guide to Eberron",
   "description": "A set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "0.0.2",
+  "version": "2.2.1",
   "id": "pathfinders-guide-to-eberron-compendium",
   "url": "https://github.com/TNychka/Pathfinder2eConversion",
-  "manifest": "https://raw.githubusercontent.com/TNychka/Pathfinder2eConversion/artificer/pathfinders-guide-to-eberron-compendium/module.json", 
-  "download": "https://github.com/TNychka/Pathfinder2eConversion/raw/artificer/pathfinders-guide-to-eberron-compendium/pathfinders-guide-to-eberron-compendium.zip",
+  "manifest": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json",
+  "download": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/pathfinders-guide-to-eberron-compendium.zip",
   "bugs": "https://github.com/TNychka/Pathfinder2eConversion/issues",
   "readme": "https://github.com/TNychka/Pathfinder2eConversion/blob/main/README.md",
   "authors": [
     {
       "name": "Eberron Compendium Contributors",
-      "url": "https://github.com/TNychka/Pathfinder2eConversion/",
-      "flags": {}
+      "url": "https://github.com/TNychka/Pathfinder2eConversion/"
     }
   ],
   "relationships": {
@@ -22,7 +21,7 @@
         "type": "system",
         "compatibility": {
           "minimum": "4.6.0",
-          "verified": "4.10.4"
+          "verified": "5.3.1"
         }
       }
     ]
@@ -31,117 +30,181 @@
     "minimum": "8",
     "verified": "11"
   },
-  "scripts" : [
-      "scripts/legal.js"
+  "scripts": [
+    "scripts/legal.js"
   ],
   "packs": [
     {
-      "label": "Eberron Actions",
+      "name": "eberron-compendium-beta",
+      "label": "Eberron Compendium Beta",
+      "path": "packs/eberron-compendium-beta.db",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
       "name": "eberron-actions",
+      "label": "Eberron Actions",
       "path": "packs/eberron-actions.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Ancestries",
       "name": "eberron-ancestries",
+      "label": "Eberron Ancestries",
       "path": "packs/eberron-ancestries.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Backgrounds",
       "name": "eberron-backgrounds",
+      "label": "Eberron Backgrounds",
       "path": "packs/eberron-backgrounds.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Classes",
       "name": "eberron-classes",
+      "label": "Eberron Classes",
       "path": "packs/eberron-classes.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Deities",
       "name": "eberron-deities",
+      "label": "Eberron Deities",
       "path": "packs/eberron-deities.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Dragonmarks",
       "name": "eberron-dragonmarks",
+      "label": "Eberron Dragonmarks",
       "path": "packs/eberron-dragonmarks.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Effects",
       "name": "eberron-effects",
+      "label": "Eberron Effects",
       "path": "packs/eberron-effects.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Feats",
       "name": "eberron-feats",
+      "label": "Eberron Feats",
       "path": "packs/eberron-feats.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Heritages",
       "name": "eberron-heritages",
+      "label": "Eberron Heritages",
       "path": "packs/eberron-heritages.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Items",
       "name": "eberron-items",
+      "label": "Eberron Items",
       "path": "packs/eberron-items.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Spells",
       "name": "eberron-spells",
+      "label": "Eberron Spells",
       "path": "packs/eberron-spells.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Item",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     },
     {
-      "label": "Eberron Creatures",
       "name": "eberron-creatures",
+      "label": "Eberron Creatures",
       "path": "packs/eberron-creatures.db",
-      "system": "pf2e",
-      "private": false,
       "type": "Actor",
-      "flags": {}
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Bestiaries",
+      "sorting": "m",
+      "folders": [
+        {
+          "name": "Eberron Compendium",
+          "sorting": "m",
+          "packs": [
+            "eberron-compendium-beta",
+            "eberron-actions",
+            "eberron-ancestries",
+            "eberron-backgrounds",
+            "eberron-classes",
+            "eberron-deities",
+            "eberron-dragonmarks",
+            "eberron-effects",
+            "eberron-feats",
+            "eberron-heritages",
+            "eberron-items",
+            "eberron-spells",
+            "eberron-creatures"
+          ],
+          "folders": []
+        }
+      ],
+      "packs": []
     }
   ],
   "flags": {

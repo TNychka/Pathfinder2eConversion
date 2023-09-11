@@ -2,7 +2,7 @@
 -
 [Full Document](https://scribe.pf2.tools/v/2qF7WjsY-pathfinders-guide-to-eberron)
 -
-# Foundry Module - Version 1.6.4
+# Foundry Module - Version 1.6.5
 The foundry module is available for personal use by directly installing from the module manifest URL directly.
 `https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json`  
 It is only available for personal use, and thus will not be made available directly by the Foundry Add-On Modules Library. Please report any issues you see on the github. 

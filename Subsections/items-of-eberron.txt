@@ -313,7 +313,7 @@ mostly full (at least 400 doses remaining) it can be detonated to deal 1d6 fire 
 **Type** keg; **Level** 6; **Price** 50 gp
 A keg contains 5,000 doses of siberys powder and can be detonated in the same way as a horn. As long as the keg is mostly full (at least 4,000 doses remaining) this deals 3d6 fire damage in a 20-foot burst (DC 20 basic Reflex save). Detonating multiple kegs can increase the area, but not the damage, of this effect; detonating a keg and any horns at the same time in an overlapping area also doesn't increase the damage. 
 -
-**Crafting Requirements** The initial raw materials must be half eberron shards by value.
+**Crafting Requirements** The initial raw materials must be half Eberron shards by value.
 )
 ### Magical Components
 item(
@@ -748,22 +748,22 @@ item(
 ; Precious
 Eberron dragonshards also called bloodstones, are found encased in geode like stone shells-egg-shaped rocks.
 -
- **Type** unproccessed small eberron shards (up to 2 inches); **Level** 0; **Price** 4 sp; **Bulk** -
+ **Type** unproccessed Small Eberron Shards (up to 2 inches); **Level** 0; **Price** 4 sp; **Bulk** -
 -
- **Type** unproccessed medium eberron shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 1 gp;<br>  **Bulk** -
+ **Type** unproccessed Medium Eberron Shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 1 gp;<br>  **Bulk** -
 -
- **Type** unproccessed large eberron shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 3 gp; **Bulk** -
+ **Type** unproccessed Large Eberron Shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 3 gp; **Bulk** -
 -
- **Type** unproccessed greater eberron shards (More than 6 inches); **Level** 4; **Price** 13 gp; **Bulk** -
+ **Type** unproccessed greater Eberron Shards (More than 6 inches); **Level** 4; **Price** 13 gp; **Bulk** -
 -
 -
- **Type** refined small eberron shards (up to 2 inches); **Level** 1; **Price** 3 gp; **Bulk** -
+ **Type** refined Small Eberron Shards (up to 2 inches); **Level** 1; **Price** 3 gp; **Bulk** -
 -
- **Type** refined medium eberron shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 5 gp; **Bulk** -
+ **Type** refined Medium Eberron Shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 5 gp; **Bulk** -
 -
- **Type** refined large eberron shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 13 gp; **Bulk** -
+ **Type** refined Large Eberron Shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 13 gp; **Bulk** -
 -
- **Type** refined greater eberron shards (More than 6 inches); **Level** 7; **Price** 51 gp; **Bulk** -
+ **Type** refined greater Eberron Shards (More than 6 inches); **Level** 7; **Price** 51 gp; **Bulk** -
 -
 )
 |
@@ -774,22 +774,22 @@ item(
 ; Precious
 The dragonshards reflect the orange-red glow of the molten rock, and the silhouette of a swirling dragonmark is barely visible within the smoky crystal.
 -
- **Type** unproccessed small khyber shards (up to 2 inches); **Level** 0; **Price** 1 gp; **Bulk** -
+ **Type** unproccessed Small khyber Shards (up to 2 inches); **Level** 0; **Price** 1 gp; **Bulk** -
 -
- **Type** unproccessed medium khyber shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
+ **Type** unproccessed Medium khyber Shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
 -
- **Type** unproccessed large khyber shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** -
+ **Type** unproccessed Large khyber Shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** -
 -
- **Type** unproccessed greater khyber shards (More than 6 inches); **Level** 4; **Price** 20 gp; **Bulk** -
+ **Type** unproccessed greater khyber Shards (More than 6 inches); **Level** 4; **Price** 20 gp; **Bulk** -
 -
 -
- **Type** refined small khyber shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
+ **Type** refined Small khyber Shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
 -
- **Type** refined medium khyber shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 7 gp; **Bulk** -
+ **Type** refined Medium khyber Shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 7 gp; **Bulk** -
 -
- **Type** refined large khyber shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 20 gp; **Bulk** -
+ **Type** refined Large khyber Shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 20 gp; **Bulk** -
 -
- **Type** refined greater khyber shards (More than 6 inches); **Level** 7; **Price** 70 gp; **Bulk** -
+ **Type** refined greater khyber Shards (More than 6 inches); **Level** 7; **Price** 70 gp; **Bulk** -
 -
 )
   
@@ -800,22 +800,22 @@ item(
 ; Precious
 Their crystalline depths contain pulsating golden veins.
 -
- **Type** unproccessed small siberys shards (up to 2 inches); **Level** 0; **Price** 5 sp; **Bulk** -
+ **Type** unproccessed Small siberys Shards (up to 2 inches); **Level** 0; **Price** 5 sp; **Bulk** -
 -
- **Type** unproccessed medium siberys shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
+ **Type** unproccessed Medium siberys Shards (More than 2 inches, up to 4 inches); **Level** 0; **Price** 2 gp; **Bulk** -
 -
- **Type** unproccessed large siberys shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** -
+ **Type** unproccessed Large siberys Shards (More than 4 inches, up to 6 inches); **Level** 1; **Price** 4 gp; **Bulk** -
 -
- **Type** unproccessed greater siberys shards (More than 6 inches); **Level** 4; **Price** 17 gp; **Bulk** -
+ **Type** unproccessed greater siberys Shards (More than 6 inches); **Level** 4; **Price** 17 gp; **Bulk** -
 -
 -
- **Type** refined small siberys shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
+ **Type** refined Small siberys Shards (up to 2 inches); **Level** 1; **Price** 4 gp; **Bulk** -
 -
- **Type** refined medium siberys shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 6 gp; **Bulk** -
+ **Type** refined Medium siberys Shards (More than 2 inches, up to 4 inches); **Level** 2; **Price** 6 gp; **Bulk** -
 -
- **Type** refined large siberys shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 18 gp; **Bulk** -
+ **Type** refined Large siberys Shards (More than 4 inches, up to 6 inches); **Level** 4; **Price** 18 gp; **Bulk** -
 -
- **Type** refined greater siberys shards (More than 6 inches); **Level** 7; **Price** 63 gp; **Bulk** -
+ **Type** refined greater siberys Shards (More than 6 inches); **Level** 7; **Price** 63 gp; **Bulk** -
 -
 )
 =
