@@ -208,7 +208,7 @@ item(
 ; Kalashtar, Concentration 
 Frequency once per 10 minutes 
 -
-You can manifest weapons of the mind that cut just as well as a true blade. You can manifest a psi-blade in a free hand, or two psi-blades if both your hands are free. These simple weapons are attacks that deal 1d4 slashing damage. The blades are in the Knife group and have the agile, finesse, and twin traits.
+Psionic blades appear as a shimmering, semi-transparent extension of the wielder's willpower that cut just as well as a real blade. They often take the form of slender, elongated, razor-sharp constructs resembling traditional blades, though their appearances can be as varied as the imagination of the wielder. You can manifest a psi-blade in a free hand, or two psi-blades if both your hands are free. These simple weapons are attacks that deal 1d4 slashing damage. The blades are in the Knife group and have the agile, finesse, and twin traits.
 You can choose to dissipate the blades at any time as a free action.
 **Special** If you gain the Mind Smith dedication, the Psi-Blades you manifest from this feat are included as one of the statistics your mind smith weapon can take on. In addition - rather than during your daily preparations - you can complete a 10 minute activity to focus and change the form of your mind smith weapon to any other mind smith weapon.
 )

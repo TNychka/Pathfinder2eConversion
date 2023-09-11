@@ -1109,7 +1109,7 @@ item(
 # Cantrip of the Crafter
 ## Cantrip 2
 -
-; Cantrip, Dragonmark, Transmutation, Mark of Crafting
+; Cantrip, Dragonmark, Transmutation, Mark of Making
 **Cast** see replicated spell; dragonmark, somatic
 -
 With a subtle manipulation of the powers of your mark, you can replicate simple cantrips to aid you. 
@@ -1157,7 +1157,7 @@ item(
 # Construction Savant
 ## Focus 5
 -
-; Uncommon, Dragonmark, Mark of Making, Conjuration
+; Uncommon, Conjuration, Dragonmark, Mark of Making
 **Cast** 8 hours; dragonmark, material, somatic, verbal
 -
 You begin to craft an item as if using the Craft activity, but with the empowering effects of your dragonmark guiding you, your efficiency is increased exponentially. 
@@ -1167,7 +1167,7 @@ item(
 # Siberys' Reconstruction
 ## Focus 10
 -
-; Uncommon, Conjuration
+; Uncommon, Conjuration, Dragonmark, Mark of Making
 **Cast** 1 hour (dragonmark, somatic)
 
 **Range** 5 feet
@@ -1825,7 +1825,7 @@ item(
 # Storm's Riposte
 ## Focus 1
 -
-; Dragonmark, Evocation, Mark of Storms
+; Dragonmark, Evocation, Mark of Storm
 **Cast** :r: dragonmark, somatic; **Trigger** a creature you can see within 5 feet fails a Strike against you.
 
 **Saving Throw** basic Reflex
