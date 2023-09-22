@@ -2,7 +2,7 @@
 -
 [Full Document](https://scribe.pf2.tools/v/2qF7WjsY-pathfinders-guide-to-eberron)
 -
-# Foundry Module - Version 1.6.5
+# Foundry Module - Version 2.2.2
 The foundry module is available for personal use by directly installing from the module manifest URL directly.
 `https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json`  
 It is only available for personal use, and thus will not be made available directly by the Foundry Add-On Modules Library. Please report any issues you see on the github. 
@@ -12,7 +12,10 @@ It is only available for personal use, and thus will not be made available direc
 3. Open the install module dialogue
 4. Copy paste the above manifest URL directly into the Manifest URL box at the bottom of the window and click install.
 
-# Pathfinder's Guide to Eberron  - Version 1.6.2
+# Pathbuilder JSON - Version 1.6.6
+The Pathbuilder JSON is available for personal use by adding the JSON from the `https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/.json`  
+
+# Pathfinder's Guide to Eberron  - Version 1.6.7
 
 The Pathfinder's guide to Eberron is a homebrew conversion of the Pathfinder 2e mechanics to support the world and Lore of Eberron. It would be prohibitive to provide all of the lore that Eberron has developed over the years - and any lore provided by this guide would be poorly repeated imitations of better summaries. This guide uses the following books as references and will provide page numbers to learn more. [D&D 3 Eberron Campaign Setting](https://www.dmsguild.com/product/28474/Eberron-Campaign-Setting-3e) by Keith Baker, [Exploring Eberron](https://www.dmsguild.com/product/315887/Exploring-Eberron) by Keith Baker, and the [Eberronicon](https://www.dmsguild.com/product/297249/Eberronicon-A-Pocket-Guide-to-the-World). All of these are available for purchase on the [Dungeon Masters Guild](https://www.dmsguild.com/) and provide all of the background information you might need to run the world of Eberron.
 
@@ -54,6 +57,8 @@ By contributing, you agree that your contributions will be licensed under the OG
 ## Contributors
 Thank you to all the many people who have helped in large or small ways through feedback or suggestions. The Pathfinder2eCreations community, and the Eberron Pathfinder2e discord community, and everyone else.
 
+- John Cox (u/FranciscoBelaqua on Reddit and @franciscobelaqua on Discord)
+	- Development of the pathbuilder JSON available on Github
 ---
 # Legal
 *Pathfinder's Guide to Eberron is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.*

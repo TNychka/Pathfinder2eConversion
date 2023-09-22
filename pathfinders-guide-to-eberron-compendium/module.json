@@ -1,7 +1,7 @@
 {
   "title": "Pathfinder's Guide to Eberron",
   "description": "A set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "id": "pathfinders-guide-to-eberron-compendium",
   "url": "https://github.com/TNychka/Pathfinder2eConversion",
   "manifest": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json",
@@ -180,31 +180,24 @@
   ],
   "packFolders": [
     {
-      "name": "Bestiaries",
+      "name": "Eberron",
       "sorting": "m",
-      "folders": [
-        {
-          "name": "Eberron Compendium",
-          "sorting": "m",
-          "packs": [
-            "eberron-compendium-beta",
-            "eberron-actions",
-            "eberron-ancestries",
-            "eberron-backgrounds",
-            "eberron-classes",
-            "eberron-deities",
-            "eberron-dragonmarks",
-            "eberron-effects",
-            "eberron-feats",
-            "eberron-heritages",
-            "eberron-items",
-            "eberron-spells",
-            "eberron-creatures"
-          ],
-          "folders": []
-        }
-      ],
-      "packs": []
+      "folders": [],
+      "packs": [
+        "eberron-compendium-beta",
+        "eberron-actions",
+        "eberron-ancestries",
+        "eberron-backgrounds",
+        "eberron-classes",
+        "eberron-deities",
+        "eberron-dragonmarks",
+        "eberron-effects",
+        "eberron-feats",
+        "eberron-heritages",
+        "eberron-items",
+        "eberron-spells",
+        "eberron-creatures"
+      ]
     }
   ],
   "flags": {
