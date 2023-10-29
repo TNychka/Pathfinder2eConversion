@@ -1,13 +1,115 @@
 {
-    "customPackID": "c2752747-a1df-4eec-b7b1-44ff6696383c",
-    "customPackName": "Pathfinder's Guide to Eberron",
+    "customPackID": "f13eba14-34d5-4612-ad9b-4d17d845f987",
+    "customPackName": "Pathfinder's Guide To Eberron",
+    "listCustomBackgrounds": [
+        {
+            "databaseID": 1,
+            "id": "d09ff6b4-915b-3c2b-8f72-f531697063f7",
+            "name": "Excoriate",
+            "traits": "3rd Party, Rare",
+            "boost_ref_1": "5",
+            "boost_ref_2": "4",
+            "boost_ref_3": "3",
+            "freeFeatDetail": "You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.<br><b>Pathbuilder Note:</b> You must set the Skill, Feat, and Lore manually",
+            "skill": "Diplomacy",
+            "lore": "Dragonmarked Houses",
+            "description": "An heir who violates the laws of a house is made an excoriate: stripped of the house name and forbidden from drawing on house resources. Any dragonmarked member of your house who knows of your status is automatically unfriendly toward you, as are most members of other dragonmarked houses who are aware that you are a excoriate.",
+            "src": "Pathfinder's Guide to Eberron"
+        },
+        {
+            "databaseID": 1,
+            "id": "f45cdd73-46c4-4a26-9b46-f207d924fbd1",
+            "name": "Foundling",
+            "traits": "3rd Party",
+            "boost_ref_1": "5",
+            "boost_ref_2": "4",
+            "boost_ref_3": "3",
+            "freeFeatDetail": "You've picked up the skill related to your house (table 4-1), and a Lore related to that skill rather than the dragonmarked houses. You gain the associated skill feat related to your house.<br><b>Pathbuilder Note:</b> You must set the Skill, Feat, and Lore manually",
+            "skill": "Diplomacy",
+            "lore": "Skill Lore",
+            "description": "Characters can develop dragonmarks only by virtue of blood ties to a dragonmarked house, and many dragonmarked discover their lineage only after the mark appears.",
+            "src": "Pathfinder's Guide to Eberron"
+        },
+        {
+            "databaseID": 1,
+            "id": "777bdbb7-a807-4774-8540-52b546690886",
+            "name": "House Agent",
+            "traits": "3rd Party, Uncommon",
+            "boost_ref_1": "5",
+            "boost_ref_2": "4",
+            "boost_ref_3": "3",
+            "freeFeatDetail": "You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.<br><b>Pathbuilder Note:</b> You must set the Skill, Feat, and Lore manually",
+            "skill": "Diplomacy",
+            "lore": "Dragonmarked Houses",
+            "description": "Agents take on assignments requested by their house: they are adventurers who dedicate their lives to expanding the power and influence of their dragonmarked families.",
+            "src": "Pathfinder's Guide to Eberron"
+        },
+        {
+            "databaseID": 1,
+            "id": "65523153-ef04-4079-be88-ccb1b3a68107",
+            "name": "House Orphan",
+            "traits": "3rd Party, Uncommon",
+            "boost_ref_1": "5",
+            "boost_ref_2": "4",
+            "boost_ref_3": "3",
+            "freeFeatDetail": "You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.<br><b>Pathbuilder Note:</b> You must set the Skill, Feat, and Lore manually",
+            "skill": "Diplomacy",
+            "lore": "Dragonmarked Houses",
+            "description": "Many dragonmarked heirs have chosen to give up their birthright to be freed from the edicts.",
+            "src": "Pathfinder's Guide to Eberron"
+        },
+        {
+            "databaseID": 1,
+            "id": "7e5107d0-5764-48bf-a029-e4bcd3560888",
+            "name": "House Scion",
+            "traits": "3rd Party, Uncommon",
+            "boost_ref_1": "5",
+            "boost_ref_2": "4",
+            "boost_ref_3": "3",
+            "freeFeatDetail": "You've trained the skill related to your house (table 4-1), and the Lore of Dragonmarked Houses. You gain the associated skill feat related to your house.<br><b>Pathbuilder Note:</b> You must set the Skill, Feat, and Lore manually",
+            "skill": "Diplomacy",
+            "lore": "Dragonmarked Houses",
+            "description": "The scion is a member of a dragonmarked house that embraces their heritage but keeps their distance from the administration of the house.",
+            "src": "Pathfinder's Guide to Eberron"
+        }
+
+    ],
     "listCustomArmor": [
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "3a4ebabe-ad2d-4195-8191-76d4a116d38a",
+            "name": "Darkleaf Breastplate",
+            "price": 6,
+            "bulk": "1",
+            "description": "Similar to leafweave armour, darkleaf armour is made of carefully cured and beautifully carved pieces of wood, supplemented by treated leaves. This special process enables the many primal practitioners of the world a sturdy, yet entirely natural armour.",
+            "src": "Pathfinder's Guide to Eberron",
+            "acBonus": 2,
+            "strength": 12,
+            "dexCap": 3,
+            "checkPenalty": -1,
+            "speedPenalty": 0,
+            "armorTraits": "3rd Party, Flexible, Primal"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "c66aa58f-2c35-4a28-9cf1-6bc618bdf446",
+            "name": "Darkleaf branded mail",
+            "price": 10,
+            "bulk": "2",
+            "description": "Similar to leafweave armour, darkleaf armour is made of carefully cured and beautifully carved pieces of wood, supplemented by treated leaves. This special process enables the many primal practitioners of the world a sturdy, yet entirely natural armour.",
+            "src": "Pathfinder's Guide to Eberron",
+            "acBonus": 3,
+            "strength": 14,
+            "dexCap": 2,
+            "checkPenalty": -2,
+            "speedPenalty": -5,
+            "armorTraits": "3rd Party, Flexible, Primal"
+        },
         {
             "databaseID": 1,
             "uniqueIdentiier": "9f31fda6-b98d-4fce-9fb5-68ee7bee9ad2",
             "name": "Heavy Integrated Armor",
-            "bulk": "4",
-            "description": "Your body is designed to be extremely resilient. Your integrated armour is heavy armour in the plate armour group that grants a +6 item bonus to AC, a Dex cap of 0, a check penalty of –3, a speed penalty of –10 feet, has the Bulwark trait, and a Strength value of 18. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.",
+            "description": "Your body is designed to be extremely resilient. Your integrated armour is heavy armour in the plate armour group that grants a +6 item bonus to AC, a Dex cap of 0, a check penalty of –3, a speed penalty of –10 feet, has the Bulwark trait, and a Strength value of 18. This armour has no bulk, but you can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.",
             "src": "Pathfinder's Guide to Eberron",
             "proficiencyType": 2,
             "acBonus": 6,
@@ -15,28 +117,40 @@
             "dexCap": 0,
             "checkPenalty": -3,
             "speedPenalty": -10,
-            "armorTraits": "3rd Party, Automaton, Bulwark"
+            "armorTraits": "3rd Party, Warforged, Bulwark"
+        },
+        {
+            "databaseID": 1,
+            "uniqueIdentiier": "51180017-a9e1-41f2-ac3d-99ed184c01bc",
+            "name": "Leafweave",
+            "price": 4,
+            "bulk": "1",
+            "description": "The artisans of Aerenal weave suits of armour from leaves and wood, which are then treated by a special process that makes them as tough and flexible as leather. This special process enables the many primal practitioners of the world a sturdy, yet entirely natural armour.",
+            "src": "Pathfinder's Guide to Eberron",
+            "acBonus": 1,
+            "strength": 10,
+            "dexCap": 4,
+            "checkPenalty": -1,
+            "speedPenalty": 0,
+            "armorTraits": "3rd Party, Flexible, Primal"
         },
         {
             "databaseID": 1,
             "uniqueIdentiier": "427344c4-6e6a-4f2f-bbe3-5caa7eb3b331",
             "name": "Light Integrated Armor",
-            "bulk": "1",
-            "description": "Your body is designed to be agile with some protection. Your integrated armour is light armour in the leather armour group that grants a +2 item bonus to AC, a Dex cap of +3, a check penalty of –1, and a Strength value of 12. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.",
-            "src": "Pathfinder's Guide to Eberron",
+            "description": "Your body is designed to be agile with some protection. Your integrated armour is light armour in the leather armour group that grants a +2 item bonus to AC, a Dex cap of +3, a check penalty of –1, and a Strength value of 12. This armour has no bulk, but you can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.",
             "acBonus": 2,
             "strength": 12,
             "dexCap": 3,
             "checkPenalty": -1,
             "speedPenalty": 0,
-            "armorTraits": "3rd Party, Automaton"
+            "armorTraits": "3rd Party, Warforged"
         },
         {
             "databaseID": 1,
             "uniqueIdentiier": "526a3578-d997-428a-a517-eca14f79fe90",
             "name": "Medium Integrated Armor",
-            "bulk": "2",
-            "description": "Your body is designed to be particularly resilient. Your integrated armour is medium armour in the plate armour group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a speed penalty of –5 feet, and a Strength value of 16. You can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.",
+            "description": "Your body is designed to be particularly resilient. Your integrated armour is medium armour in the plate armour group that grants a +4 item bonus to AC, a Dex cap of +1, a check penalty of –2, a speed penalty of –5 feet, and a Strength value of 16. This armour has no bulk, but you can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.",
             "src": "Pathfinder's Guide to Eberron",
             "proficiencyType": 1,
             "acBonus": 4,
@@ -44,20 +158,19 @@
             "dexCap": 1,
             "checkPenalty": -2,
             "speedPenalty": -5,
-            "armorTraits": "3rd Party, Automaton"
+            "armorTraits": "3rd Party, Warforged"
         },
         {
             "databaseID": 1,
             "uniqueIdentiier": "aeb872b9-20e7-4e00-a1b1-067e55652b22",
             "name": "Nominal Integrated Armor",
-            "bulk": "L",
-            "description": "Explorer's clothing is sturdy enough that it can be reinforced to protect you, even though it isn't a suit of armor. It comes in many forms, though the most common sorts look like clerical vestments, monk's garments, or wizard's robes, as members of all three classes are likely to avoid wearing armor.",
+            "description": "Your body does not have the armour protections afforded to most other warforged. Though you are still physically wearing integrated armour, you are considered unarmored. Your integrated armour is in the leather armour group and has a Dex cap of +5. This armour has no bulk, but you can never wear other armour or remove your integrated armour; however, you still don't become fatigued from sleeping. Finally, you can etch armour runes onto your armour as normal.",
             "src": "Pathfinder's Guide to Eberron",
             "proficiencyType": 3,
             "dexCap": 5,
             "checkPenalty": 0,
             "speedPenalty": 0,
-            "armorTraits": "3rd Party, Automaton"
+            "armorTraits": "3rd Party, Warforged"
         }
     ],
     "listCustomWeapons": [
@@ -3380,7 +3493,7 @@
             ],
             "textDescription": "You have manifested a Siberys Mark. Siberys marks are extraordinarily rare, and to gain one immediately marks you as a valuable asset to your house. You gain or increase your Focus Pool by 1 and select a new dragonmark Focus Spell.<br><br>When you gain new dragonmark focus spells, you may select from any focus spell with the Dragonmark trait and the same trait as your Mark (e.g. Mark of Detection). The spell you select may be up to half your level rounded up.<br><br>You become Legendary Proficiency in Dragonmark attack rolls and DCs.",
             "traits": "Human, 3rd Party",
-            "src": "Pathfinder's Guide to Eberron ",
+            "src": "Pathfinder's Guide to Eberron",
             "databaseID": 1,
             "listCustomEffects": [
                 {
@@ -6102,6 +6215,22 @@
             "name": "Lifesense",
             "id": "e33c309c-c617-4fe2-a9f4-2aeb99d2f67c",
             "description": "While in your hybrid form, you have the ability to detect the presence of other creatures. You gain an imprecise lifesense of 15 feet which can detect any animal, beast, humanoid, or plant creature. This allows you to sense the life force within living creatures of the natural world.",
+            "traits": "3rd Party",
+            "src": "Pathfinder's Guide to Eberron",
+            "databaseID": 1
+        },
+        {
+            "name": "Living Body",
+            "id": "dcce863e-8e75-4d1c-b6dc-52e91395531a",
+            "description": "Your body is formed of both wood and steel which by the powers of the creation forge are granted life. This life energy flows through you much like the blood of humanoids. As a result, you are a living creature. You don't have the typical construct immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via positive energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin dying when reduced to 0 Hit Points.",
+            "traits": "3rd Party",
+            "src": "Pathfinder's Guide to Eberron",
+            "databaseID": 1
+        },
+        {
+            "name": "Living Construct",
+            "id": "81b92301-b537-49c5-8d53-16b90c096d6d",
+            "description": "Your physiological needs are different from those of living creatures. You don't need to eat or drink, but can if you choose to for the effects of consumable spells and magic items. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for at least 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being unconscious. Much like with sleeping, if you go too long without entering your standby state, you become fatigued and can't recover until you enter standby for 2 hours.",
             "traits": "3rd Party",
             "src": "Pathfinder's Guide to Eberron",
             "databaseID": 1
@@ -20859,34 +20988,37 @@
                 0
             ],
             "abilityFlaws": [],
-            "description": "Bugbears, for many, are monsters belonging to storybooks and nightmares. Stories speak of bugbears as great hairy beasts that lurk in the shadows - it is the bugbears that lie in the darkness undetected, waiting for the children that strayed off the beaten path or too far from their parents, or for the villagers wandering out at night away from their homes. They drag the foolish and unsuspecting to their den to be devoured alive; worse, if they cut off your head, your soul is bound to Eberron and can never reach Dolurrh. <br><br><br>These terrible and fearsome stories flowered from small seeds of truth. Most bugbears, despite their size, rely on stealth and the cover of night to surprise their enemies - expending great bursts of energy to end fights before the victim can react. However, bugbears themselves are no more likely to eat other humanoids than humans themselves. The true bugbears of the forest, unlike those expected from human folklore, tend towards peace and the flow of nature rather than violence. After the Last War, many more stories of stoic bugbear rangers or druids guiding lost troops to safety through impossible terrain have been retold by soldiers. <br><br><br>Alongside this, new stories of bugbears are being forged by Darguun, a nation that rose from the ashes of the Last War. There are also many stories yet untold of the militant bugbears belonging to the secretive Dhakaani Empire. ",
-            "languages": "Common, Goblin",
+            "description": "Bugbears, for many, are monsters belonging to storybooks and nightmares. Stories speak of bugbears as great hairy beasts that lurk in the shadows - it is the bugbears that lie in the darkness undetected, waiting for the children that strayed off the beaten path or too far from their parents, or for the villagers wandering out at night away from their homes.<br>These stealthy and strong goblinoid creatures can thrive in the mayhem of battle or move slowly with the world around them - regardless they usually conserve their great reserves of energy until needed. Standing between 6 to 8 feet tall and weighing 250 to 300lbs, bugbears outsize most humanoids that they meet. Bugbears are typically extremely muscular, able to lift and move great weights with their long limbs. They are covered in thick short yellowish fur and share the same pointed ears as their goblinoid cousins. Due to their longer limbs, weapons wielded in the hands of bugbears have a greater reach than typical. ",
+            "languages": "Common, Goblin, Additional languages equal to your Intelligence modifier (if it's positive). Choose from any other languages to which you have access (such as the languages prevalent in your region).",
             "listCustomEffects": [
                 {
                     "effectType": 13,
                     "string0": "01ffbbc0-c217-41bf-b1f4-c32f8ec983bb",
-                    "reference": "110e32bc-d3b1-486f-b630-284c8b007414"
+                    "reference": "ab5f391c-7434-4033-96a4-39618c6d9c10"
                 }
             ],
-            "src": "Pathfinder's Guide to Eberron"
+            "src": "Pathfinder's Guide to Eberron",
+            "databaseID": 1
         },
         {
             "name": "Eberron Changeling",
             "id": "82465bf8-e9bb-42e4-bd65-76550f47ea54",
-            "traits": "Eberron Changeling, Humanoid, Uncommon, 3rd Party",
+            "traits": "3rd Party, Eberron Changeling, Humanoid, Uncommon",
             "hp": 6,
             "abilityBoosts": [
                 5
             ],
             "abilityFlaws": [],
             "description": "Known under the moniker of \"The Children of Jes\", changelings are humanoid creatures with shape-changing abilities. In particular, their abilities allow them to take the form of other humanoid creatures with little limitation on who. Many use their gifts as a form of artistic expression or to convey their current emotional state, adopting certain personas depending on the context of their moods. However, it does not go unnoticed by many, including some changelings themselves, that their ability is an invaluable tool for grifters, spies, and those whose aims are to deceive. This leads many people to treat changelings with general suspicion.<br><br>Changelings are born to one of three paths. A few are raised in stable communities where changelings are true to their nature and deal openly with the people around them. Some are orphans, raised by other races, who find their way in the world without ever knowing another like themselves. Others are part of nomadic changeling clans spread across the Five Nations, families who keep their true nature hidden from the single-skins. Some clans maintain safe havens in major cities and communities, but most prefer to wander the unpredictable path of the god known as the Traveler. Wherever humans live, changelings reside also; the question is whether they make their presence known.<br><br>A persona is known as the faces and personalities each changeling chooses to adopt - based on where changelings are born their personas are likely to vary. A changeling born in an isolated community might only possess one persona that they developed, using a single face as they exist on Khorvaire, while those belonging to a community of changelings will have multiple personas and perhaps come to share them with one another, each being \"Tamirin the Traveling Seamstress\" on different days of the week.",
+            "languages": "Common, Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from any other languages to which you have access (such as the languages prevalent in your region).",
             "listCustomEffects": [
                 {
                     "effectType": 13,
                     "string0": "2b06bed8-eb03-4b8b-b3a9-43fa26ee20ad"
                 }
             ],
-            "src": "Pathfinder's Guide to Eberron"
+            "src": "Pathfinder's Guide to Eberron",
+            "databaseID": 1
         },
         {
             "name": "Kalashtar",
@@ -20898,7 +21030,7 @@
             ],
             "abilityFlaws": [],
             "description": "Kalashtar are born with a bond to an otherworldly being. They have memories of lives never lived, visions of combat with fiends that they never fought, and the sense of an endless struggle against darkness. For all the pain and suffering in the world, the Kalashtar know that there is a path to light. Some faceless enemies would hunt all the Kalashtar down and would see their bloodlines eradicated. The Kalashtar's path to light is a dangerous one, as death awaits in the shadows.<br><br>As a result of their bonds to their Quori spirit, Kalashtar experience the world differently than other creatures. Their bonded nature enables an aptitude for psionics and greater resistance against psionic attacks.",
-            "languages": "Common, Quori",
+            "languages": "Common, Quori,  Additional languages equal to your Intelligence modifier (if it's positive). Choose from Riedran, Gnomish, Dwarvish, Elvish and any other languages to which you have access (such as the languages prevalent in your region). ",
             "listCustomEffects": [
                 {
                     "proficiencyName": "06ec623d-6b71-4a2e-a96a-cab8af11751e",
@@ -20907,7 +21039,8 @@
                     "reference": "7f1f8b4a-32e2-4f82-abd6-d2d8ec67f798"
                 }
             ],
-            "src": "Pathfinder's Guide to Eberron"
+            "src": "Pathfinder's Guide to Eberron",
+            "databaseID": 1
         },
         {
             "name": "Shifter",
@@ -20921,6 +21054,7 @@
             ],
             "freeBoosts": 2,
             "description": "Shifters are a diverse ancestry that combines the traits of humanoid and beast heritage, not unlike a were-creature. At a young age, each shifter discovers their beast within, which comes to define who they are as a person. With the ability to draw on their inherent beast to temporarily shift into a more animalistic version of themselves, they are sometimes also referred to as the were-touched. While some believe shifters are the descendants of werecreatures, the opposite is true. The first werecreatures to plague Khorvaire are said to be shifters who were cursed with great evil. Shifters are unrelated to modern werecreatures and are a distinct ancestry of Eberron with unique cultures and traditions.<br><br>Despite the distinction between shifters and werecreatures, shifters were persecuted during the fifty-year crusade against werecreatures less than two centuries ago. Targeted by the crusaders who fought against the rising lycanthrope tide, many innocent shifters were killed in the crusade to eliminate the threat. Since then, most shifters across Khorvaire prefer to live in enclaves or districts of other shifters - avoiding other ancestries which may still bear them ill will.",
+            "languages": "Common<br>Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from any other languages to which you have access (such as the languages prevalent in your region).",
             "listCustomEffects": [
                 {
                     "effectType": 13,
@@ -20928,7 +21062,8 @@
                     "reference": "9e111e93-76fd-4a0e-b603-63db7ce2311e"
                 }
             ],
-            "src": "Pathfinder's Guide to Eberron"
+            "src": "Pathfinder's Guide to Eberron",
+            "databaseID": 1
         },
         {
             "name": "Warforged",
@@ -20942,7 +21077,27 @@
             ],
             "freeBoosts": 2,
             "description": "<i>Trained from the instant they were constructed, until the moment they were deployed, warforged were invented and born for war. As the war came to an end, warforged were recognized and granted their rights as humanoids by the Treaty of Thronehold. Now, they are soldiers whose only purpose has come to an end and must find meaning in a world that has abandoned them.</i><br><br>Warforged were created as expendable construct soldiers to fight in the last war. Early Cannith development of the warforged war focused on the production of warforged such as the warforged titans which were true constructs - machines of war built to destroy, kill, and die on command. With further refinements and arcane experimentation, the warforged evolved until they were a new type of creature - a living construct. This advancement in development was made possible by the creation forges but came with the side-effect of adding sentience to the new construct known only as warforged. However, with their single-minded focus and combat prowess, sentience empowered warforged with a desire to preserve themselves than Cannith's other mindless constructs exhibit - making them a more efficient soldier than simple golems.<br><br>In the wake of the Last War, the Treaty of Thronehold has granted warforged their rights and freedom from being used as bought-and-sold soldiers of nations. This newfound freedom for warforged is a double-edged sword, as many warforged struggle to find a place in a world that no longer cares for them. Some warforged have taken up new employments as laborers and artisans; many warforged have taken on employment doing what they already know and fight fiercely as a soldier. The warforged that fight on have taken roles as guards, mercenaries, adventurers, and some have found their way back into the employment of armies. Warforged in these roles make steadfast allies and fearsome enemies. They fight with a vigor that most humanoids struggle to match - but with the ability to adapt and learn that mindless constructs can not replicate.",
-            "src": "Pathfinder's Guide to Eberron"
+            "languages": "Common<br>Additional languages equal to 1 + your Intelligence modifier (if it's positive). Choose from Dwarvish, Elvish, Gnomish, Goblin, Halfling, and any other common languages to which you have access (such as the languages prevalent in your region).",
+            "listCustomEffects": [
+                {
+                    "effectType": 13,
+                    "string0": "a4cc21a4-c99a-4186-9e52-0873041b30dd"
+                },
+                {
+                    "effectType": 13,
+                    "string0": "73c8f32a-e84d-4012-ad1f-ad4dc0921768"
+                },
+                {
+                    "effectType": 13,
+                    "string0": "81b92301-b537-49c5-8d53-16b90c096d6d"
+                },
+                {
+                    "effectType": 13,
+                    "string0": "dcce863e-8e75-4d1c-b6dc-52e91395531a"
+                }
+            ],
+            "src": "Pathfinder's Guide to Eberron",
+            "databaseID": 1
         }
     ]
 }

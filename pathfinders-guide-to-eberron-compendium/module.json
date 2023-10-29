@@ -1,7 +1,7 @@
 {
   "title": "Pathfinder's Guide to Eberron",
   "description": "A set of Eberron compendiums and modifications to bring the world of Eberron to pathfinder 2e",
-  "version": "2.2.2",
+  "version": "2.3.2",
   "id": "pathfinders-guide-to-eberron-compendium",
   "url": "https://github.com/TNychka/Pathfinder2eConversion",
   "manifest": "https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/module.json",
@@ -20,14 +20,14 @@
         "id": "pf2e",
         "type": "system",
         "compatibility": {
-          "minimum": "4.6.0",
-          "verified": "5.3.1"
+          "minimum": "5.0.0",
+          "verified": "5.7.4"
         }
       }
     ]
   },
   "compatibility": {
-    "minimum": "8",
+    "minimum": "11",
     "verified": "11"
   },
   "scripts": [
@@ -180,7 +180,7 @@
   ],
   "packFolders": [
     {
-      "name": "Eberron",
+      "name": "Eberron Compendium",
       "sorting": "m",
       "folders": [],
       "packs": [
@@ -201,7 +201,6 @@
     }
   ],
   "flags": {
-    "minimumSystemVersion": "2.16",
     "pathfinders-guide-to-eberron-compendium": {
       "pf2e-homebrew": {
         "baseWeapons": {
@@ -223,6 +222,10 @@
           "aberrant-mark": {
             "label": "Aberrant Mark",
             "description": "This mark heritage is unique to the Aberrant Mark Versatile Heritage. You may only select feats, interact with items, and cast spells with this Trait if you possess the Aberrant Mark trait, in which case you ignore any other specific mark heritage traits."
+          },
+          "dragonmark": {
+            "label": "Dragonmark",
+            "description": "A creature with this trait has manifested a dragonmark."
           },
           "dragonmarked-heritage": {
             "label": "Dragonmarked Heritage",

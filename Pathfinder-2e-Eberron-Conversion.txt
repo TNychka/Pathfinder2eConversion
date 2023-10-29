@@ -1,5 +1,5 @@
 watermark (
-Version 1.6.7
+Version 2.3.0
 )
 title(
 Pathfinder's Guide to Eberron
@@ -28,6 +28,10 @@ Pathfinder's Guide to Eberron
     - Development of the pathbuilder JSON available on Github
 
 # Changelog
+**V 2.3.0 - 2023-10-29**
+- Introduces the Pathbuilder module contributed by John Cox
+- Synchronizes Foundry VTT compendium version number with Document Version Number
+
 **V 1.6.4 - 2023-04-21**
 - Typos, Errata, Clarifications
 - Bugbear Flexible Might clarifies intent
@@ -49,16 +53,6 @@ Pathfinder's Guide to Eberron
 **V 1.4 - 2023-01-07**
 - Dragonmarked Half-Elf and Half-Orc heritage clarifications. These two heritages are Human heritages - though you are still a Half-Elf or Half-orc respectively
 - Modified Kalashtar stat boost from Wisdom to Charisma to fit with the psychic class
-
-**V 1.1.1 - 2022-04-06**
-- Moved warforged stats to general rather than heritage
-- Moved shifter stats to general rather than heritage
-- Removed shapeshifter trait from changelings
-- Increased changeling starting languages
-- Errata and clarifications
-
-**V 1.0.0 - 2021-10-03**
-- Document created
 
 =
 head (
