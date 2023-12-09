@@ -13,7 +13,7 @@ It is only available for personal use, and thus will not be made available direc
 4. Copy paste the above manifest URL directly into the Manifest URL box at the bottom of the window and click install.
 
 # Pathbuilder JSON - Version 1.6.6
-The Pathbuilder JSON is available for personal use by adding the JSON from the `https://github.com/TNychka/Pathfinder2eConversion/releases/latest/download/.json`  
+The Pathbuilder JSON is available for personal use by adding the JSON from the `https://github.com/TNychka/Pathfinder2eConversion/releases/download/v2.3.0/pathfinders-guide-to-eberron.json`  
 
 # Pathfinder's Guide to Eberron  - Version 1.6.7
 
